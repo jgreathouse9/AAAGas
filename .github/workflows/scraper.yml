@@ -27,18 +27,12 @@ jobs:
       run: |
         python gas.py
 
-    - name: Commit and push gas_prices.csv to repository
+    - name: Commit and push MasterGas.csv to repository
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add Prices/*.csv  # Add all CSV files in the 'Prices' folder
-        git commit -m "Add scraped gas prices data"
+        git add Prices/MasterGas.csv  # Only commit the master file
+        git commit -m "Update MasterGas.csv with data for $(date +'%Y-%m-%d')"
         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Upload output
-      uses: actions/upload-artifact@v3
-      with:
-        name: gas-prices
-        path: gas_prices.csv
