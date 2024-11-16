@@ -31,6 +31,5 @@ jobs:
 
     - name: Run gas scraper
       env:
-        PYTHONPATH: ${{ github.workspace }}  # Add the repository root to the Python path
-      run: |
-        python gas.py
+        PYTHONPATH: ${{ github.workspace }}  # Correct use of environment variable
+      run: python gas.py
