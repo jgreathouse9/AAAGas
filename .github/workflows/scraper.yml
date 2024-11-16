@@ -33,7 +33,7 @@ jobs:
         git config --global user.email "j.greathouse200@gmail.com"
         git add gas_prices.csv
         git commit -m "Add scraped gas prices data"
-        git push
+        git push https://github.com/${{ github.repository }}.git HEAD:main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
