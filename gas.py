@@ -3,16 +3,22 @@ from datetime import datetime
 import os
 import pandas as pd
 
-# Example usage
+# The AAA URL of interest
+
 url = "https://gasprices.aaa.com/state-gas-price-averages/"
-css_selector = "#sortable"  # The CSS selector for the table
+
+# Here is the CSS selector for the table we care about.
+
+css_selector = "#sortable"
+
+# Applies the scraper function to this webpage
 gas_prices_df = scrape_gas_prices(url, css_selector)
 
-# Add a column for today's date
+# Add a column to the df for today's date
 today_date = datetime.now().strftime('%Y-%m-%d')  # Format: YYYY-MM-DD
 gas_prices_df['Date'] = today_date
 
-# Create 'Prices' folder if it doesn't exist
+# Create 'Prices' folder if it does not yet exist
 output_dir = "Prices"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
@@ -25,7 +31,7 @@ gas_prices_df.to_csv(new_file, index=False)
 master_file = "Prices/MasterGas.csv"
 
 if os.path.exists(master_file):
-    # If MasterGas.csv exists, load it and append the new data
+    # If MasterGas.csv exists, load it and append the new gas data
     master_df = pd.read_csv(master_file)
     master_df = pd.concat([master_df, gas_prices_df], ignore_index=True)
 else:
