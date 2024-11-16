@@ -31,7 +31,7 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add gas_prices_*.csv
+        git add Prices/*.csv  # Add all CSV files in the 'Prices' folder
         git commit -m "Add scraped gas prices data"
         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
       env:
