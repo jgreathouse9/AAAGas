@@ -30,6 +30,6 @@ jobs:
       run: python -c "import sys; print(sys.path)"
 
     - name: Run gas scraper
-      env:
-        PYTHONPATH: ${{ github.workspace }}  # Correct use of environment variable
       run: python gas.py
+      env:
+        PYTHONPATH: ${{ github.workspace }}  # Correctly formatted environment variable
