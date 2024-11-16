@@ -23,13 +23,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Debug: List files
-      run: ls -R
-
-    - name: Debug: Print Python Path
-      run: python -c "import sys; print(sys.path)"
-
     - name: Run gas scraper
-      run: python gas.py
-      env:
-        PYTHONPATH: ${{ github.workspace }}  # Correctly formatted environment variable
+      run: |
+        python gas.py
+
+    - name: Upload output
+      uses: actions/upload-artifact@v3
+      with:
+        name: gas-prices
+        path: gas_prices.csv
