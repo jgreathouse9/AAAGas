@@ -2,7 +2,7 @@ name: Daily Gas Price Scraper
 
 on:
   schedule:
-    - cron: '35 21 * * *'
+    - cron: '0 14 * * *'
   workflow_dispatch:  # Allows manual triggering
 
 
