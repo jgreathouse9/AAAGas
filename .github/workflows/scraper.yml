@@ -29,11 +29,11 @@ jobs:
 
     - name: Commit and push gas_prices.csv to repository
       run: |
-        git config --global user.name "Jared Greathouse"
-        git config --global user.email "j.greathouse200@gmail.com"
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add gas_prices.csv
         git commit -m "Add scraped gas prices data"
-        git push https://github.com/${{ github.repository }}.git HEAD:main
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
