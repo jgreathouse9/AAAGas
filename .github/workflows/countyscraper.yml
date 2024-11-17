@@ -2,7 +2,7 @@ name: Daily County Gas Scraper
 
 on:
   schedule:
-    - cron: '30 9 * * *'
+    - cron: '15 15 * * *'
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
