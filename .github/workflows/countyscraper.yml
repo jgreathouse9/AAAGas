@@ -29,7 +29,7 @@ jobs:
 
     - name: Pull latest changes from the repository
       run: |
-        git pull origin main  # Pull the latest changes from the remote repository
+        git pull origin main --rebase  # Pull the latest changes with rebase to avoid conflicts
 
     - name: Commit and push MasterGas.csv and plot to repository
       run: |
