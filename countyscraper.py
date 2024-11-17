@@ -1,115 +1,148 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-from datetime import datetime, timedelta
+import os
 import re
+from datetime import datetime, timedelta
+import matplotlib
+
+# Custom theme for matplotlib
+jared_theme = {
+    'axes.grid': True,
+    'grid.linestyle': '-',
+    'legend.framealpha': 1,
+    'legend.facecolor': 'white',
+    'legend.shadow': True,
+    'legend.fontsize': 14,
+    'legend.title_fontsize': 16,
+    'xtick.labelsize': 14,
+    'ytick.labelsize': 14,
+    'axes.labelsize': 16,
+    'axes.titlesize': 20,
+    'figure.dpi': 100,
+    'axes.facecolor': 'white',
+    'figure.figsize': (10, 8)
+}
+
+# Apply the theme to matplotlib
+matplotlib.rcParams.update(jared_theme)
 
 
+# Function to get state name from HTML (used for scraping)
 def get_state_name_from_html(html):
-    """
-    Scrapes the state name (e.g., "Alaska") from the HTML content.
-
-    Args:
-        html (str): The HTML content of the page.
-
-    Returns:
-        str: The state name extracted from the HTML.
-    """
     match = re.search(r"AAA\s(.*?)\sAvg", html)
     if match:
         return match.group(1)
     return None
 
 
-def scrape_stateurls():
-    """
-    Scrapes state-specific URLs from the #sortable table on the AAA gas prices page.
-
-    Returns:
-        list: A list of href URLs for state-specific gas prices.
-    """
-    url = "https://gasprices.aaa.com/state-gas-price-averages/"
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
-    }
-
-    # Fetch the HTML content
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-    # Locate the table and extract URLs
-    table = BeautifulSoup(response.text, 'html.parser').select_one("#sortable")
-    return [a['href'] for a in table.find_all('a', href=True)]
-
-
-def get_accordion_table(url):
-    """
-    Scrapes accordion table data from the given URL and returns a DataFrame.
-
-    Args:
-        url (str): The URL of the webpage to scrape.
-
-    Returns:
-        pd.DataFrame: DataFrame containing city-specific average gas prices and dates.
-    """
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
-    }
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-
-    soup = BeautifulSoup(response.text, 'html.parser')
-    html_content = str(soup)  # Convert soup object to string to apply regex
-    state_name = get_state_name_from_html(html_content)
-
-    accordion = soup.select(".accordion-prices > h3, .accordion-prices > div")
-
-    data = []
-    current_city = None
-    today = datetime.now().date()  # This will set today to the current date dynamically
-
-    # Mapping for time-based averages to actual dates
-    time_mapping = {
-        "Current Avg.": today,
-        "Yesterday Avg.": today - timedelta(days=1),
-        "Week Ago Avg.": today - timedelta(weeks=1),
-        "Month Ago Avg.": today - timedelta(days=30),
-        "Year Ago Avg.": today - timedelta(days=365)
-    }
-
-    for element in accordion:
-        if element.name == "h3":
-            current_city = element.get_text(strip=True)
-        elif element.name == "div":
-            table = element.select_one("table.table-mob tbody")
-            if table:
-                for row in table.find_all("tr"):
-                    cells = row.find_all("td")
-                    category = cells[0].get_text(strip=True)
-                    date = time_mapping.get(category, category)  # Replace category with a date if it exists in the mapping
-                    row_data = [state_name, current_city, date] + [td.get_text(strip=True) for td in cells[1:]]
-                    data.append(row_data)
-
-    # Define column names
-    columns = ["State", "City", "Date", "Regular", "Mid", "Premium", "Diesel"]
-    return pd.DataFrame(data, columns=columns)
-
-
 def get_all_state_data():
-    # Get the list of state URLs
+    """
+    Scrapes all state-level gas price data and returns it as a sorted DataFrame.
+    """
+
+    # Scraping logic to get the state URLs (same as before)
+    def scrape_stateurls():
+        url = "https://gasprices.aaa.com/state-gas-price-averages/"
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+        }
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        table = BeautifulSoup(response.text, 'html.parser').select_one("#sortable")
+        return [a['href'] for a in table.find_all('a', href=True)]
+
+    # Function to scrape accordion table for each state
+    def get_accordion_table(url):
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+        }
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, 'html.parser')
+        html_content = str(soup)
+        state_name = get_state_name_from_html(html_content)
+
+        accordion = soup.select(".accordion-prices > h3, .accordion-prices > div")
+
+        data = []
+        current_city = None
+        today = datetime.now().date()
+        time_mapping = {
+            "Current Avg.": today,
+            "Yesterday Avg.": today - timedelta(days=1),
+            "Week Ago Avg.": today - timedelta(weeks=1),
+            "Month Ago Avg.": today - timedelta(days=30),
+            "Year Ago Avg.": today - timedelta(days=365)
+        }
+
+        for element in accordion:
+            if element.name == "h3":
+                current_city = element.get_text(strip=True)
+            elif element.name == "div":
+                table = element.select_one("table.table-mob tbody")
+                if table:
+                    for row in table.find_all("tr"):
+                        cells = row.find_all("td")
+                        category = cells[0].get_text(strip=True)
+                        date = time_mapping.get(category, category)
+                        row_data = [state_name, current_city, date] + [td.get_text(strip=True) for td in cells[1:]]
+                        data.append(row_data)
+
+        columns = ["State", "City", "Date", "Regular", "Mid", "Premium", "Diesel"]
+        return pd.DataFrame(data, columns=columns)
+
+    # Get all state URLs
     state_urls = scrape_stateurls()
 
-    # Initialize an empty list to store DataFrames
+    # Loop through URLs and scrape data
     all_data = []
-
-    # Loop through the state URLs and collect the data inside the function
     for url in state_urls:
         try:
-            df = get_accordion_table(url)  # get_accordion_table now handles each URL
+            df = get_accordion_table(url)
             all_data.append(df)
         except Exception as e:
             print(f"Failed to scrape {url}: {e}")
 
-    # Concatenate all the DataFrames into a single one
-    final_df = pd.concat(all_data, ignore_index=True)
+    # Concatenate all the DataFrames and sort
+    master_df = pd.concat(all_data, ignore_index=True)
 
-    return final_df
+    # Sort the DataFrame by State, City, and Date
+    master_df = master_df.sort_values(by=['State', 'City', 'Date'])
+
+    return master_df
+
+
+# Function to plot gas prices for a specific city
+import matplotlib.pyplot as plt
+
+
+def plot_city_gas_prices(df, city, plot_path):
+    """
+    Plots the gas prices for a given city and saves the plot as a PNG file.
+    """
+    # Filter the data for the specific city
+    city_data = df[df['City'] == city]
+
+    # Plot the gas prices over time
+    plt.figure(figsize=(10, 6))
+    plt.plot(
+        city_data['Date'],
+        city_data['Regular'],
+        color='black',
+        marker='D',
+        mfc='#00f0ff',  # Marker face color
+        mec='black',  # Marker edge color
+        label=f'{city} Gas Prices'
+    )
+
+    # Customize the plot
+    plt.title(f"Gas Prices in {city} Over Time", fontsize=16)
+    plt.xlabel("Date", fontsize=14)
+    plt.ylabel("Price (USD)", fontsize=14)
+    plt.legend(fontsize=12)
+    plt.tight_layout()
+
+    # Save the plot as a PNG file
+    plt.savefig(plot_path, format='png')
+    plt.close()
