@@ -1,6 +1,8 @@
 # Purpose
 
-- This repo scrapes together data from AAA on gas prices at the Metro area and state levels, beginning on November 17, 2024.
+- This repo scrapes together data from [AAA](https://gasprices.aaa.com/) on gas prices at the metropolitan area and state levels, using Python. The scrape for the metro begins on November 17, 2024, and states began the day before.
+
+- Below is a plot of the Atlanta and Detroit prices for regular gas.
 
 
 
