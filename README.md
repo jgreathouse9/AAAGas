@@ -9,5 +9,7 @@
 ![Gas Prices](./CountyPrices/GasPrices.png)
 
 
-[![Daily Gas Price Scraper](https://github.com/jgreathouse9/AAAGas/actions/workflows/scraper.yml/badge.svg)](https://github.com/jgreathouse9/AAAGas/actions/workflows/scraper.yml)
+[![Daily State Gas Price Scraper](https://github.com/jgreathouse9/AAAGas/actions/workflows/scraper.yml/badge.svg)](https://github.com/jgreathouse9/AAAGas/actions/workflows/scraper.yml)
 
+
+[![Daily County Gas Scraper](https://github.com/jgreathouse9/AAAGas/actions/workflows/countyscraper.yml/badge.svg)](https://github.com/jgreathouse9/AAAGas/actions/workflows/countyscraper.yml)
