@@ -143,14 +143,14 @@ def plot_city_gas_prices(master_df, cities, output_file):
             city_data['Regular'],
             color=color,  # Line color
             marker=marker,  # Diamond marker
-            markersize=2,  # Adjust marker size
+            markersize=5,  # Adjust marker size
             mfc=mfc,  # Marker face color
             mec='black',  # Marker edge color (black outline)
             label=city
         )
 
     # Add title and labels
-    plt.title("Gas Prices for Selected Cities Over Time", fontsize=16)
+    plt.title("Gas Prices for Detroit and Atlanta", fontsize=16)
     plt.xlabel("Date", fontsize=14)
     plt.ylabel("Price (USD)", fontsize=14)
 
