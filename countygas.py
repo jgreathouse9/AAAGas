@@ -23,6 +23,7 @@ if os.path.exists(master_file):
     master_df = pd.concat([master_df, final_df], ignore_index=True)
 else:
     master_df = final_df
+master_df = master_df.sort_values(by=['State', 'City', 'Date'])
 
 master_df.to_csv(master_file, index=False)
 
