@@ -1,4 +1,4 @@
-name: Daily Gas Price Scraper
+name: Daily State Gas Price Scraper
 
 on:
   schedule:
