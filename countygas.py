@@ -8,7 +8,7 @@ master_df = get_all_state_data()
 output_dir = "CountyPrices"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
-
+master_df = master_df.drop_duplicates(subset=['State', 'City', 'Date'])
 master_file = os.path.join(output_dir, "MasterGas.csv")
 master_df.to_csv(master_file, index=False)
 
