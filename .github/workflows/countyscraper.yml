@@ -27,6 +27,10 @@ jobs:
       run: |
         python countygas.py
 
+    - name: Pull latest changes from the repository
+      run: |
+        git pull origin main  # Pull the latest changes from the remote repository
+
     - name: Commit and push MasterGas.csv and plot to repository
       run: |
         git config --global user.name "GitHub Actions"
