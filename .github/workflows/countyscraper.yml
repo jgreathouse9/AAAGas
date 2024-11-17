@@ -2,7 +2,7 @@ name: Daily County Gas Scraper
 
 on:
   schedule:
-    - cron: '0 17 * * *'  # 12 PM EST is 5 PM UTC
+    - cron: '0 17 * * *'  # 12 PM EST converted to 5 PM UTC
   workflow_dispatch:
 
 jobs:
@@ -23,23 +23,16 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Create CountyPrices directory
-      run: mkdir -p CountyPrices
-
     - name: Run county gas scraper
       run: |
         python countygas.py
 
-    - name: Move county CSVs to CountyPrices
-      run: |
-        mv *.csv CountyPrices/
-
-    - name: Commit and push county data to repository
+    - name: Commit and push county gas prices data
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add CountyPrices/*.csv
-        git commit -m "Update county gas prices for $(date +'%Y-%m-%d')"
+        git commit -m "Update county gas prices data for $(date +'%Y-%m-%d')"
         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
