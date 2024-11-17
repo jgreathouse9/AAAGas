@@ -4,4 +4,4 @@
 
 
 
-![Gas Prices in Atlanta](./CountyPrices/GasPrices.png)
+![Gas Prices](./CountyPrices/GasPrices.png)
