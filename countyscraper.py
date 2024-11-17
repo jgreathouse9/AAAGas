@@ -117,32 +117,50 @@ def get_all_state_data():
 import matplotlib.pyplot as plt
 
 
-def plot_city_gas_prices(df, city, plot_path):
-    """
-    Plots the gas prices for a given city and saves the plot as a PNG file.
-    """
-    # Filter the data for the specific city
-    city_data = df[df['City'] == city]
+def plot_city_gas_prices(master_df, cities, output_file):
+    # Ensure the 'Date' column is in datetime format
+    master_df['Date'] = pd.to_datetime(master_df['Date'])
 
-    # Plot the gas prices over time
+    # Set the plot size and style (optional)
     plt.figure(figsize=(10, 6))
-    plt.plot(
-        city_data['Date'],
-        city_data['Regular'],
-        color='black',
-        marker='D',
-        mfc='#00f0ff',  # Marker face color
-        mec='black',  # Marker edge color
-        label=f'{city} Gas Prices'
-    )
 
-    # Customize the plot
-    plt.title(f"Gas Prices in {city} Over Time", fontsize=16)
+    # Plot each city's gas prices with specific styling
+    for city in cities:
+        city_data = master_df[master_df['City'] == city]
+
+        # Custom styling for the lines and markers
+        if city == "Atlanta":
+            color = "#C8102E"  # Electric blue for Atlanta
+            marker = 'D'  # Diamond marker
+            mfc = '#00f0ff'  # Marker face color (sky blue)
+        elif city == "Metro Detroit":
+            color = "#0076B6"  # Dark blue for Detroit
+            marker = 'D'  # Diamond marker
+            mfc = 'black'  # Marker face color (black)
+
+        plt.plot(
+            city_data['Date'],
+            city_data['Regular'],
+            color=color,  # Line color
+            marker=marker,  # Diamond marker
+            markersize=2,  # Adjust marker size
+            mfc=mfc,  # Marker face color
+            mec='black',  # Marker edge color (black outline)
+            label=city
+        )
+
+    # Add title and labels
+    plt.title("Gas Prices for Selected Cities Over Time", fontsize=16)
     plt.xlabel("Date", fontsize=14)
     plt.ylabel("Price (USD)", fontsize=14)
-    plt.legend(fontsize=12)
+
+    # Add a legend to differentiate the cities
+    plt.legend(title="Cities", fontsize=12)
+
+    # Make the plot look nice
     plt.tight_layout()
 
-    # Save the plot as a PNG file
-    plt.savefig(plot_path, format='png')
+    # Save the plot to the output file
+    plt.savefig(output_file)
+
     plt.close()
