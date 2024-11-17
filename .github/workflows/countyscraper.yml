@@ -2,8 +2,8 @@ name: Daily County Gas Scraper
 
 on:
   schedule:
-    - cron: '15 14 * * *'  # Runs at 10:15 AM Eastern Time (converted to UTC)
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '0 10 * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'  # Adjust version if necessary
+        python-version: '3.9'
 
     - name: Install dependencies
       run: |
@@ -29,7 +29,7 @@ jobs:
 
     - name: Pull latest changes from the repository
       run: |
-        git pull origin main --rebase  # Pull the latest changes with rebase to avoid conflicts
+        git pull origin main --rebase
 
     - name: Commit and force push MasterGas.csv and plot to repository
       run: |
