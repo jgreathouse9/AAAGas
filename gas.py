@@ -38,5 +38,7 @@ else:
     # If MasterGas.csv does not exist, create it with the current day's data
     master_df = gas_prices_df
 
+master_df = master_df.sort_values(by=['State', 'Date'])
+
 # Save the updated master file
 master_df.to_csv(master_file, index=False)
