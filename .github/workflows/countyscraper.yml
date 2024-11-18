@@ -2,7 +2,7 @@ name: Daily County Gas Scraper
 
 on:
   schedule:
-    - cron: '20 19 * * *'  # Scheduled to run daily at 19:45 UTC
+    - cron: '20 20 * * *'  # Scheduled to run daily at 19:45 UTC
   workflow_dispatch:  # Allow manual triggering
 
 jobs:
