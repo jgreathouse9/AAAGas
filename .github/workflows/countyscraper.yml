@@ -2,8 +2,8 @@ name: Daily County Gas Scraper
 
 on:
   schedule:
-    - cron: '48 19 * * *'
-  workflow_dispatch:
+    - cron: '45 19 * * *'  # Scheduled to run daily at 19:45 UTC
+  workflow_dispatch:  # Allow manual triggering
 
 jobs:
   scrape:
@@ -31,9 +31,12 @@ jobs:
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add CountyPrices/MasterGas.csv  # Commit only the MasterGas.csv
-        git add CountyPrices/GasPrices.png  # Commit the plot file
-        git commit -m "Update county gas prices data for $(date +'%Y-%m-%d')"
-        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+        git add CountyPrices/MasterGas.csv CountyPrices/GasPrices.png
+        if git diff-index --quiet HEAD --; then
+          echo "No changes to commit."
+        else
+          git commit -m "Update county gas prices data for $(date +'%Y-%m-%d')"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
