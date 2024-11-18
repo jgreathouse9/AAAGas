@@ -5,6 +5,8 @@ import os
 import re
 from datetime import datetime, timedelta
 import matplotlib
+from dateutil.relativedelta import relativedelta
+
 
 # Custom theme for matplotlib
 jared_theme = {
@@ -73,7 +75,7 @@ def get_all_state_data():
             "Yesterday Avg.": today - timedelta(days=1),
             "Week Ago Avg.": today - timedelta(weeks=1),
             "Month Ago Avg.": today - timedelta(days=30),
-            "Year Ago Avg.": today - timedelta(days=365)
+            "Year Ago Avg.": today - relativedelta(years=1)
         }
 
         for element in accordion:
