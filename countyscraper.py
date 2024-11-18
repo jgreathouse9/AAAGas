@@ -74,7 +74,7 @@ def get_all_state_data():
             "Current Avg.": today,
             "Yesterday Avg.": today - timedelta(days=1),
             "Week Ago Avg.": today - timedelta(weeks=1),
-            "Month Ago Avg.": today - timedelta(days=30),
+            "Month Ago Avg.": today - relativedelta(months=1),
             "Year Ago Avg.": today - relativedelta(years=1)
         }
 
