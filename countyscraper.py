@@ -109,6 +109,13 @@ def get_all_state_data():
     # Concatenate all the DataFrames and sort
     master_df = pd.concat(all_data, ignore_index=True)
 
+    # Remove duplicate rows based on 'State', 'City', and 'Date' columns
+    master_df = master_df.drop_duplicates(subset=['State', 'City', 'Date'], keep='first')
+
+    # Optionally, reset the index after removing duplicates
+    master_df = master_df.reset_index(drop=True)
+
+
     # Sort the DataFrame by State, City, and Date
     master_df = master_df.sort_values(by=['State', 'City', 'Date'])
 
