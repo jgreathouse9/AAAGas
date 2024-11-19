@@ -1,7 +1,7 @@
 from countyscraper import get_all_state_data, plot_city_gas_prices, update_master_file
 import os
 import pandas as pd
-
+import matplotlib.pyplot as plt
 # Get all county-level gas price data (already sorted)
 master_df = get_all_state_data()
 
