@@ -45,7 +45,7 @@ def update_master_file(new_data: pd.DataFrame, file_path: str) -> pd.DataFrame:
         # Load existing data
         existing_data = pd.read_csv(file_path)
         # Concatenate and remove duplicates
-        updated_data = pd.concat([existing_data, new_data], ignore_index=True).drop_duplicates()
+        updated_data = pd.concat([existing_data, new_data], ignore_index=True).drop_duplicates(subset=["State", "City", "Date"])
     else:
         # No existing file, just use the new data
         updated_data = new_data
