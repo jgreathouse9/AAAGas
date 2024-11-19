@@ -9,6 +9,7 @@ on:
 jobs:
   historical_scrape:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.job == 'historical_scrape' }}  # Only run if triggered for historical or on schedule
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -51,6 +52,7 @@ jobs:
 
   live_scrape:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'workflow_dispatch' || github.event.inputs.job == 'live_scrape' }}  # Only run if triggered for live or on schedule
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -81,3 +83,4 @@ jobs:
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
