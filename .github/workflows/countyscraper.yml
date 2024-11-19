@@ -3,7 +3,7 @@ name: Gas Scraper Jobs
 on:
   schedule:
     - cron: '45 9 * * *'  # Scheduled to run daily at 19:45 UTC for the live scraper
-    - cron: '30 10 * * *'  # Scheduled to run daily at 10:30 UTC for historical scraper
+    - cron: '35 18 * * *'  # Scheduled to run daily at 10:30 UTC for historical scraper
   workflow_dispatch:  # Allow manual triggering for both jobs
 
 jobs:
