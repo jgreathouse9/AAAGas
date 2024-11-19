@@ -30,6 +30,30 @@ jared_theme = {
 matplotlib.rcParams.update(jared_theme)
 
 
+def update_master_file(new_data: pd.DataFrame, file_path: str) -> pd.DataFrame:
+    """
+    Concatenate new data with existing data in the specified file.
+
+    Parameters:
+    - new_data (pd.DataFrame): The newly scraped data.
+    - file_path (str): Path to the master CSV file.
+
+    Returns:
+    - pd.DataFrame: The updated master DataFrame.
+    """
+    if os.path.exists(file_path):
+        # Load existing data
+        existing_data = pd.read_csv(file_path)
+        # Concatenate and remove duplicates
+        updated_data = pd.concat([existing_data, new_data], ignore_index=True).drop_duplicates()
+    else:
+        # No existing file, just use the new data
+        updated_data = new_data
+    
+    # Save the updated data back to the file
+    updated_data.to_csv(file_path, index=False)
+    return updated_data
+
 # Function to get state name from HTML (used for scraping)
 def get_state_name_from_html(html):
     match = re.search(r"AAA\s(.*?)\sAvg", html)
