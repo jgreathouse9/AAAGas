@@ -44,8 +44,14 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
+          # Stash any unstaged changes
+          git stash --include-untracked
+          
           # Pull the latest changes from the remote repository
           git pull --rebase https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+          
+          # Apply stashed changes back (if any)
+          git stash pop || echo "No stashed changes to apply."
           
           # Force add the historical gas data file to ensure it's staged
           git add -f CountyPrices/HistoricalGasData.csv
@@ -85,8 +91,14 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
+          # Stash any unstaged changes
+          git stash --include-untracked
+          
           # Pull the latest changes from the remote repository
           git pull --rebase https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git main
+          
+          # Apply stashed changes back (if any)
+          git stash pop || echo "No stashed changes to apply."
           
           # Add files to git staging
           git add CountyPrices/MasterGas.csv CountyPrices/GasPrices.png
