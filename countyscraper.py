@@ -1,11 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+from datetime import datetime, timedelta
+from dateutil.relativedelta import relativedelta
 import os
 import re
-from datetime import datetime, timedelta
+import matplotlib.pyplot as plt
 import matplotlib
-from dateutil.relativedelta import relativedelta
 
 # Custom theme for matplotlib
 jared_theme = {
@@ -29,174 +30,102 @@ jared_theme = {
 matplotlib.rcParams.update(jared_theme)
 
 
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+}
+
+TIME_MAPPING = {
+    "Current Avg.": datetime.now().date(),
+    "Yesterday Avg.": datetime.now().date() - timedelta(days=1),
+    "Week Ago Avg.": datetime.now().date() - timedelta(weeks=1),
+    "Month Ago Avg.": datetime.now().date() - relativedelta(months=1),
+    "Year Ago Avg.": datetime.now().date() - relativedelta(years=1),
+}
+
+def deduplicate_and_sort(df: pd.DataFrame) -> pd.DataFrame:
+    df = df.drop_duplicates(subset=["State", "City", "Date"])
+    df["Date"] = pd.to_datetime(df["Date"])
+    return df.sort_values(by=["State", "City", "Date"], ascending=[True, True, True])
+
 def update_master_file(new_data: pd.DataFrame, file_path: str) -> pd.DataFrame:
-    """
-    Concatenate new data with existing data in the specified file,
-    and remove duplicates based on 'State', 'City', and 'Date'.
-
-    Parameters:
-    - new_data (pd.DataFrame): The newly scraped data.
-    - file_path (str): Path to the master CSV file.
-
-    Returns:
-    - pd.DataFrame: The updated master DataFrame.
-    """
-    if os.path.exists(file_path):
-        # Load existing data
+    try:
         existing_data = pd.read_csv(file_path)
-        # Concatenate data
         combined_data = pd.concat([existing_data, new_data], ignore_index=True)
-    else:
-        # No existing file, just use the new data
+    except FileNotFoundError:
         combined_data = new_data
+    return deduplicate_and_sort(combined_data)
 
-    # Remove duplicates based on 'State', 'City', and 'Date'
-    deduplicated_data = combined_data.drop_duplicates(subset=["State", "City", "Date"])
-    deduplicated_data["Date"] = pd.to_datetime(deduplicated_data["Date"])
-    deduplicated_data = deduplicated_data.sort_values(by=["State", "City", "Date"], ascending=[True, True, True])
+def scrape_state_urls() -> list:
+    url = "https://gasprices.aaa.com/state-gas-price-averages/"
+    response = requests.get(url, headers=HEADERS)
+    response.raise_for_status()
+    table = BeautifulSoup(response.text, "html.parser").select_one("#sortable")
+    return [a["href"] for a in table.find_all("a", href=True)]
 
-    return deduplicated_data
-
-
-# Function to get state name from HTML (used for scraping)
-def get_state_name_from_html(html):
+def get_state_name_from_html(html: str) -> str:
     match = re.search(r"AAA\s(.*?)\sAvg", html)
-    if match:
-        return match.group(1)
-    return None
+    return match.group(1) if match else None
+
+def parse_accordion_table(soup: BeautifulSoup, state_name: str) -> pd.DataFrame:
+    accordion = soup.select(".accordion-prices > h3, .accordion-prices > div")
+    data, current_city = [], None
+
+    for element in accordion:
+        if element.name == "h3":
+            current_city = element.get_text(strip=True)
+        elif element.name == "div":
+            table = element.select_one("table.table-mob tbody")
+            if table:
+                for row in table.find_all("tr"):
+                    cells = row.find_all("td")
+                    category = cells[0].get_text(strip=True)
+                    date = TIME_MAPPING.get(category, category)
+                    row_data = [state_name, current_city, date] + [td.get_text(strip=True) for td in cells[1:]]
+                    data.append(row_data)
+    return pd.DataFrame(data, columns=["State", "City", "Date", "Regular", "Mid", "Premium", "Diesel"])
+
+def get_accordion_table(url: str) -> pd.DataFrame:
+    response = requests.get(url, headers=HEADERS)
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "html.parser")
+    state_name = get_state_name_from_html(str(soup))
+    return parse_accordion_table(soup, state_name)
+
+def get_all_state_data() -> pd.DataFrame:
+    state_urls = scrape_state_urls()
+    all_data = [get_accordion_table(url) for url in state_urls if url]
+    return deduplicate_and_sort(pd.concat(all_data, ignore_index=True))
 
 
-def get_all_state_data():
-    """
-    Scrapes all state-level gas price data and returns it as a sorted DataFrame.
-    """
+def plot_city_gas_prices(master_df: pd.DataFrame, cities: list, output_file: str):
+    master_df["Date"] = pd.to_datetime(master_df["Date"])
 
-    # Scraping logic to get the state URLs (same as before)
-    def scrape_stateurls():
-        url = "https://gasprices.aaa.com/state-gas-price-averages/"
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
-        }
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-        table = BeautifulSoup(response.text, 'html.parser').select_one("#sortable")
-        return [a['href'] for a in table.find_all('a', href=True)]
+    city_styles = {
+        "Atlanta": {"color": "#C8102E", "marker": "D", "mfc": "#00f0ff"},
+        "Metro Detroit": {"color": "#0076B6", "marker": "D", "mfc": "black"},
+    }
 
-    # Function to scrape accordion table for each state
-    def get_accordion_table(url):
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
-        }
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
-        html_content = str(soup)
-        state_name = get_state_name_from_html(html_content)
-
-        accordion = soup.select(".accordion-prices > h3, .accordion-prices > div")
-
-        data = []
-        current_city = None
-        today = datetime.now().date()
-        time_mapping = {
-            "Current Avg.": today,
-            "Yesterday Avg.": today - timedelta(days=1),
-            "Week Ago Avg.": today - timedelta(weeks=1),
-            "Month Ago Avg.": today - relativedelta(months=1),
-            "Year Ago Avg.": today - relativedelta(years=1)
-        }
-
-        for element in accordion:
-            if element.name == "h3":
-                current_city = element.get_text(strip=True)
-            elif element.name == "div":
-                table = element.select_one("table.table-mob tbody")
-                if table:
-                    for row in table.find_all("tr"):
-                        cells = row.find_all("td")
-                        category = cells[0].get_text(strip=True)
-                        date = time_mapping.get(category, category)
-                        row_data = [state_name, current_city, date] + [td.get_text(strip=True) for td in cells[1:]]
-                        data.append(row_data)
-
-        columns = ["State", "City", "Date", "Regular", "Mid", "Premium", "Diesel"]
-        return pd.DataFrame(data, columns=columns)
-
-    # Get all state URLs
-    state_urls = scrape_stateurls()
-
-    # Loop through URLs and scrape data
-    all_data = []
-    for url in state_urls:
-        try:
-            df = get_accordion_table(url)
-            all_data.append(df)
-        except Exception as e:
-            print(f"Failed to scrape {url}: {e}")
-
-    # Concatenate all the DataFrames and sort
-    master_df = pd.concat(all_data, ignore_index=True)
-
-    # Remove duplicate rows based on 'State', 'City', and 'Date' columns
-    master_df = master_df.drop_duplicates(subset=['State', 'City', 'Date'], keep='first')
-
-    # Optionally, reset the index after removing duplicates
-    master_df = master_df.reset_index(drop=True)
-
-    # Sort the DataFrame by State, City, and Date
-    master_df = master_df.sort_values(by=['State', 'City', 'Date'])
-
-    return master_df
-
-
-# Function to plot gas prices for a specific city
-import matplotlib.pyplot as plt
-
-
-def plot_city_gas_prices(master_df, cities, output_file):
-    # Ensure the 'Date' column is in datetime format
-    master_df['Date'] = pd.to_datetime(master_df['Date'])
-
-    # Set the plot size and style (optional)
     plt.figure(figsize=(10, 6))
 
-    # Plot each city's gas prices with specific styling
-    for city in cities:
-        city_data = master_df[master_df['City'] == city]
+    for city, style in city_styles.items():
+        if city in cities:
+            city_data = master_df[master_df["City"] == city]
+            plt.plot(
+                city_data["Date"],
+                city_data["Regular"],
+                label=city,
+                color=style["color"],
+                marker=style["marker"],
+                markersize=5,
+                mfc=style["mfc"],
+                mec="black",
+            )
 
-        # Custom styling for the lines and markers
-        if city == "Atlanta":
-            color = "#C8102E"  # Electric blue for Atlanta
-            marker = 'D'  # Diamond marker
-            mfc = '#00f0ff'  # Marker face color (sky blue)
-        elif city == "Metro Detroit":
-            color = "#0076B6"  # Dark blue for Detroit
-            marker = 'D'  # Diamond marker
-            mfc = 'black'  # Marker face color (black)
-
-        plt.plot(
-            city_data['Date'],
-            city_data['Regular'],
-            color=color,  # Line color
-            marker=marker,  # Diamond marker
-            markersize=5,  # Adjust marker size
-            mfc=mfc,  # Marker face color
-            mec='black',  # Marker edge color (black outline)
-            label=city
-        )
-
-    # Add title and labels
-    plt.title("Gas Prices for Detroit and Atlanta", fontsize=16)
+    plt.title("Gas Prices for Selected Cities", fontsize=16)
     plt.xlabel("Date", fontsize=14)
     plt.ylabel("Price (USD)", fontsize=14)
-
-    # Add a legend to differentiate the cities
     plt.legend(title="Cities", fontsize=12)
-
-    # Make the plot look nice
     plt.tight_layout()
-
-    # Save the plot to the output file
     plt.savefig(output_file)
-
     plt.close()
