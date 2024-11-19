@@ -16,7 +16,6 @@ master_df = update_master_file(master_df, master_file)
 # Plot gas prices for specified cities
 cities_to_plot = ["Atlanta", "Metro Detroit"]
 plot_file = os.path.join(output_dir, "GasPrices.png")
-plot_city_gas_prices(master_df, cities_to_plot, plot_file)
 
 # Save the master file
 master_df.to_csv(master_file, index=False)
@@ -28,6 +27,7 @@ output_file = os.path.join(output_dir, "FullCityGas.csv")
 if os.path.exists(historical_file):
     historical_df = pd.read_csv(historical_file)
     combined_df = pd.concat([historical_df, master_df]).drop_duplicates().reset_index(drop=True)
+    plot_city_gas_prices(combined_df, cities_to_plot, plot_file)
     combined_df.to_csv(output_file, index=False)
     print(f"Combined dataset saved to: {output_file}")
 else:
