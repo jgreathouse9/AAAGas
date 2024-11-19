@@ -29,8 +29,6 @@ jared_theme = {
 # Apply the theme to matplotlib
 matplotlib.rcParams.update(jared_theme)
 
-
-
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
 }
@@ -45,8 +43,9 @@ TIME_MAPPING = {
 
 def deduplicate_and_sort(df: pd.DataFrame) -> pd.DataFrame:
     df = df.drop_duplicates(subset=["State", "City", "Date"])
-    df["Date"] = pd.to_datetime(df["Date"])
-    return df.sort_values(by=["State", "City", "Date"], ascending=[True, True, True])
+    df.loc[:, "Date"] = pd.to_datetime(df["Date"])
+    return df.sort_values(by=["Date", "State", "City"], ascending=[True, True, True])
+
 
 def update_master_file(new_data: pd.DataFrame, file_path: str) -> pd.DataFrame:
     """
@@ -56,27 +55,18 @@ def update_master_file(new_data: pd.DataFrame, file_path: str) -> pd.DataFrame:
     if os.path.exists(file_path):
         # Load existing data
         existing_data = pd.read_csv(file_path)
-        
+
         # Ensure datetime columns are parsed correctly
         existing_data["Date"] = pd.to_datetime(existing_data["Date"])
     else:
         # If no existing file, just use the new data
         existing_data = pd.DataFrame()
 
-    # Deduplicate new data based on 'State', 'City', and 'Date' before merging
-    new_data["Date"] = pd.to_datetime(new_data["Date"])  # Ensure the 'Date' column is in datetime format
-    new_data = new_data.drop_duplicates(subset=["State", "City", "Date"])
-
     # Concatenate new data with existing data
     combined_data = pd.concat([existing_data, new_data], ignore_index=True)
 
-    # Remove duplicates based on 'State', 'City', and 'Date' from the combined data
-    deduplicated_data = combined_data.drop_duplicates(subset=["State", "City", "Date"])
-
-    # Sort the DataFrame by 'State', 'City', and 'Date'
-    deduplicated_data = deduplicated_data.sort_values(by=["State", "City", "Date"], ascending=[True, True, True])
-
-    return deduplicated_data
+    # Deduplicate and sort the data
+    return deduplicate_and_sort(combined_data)
 
 
 def scrape_state_urls() -> list:
@@ -86,9 +76,11 @@ def scrape_state_urls() -> list:
     table = BeautifulSoup(response.text, "html.parser").select_one("#sortable")
     return [a["href"] for a in table.find_all("a", href=True)]
 
+
 def get_state_name_from_html(html: str) -> str:
     match = re.search(r"AAA\s(.*?)\sAvg", html)
     return match.group(1) if match else None
+
 
 def parse_accordion_table(soup: BeautifulSoup, state_name: str) -> pd.DataFrame:
     accordion = soup.select(".accordion-prices > h3, .accordion-prices > div")
@@ -104,9 +96,19 @@ def parse_accordion_table(soup: BeautifulSoup, state_name: str) -> pd.DataFrame:
                     cells = row.find_all("td")
                     category = cells[0].get_text(strip=True)
                     date = TIME_MAPPING.get(category, category)
-                    row_data = [state_name, current_city, date] + [td.get_text(strip=True) for td in cells[1:]]
+
+                    # Append raw row data
+                    row_data = [state_name, current_city, date] + [
+                        cells[i].get_text(strip=True) if i < len(cells) else None
+                        for i in range(1, 5)
+                    ]
                     data.append(row_data)
-    return pd.DataFrame(data, columns=["State", "City", "Date", "Regular", "Mid", "Premium", "Diesel"])
+
+    # Create DataFrame
+    df = pd.DataFrame(data, columns=["State", "City", "Date", "Regular", "Mid", "Premium", "Diesel"])
+
+    return df
+
 
 def get_accordion_table(url: str) -> pd.DataFrame:
     response = requests.get(url, headers=HEADERS)
@@ -115,10 +117,24 @@ def get_accordion_table(url: str) -> pd.DataFrame:
     state_name = get_state_name_from_html(str(soup))
     return parse_accordion_table(soup, state_name)
 
+
+def remove_dollar_signs(df):
+    # Identify the last four columns
+    last_four_cols = df.columns[-4:]
+
+    # Remove dollar signs and convert to numeric
+    df[last_four_cols] = df[last_four_cols].replace({r'\$': ''}, regex=True).apply(pd.to_numeric)
+
+    return df
+
+
 def get_all_state_data() -> pd.DataFrame:
     state_urls = scrape_state_urls()
     all_data = [get_accordion_table(url) for url in state_urls if url]
-    return deduplicate_and_sort(pd.concat(all_data, ignore_index=True))
+    combined_df = deduplicate_and_sort(pd.concat(all_data, ignore_index=True))
+
+    # Remove dollar signs from the price columns
+    return remove_dollar_signs(combined_df)
 
 
 def plot_city_gas_prices(master_df: pd.DataFrame, cities: list, output_file: str):
