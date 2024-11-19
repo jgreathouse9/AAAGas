@@ -25,4 +25,5 @@ os.makedirs(output_dir, exist_ok=True)
 
 # Export the MasterGas.csv file
 output_file = os.path.join(output_dir, "MasterGas.csv")
+master_df = master_df.drop_duplicates(subset=["State", "City", "Date"], keep="first")
 master_df.to_csv(output_file, index=False)
