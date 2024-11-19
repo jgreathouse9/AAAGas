@@ -1,52 +1,14 @@
-name: Gas Scraper Jobs
+name: Gas Data Scraper
 
 on:
   schedule:
-    - cron: '45 9 * * *'  # Scheduled to run daily at 19:45 UTC for the live scraper
-    - cron: '45 17 * * *'
-  workflow_dispatch:  # Allow manual triggering for both jobs
+    - cron: '0 0 * * *'  # Midnight UTC for historical data
+    - cron: '40 9 * * *'  # 4:40 AM UTC for live data
+  workflow_dispatch:  # Allow manual triggering
 
 jobs:
-  scrape-daily:
-    name: Daily County Gas Scraper
+  historical_scrape:
     runs-on: ubuntu-latest
-
-    steps:
-      - name: Check out repository
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.9'
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Run county gas scraper
-        run: |
-          python countygas.py
-
-      - name: Commit and push MasterGas.csv and plot to repository
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add CountyPrices/MasterGas.csv CountyPrices/GasPrices.png
-          if git diff-index --quiet HEAD --; then
-            echo "No changes to commit."
-          else
-            git commit -m "Update county gas prices data for $(date +'%Y-%m-%d')"
-            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  scrape-historical:
-    name: Historical Gas Data Scraper
-    runs-on: ubuntu-latest
-
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -65,16 +27,57 @@ jobs:
         run: |
           python gashistorical.py
 
-      - name: Commit and push historical data to repository
+      - name: Commit and push HistoricalGasData.csv to repository
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add CountyPrices/HistoricalGasData.csv
+          
+          # Check if the historical gas data file exists
+          if [ -f "CountyPrices/HistoricalGasData.csv" ]; then
+            git add CountyPrices/HistoricalGasData.csv
+          else
+            echo "No historical gas data file to commit."
+          fi
+          
+          # Check if there are any changes to commit
           if git diff-index --quiet HEAD --; then
             echo "No changes to commit."
           else
-            git commit -m "Update historical gas prices data for $(date +'%Y-%m-%d')"
+            git commit -m "Update historical gas data"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
           fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  live_scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run live gas scraper
+        run: |
+          python countygas.py
+
+      - name: Commit and push MasterGas.csv and plot to repository
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add CountyPrices/MasterGas.csv CountyPrices/GasPrices.png
+          if git diff-index --quiet HEAD --; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update county gas prices data for $(date +'%Y-%m-%d')"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
