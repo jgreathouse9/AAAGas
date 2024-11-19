@@ -27,17 +27,25 @@ jobs:
         run: |
           python gashistorical.py
 
+      - name: Verify HistoricalGasData.csv exists
+        run: |
+          if [ ! -f "CountyPrices/HistoricalGasData.csv" ]; then
+            echo "HistoricalGasData.csv file not found!"
+            exit 1
+          fi
+
+      - name: List files in CountyPrices
+        run: |
+          echo "Listing files in CountyPrices directory:"
+          ls -l CountyPrices
+
       - name: Commit and push HistoricalGasData.csv to repository
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Check if the historical gas data file exists
-          if [ -f "CountyPrices/HistoricalGasData.csv" ]; then
-            git add CountyPrices/HistoricalGasData.csv
-          else
-            echo "No historical gas data file to commit."
-          fi
+          # Force add the historical gas data file to ensure it's staged
+          git add -f CountyPrices/HistoricalGasData.csv
           
           # Check if there are any changes to commit
           if ! git diff-index --quiet HEAD --; then
