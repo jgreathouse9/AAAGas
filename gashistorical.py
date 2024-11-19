@@ -68,4 +68,4 @@ end_date = "2024-04-16"
 
 combined_df = fetch_and_combine_gas_prices(start_date, end_date)
 # Save to a CSV if needed
-combined_df.to_csv("CombinedGasPrices.csv", index=False)
+combined_df.to_csv("HistoricalGasData.csv", index=False)
