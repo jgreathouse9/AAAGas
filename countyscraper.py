@@ -29,6 +29,29 @@ jared_theme = {
 # Apply the theme to matplotlib
 matplotlib.rcParams.update(jared_theme)
 
+def extract_row_data(row, state_name, current_city, time_mapping):
+    """
+    Extract and process data from a table row for gas price categories.
+
+    Parameters:
+    - row: The row element from the table.
+    - state_name: The state name for the current row.
+    - current_city: The city name for the current row.
+    - time_mapping: A dictionary to map the category names to dates.
+
+    Returns:
+    - row_data: A list containing the processed data for the row.
+    """
+    cells = row.find_all("td")
+    category = cells[0].get_text(strip=True)
+    date = time_mapping.get(category, category)  # Get mapped date or use category as fallback
+
+    # Create a list of row data (state, city, date, followed by other cell values)
+    row_data = [state_name, current_city, date] + [td.get_text(strip=True) for td in cells[1:]]
+    
+    return row_data
+
+
 
 
 HEADERS = {
@@ -101,12 +124,9 @@ def parse_accordion_table(soup: BeautifulSoup, state_name: str) -> pd.DataFrame:
             table = element.select_one("table.table-mob tbody")
             if table:
                 for row in table.find_all("tr"):
-                    cells = row.find_all("td")
-                    category = cells[0].get_text(strip=True)
-                    date = TIME_MAPPING.get(category, category)
-                    row_data = [state_name, current_city, date] + [td.get_text(strip=True) for td in cells[1:]]
+                    row_data = extract_row_data(row, state_name, current_city, time_mapping)
                     data.append(row_data)
-    return pd.DataFrame(data, columns=["State", "City", "Date", "Regular", "Mid", "Premium", "Diesel"])
+                    return pd.DataFrame(data, columns=["State", "City", "Date", "Regular", "Mid", "Premium", "Diesel"])
 
 def get_accordion_table(url: str) -> pd.DataFrame:
     response = requests.get(url, headers=HEADERS)
