@@ -1,9 +1,10 @@
+import os
 import pandas as pd
 from datetime import datetime, timedelta
 
 def fetch_and_combine_gas_prices(start_date: str, end_date: str) -> pd.DataFrame:
     """
-    Fetches daily gas price data from the specified date range, cleans and combines the data.
+    Fetches daily gas price data from the specified date range, cleans, and combines the data.
 
     Parameters:
     - start_date (str): Start date in 'YYYY-MM-DD' format.
@@ -62,10 +63,18 @@ def fetch_and_combine_gas_prices(start_date: str, end_date: str) -> pd.DataFrame
         return pd.DataFrame(columns=["City", "State", "Date", "Regular", "Mid", "Premium", "Diesel"])
 
 
+# Ensure the CountyPrices directory exists
+output_dir = "CountyPrices"
+os.makedirs(output_dir, exist_ok=True)
+
 # Example usage
 start_date = "2021-10-01"
 end_date = "2024-04-16"
 
+# Fetch and combine the gas price data
 combined_df = fetch_and_combine_gas_prices(start_date, end_date)
-# Save to a CSV if needed
-combined_df.to_csv("HistoricalGasData.csv", index=False)
+
+# Save to the CountyPrices directory
+output_file = os.path.join(output_dir, "HistoricalGasData.csv")
+combined_df.to_csv(output_file, index=False)
+print(f"Historical gas data saved to: {os.path.abspath(output_file)}")
