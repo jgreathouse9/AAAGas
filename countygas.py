@@ -10,16 +10,9 @@ output_dir = "CountyPrices"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
-# Path to the master CSV file
+# Update the master file
 master_file = os.path.join(output_dir, "MasterGas.csv")
-
-# If the file exists, load and concatenate with the new data
-if os.path.exists(master_file):
-    existing_df = pd.read_csv(master_file)
-    master_df = pd.concat([existing_df, master_df], ignore_index=True)
-
-# Save the updated master DataFrame
-master_df.to_csv(master_file, index=False)
+master_df = update_master_file(master_df, master_file)
 
 # Plot gas prices for specified cities
 cities_to_plot = ["Atlanta", "Metro Detroit"]
