@@ -1,4 +1,4 @@
-from countyscraper import get_all_state_data, plot_city_gas_prices
+from countyscraper import get_all_state_data, plot_city_gas_prices, update_master_file
 import os
 import pandas as pd
 
