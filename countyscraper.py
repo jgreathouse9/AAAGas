@@ -145,7 +145,7 @@ def plot_city_gas_prices(master_df: pd.DataFrame, cities: list, output_file: str
                 mec="black",
             )
 
-    plt.title("Gas Prices for Selected Cities", fontsize=16)
+    plt.title("Gas Prices for Detroit and Atlanta", fontsize=16)
     plt.xlabel("Date", fontsize=14)
     plt.ylabel("Price (USD)", fontsize=14)
     plt.legend(title="Cities", fontsize=12)
