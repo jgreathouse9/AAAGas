@@ -49,12 +49,35 @@ def deduplicate_and_sort(df: pd.DataFrame) -> pd.DataFrame:
     return df.sort_values(by=["State", "City", "Date"], ascending=[True, True, True])
 
 def update_master_file(new_data: pd.DataFrame, file_path: str) -> pd.DataFrame:
-    try:
+    """
+    Concatenate new data with existing data in the specified file,
+    and remove duplicates based on 'State', 'City', and 'Date'.
+    """
+    if os.path.exists(file_path):
+        # Load existing data
         existing_data = pd.read_csv(file_path)
-        combined_data = pd.concat([existing_data, new_data], ignore_index=True)
-    except FileNotFoundError:
-        combined_data = new_data
-    return deduplicate_and_sort(combined_data)
+        
+        # Ensure datetime columns are parsed correctly
+        existing_data["Date"] = pd.to_datetime(existing_data["Date"])
+    else:
+        # If no existing file, just use the new data
+        existing_data = pd.DataFrame()
+
+    # Deduplicate new data based on 'State', 'City', and 'Date' before merging
+    new_data["Date"] = pd.to_datetime(new_data["Date"])  # Ensure the 'Date' column is in datetime format
+    new_data = new_data.drop_duplicates(subset=["State", "City", "Date"])
+
+    # Concatenate new data with existing data
+    combined_data = pd.concat([existing_data, new_data], ignore_index=True)
+
+    # Remove duplicates based on 'State', 'City', and 'Date' from the combined data
+    deduplicated_data = combined_data.drop_duplicates(subset=["State", "City", "Date"])
+
+    # Sort the DataFrame by 'State', 'City', and 'Date'
+    deduplicated_data = deduplicated_data.sort_values(by=["State", "City", "Date"], ascending=[True, True, True])
+
+    return deduplicated_data
+
 
 def scrape_state_urls() -> list:
     url = "https://gasprices.aaa.com/state-gas-price-averages/"
