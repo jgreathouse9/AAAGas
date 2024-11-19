@@ -7,7 +7,6 @@ from datetime import datetime, timedelta
 import matplotlib
 from dateutil.relativedelta import relativedelta
 
-
 # Custom theme for matplotlib
 jared_theme = {
     'axes.grid': True,
@@ -32,7 +31,8 @@ matplotlib.rcParams.update(jared_theme)
 
 def update_master_file(new_data: pd.DataFrame, file_path: str) -> pd.DataFrame:
     """
-    Concatenate new data with existing data in the specified file.
+    Concatenate new data with existing data in the specified file,
+    and remove duplicates based on 'State', 'City', and 'Date'.
 
     Parameters:
     - new_data (pd.DataFrame): The newly scraped data.
@@ -44,15 +44,19 @@ def update_master_file(new_data: pd.DataFrame, file_path: str) -> pd.DataFrame:
     if os.path.exists(file_path):
         # Load existing data
         existing_data = pd.read_csv(file_path)
-        # Concatenate and remove duplicates
-        updated_data = pd.concat([existing_data, new_data], ignore_index=True).drop_duplicates(subset=["State", "City", "Date"])
+        # Concatenate data
+        combined_data = pd.concat([existing_data, new_data], ignore_index=True)
     else:
         # No existing file, just use the new data
-        updated_data = new_data
-    
-    # Save the updated data back to the file
-    updated_data.to_csv(file_path, index=False)
-    return updated_data
+        combined_data = new_data
+
+    # Remove duplicates based on 'State', 'City', and 'Date'
+    deduplicated_data = combined_data.drop_duplicates(subset=["State", "City", "Date"])
+    deduplicated_data["Date"] = pd.to_datetime(deduplicated_data["Date"])
+    deduplicated_data = deduplicated_data.sort_values(by=["State", "City", "Date"], ascending=[True, True, True])
+
+    return deduplicated_data
+
 
 # Function to get state name from HTML (used for scraping)
 def get_state_name_from_html(html):
@@ -138,7 +142,6 @@ def get_all_state_data():
 
     # Optionally, reset the index after removing duplicates
     master_df = master_df.reset_index(drop=True)
-
 
     # Sort the DataFrame by State, City, and Date
     master_df = master_df.sort_values(by=['State', 'City', 'Date'])
