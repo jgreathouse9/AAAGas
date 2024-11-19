@@ -16,6 +16,13 @@ def fetch_and_combine_gas_prices(start_date: str, end_date: str) -> pd.DataFrame
     # Base URL for the CSV files
     base_url = "https://raw.githubusercontent.com/gueyenono/ScrapeUSGasPrices/refs/heads/master/data/city/"
 
+    # URL for the state mapping
+    state_mapping_url = "https://raw.githubusercontent.com/jasonong/List-of-US-States/refs/heads/master/states.csv"
+
+    # Load the state mapping
+    state_mapping_df = pd.read_csv(state_mapping_url)
+    state_mapping = dict(zip(state_mapping_df['Abbreviation'], state_mapping_df['State']))
+
     # Convert input dates to datetime objects
     start = datetime.strptime(start_date, "%Y-%m-%d")
     end = datetime.strptime(end_date, "%Y-%m-%d")
@@ -56,6 +63,9 @@ def fetch_and_combine_gas_prices(start_date: str, end_date: str) -> pd.DataFrame
         combined_df = pd.concat(dataframes, ignore_index=True)
         # Rename the columns to match the scraper's naming conventions
         combined_df.columns = ["City", "State", "Date", "Regular", "Mid", "Premium", "Diesel"]
+
+        # Replace state abbreviations with full state names
+        combined_df['State'] = combined_df['State'].replace(state_mapping)
         print("Successfully combined and renamed all data")
         return combined_df
     else:
