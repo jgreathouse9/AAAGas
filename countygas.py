@@ -3,8 +3,6 @@ import pandas as pd
 from datetime import datetime, timedelta
 from dateutil.relativedelta import relativedelta
 
-print(datetime.now().date())
-p
 # Get live gas price data
 master_df = get_all_state_data()
 
