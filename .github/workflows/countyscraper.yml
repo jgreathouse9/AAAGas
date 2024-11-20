@@ -60,8 +60,9 @@ jobs:
           if ! git diff-index --quiet HEAD --; then
             git commit -m "Update historical gas data"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-          else:
+          else
             echo "No changes to commit."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -119,7 +120,8 @@ jobs:
           if ! git diff-index --quiet HEAD --; then
             git commit -m "Update historical and live gas data"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-          else:
+          else
             echo "No changes to commit."
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
