@@ -141,8 +141,8 @@ def plot_city_gas_prices(master_df: pd.DataFrame, cities: list, output_file: str
     master_df["Date"] = pd.to_datetime(master_df["Date"])
 
     city_styles = {
-        "Atlanta": {"color": "#C8102E", "marker": "D", "mfc": "#00f0ff"},
-        "Metro Detroit": {"color": "#0076B6", "marker": "D", "mfc": "black"},
+        "Atlanta": {"color": "#C8102E"},
+        "Metro Detroit": {"color": "#0076B6"},
     }
 
     plt.figure(figsize=(10, 6))
@@ -155,10 +155,6 @@ def plot_city_gas_prices(master_df: pd.DataFrame, cities: list, output_file: str
                 city_data["Regular"],
                 label=city,
                 color=style["color"],
-                marker=style["marker"],
-                markersize=5,
-                mfc=style["mfc"],
-                mec="black",
             )
 
     plt.title("Gas Prices for Detroit and Atlanta", fontsize=16)
