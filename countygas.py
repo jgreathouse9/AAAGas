@@ -16,6 +16,11 @@ output_file = os.path.join(output_dir, "LiveScrape.csv")
 if os.path.exists(historical_file):
     historical_df = pd.read_csv(historical_file)
     old_df = pd.read_csv(output_file)
+
+    print(f"Historical data sample:\n{historical_df[['Date']].head()}")
+    print(f"Old data sample:\n{old_df[['Date']].head()}")
+    print(f"Live data sample:\n{master_df[['Date']].head()}")
+
     combined_df = pd.concat([historical_df, old_df, master_df]).drop_duplicates().reset_index(drop=True)
 
     # Print the last 10 rows of the Date column before conversion
@@ -27,9 +32,9 @@ if os.path.exists(historical_file):
 
     # Check for any invalid dates (NaT values)
     if combined_df['Date'].isna().any():
-        # Print the rows with invalid dates for diagnosis
+        # Print rows with invalid dates for diagnosis
         invalid_dates = combined_df[combined_df['Date'].isna()]
-        print(f"Invalid dates found:\n{invalid_dates}")
+        print(f"Sample of invalid dates found:\n{invalid_dates[['City', 'State', 'Date']].head(10)}")
         raise ValueError("Invalid dates detected in the 'Date' column. Process halted.")
 
     # Save the combined DataFrame
