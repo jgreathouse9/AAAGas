@@ -34,16 +34,16 @@ HEADERS = {
 }
 
 TIME_MAPPING = {
-    "Current Avg.": datetime.now().date(),
-    "Yesterday Avg.": datetime.now().date() - timedelta(days=1),
-    "Week Ago Avg.": datetime.now().date() - timedelta(weeks=1),
-    "Month Ago Avg.": datetime.now().date() - relativedelta(months=1),
-    "Year Ago Avg.": datetime.now().date() - relativedelta(years=1),
+    "Current Avg.": datetime.now().date().strftime('%Y-%m-%d'),
+    "Yesterday Avg.": (datetime.now().date() - timedelta(days=1)).strftime('%Y-%m-%d'),
+    "Week Ago Avg.": (datetime.now().date() - timedelta(weeks=1)).strftime('%Y-%m-%d'),
+    "Month Ago Avg.": (datetime.now().date() - relativedelta(months=1)).strftime('%Y-%m-%d'),
+    "Year Ago Avg.": (datetime.now().date() - relativedelta(years=1)).strftime('%Y-%m-%d'),
 }
+
 
 def deduplicate_and_sort(df: pd.DataFrame) -> pd.DataFrame:
     df = df.drop_duplicates(subset=["State", "City", "Date"])
-    df.loc[:, "Date"] = pd.to_datetime(df["Date"])
     return df.sort_values(by=["Date", "State", "City"], ascending=[True, True, True])
 
 
@@ -81,7 +81,6 @@ def get_state_name_from_html(html: str) -> str:
     match = re.search(r"AAA\s(.*?)\sAvg", html)
     return match.group(1) if match else None
 
-
 def parse_accordion_table(soup: BeautifulSoup, state_name: str) -> pd.DataFrame:
     accordion = soup.select(".accordion-prices > h3, .accordion-prices > div")
     data, current_city = [], None
@@ -95,6 +94,7 @@ def parse_accordion_table(soup: BeautifulSoup, state_name: str) -> pd.DataFrame:
                 for row in table.find_all("tr"):
                     cells = row.find_all("td")
                     category = cells[0].get_text(strip=True)
+                    # Get the date from TIME_MAPPING which will now be in 'YYYY-MM-DD' format
                     date = TIME_MAPPING.get(category, category)
 
                     # Append raw row data
@@ -108,6 +108,7 @@ def parse_accordion_table(soup: BeautifulSoup, state_name: str) -> pd.DataFrame:
     df = pd.DataFrame(data, columns=["State", "City", "Date", "Regular", "Mid", "Premium", "Diesel"])
 
     return df
+
 
 
 def get_accordion_table(url: str) -> pd.DataFrame:
