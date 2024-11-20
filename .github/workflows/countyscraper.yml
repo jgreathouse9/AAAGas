@@ -15,7 +15,7 @@ jobs:
 
       - name: Run historical scrape
         run: |
-          python countygas_historical.py
+          python gashistorical.py
 
   live-scrape:
     runs-on: ubuntu-latest
