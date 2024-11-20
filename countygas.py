@@ -15,37 +15,54 @@ output_file = os.path.join(output_dir, "LiveScrape.csv")
 
 if os.path.exists(historical_file):
     historical_df = pd.read_csv(historical_file)
+    print("Historical data sample:")
+    print(historical_df[['Date']].head())
+else:
+    historical_df = pd.DataFrame()
+
+if os.path.exists(output_file):
     old_df = pd.read_csv(output_file)
+    print("Old data sample:")
+    print(old_df[['Date']].head())
+else:
+    old_df = pd.DataFrame()
 
-    print(f"Historical data sample:\n{historical_df[['Date']].head()}")
-    print(f"Old data sample:\n{old_df[['Date']].head()}")
-    print(f"Live data sample:\n{master_df[['Date']].head()}")
+print("Live data sample:")
+print(master_df[['Date']].head())
 
-    combined_df = pd.concat([historical_df, old_df, master_df]).drop_duplicates().reset_index(drop=True)
+# Combine all datasets
+combined_df = pd.concat([historical_df, old_df, master_df]).drop_duplicates().reset_index(drop=True)
 
-    # Inspect rows around invalid entries before conversion
-    print("Sample rows near invalid entries before conversion:")
-    print(combined_df.iloc[395280:395300][['City', 'State', 'Date']])
+# Debug: Print raw date values near invalid entries
+print("Sample rows near invalid entries before conversion:")
+print(combined_df[['City', 'State', 'Date']].iloc[-20:])
 
-    # Inspect unique date values before conversion
-    print("Unique 'Date' values before conversion:")
+# Ensure consistent formatting by stripping time components
+combined_df['Date'] = combined_df['Date'].astype(str).str[:10]
+
+# Convert to datetime, coercing errors to identify problematic rows
+combined_df['Date'] = pd.to_datetime(combined_df['Date'], errors='coerce')
+
+# Check for invalid dates (NaT values)
+if combined_df['Date'].isna().any():
+    invalid_dates = combined_df[combined_df['Date'].isna()]
+    print("Sample of invalid dates found:")
+    print(invalid_dates[['City', 'State', 'Date']].head(10))
+    print("Unique 'Date' values in the dataset before cleanup:")
     print(combined_df['Date'].unique())
 
-    # Ensure all entries in the 'Date' column are valid datetime objects
-    combined_df['Date'] = pd.to_datetime(combined_df['Date'], errors='coerce')
+    # Optional: Drop rows with invalid dates
+    combined_df = combined_df.dropna(subset=['Date'])
+    print("Dropped rows with invalid dates.")
 
-    # Check for any invalid dates (NaT values)
-    if combined_df['Date'].isna().any():
-        # Print rows with invalid dates for diagnosis
-        invalid_dates = combined_df[combined_df['Date'].isna()]
-        print(f"Sample of invalid dates found:\n{invalid_dates[['City', 'State', 'Date']].head(10)}")
-        raise ValueError("Invalid dates detected in the 'Date' column. Process halted.")
+    # If needed, replace NaT with a placeholder (uncomment below if desired)
+    # combined_df['Date'] = combined_df['Date'].fillna(pd.Timestamp('1900-01-01'))
 
-    # Save the combined DataFrame
-    output_file = os.path.join(output_dir, "HistoricalGasData.csv")
-    combined_df.to_csv(output_file, index=False)
-    print(f"Data saved successfully to: {output_file}")
-else:
-    # Save the live data as the historical file if no historical file exists
-    master_df.to_csv(historical_file, index=False)
-    print(f"No historical data found. Saved new data to: {historical_file}")
+# Validate the cleanup
+print("Final unique 'Date' values:")
+print(combined_df['Date'].unique())
+
+# Save the cleaned data
+output_file = os.path.join(output_dir, "HistoricalGasData.csv")
+combined_df.to_csv(output_file, index=False)
+print(f"Data saved successfully to: {output_file}")
