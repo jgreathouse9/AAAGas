@@ -2,8 +2,8 @@ name: Gas Data Scraper
 
 on:
   schedule:
-    - cron: '0 8 * * *'
-    - cron: '40 9 * * *'
+    - cron: '0 8 * * *'  # Midnight UTC for historical data
+    - cron: '40 9 * * *'  # 4:40 AM UTC for live data
   workflow_dispatch:  # Allow manual triggering
 
 jobs:
@@ -48,8 +48,12 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Force add the historical gas data file
-          git add -f CountyPrices/HistoricalGasData.csv
+          # Force add the historical gas data file if it exists
+          if [ -f "CountyPrices/HistoricalGasData.csv" ]; then
+            git add -f CountyPrices/HistoricalGasData.csv
+          else
+            echo "HistoricalGasData.csv not found, skipping commit."
+          fi
           
           # Commit and push changes if there are updates
           if ! git diff-index --quiet HEAD --; then
@@ -107,8 +111,16 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Force add the updated files
-          git add -f CountyPrices/HistoricalGasData.csv CountyPrices/LiveScrape.csv CountyPrices/MasterMergedGas.csv
+          # Dynamically add files if they exist
+          if [ -f "CountyPrices/HistoricalGasData.csv" ]; then
+            git add -f CountyPrices/HistoricalGasData.csv
+          fi
+          if [ -f "CountyPrices/LiveScrape.csv" ]; then
+            git add -f CountyPrices/LiveScrape.csv
+          fi
+          if [ -f "CountyPrices/MasterMergedGas.csv" ]; then
+            git add -f CountyPrices/MasterMergedGas.csv
+          fi
           
           # Commit and push changes if there are updates
           if ! git diff-index --quiet HEAD --; then
