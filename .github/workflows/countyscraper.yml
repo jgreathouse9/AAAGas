@@ -43,19 +43,18 @@ jobs:
           echo "Listing files in CountyPrices directory:"
           ls -l CountyPrices
 
-      - name: Print current date in Eastern Time
-        run: |
-          echo "Current date in Eastern Time:"
-          date
-
-      - name: Commit and push HistoricalGasData.csv to repository
+      - name: Commit and push historical data to repository
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Force add the historical gas data file to ensure it's staged
+
+          # Pull the latest changes to avoid conflicts
+          git fetch origin
+          git pull --rebase origin main
+
+          # Force add the historical gas data file
           git add -f CountyPrices/HistoricalGasData.csv
-          
+
           # Check if there are any changes to commit
           if ! git diff-index --quiet HEAD --; then
             git commit -m "Update historical gas data"
@@ -87,11 +86,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run live gas scraper and export data
+      - name: Run live gas scraper and merge data
         run: |
           python countygas.py
 
-      - name: Verify LiveScrape.csv and MasterMergedGas.csv exist
+      - name: Verify output files exist
         run: |
           if [ ! -f "CountyPrices/LiveScrape.csv" ]; then
             echo "LiveScrape.csv file not found!"
@@ -107,19 +106,18 @@ jobs:
           echo "Listing files in CountyPrices directory:"
           ls -l CountyPrices
 
-      - name: Print current date in Eastern Time
-        run: |
-          echo "Current date in Eastern Time:"
-          date
-
-      - name: Commit and push both CSV files to repository
+      - name: Commit and push live and merged data to repository
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Force add both CSV files to ensure they are staged
+
+          # Pull the latest changes to avoid conflicts
+          git fetch origin
+          git pull --rebase origin main
+
+          # Force add the live and merged gas data files
           git add -f CountyPrices/LiveScrape.csv CountyPrices/MasterMergedGas.csv
-          
+
           # Check if there are any changes to commit
           if ! git diff-index --quiet HEAD --; then
             git commit -m "Update live and merged gas data"
