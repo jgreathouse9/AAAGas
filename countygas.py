@@ -6,37 +6,57 @@ import pandas as pd
 output_dir = "./CountyPrices"
 os.makedirs(output_dir, exist_ok=True)
 
-# File paths for historical, live, and merged data
+# File paths
 historical_file = os.path.join(output_dir, "HistoricalGasData.csv")
 live_file = os.path.join(output_dir, "LiveScrape.csv")
 merged_file = os.path.join(output_dir, "MasterMergedGas.csv")
 
-# Get live gas price data
-print("Fetching live gas price data...")
-live_df = get_all_state_data()
+# Fetch today's live gas price data
+print("Fetching today's live gas price data...")
+today_live_df = get_all_state_data()
 
-# If historical data exists, load it; otherwise, just use the live data
+# If LiveScrape.csv exists, load it; otherwise, use today's data
+if os.path.exists(live_file):
+    print("Loading existing live scrape data...")
+    existing_live_df = pd.read_csv(live_file)
+    print("Existing live data sample:")
+    print(existing_live_df.head())
+
+    # Append today's live data, removing duplicates
+    all_live_df = pd.concat([existing_live_df, today_live_df]).drop_duplicates().reset_index(drop=True)
+else:
+    print("No existing live data found. Using today's data only.")
+    all_live_df = today_live_df
+
+# Save updated live data back to LiveScrape.csv
+print("Saving updated live data to LiveScrape.csv...")
+all_live_df.to_csv(live_file, index=False)
+
+# If HistoricalGasData.csv exists, load it; otherwise, just use live data for merged file
 if os.path.exists(historical_file):
     print("Loading historical data...")
     historical_df = pd.read_csv(historical_file)
     print("Historical data sample:")
     print(historical_df.head())
 
-    # Combine historical data with live data, ensuring no duplicates
-    combined_df = pd.concat([historical_df, live_df]).drop_duplicates().reset_index(drop=True)
-
-    # Save the combined data to the MasterMergedGas.csv
-    print("Saving combined data to MasterMergedGas.csv...")
-    combined_df.to_csv(merged_file, index=False)
-    print(f"Data successfully saved to: {merged_file}")
-
+    # Merge historical and live data, removing duplicates
+    merged_df = pd.concat([historical_df, all_live_df]).drop_duplicates().reset_index(drop=True)
 else:
-    print("No historical data found. Using live data only.")
-    live_df.to_csv(merged_file, index=False)  # If no historical data, save only live data to merged file
-    print(f"Live data successfully saved to: {merged_file}")
+    print("No historical data found. Using live data only for merged file.")
+    merged_df = all_live_df
 
-# Save the live data separately to LiveScrape.csv
-print("Saving live data to LiveScrape.csv...")
-live_df.to_csv(live_file, index=False)
-print(f"Live data successfully saved to: {live_file}")
+# Ensure 'Date' column is valid
+print("Converting 'Date' column to datetime...")
+merged_df['Date'] = pd.to_datetime(merged_df['Date'], errors='coerce')
 
+# Check for invalid dates
+if merged_df['Date'].isna().any():
+    print("Invalid dates detected. Sample rows with issues:")
+    invalid_dates = merged_df[merged_df['Date'].isna()]
+    print(invalid_dates.head(10))
+    raise ValueError("Invalid dates detected in the 'Date' column. Process halted.")
+
+# Save merged data to MasterMergedGas.csv
+print("Saving merged data to MasterMergedGas.csv...")
+merged_df.to_csv(merged_file, index=False)
+print(f"Data successfully saved to: {merged_file}")
