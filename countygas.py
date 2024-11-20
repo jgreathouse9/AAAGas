@@ -15,7 +15,8 @@ output_file = os.path.join(output_dir, "FullCityGas.csv")
 
 if os.path.exists(historical_file):
     historical_df = pd.read_csv(historical_file)
-    combined_df = pd.concat([historical_df, master_df]).drop_duplicates().reset_index(drop=True)
+    old_df = pd.read_csv(output_file)
+    combined_df = pd.concat([historical_df, old_df, master_df]).drop_duplicates().reset_index(drop=True)
 
     # Plot the combined data
     cities_to_plot = ["Atlanta", "Metro Detroit"]
