@@ -59,6 +59,7 @@ jobs:
 
   live_scrape:
     runs-on: ubuntu-latest
+    needs: historical_scrape  # Ensures this job runs after historical_scrape
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -77,17 +78,17 @@ jobs:
         run: |
           python countygas.py
 
-      - name: Commit and push GasPrices.png, FullCityGas.csv to repository
+      - name: Commit and push MasterGas.csv and plot to repository
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Add the necessary files to commit
-          git add CountyPrices/GasPrices.png CountyPrices/FullCityGas.csv
+          # Add files to git staging
+          git add CountyPrices/MasterGas.csv CountyPrices/GasPrices.png
           
           # Check if there are changes to commit
           if ! git diff-index --quiet HEAD --; then
-            git commit -m "Update combined gas prices data for $(date +'%Y-%m-%d')"
+            git commit -m "Update county gas prices data for $(date +'%Y-%m-%d')"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
           else
             echo "No changes to commit."
