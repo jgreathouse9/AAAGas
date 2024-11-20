@@ -23,9 +23,13 @@ if os.path.exists(historical_file):
 
     combined_df = pd.concat([historical_df, old_df, master_df]).drop_duplicates().reset_index(drop=True)
 
-    # Print the last 10 rows of the Date column before conversion
-    print("Raw 'Date' values from the last 10 rows before conversion:")
-    print(combined_df['Date'].tail(10))
+    # Inspect rows around invalid entries before conversion
+    print("Sample rows near invalid entries before conversion:")
+    print(combined_df.iloc[395280:395300][['City', 'State', 'Date']])
+
+    # Inspect unique date values before conversion
+    print("Unique 'Date' values before conversion:")
+    print(combined_df['Date'].unique())
 
     # Ensure all entries in the 'Date' column are valid datetime objects
     combined_df['Date'] = pd.to_datetime(combined_df['Date'], errors='coerce')
