@@ -33,36 +33,19 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
 }
 
-def extract_base_date() -> datetime.date:
-    """
-    Extract the base date from the AAA gas prices website.
-    """
-    url = "https://gasprices.aaa.com/state-gas-price-averages/"
-    response = requests.get(url, headers=HEADERS)
-    response.raise_for_status()
-    soup = BeautifulSoup(response.text, 'html.parser')
-    date_paragraph = soup.find('p', string=lambda x: x and 'Price as of' in x)
-    if date_paragraph:
-        full_text = date_paragraph.get_text(strip=True)
-        date_text = full_text.split("Price as of")[-1].strip()
-        return datetime.strptime(date_text, "%m/%d/%y").date()
-    else:
-        raise ValueError("Failed to extract the base date.")
-
-BASE_DATE = extract_base_date()
-
 TIME_MAPPING = {
-    "Current Avg.": BASE_DATE,
-    "Yesterday Avg.": BASE_DATE - timedelta(days=1),
-    "Week Ago Avg.": BASE_DATE - timedelta(weeks=1),
-    "Month Ago Avg.": BASE_DATE - relativedelta(months=1),
-    "Year Ago Avg.": BASE_DATE - relativedelta(years=1),
+    "Current Avg.": datetime.now().date(),
+    "Yesterday Avg.": datetime.now().date() - timedelta(days=1),
+    "Week Ago Avg.": datetime.now().date() - timedelta(weeks=1),
+    "Month Ago Avg.": datetime.now().date() - relativedelta(months=1),
+    "Year Ago Avg.": datetime.now().date() - relativedelta(years=1),
 }
 
 def deduplicate_and_sort(df: pd.DataFrame) -> pd.DataFrame:
     df = df.drop_duplicates(subset=["State", "City", "Date"])
-    df["Date"] = pd.to_datetime(df["Date"])
+    df.loc[:, "Date"] = pd.to_datetime(df["Date"])
     return df.sort_values(by=["Date", "State", "City"], ascending=[True, True, True])
+
 
 def update_master_file(new_data: pd.DataFrame, file_path: str) -> pd.DataFrame:
     """
@@ -70,12 +53,21 @@ def update_master_file(new_data: pd.DataFrame, file_path: str) -> pd.DataFrame:
     and remove duplicates based on 'State', 'City', and 'Date'.
     """
     if os.path.exists(file_path):
+        # Load existing data
         existing_data = pd.read_csv(file_path)
+
+        # Ensure datetime columns are parsed correctly
         existing_data["Date"] = pd.to_datetime(existing_data["Date"])
     else:
+        # If no existing file, just use the new data
         existing_data = pd.DataFrame()
+
+    # Concatenate new data with existing data
     combined_data = pd.concat([existing_data, new_data], ignore_index=True)
+
+    # Deduplicate and sort the data
     return deduplicate_and_sort(combined_data)
+
 
 def scrape_state_urls() -> list:
     url = "https://gasprices.aaa.com/state-gas-price-averages/"
@@ -84,9 +76,11 @@ def scrape_state_urls() -> list:
     table = BeautifulSoup(response.text, "html.parser").select_one("#sortable")
     return [a["href"] for a in table.find_all("a", href=True)]
 
+
 def get_state_name_from_html(html: str) -> str:
     match = re.search(r"AAA\s(.*?)\sAvg", html)
     return match.group(1) if match else None
+
 
 def parse_accordion_table(soup: BeautifulSoup, state_name: str) -> pd.DataFrame:
     accordion = soup.select(".accordion-prices > h3, .accordion-prices > div")
@@ -110,8 +104,11 @@ def parse_accordion_table(soup: BeautifulSoup, state_name: str) -> pd.DataFrame:
                     ]
                     data.append(row_data)
 
+    # Create DataFrame
     df = pd.DataFrame(data, columns=["State", "City", "Date", "Regular", "Mid", "Premium", "Diesel"])
+
     return df
+
 
 def get_accordion_table(url: str) -> pd.DataFrame:
     response = requests.get(url, headers=HEADERS)
@@ -120,25 +117,36 @@ def get_accordion_table(url: str) -> pd.DataFrame:
     state_name = get_state_name_from_html(str(soup))
     return parse_accordion_table(soup, state_name)
 
+
 def remove_dollar_signs(df):
+    # Identify the last four columns
     last_four_cols = df.columns[-4:]
+
+    # Remove dollar signs and convert to numeric
     df[last_four_cols] = df[last_four_cols].replace({r'\$': ''}, regex=True).apply(pd.to_numeric)
+
     return df
+
 
 def get_all_state_data() -> pd.DataFrame:
     state_urls = scrape_state_urls()
     all_data = [get_accordion_table(url) for url in state_urls if url]
     combined_df = deduplicate_and_sort(pd.concat(all_data, ignore_index=True))
+
+    # Remove dollar signs from the price columns
     return remove_dollar_signs(combined_df)
+
 
 def plot_city_gas_prices(master_df: pd.DataFrame, cities: list, output_file: str):
     master_df["Date"] = pd.to_datetime(master_df["Date"])
+
     city_styles = {
         "Atlanta": {"color": "#C8102E"},
         "Metro Detroit": {"color": "#0076B6"},
     }
 
     plt.figure(figsize=(10, 6))
+
     for city, style in city_styles.items():
         if city in cities:
             city_data = master_df[master_df["City"] == city]
@@ -156,4 +164,3 @@ def plot_city_gas_prices(master_df: pd.DataFrame, cities: list, output_file: str
     plt.tight_layout()
     plt.savefig(output_file)
     plt.close()
-
