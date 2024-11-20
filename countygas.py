@@ -23,7 +23,7 @@ if os.path.exists(historical_file):
 
     # Plot the combined data
     cities_to_plot = ["Atlanta", "Metro Detroit"]
-    plot_file = os.path.join(output_dir, "CombinedGasPrices.png")
+    plot_file = os.path.join(output_dir, "GasPrices.png")
     plot_city_gas_prices(combined_df, cities_to_plot, plot_file)
 
     # Save the combined dataset
