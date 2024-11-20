@@ -87,9 +87,20 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run live gas scraper and generate LiveScrape.csv
+      - name: Run live gas scraper and export data
         run: |
           python countygas.py
+
+      - name: Verify LiveScrape.csv and MasterMergedGas.csv exist
+        run: |
+          if [ ! -f "CountyPrices/LiveScrape.csv" ]; then
+            echo "LiveScrape.csv file not found!"
+            exit 1
+          fi
+          if [ ! -f "CountyPrices/MasterMergedGas.csv" ]; then
+            echo "MasterMergedGas.csv file not found!"
+            exit 1
+          fi
 
       - name: List files in CountyPrices
         run: |
@@ -107,11 +118,11 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           # Force add both CSV files to ensure they are staged
-          git add -f CountyPrices/HistoricalGasData.csv CountyPrices/LiveScrape.csv
+          git add -f CountyPrices/LiveScrape.csv CountyPrices/MasterMergedGas.csv
           
           # Check if there are any changes to commit
           if ! git diff-index --quiet HEAD --; then
-            git commit -m "Update historical and live gas data"
+            git commit -m "Update live and merged gas data"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
           else
             echo "No changes to commit."
