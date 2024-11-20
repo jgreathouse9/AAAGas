@@ -1,4 +1,4 @@
-from countyscraper import get_all_state_data, plot_city_gas_prices, update_master_file
+from countyscraper import get_all_state_data, plot_city_gas_prices
 import os
 import pandas as pd
 
@@ -8,10 +8,6 @@ master_df = get_all_state_data()
 # Ensure the 'CountyPrices' directory exists
 output_dir = "./CountyPrices"
 os.makedirs(output_dir, exist_ok=True)
-
-# Update the master file
-master_file = os.path.join(output_dir, "MasterGas.csv")
-master_df = update_master_file(master_df, master_file)
 
 # Load historical data and combine it with the live data
 historical_file = os.path.join(output_dir, "HistoricalGasData.csv")
