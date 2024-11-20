@@ -2,8 +2,8 @@ name: Gas Data Scraper
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Midnight UTC for historical data
-    - cron: '40 9 * * *'  # 4:40 AM UTC for live data
+    - cron: '0 8 * * *'
+    - cron: '40 9 * * *'
   workflow_dispatch:  # Allow manual triggering
 
 jobs:
@@ -43,19 +43,15 @@ jobs:
           echo "Listing files in CountyPrices directory:"
           ls -l CountyPrices
 
-      - name: Commit and push historical data to repository
+      - name: Commit and push HistoricalGasData.csv to repository
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Pull the latest changes to avoid conflicts
-          git fetch origin
-          git pull --rebase origin main
-
+          
           # Force add the historical gas data file
           git add -f CountyPrices/HistoricalGasData.csv
-
-          # Check if there are any changes to commit
+          
+          # Commit and push changes if there are updates
           if ! git diff-index --quiet HEAD --; then
             git commit -m "Update historical gas data"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
@@ -86,11 +82,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run live gas scraper and merge data
+      - name: Run live gas scraper and update files
         run: |
           python countygas.py
 
-      - name: Verify output files exist
+      - name: Verify all necessary files exist
         run: |
           if [ ! -f "CountyPrices/LiveScrape.csv" ]; then
             echo "LiveScrape.csv file not found!"
@@ -106,19 +102,15 @@ jobs:
           echo "Listing files in CountyPrices directory:"
           ls -l CountyPrices
 
-      - name: Commit and push live and merged data to repository
+      - name: Commit and push all files to repository
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Pull the latest changes to avoid conflicts
-          git fetch origin
-          git pull --rebase origin main
-
-          # Force add the live and merged gas data files
-          git add -f CountyPrices/LiveScrape.csv CountyPrices/MasterMergedGas.csv
-
-          # Check if there are any changes to commit
+          
+          # Force add the updated files
+          git add -f CountyPrices/HistoricalGasData.csv CountyPrices/LiveScrape.csv CountyPrices/MasterMergedGas.csv
+          
+          # Commit and push changes if there are updates
           if ! git diff-index --quiet HEAD --; then
             git commit -m "Update live and merged gas data"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
