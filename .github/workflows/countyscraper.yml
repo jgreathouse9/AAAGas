@@ -55,4 +55,66 @@ jobs:
           
           # Force add the historical gas data file to ensure it's staged
           git add -f CountyPrices/HistoricalGasData.csv
-   
+          
+          # Check if there are any changes to commit
+          if ! git diff-index --quiet HEAD --; then
+            git commit -m "Update historical gas data"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          else
+            echo "No changes to commit."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  live_scrape:
+    runs-on: ubuntu-latest
+    needs: historical_scrape
+    steps:
+      - name: Set timezone to Eastern Time
+        run: |
+          sudo timedatectl set-timezone America/New_York
+
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run live gas scraper and generate LiveScrape.csv
+        run: |
+          python countygas.py
+
+      - name: List files in CountyPrices
+        run: |
+          echo "Listing files in CountyPrices directory:"
+          ls -l CountyPrices
+
+      - name: Print current date in Eastern Time
+        run: |
+          echo "Current date in Eastern Time:"
+          date
+
+      - name: Commit and push both CSV files to repository
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Force add both CSV files to ensure they are staged
+          git add -f CountyPrices/HistoricalGasData.csv CountyPrices/LiveScrape.csv
+          
+          # Check if there are any changes to commit
+          if ! git diff-index --quiet HEAD --; then
+            git commit -m "Update historical and live gas data"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          else
+            echo "No changes to commit."
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
