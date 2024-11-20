@@ -66,12 +66,15 @@ def fetch_and_combine_gas_prices(start_date: str, end_date: str) -> pd.DataFrame
 
         # Replace state abbreviations with full state names
         combined_df['State'] = combined_df['State'].replace(state_mapping)
-        print("Successfully combined and renamed all data")
+
+        # Format the 'Date' column to 'YYYY-MM-DD'
+        combined_df['Date'] = pd.to_datetime(combined_df['Date']).dt.strftime("%Y-%m-%d")
+
+        print("Successfully combined, renamed, and formatted all data")
         return combined_df
     else:
         print("No data was fetched")
         return pd.DataFrame(columns=["City", "State", "Date", "Regular", "Mid", "Premium", "Diesel"])
-
 
 # Ensure the CountyPrices directory exists
 output_dir = "CountyPrices"
