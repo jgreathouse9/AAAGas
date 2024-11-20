@@ -1,4 +1,4 @@
-from countyscraper import get_all_state_data
+from countyscraper import get_all_state_data 
 import os
 import pandas as pd
 
@@ -6,9 +6,9 @@ import pandas as pd
 output_dir = "./CountyPrices"
 os.makedirs(output_dir, exist_ok=True)
 
-# File paths
+# File paths for historical and live data
 historical_file = os.path.join(output_dir, "HistoricalGasData.csv")
-output_file = os.path.join(output_dir, "HistoricalGasData.csv")
+live_file = os.path.join(output_dir, "LiveScrape.csv")
 
 # Get live gas price data
 print("Fetching live gas price data...")
@@ -21,7 +21,7 @@ if os.path.exists(historical_file):
     print("Historical data sample:")
     print(historical_df.head())
 
-    # Combine historical data with live data
+    # Combine historical data with live data, ensuring no duplicates
     combined_df = pd.concat([historical_df, live_df]).drop_duplicates().reset_index(drop=True)
 else:
     print("No historical data found. Using live data only.")
@@ -38,7 +38,7 @@ if combined_df['Date'].isna().any():
     print(invalid_dates.head(10))
     raise ValueError("Invalid dates detected in the 'Date' column. Process halted.")
 
-# Save the combined data back to the historical file
-print("Saving combined data...")
-combined_df.to_csv(output_file, index=False)
-print(f"Data successfully saved to: {output_file}")
+# Save the combined data to the live scrape file
+print("Saving combined data to LiveScrape.csv...")
+combined_df.to_csv(live_file, index=False)
+print(f"Data successfully saved to: {live_file}")
