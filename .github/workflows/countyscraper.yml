@@ -2,7 +2,7 @@ name: Gas Data Scraper
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Midnight UTC for historical data
+    - cron: '0 8 * * *'  # Midnight UTC for historical data
     - cron: '40 9 * * *'  # 4:40 AM UTC for live data
   workflow_dispatch:  # Allow manual triggering
 
