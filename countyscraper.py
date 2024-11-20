@@ -55,9 +55,6 @@ def update_master_file(new_data: pd.DataFrame, file_path: str) -> pd.DataFrame:
     if os.path.exists(file_path):
         # Load existing data
         existing_data = pd.read_csv(file_path)
-
-        # Ensure datetime columns are parsed correctly
-        existing_data["Date"] = pd.to_datetime(existing_data["Date"])
     else:
         # If no existing file, just use the new data
         existing_data = pd.DataFrame()
