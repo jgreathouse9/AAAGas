@@ -1,68 +1,44 @@
-from countyscraper import get_all_state_data, plot_city_gas_prices
+from countyscraper import get_all_state_data
 import os
 import pandas as pd
-
-# Get live gas price data
-master_df = get_all_state_data()
 
 # Ensure the 'CountyPrices' directory exists
 output_dir = "./CountyPrices"
 os.makedirs(output_dir, exist_ok=True)
 
-# Load historical data and combine it with the live data
+# File paths
 historical_file = os.path.join(output_dir, "HistoricalGasData.csv")
-output_file = os.path.join(output_dir, "LiveScrape.csv")
+output_file = os.path.join(output_dir, "HistoricalGasData.csv")
 
+# Get live gas price data
+print("Fetching live gas price data...")
+live_df = get_all_state_data()
+
+# If historical data exists, load it; otherwise, just use the live data
 if os.path.exists(historical_file):
+    print("Loading historical data...")
     historical_df = pd.read_csv(historical_file)
     print("Historical data sample:")
-    print(historical_df[['Date']].head())
+    print(historical_df.head())
+
+    # Combine historical data with live data
+    combined_df = pd.concat([historical_df, live_df]).drop_duplicates().reset_index(drop=True)
 else:
-    historical_df = pd.DataFrame()
+    print("No historical data found. Using live data only.")
+    combined_df = live_df
 
-if os.path.exists(output_file):
-    old_df = pd.read_csv(output_file)
-    print("Old data sample:")
-    print(old_df[['Date']].head())
-else:
-    old_df = pd.DataFrame()
-
-print("Live data sample:")
-print(master_df[['Date']].head())
-
-# Combine all datasets
-combined_df = pd.concat([historical_df, old_df, master_df]).drop_duplicates().reset_index(drop=True)
-
-# Debug: Print raw date values near invalid entries
-print("Sample rows near invalid entries before conversion:")
-print(combined_df[['City', 'State', 'Date']].iloc[-20:])
-
-# Ensure consistent formatting by stripping time components
-combined_df['Date'] = combined_df['Date'].astype(str).str[:10]
-
-# Convert to datetime, coercing errors to identify problematic rows
+# Ensure all dates are valid datetime objects
+print("Converting 'Date' column to datetime...")
 combined_df['Date'] = pd.to_datetime(combined_df['Date'], errors='coerce')
 
-# Check for invalid dates (NaT values)
+# Check for invalid dates
 if combined_df['Date'].isna().any():
+    print("Invalid dates detected. Sample rows with issues:")
     invalid_dates = combined_df[combined_df['Date'].isna()]
-    print("Sample of invalid dates found:")
-    print(invalid_dates[['City', 'State', 'Date']].head(10))
-    print("Unique 'Date' values in the dataset before cleanup:")
-    print(combined_df['Date'].unique())
+    print(invalid_dates.head(10))
+    raise ValueError("Invalid dates detected in the 'Date' column. Process halted.")
 
-    # Optional: Drop rows with invalid dates
-    combined_df = combined_df.dropna(subset=['Date'])
-    print("Dropped rows with invalid dates.")
-
-    # If needed, replace NaT with a placeholder (uncomment below if desired)
-    # combined_df['Date'] = combined_df['Date'].fillna(pd.Timestamp('1900-01-01'))
-
-# Validate the cleanup
-print("Final unique 'Date' values:")
-print(combined_df['Date'].unique())
-
-# Save the cleaned data
-output_file = os.path.join(output_dir, "HistoricalGasData.csv")
+# Save the combined data back to the historical file
+print("Saving combined data...")
 combined_df.to_csv(output_file, index=False)
-print(f"Data saved successfully to: {output_file}")
+print(f"Data successfully saved to: {output_file}")
