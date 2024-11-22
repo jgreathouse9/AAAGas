@@ -6554,3 +6554,518 @@ Wisconsin,Superior,2024-11-22,2.887,3.359,3.75,3.343
 Wisconsin,Wausau,2024-11-22,2.815,3.305,3.773,3.284
 Wyoming,Casper,2024-11-22,2.803,3.113,3.413,3.324
 Wyoming,Cheyenne,2024-11-22,3.03,3.333,3.581,3.437
+California,Bakersfield,2023-11-22,5.131,5.351,5.534,6.1
+California,Chico-Paradise,2023-11-22,4.709,5.007,5.132,5.673
+California,El Centro,2023-11-22,4.768,5.003,5.249,5.928
+California,Fresno,2023-11-22,4.794,5.053,5.213,5.932
+California,Hanford-Corcoran,2023-11-22,4.541,4.69,4.947,5.869
+California,Los Angeles-Long Beach,2023-11-22,5.041,5.261,5.406,5.964
+California,Madera-Chowchilla,2023-11-22,4.915,5.193,5.333,6.004
+California,Merced,2023-11-22,4.926,5.165,5.352,5.962
+California,Modesto,2023-11-22,4.667,4.892,5.082,5.796
+California,Napa,2023-11-22,5.114,5.281,5.482,6.063
+California,Oakland,2023-11-22,4.952,5.191,5.346,5.982
+California,Orange County,2023-11-22,4.88,5.105,5.215,5.863
+California,Redding,2023-11-22,4.615,4.75,4.927,5.473
+California,Riverside,2023-11-22,4.859,5.092,5.252,5.726
+California,Sacramento,2023-11-22,4.756,4.983,5.157,5.782
+California,Salinas,2023-11-22,5.133,5.325,5.542,6.181
+California,San Bernardino,2023-11-22,4.833,5.015,5.172,5.785
+California,San Diego,2023-11-22,5.07,5.3,5.438,5.847
+California,San Francisco,2023-11-22,5.079,5.304,5.465,6.019
+California,San Jose,2023-11-22,4.851,5.094,5.24,5.925
+California,San Luis Obispo-Atascadero-Paso Robles,2023-11-22,5.2,5.423,5.568,6.341
+California,San Rafael,2023-11-22,5.046,5.246,5.425,5.973
+California,Santa Barbara-Santa Maria-Lompoc,2023-11-22,5.066,5.236,5.389,6.119
+California,Santa Cruz-Watsonville,2023-11-22,5.063,5.308,5.487,6.162
+California,Santa Rosa,2023-11-22,5.116,5.344,5.499,5.869
+California,Stockton-Lodi,2023-11-22,4.613,4.855,5.047,5.799
+California,Vallejo-Fairfield,2023-11-22,4.898,5.164,5.335,5.847
+California,Ventura,2023-11-22,5.123,5.352,5.487,6.087
+California,Visalia-Tulare-Porterville,2023-11-22,4.955,5.141,5.359,5.924
+California,Yolo,2023-11-22,4.751,4.981,5.187,5.661
+California,Yuba City,2023-11-22,4.597,4.942,5.088,5.726
+Colorado,Boulder-Longmont,2023-11-22,3.189,3.611,3.902,4.252
+Colorado,Colorado Springs,2023-11-22,2.898,3.323,3.624,4.059
+Colorado,Denver,2023-11-22,2.973,3.389,3.692,4.056
+Colorado,Durango,2023-11-22,3.467,3.717,4.021,4.484
+Colorado,Fort Collins-Loveland,2023-11-22,3.174,3.581,3.921,4.231
+Colorado,Glenwood Springs,2023-11-22,3.813,4.171,4.404,4.338
+Colorado,Grand Junction (CO only),2023-11-22,3.613,3.949,4.22,4.281
+Colorado,Greeley,2023-11-22,2.828,3.236,3.531,3.885
+Colorado,Pueblo,2023-11-22,3.111,3.485,3.788,4.142
+Colorado,Vail,2023-11-22,3.616,3.925,4.172,4.296
+Indiana,Bloomington,2023-11-22,3.342,3.853,4.33,4.426
+Indiana,Clarksville,2023-11-22,3.176,3.563,3.935,4.269
+Indiana,Columbus,2023-11-22,3.186,3.608,4.08,4.262
+Indiana,Dearborn-Franklin-Ohio-Union,2023-11-22,3.2,3.652,4.12,4.382
+Indiana,Elkhart,2023-11-22,3.212,3.738,4.185,4.302
+Indiana,Evansville,2023-11-22,3.074,3.491,3.862,4.312
+Indiana,Fort Wayne,2023-11-22,3.158,3.703,4.185,4.345
+Indiana,Gary,2023-11-22,3.113,3.626,4.079,4.339
+Indiana,Indianapolis,2023-11-22,3.174,3.699,4.184,4.381
+Indiana,Kokomo,2023-11-22,3.29,3.848,4.306,4.375
+Indiana,Lafayette,2023-11-22,3.343,3.848,4.314,4.442
+Indiana,Michigan City-La Porte,2023-11-22,3.167,3.695,4.178,4.335
+Indiana,Muncie,2023-11-22,3.189,3.667,4.112,4.404
+Indiana,South Bend,2023-11-22,3.175,3.728,4.218,4.372
+Indiana,Terre Haute,2023-11-22,3.189,3.61,4.062,4.399
+Iowa,Ames,2023-11-22,3.093,3.609,3.836,4.059
+Iowa,Cedar Rapids,2023-11-22,2.892,3.263,3.746,4.139
+Iowa,Council Bluffs,2023-11-22,2.986,3.251,3.708,4.146
+Iowa,Davenport-Moline-Rock Island (IA only),2023-11-22,2.95,3.373,3.851,4.25
+Iowa,Des Moines,2023-11-22,2.841,3.244,3.588,4.115
+Iowa,Dubuque,2023-11-22,3.173,3.549,4.177,4.189
+Iowa,Iowa City,2023-11-22,3.033,3.527,3.832,4.208
+Iowa,Sioux City (IA only),2023-11-22,2.89,3.229,3.677,4.178
+Iowa,Waterloo-Cedar Falls,2023-11-22,2.921,3.344,3.743,4.175
+Maine,Bangor,2023-11-22,3.425,3.779,4.252,4.483
+Maine,Lewiston-Auburn,2023-11-22,3.3,3.792,4.147,4.411
+Maine,Portland,2023-11-22,3.409,3.872,4.257,4.415
+Minnesota,Duluth-Superior (MN only),2023-11-22,3.055,3.441,3.844,4.406
+Minnesota,Houston County,2023-11-22,3.046,0.0,3.933,4.128
+Minnesota,Mankato,2023-11-22,3.132,3.437,3.855,3.992
+Minnesota,Minneapolis-St. Paul (MN only),2023-11-22,3.173,3.536,3.916,4.423
+Minnesota,Moorhead,2023-11-22,3.129,3.379,3.785,4.345
+Minnesota,Polk County,2023-11-22,3.134,3.308,3.512,4.276
+Minnesota,Rochester,2023-11-22,3.082,3.37,3.884,4.315
+Minnesota,St. Cloud,2023-11-22,2.988,3.308,3.747,4.242
+Mississippi,Biloxi-Gulfport-Pascagoula,2023-11-22,2.645,2.987,3.369,3.686
+Mississippi,Hattiesburg,2023-11-22,2.826,3.277,3.611,3.849
+Mississippi,Jackson,2023-11-22,2.724,3.144,3.486,3.789
+Mississippi,South Haven - Olive Branch,2023-11-22,2.752,3.204,3.638,3.848
+Missouri,Cape Girardeau,2023-11-22,2.962,3.263,3.662,4.079
+Missouri,Columbia,2023-11-22,2.983,3.247,3.54,3.953
+Missouri,Jefferson City,2023-11-22,3.068,3.362,3.682,4.06
+Missouri,Joplin,2023-11-22,2.645,3.048,3.442,3.907
+Missouri,Kansas City (MO only),2023-11-22,2.796,3.102,3.397,4.077
+Missouri,Springfield,2023-11-22,2.872,3.248,3.561,4.047
+Missouri,St. Joseph,2023-11-22,2.772,3.057,3.396,3.864
+Missouri,St. Louis (MO only),2023-11-22,2.966,3.301,3.595,3.893
+Nebraska,Columbus,2023-11-22,2.986,3.123,3.715,4.287
+Nebraska,Grand Island,2023-11-22,3.06,3.175,3.721,4.038
+Nebraska,Kearney,2023-11-22,3.387,3.523,4.057,4.265
+Nebraska,Lincoln,2023-11-22,3.305,3.447,4.046,4.335
+Nebraska,Norfolk,2023-11-22,3.154,3.513,4.08,4.127
+Nebraska,North Platte,2023-11-22,3.522,3.459,3.929,3.879
+Nebraska,Omaha (NE only),2023-11-22,2.882,3.233,3.651,4.169
+New Hampshire,Manchester,2023-11-22,3.289,3.879,4.279,4.301
+New Hampshire,Portsmouth-Rochester (NH only),2023-11-22,3.157,3.645,4.072,4.217
+North Dakota,Bismarck,2023-11-22,3.295,3.489,3.94,4.265
+North Dakota,Fargo-Moorhead (ND only),2023-11-22,3.029,3.3,3.736,4.232
+North Dakota,Grand Forks (ND only),2023-11-22,3.053,3.298,3.474,4.304
+North Dakota,Minot,2023-11-22,3.208,3.58,3.98,4.226
+Ohio,Akron,2023-11-22,3.023,3.481,3.912,4.235
+Ohio,Belmont County,2023-11-22,2.978,3.465,3.916,4.164
+Ohio,Canton-Massillon,2023-11-22,2.958,3.398,3.846,4.231
+Ohio,Cincinnati (OH only),2023-11-22,3.116,3.616,4.111,4.37
+Ohio,Cleveland-Lorain-Elyria,2023-11-22,3.075,3.614,4.065,4.338
+Ohio,Columbus,2023-11-22,3.101,3.561,4.012,4.35
+Ohio,Dayton,2023-11-22,3.029,3.565,4.041,4.327
+Ohio,Lawerence County,2023-11-22,3.181,3.677,4.177,4.35
+Ohio,Lima,2023-11-22,3.017,3.543,4.006,4.181
+Ohio,Mansfield,2023-11-22,3.048,3.527,3.969,4.313
+Ohio,Springfield,2023-11-22,3.055,3.559,3.986,4.301
+Ohio,Steubenville-Weirton (OH only),2023-11-22,3.022,3.475,3.946,4.287
+Ohio,Toledo,2023-11-22,3.057,3.542,3.987,4.262
+Ohio,Youngstown-Warren,2023-11-22,3.019,3.519,3.965,4.231
+Washington,Bellingham,2023-11-22,4.128,4.478,4.681,4.808
+Washington,Bremerton,2023-11-22,4.425,4.639,4.869,5.177
+Washington,Clarkson,2023-11-22,3.946,0.0,4.259,4.579
+Washington,Longview,2023-11-22,4.267,4.505,4.716,5.155
+Washington,Mount Vernon-Anacortes,2023-11-22,4.031,4.207,4.45,4.886
+Washington,Olympia,2023-11-22,4.448,4.622,4.837,5.437
+Washington,Richland-Kennewick-Pasco,2023-11-22,4.238,4.463,4.673,5.077
+Washington,Seattle-Bellevue-Everett,2023-11-22,4.652,4.873,5.075,5.469
+Washington,Spokane,2023-11-22,4.236,4.492,4.734,4.942
+Washington,Tacoma,2023-11-22,4.344,4.545,4.771,5.321
+Washington,Vancouver,2023-11-22,4.465,4.654,4.849,5.022
+Washington,Walla Walla,2023-11-22,4.61,5.025,5.249,5.286
+Washington,Wenatchee,2023-11-22,4.029,4.111,4.353,4.729
+Washington,Yakima,2023-11-22,4.068,4.402,4.531,4.973
+California,Bakersfield,2024-10-22,4.553,4.761,4.978,5.11
+California,Chico-Paradise,2024-10-22,4.646,4.812,4.951,4.736
+California,El Centro,2024-10-22,4.564,4.738,4.962,4.947
+California,Fresno,2024-10-22,4.67,4.932,5.104,5.033
+California,Hanford-Corcoran,2024-10-22,4.507,4.622,4.881,5.135
+California,Los Angeles-Long Beach,2024-10-22,4.571,4.792,4.947,4.896
+California,Madera-Chowchilla,2024-10-22,4.729,4.933,5.206,5.133
+California,Merced,2024-10-22,4.687,4.939,5.173,5.069
+California,Modesto,2024-10-22,4.521,4.736,4.963,4.962
+California,Napa,2024-10-22,4.863,5.072,5.266,5.048
+California,Oakland,2024-10-22,4.773,5.026,5.195,5.033
+California,Orange County,2024-10-22,4.489,4.704,4.849,4.691
+California,Redding,2024-10-22,4.465,4.65,4.86,4.881
+California,Riverside,2024-10-22,4.433,4.679,4.835,4.782
+California,Sacramento,2024-10-22,4.667,4.914,5.106,4.892
+California,Salinas,2024-10-22,4.909,5.098,5.291,5.202
+California,San Bernardino,2024-10-22,4.476,4.682,4.871,4.829
+California,San Diego,2024-10-22,4.644,4.864,5.038,4.837
+California,San Francisco,2024-10-22,4.926,5.146,5.331,5.078
+California,San Jose,2024-10-22,4.714,4.943,5.096,5.012
+California,San Luis Obispo-Atascadero-Paso Robles,2024-10-22,4.831,5.04,5.21,5.232
+California,San Rafael,2024-10-22,4.806,5.01,5.212,5.085
+California,Santa Barbara-Santa Maria-Lompoc,2024-10-22,4.629,4.785,4.97,4.942
+California,Santa Cruz-Watsonville,2024-10-22,4.888,5.105,5.28,5.15
+California,Santa Rosa,2024-10-22,4.91,5.123,5.298,5.095
+California,Stockton-Lodi,2024-10-22,4.584,4.845,5.02,4.911
+California,Vallejo-Fairfield,2024-10-22,4.729,4.969,5.157,4.958
+California,Ventura,2024-10-22,4.648,4.872,5.028,5.042
+California,Visalia-Tulare-Porterville,2024-10-22,4.605,4.92,5.084,5.067
+California,Yolo,2024-10-22,4.639,4.911,5.059,4.76
+California,Yuba City,2024-10-22,4.48,4.854,4.964,4.771
+Colorado,Boulder-Longmont,2024-10-22,3.244,3.667,3.998,3.472
+Colorado,Colorado Springs,2024-10-22,3.058,3.459,3.786,3.327
+Colorado,Denver,2024-10-22,3.088,3.496,3.824,3.409
+Colorado,Durango,2024-10-22,3.453,3.721,4.034,3.648
+Colorado,Fort Collins-Loveland,2024-10-22,3.092,3.482,3.793,3.303
+Colorado,Glenwood Springs,2024-10-22,3.628,4.04,4.333,3.86
+Colorado,Grand Junction (CO only),2024-10-22,3.248,3.589,3.929,3.526
+Colorado,Greeley,2024-10-22,3.018,3.421,3.762,3.353
+Colorado,Pueblo,2024-10-22,3.429,3.823,4.149,3.495
+Colorado,Vail,2024-10-22,3.777,4.13,4.406,3.801
+Indiana,Bloomington,2024-10-22,3.147,3.69,4.165,3.748
+Indiana,Clarksville,2024-10-22,3.073,3.544,3.938,3.716
+Indiana,Columbus,2024-10-22,3.138,3.642,4.115,3.616
+Indiana,Dearborn-Franklin-Ohio-Union,2024-10-22,3.075,3.541,4.047,3.681
+Indiana,Elkhart,2024-10-22,2.985,3.588,4.11,3.646
+Indiana,Evansville,2024-10-22,2.942,3.378,3.769,3.683
+Indiana,Fort Wayne,2024-10-22,3.035,3.62,4.175,3.683
+Indiana,Gary,2024-10-22,2.984,3.536,4.048,3.707
+Indiana,Indianapolis,2024-10-22,3.032,3.607,4.134,3.732
+Indiana,Kokomo,2024-10-22,3.03,3.642,4.109,3.688
+Indiana,Lafayette,2024-10-22,3.167,3.711,4.215,3.671
+Indiana,Michigan City-La Porte,2024-10-22,2.925,3.487,4.044,3.657
+Indiana,Muncie,2024-10-22,3.021,3.578,4.131,3.723
+Indiana,South Bend,2024-10-22,2.987,3.574,4.097,3.733
+Indiana,Terre Haute,2024-10-22,3.054,3.582,4.051,3.792
+Iowa,Ames,2024-10-22,3.087,3.572,3.75,3.446
+Iowa,Cedar Rapids,2024-10-22,2.912,3.329,3.713,3.518
+Iowa,Council Bluffs,2024-10-22,2.968,3.311,3.783,3.463
+Iowa,Davenport-Moline-Rock Island (IA only),2024-10-22,2.895,3.274,3.811,3.58
+Iowa,Des Moines,2024-10-22,2.899,3.29,3.631,3.445
+Iowa,Dubuque,2024-10-22,3.13,3.408,3.983,3.443
+Iowa,Iowa City,2024-10-22,2.961,3.446,3.722,3.429
+Iowa,Sioux City (IA only),2024-10-22,2.766,3.133,3.544,3.331
+Iowa,Waterloo-Cedar Falls,2024-10-22,3.071,3.48,3.991,3.568
+Maine,Bangor,2024-10-22,3.054,3.563,4.049,3.818
+Maine,Lewiston-Auburn,2024-10-22,3.096,3.635,4.035,3.925
+Maine,Portland,2024-10-22,3.091,3.616,4.074,3.821
+Minnesota,Duluth-Superior (MN only),2024-10-22,2.983,3.441,3.82,3.521
+Minnesota,Houston County,2024-10-22,2.949,0.0,3.869,3.313
+Minnesota,Mankato,2024-10-22,3.098,3.451,3.921,3.557
+Minnesota,Minneapolis-St. Paul (MN only),2024-10-22,3.116,3.567,3.96,3.559
+Minnesota,Moorhead,2024-10-22,3.047,3.325,3.715,3.487
+Minnesota,Polk County,2024-10-22,2.977,3.219,3.491,3.406
+Minnesota,Rochester,2024-10-22,3.176,3.687,4.06,3.457
+Minnesota,St. Cloud,2024-10-22,3.033,3.43,3.893,3.413
+Mississippi,Biloxi-Gulfport-Pascagoula,2024-10-22,2.648,3.035,3.39,3.095
+Mississippi,Hattiesburg,2024-10-22,2.71,3.131,3.536,3.164
+Mississippi,Jackson,2024-10-22,2.724,3.119,3.493,3.138
+Mississippi,South Haven - Olive Branch,2024-10-22,2.734,3.28,3.643,3.305
+Missouri,Cape Girardeau,2024-10-22,2.907,3.183,3.527,3.377
+Missouri,Columbia,2024-10-22,2.951,3.314,3.511,3.282
+Missouri,Jefferson City,2024-10-22,2.994,3.276,3.599,3.338
+Missouri,Joplin,2024-10-22,2.761,3.163,3.479,3.257
+Missouri,Kansas City (MO only),2024-10-22,2.726,3.014,3.313,3.248
+Missouri,Springfield,2024-10-22,2.826,3.193,3.481,3.203
+Missouri,St. Joseph,2024-10-22,2.768,3.168,3.459,3.269
+Missouri,St. Louis (MO only),2024-10-22,2.836,3.207,3.503,3.168
+Nebraska,Columbus,2024-10-22,2.818,3.065,3.639,3.358
+Nebraska,Grand Island,2024-10-22,2.906,3.048,3.587,3.307
+Nebraska,Kearney,2024-10-22,3.154,3.371,3.978,3.357
+Nebraska,Lincoln,2024-10-22,3.05,3.299,3.824,3.362
+Nebraska,Norfolk,2024-10-22,2.865,3.199,3.587,3.22
+Nebraska,North Platte,2024-10-22,3.255,3.202,3.628,3.35
+Nebraska,Omaha (NE only),2024-10-22,2.955,3.253,3.688,3.274
+New Hampshire,Manchester,2024-10-22,3.027,3.645,4.04,3.757
+New Hampshire,Portsmouth-Rochester (NH only),2024-10-22,2.995,3.521,3.948,3.694
+North Dakota,Bismarck,2024-10-22,3.202,3.523,3.994,3.573
+North Dakota,Fargo-Moorhead (ND only),2024-10-22,2.932,3.263,3.677,3.444
+North Dakota,Grand Forks (ND only),2024-10-22,2.863,3.131,3.466,3.554
+North Dakota,Minot,2024-10-22,3.154,3.532,3.803,3.51
+Ohio,Akron,2024-10-22,2.944,3.462,3.969,3.606
+Ohio,Belmont County,2024-10-22,3.021,3.613,4.109,3.616
+Ohio,Canton-Massillon,2024-10-22,2.878,3.395,3.899,3.654
+Ohio,Cincinnati (OH only),2024-10-22,2.949,3.491,4.02,3.621
+Ohio,Cleveland-Lorain-Elyria,2024-10-22,2.959,3.557,4.067,3.703
+Ohio,Columbus,2024-10-22,2.996,3.535,4.065,3.698
+Ohio,Dayton,2024-10-22,2.849,3.445,3.955,3.52
+Ohio,Lawerence County,2024-10-22,2.904,3.488,4.043,3.673
+Ohio,Lima,2024-10-22,2.813,3.446,4.011,3.533
+Ohio,Mansfield,2024-10-22,2.92,3.49,4.06,3.635
+Ohio,Springfield,2024-10-22,2.9,3.478,4.006,3.521
+Ohio,Steubenville-Weirton (OH only),2024-10-22,3.049,3.626,4.145,3.683
+Ohio,Toledo,2024-10-22,2.851,3.418,3.913,3.599
+Ohio,Youngstown-Warren,2024-10-22,2.928,3.527,4.032,3.655
+Washington,Bellingham,2024-10-22,3.914,4.206,4.619,4.162
+Washington,Bremerton,2024-10-22,4.199,4.453,4.673,4.509
+Washington,Clarkson,2024-10-22,3.686,4.249,4.312,3.599
+Washington,Longview,2024-10-22,4.014,4.124,4.29,4.263
+Washington,Mount Vernon-Anacortes,2024-10-22,3.82,4.085,4.306,4.182
+Washington,Olympia,2024-10-22,4.055,4.294,4.5,4.504
+Washington,Richland-Kennewick-Pasco,2024-10-22,3.779,3.98,4.213,4.253
+Washington,Seattle-Bellevue-Everett,2024-10-22,4.277,4.541,4.753,4.573
+Washington,Spokane,2024-10-22,3.801,4.043,4.247,4.137
+Washington,Tacoma,2024-10-22,4.077,4.338,4.583,4.492
+Washington,Vancouver,2024-10-22,3.969,4.193,4.42,4.178
+Washington,Walla Walla,2024-10-22,4.183,4.351,4.443,4.384
+Washington,Wenatchee,2024-10-22,3.965,4.077,4.288,4.229
+Washington,Yakima,2024-10-22,3.777,4.007,4.253,4.216
+California,Bakersfield,2024-11-15,4.46,4.693,4.908,5.039
+California,Chico-Paradise,2024-11-15,4.412,4.584,4.822,4.729
+California,El Centro,2024-11-15,4.424,4.622,4.814,4.826
+California,Fresno,2024-11-15,4.454,4.681,4.903,4.963
+California,Hanford-Corcoran,2024-11-15,4.25,4.525,4.704,4.882
+California,Los Angeles-Long Beach,2024-11-15,4.473,4.699,4.85,4.88
+California,Madera-Chowchilla,2024-11-15,4.482,4.617,4.955,4.93
+California,Merced,2024-11-15,4.375,4.628,4.904,4.997
+California,Modesto,2024-11-15,4.265,4.497,4.7,4.865
+California,Napa,2024-11-15,4.638,4.839,5.012,5.012
+California,Oakland,2024-11-15,4.535,4.781,4.964,4.966
+California,Orange County,2024-11-15,4.378,4.606,4.749,4.671
+California,Redding,2024-11-15,4.278,4.42,4.652,4.779
+California,Riverside,2024-11-15,4.328,4.571,4.734,4.739
+California,Sacramento,2024-11-15,4.437,4.676,4.868,4.853
+California,Salinas,2024-11-15,4.722,4.899,5.099,5.199
+California,San Bernardino,2024-11-15,4.386,4.597,4.778,4.786
+California,San Diego,2024-11-15,4.526,4.752,4.921,4.779
+California,San Francisco,2024-11-15,4.691,4.899,5.097,5.036
+California,San Jose,2024-11-15,4.463,4.706,4.863,4.98
+California,San Luis Obispo-Atascadero-Paso Robles,2024-11-15,4.755,4.992,5.149,5.246
+California,San Rafael,2024-11-15,4.619,4.847,5.021,4.972
+California,Santa Barbara-Santa Maria-Lompoc,2024-11-15,4.494,4.679,4.825,4.913
+California,Santa Cruz-Watsonville,2024-11-15,4.747,4.964,5.153,5.147
+California,Santa Rosa,2024-11-15,4.71,4.923,5.107,5.028
+California,Stockton-Lodi,2024-11-15,4.33,4.598,4.757,4.81
+California,Vallejo-Fairfield,2024-11-15,4.449,4.707,4.88,4.942
+California,Ventura,2024-11-15,4.577,4.779,4.955,5.03
+California,Visalia-Tulare-Porterville,2024-11-15,4.394,4.711,4.912,4.931
+California,Yolo,2024-11-15,4.375,4.655,4.87,4.739
+California,Yuba City,2024-11-15,4.274,4.683,4.731,4.724
+Colorado,Boulder-Longmont,2024-11-15,3.139,3.541,3.935,3.496
+Colorado,Colorado Springs,2024-11-15,2.893,3.303,3.637,3.325
+Colorado,Denver,2024-11-15,2.934,3.353,3.678,3.389
+Colorado,Durango,2024-11-15,3.231,3.499,3.902,3.438
+Colorado,Fort Collins-Loveland,2024-11-15,2.925,3.31,3.588,3.297
+Colorado,Glenwood Springs,2024-11-15,3.525,3.887,4.185,3.796
+Colorado,Grand Junction (CO only),2024-11-15,3.115,3.456,3.778,3.491
+Colorado,Greeley,2024-11-15,2.825,3.249,3.555,3.287
+Colorado,Pueblo,2024-11-15,3.188,3.556,3.86,3.448
+Colorado,Vail,2024-11-15,3.627,3.955,4.212,3.759
+Indiana,Bloomington,2024-11-15,3.14,3.654,4.179,3.719
+Indiana,Clarksville,2024-11-15,2.948,3.412,3.839,3.746
+Indiana,Columbus,2024-11-15,3.111,3.609,4.077,3.512
+Indiana,Dearborn-Franklin-Ohio-Union,2024-11-15,2.963,3.472,3.97,3.617
+Indiana,Elkhart,2024-11-15,3.045,3.584,4.104,3.61
+Indiana,Evansville,2024-11-15,2.864,3.316,3.692,3.666
+Indiana,Fort Wayne,2024-11-15,3.121,3.646,4.194,3.711
+Indiana,Gary,2024-11-15,3.061,3.599,4.115,3.684
+Indiana,Indianapolis,2024-11-15,3.088,3.651,4.181,3.705
+Indiana,Kokomo,2024-11-15,3.062,3.611,4.114,3.655
+Indiana,Lafayette,2024-11-15,3.163,3.699,4.206,3.642
+Indiana,Michigan City-La Porte,2024-11-15,3.107,3.654,4.208,3.639
+Indiana,Muncie,2024-11-15,3.108,3.62,4.182,3.745
+Indiana,South Bend,2024-11-15,3.041,3.602,4.104,3.693
+Indiana,Terre Haute,2024-11-15,3.045,3.564,4.001,3.739
+Iowa,Ames,2024-11-15,2.836,3.071,3.592,3.04
+Iowa,Cedar Rapids,2024-11-15,2.857,3.251,3.626,3.475
+Iowa,Council Bluffs,2024-11-15,2.758,3.021,3.591,3.34
+Iowa,Davenport-Moline-Rock Island (IA only),2024-11-15,2.825,3.176,3.753,3.518
+Iowa,Des Moines,2024-11-15,2.527,2.873,3.273,3.17
+Iowa,Dubuque,2024-11-15,3.004,3.284,3.867,3.356
+Iowa,Iowa City,2024-11-15,2.892,3.328,3.614,3.246
+Iowa,Sioux City (IA only),2024-11-15,2.571,2.997,3.35,3.204
+Iowa,Waterloo-Cedar Falls,2024-11-15,2.884,3.262,3.78,3.538
+Maine,Bangor,2024-11-15,2.994,3.465,3.992,3.796
+Maine,Lewiston-Auburn,2024-11-15,3.061,3.639,3.961,3.871
+Maine,Portland,2024-11-15,3.045,3.586,4.009,3.809
+Minnesota,Duluth-Superior (MN only),2024-11-15,2.877,3.321,3.731,3.479
+Minnesota,Mankato,2024-11-15,2.921,3.335,3.798,3.289
+Minnesota,Minneapolis-St. Paul (MN only),2024-11-15,2.956,3.404,3.808,3.515
+Minnesota,Moorhead,2024-11-15,2.934,3.283,3.716,3.406
+Minnesota,Polk County,2024-11-15,2.787,2.998,3.337,3.324
+Minnesota,Rochester,2024-11-15,2.972,3.548,3.872,3.383
+Minnesota,St. Cloud,2024-11-15,2.811,3.262,3.659,3.308
+Mississippi,Biloxi-Gulfport-Pascagoula,2024-11-15,2.605,2.996,3.329,3.115
+Mississippi,Hattiesburg,2024-11-15,2.614,3.034,3.394,3.079
+Mississippi,Jackson,2024-11-15,2.653,3.087,3.433,3.095
+Mississippi,South Haven - Olive Branch,2024-11-15,2.645,3.247,3.561,3.238
+Missouri,Cape Girardeau,2024-11-15,2.767,3.038,3.429,3.332
+Missouri,Columbia,2024-11-15,2.79,3.138,3.339,3.208
+Missouri,Jefferson City,2024-11-15,2.854,3.12,3.475,3.222
+Missouri,Joplin,2024-11-15,2.603,3.003,3.334,3.102
+Missouri,Kansas City (MO only),2024-11-15,2.637,2.934,3.224,3.179
+Missouri,Springfield,2024-11-15,2.475,2.818,3.138,3.02
+Missouri,St. Joseph,2024-11-15,2.678,3.019,3.279,3.127
+Missouri,St. Louis (MO only),2024-11-15,2.69,3.061,3.359,3.094
+Nebraska,Columbus,2024-11-15,2.678,2.886,3.182,3.349
+Nebraska,Grand Island,2024-11-15,2.926,2.963,3.582,3.238
+Nebraska,Kearney,2024-11-15,2.988,3.355,3.832,3.226
+Nebraska,Lincoln,2024-11-15,2.907,3.155,3.686,3.263
+Nebraska,Norfolk,2024-11-15,2.717,3.105,3.543,3.181
+Nebraska,North Platte,2024-11-15,3.151,3.122,3.627,3.171
+Nebraska,Omaha (NE only),2024-11-15,2.601,2.95,3.348,3.148
+New Hampshire,Manchester,2024-11-15,2.976,3.609,3.997,3.742
+New Hampshire,Portsmouth-Rochester (NH only),2024-11-15,2.891,3.453,3.878,3.662
+North Dakota,Bismarck,2024-11-15,3.03,3.362,3.762,3.599
+North Dakota,Fargo-Moorhead (ND only),2024-11-15,2.754,3.09,3.521,3.35
+North Dakota,Grand Forks (ND only),2024-11-15,2.749,3.039,3.387,3.465
+North Dakota,Minot,2024-11-15,2.989,3.354,3.604,3.463
+Ohio,Akron,2024-11-15,2.869,3.4,3.901,3.501
+Ohio,Belmont County,2024-11-15,2.836,3.404,3.966,3.514
+Ohio,Canton-Massillon,2024-11-15,2.854,3.386,3.903,3.506
+Ohio,Cincinnati (OH only),2024-11-15,2.859,3.397,3.927,3.527
+Ohio,Cleveland-Lorain-Elyria,2024-11-15,2.872,3.448,3.991,3.651
+Ohio,Columbus,2024-11-15,2.907,3.448,3.977,3.631
+Ohio,Dayton,2024-11-15,2.811,3.382,3.895,3.412
+Ohio,Lawerence County,2024-11-15,2.847,3.452,4.025,3.597
+Ohio,Lima,2024-11-15,2.809,3.366,3.9,3.403
+Ohio,Mansfield,2024-11-15,2.873,3.483,4.009,3.54
+Ohio,Springfield,2024-11-15,2.874,3.413,3.925,3.355
+Ohio,Steubenville-Weirton (OH only),2024-11-15,2.883,3.388,3.896,3.617
+Ohio,Toledo,2024-11-15,2.833,3.374,3.876,3.451
+Ohio,Youngstown-Warren,2024-11-15,2.804,3.369,3.912,3.598
+Washington,Bellingham,2024-11-15,3.837,4.206,4.516,4.076
+Washington,Bremerton,2024-11-15,4.158,4.44,4.64,4.514
+Washington,Clarkson,2024-11-15,3.532,3.849,3.874,3.299
+Washington,Longview,2024-11-15,3.926,4.111,4.296,4.236
+Washington,Mount Vernon-Anacortes,2024-11-15,3.756,3.973,4.219,4.149
+Washington,Olympia,2024-11-15,3.938,4.197,4.456,4.483
+Washington,Richland-Kennewick-Pasco,2024-11-15,3.694,3.927,4.21,4.233
+Washington,Seattle-Bellevue-Everett,2024-11-15,4.21,4.465,4.677,4.565
+Washington,Spokane,2024-11-15,3.703,3.959,4.171,4.089
+Washington,Tacoma,2024-11-15,4.001,4.291,4.513,4.484
+Washington,Vancouver,2024-11-15,3.899,4.122,4.367,4.117
+Washington,Walla Walla,2024-11-15,4.186,4.421,4.541,4.533
+Washington,Wenatchee,2024-11-15,3.802,4.039,4.25,4.232
+Washington,Yakima,2024-11-15,3.722,3.997,4.251,4.184
+California,Bakersfield,2024-11-22,4.422,4.667,4.906,5.034
+California,Chico-Paradise,2024-11-22,4.323,4.524,4.749,4.635
+California,El Centro,2024-11-22,4.39,4.605,4.791,4.801
+California,Fresno,2024-11-22,4.411,4.66,4.866,4.917
+California,Hanford-Corcoran,2024-11-22,4.252,4.335,4.691,4.96
+California,Los Angeles-Long Beach,2024-11-22,4.457,4.679,4.839,4.891
+California,Madera-Chowchilla,2024-11-22,4.377,4.652,4.915,4.954
+California,Merced,2024-11-22,4.332,4.612,4.866,4.971
+California,Modesto,2024-11-22,4.188,4.446,4.643,4.847
+California,Napa,2024-11-22,4.594,4.788,4.999,4.978
+California,Oakland,2024-11-22,4.488,4.733,4.913,4.953
+California,Orange County,2024-11-22,4.378,4.592,4.735,4.687
+California,Redding,2024-11-22,4.184,4.333,4.581,4.739
+California,Riverside,2024-11-22,4.326,4.563,4.737,4.771
+California,Sacramento,2024-11-22,4.387,4.616,4.817,4.853
+California,Salinas,2024-11-22,4.678,4.828,5.039,5.169
+California,San Bernardino,2024-11-22,4.374,4.572,4.768,4.806
+California,San Diego,2024-11-22,4.531,4.752,4.921,4.795
+California,San Francisco,2024-11-22,4.64,4.853,5.043,5.019
+California,San Jose,2024-11-22,4.427,4.649,4.821,4.97
+California,San Luis Obispo-Atascadero-Paso Robles,2024-11-22,4.724,4.948,5.115,5.238
+California,San Rafael,2024-11-22,4.549,4.802,4.944,5.064
+California,Santa Barbara-Santa Maria-Lompoc,2024-11-22,4.48,4.621,4.792,4.894
+California,Santa Cruz-Watsonville,2024-11-22,4.721,4.955,5.136,5.158
+California,Santa Rosa,2024-11-22,4.688,4.913,5.074,5.016
+California,Stockton-Lodi,2024-11-22,4.298,4.55,4.748,4.772
+California,Vallejo-Fairfield,2024-11-22,4.4,4.634,4.828,4.923
+California,Ventura,2024-11-22,4.551,4.76,4.925,5.017
+California,Visalia-Tulare-Porterville,2024-11-22,4.357,4.656,4.848,4.901
+California,Yolo,2024-11-22,4.311,4.563,4.795,4.736
+California,Yuba City,2024-11-22,4.221,4.595,4.677,4.695
+Colorado,Boulder-Longmont,2024-11-22,3.028,3.481,3.818,3.395
+Colorado,Colorado Springs,2024-11-22,2.765,3.177,3.504,3.23
+Colorado,Denver,2024-11-22,2.807,3.234,3.552,3.293
+Colorado,Durango,2024-11-22,3.166,3.44,3.832,3.4
+Colorado,Fort Collins-Loveland,2024-11-22,2.829,3.213,3.497,3.211
+Colorado,Glenwood Springs,2024-11-22,3.52,3.886,4.19,3.769
+Colorado,Grand Junction (CO only),2024-11-22,3.062,3.392,3.73,3.457
+Colorado,Greeley,2024-11-22,2.712,3.15,3.458,3.179
+Colorado,Pueblo,2024-11-22,2.989,3.401,3.71,3.363
+Colorado,Vail,2024-11-22,3.582,3.906,4.238,3.672
+Indiana,Bloomington,2024-11-22,2.956,3.495,4.017,3.704
+Indiana,Clarksville,2024-11-22,2.895,3.375,3.779,3.697
+Indiana,Columbus,2024-11-22,2.954,3.467,3.966,3.506
+Indiana,Dearborn-Franklin-Ohio-Union,2024-11-22,2.912,3.409,3.958,3.607
+Indiana,Elkhart,2024-11-22,2.891,3.483,4.001,3.592
+Indiana,Evansville,2024-11-22,2.762,3.234,3.6,3.628
+Indiana,Fort Wayne,2024-11-22,2.829,3.426,3.989,3.659
+Indiana,Gary,2024-11-22,3.143,3.668,4.163,3.685
+Indiana,Indianapolis,2024-11-22,2.908,3.482,4.019,3.672
+Indiana,Kokomo,2024-11-22,2.928,3.528,4.035,3.605
+Indiana,Lafayette,2024-11-22,3.243,3.729,4.238,3.649
+Indiana,Michigan City-La Porte,2024-11-22,3.185,3.695,4.233,3.632
+Indiana,Muncie,2024-11-22,2.88,3.431,3.974,3.716
+Indiana,South Bend,2024-11-22,2.899,3.506,4.026,3.664
+Indiana,Terre Haute,2024-11-22,2.865,3.341,3.832,3.704
+Iowa,Ames,2024-11-22,2.808,3.199,3.546,3.213
+Iowa,Cedar Rapids,2024-11-22,2.855,3.287,3.671,3.435
+Iowa,Council Bluffs,2024-11-22,2.69,2.965,3.507,3.312
+Iowa,Davenport-Moline-Rock Island (IA only),2024-11-22,2.848,3.209,3.76,3.52
+Iowa,Des Moines,2024-11-22,2.568,2.88,3.271,3.273
+Iowa,Dubuque,2024-11-22,2.943,3.235,3.797,3.351
+Iowa,Iowa City,2024-11-22,2.869,3.316,3.633,3.284
+Iowa,Sioux City (IA only),2024-11-22,2.522,2.912,3.307,3.183
+Iowa,Waterloo-Cedar Falls,2024-11-22,2.882,3.282,3.793,3.53
+Maine,Bangor,2024-11-22,3.047,3.542,4.065,3.796
+Maine,Lewiston-Auburn,2024-11-22,3.099,3.614,4.03,3.886
+Maine,Portland,2024-11-22,3.064,3.589,4.029,3.793
+Minnesota,Duluth-Superior (MN only),2024-11-22,2.858,3.302,3.725,3.475
+Minnesota,Houston County,2024-11-22,2.855,0.0,3.799,3.399
+Minnesota,Mankato,2024-11-22,2.836,3.235,3.755,3.264
+Minnesota,Minneapolis-St. Paul (MN only),2024-11-22,2.89,3.356,3.749,3.495
+Minnesota,Moorhead,2024-11-22,2.891,3.191,3.594,3.44
+Minnesota,Polk County,2024-11-22,2.723,2.985,3.376,3.333
+Minnesota,Rochester,2024-11-22,2.925,3.515,3.827,3.382
+Minnesota,St. Cloud,2024-11-22,2.727,3.144,3.615,3.299
+Mississippi,Biloxi-Gulfport-Pascagoula,2024-11-22,2.557,2.926,3.304,3.083
+Mississippi,Hattiesburg,2024-11-22,2.595,3.002,3.364,3.074
+Mississippi,Jackson,2024-11-22,2.646,3.087,3.432,3.091
+Mississippi,South Haven - Olive Branch,2024-11-22,2.626,3.138,3.566,3.23
+Missouri,Cape Girardeau,2024-11-22,2.779,3.012,3.431,3.336
+Missouri,Columbia,2024-11-22,2.848,3.167,3.406,3.208
+Missouri,Jefferson City,2024-11-22,2.834,3.131,3.449,3.205
+Missouri,Joplin,2024-11-22,2.526,2.938,3.244,3.091
+Missouri,Kansas City (MO only),2024-11-22,2.711,3.026,3.313,3.196
+Missouri,Springfield,2024-11-22,2.58,2.892,3.213,3.081
+Missouri,St. Joseph,2024-11-22,2.617,2.957,3.233,3.121
+Missouri,St. Louis (MO only),2024-11-22,2.816,3.165,3.461,3.101
+Nebraska,Columbus,2024-11-22,2.571,2.752,3.204,3.239
+Nebraska,Grand Island,2024-11-22,2.918,3.045,3.559,3.246
+Nebraska,Kearney,2024-11-22,2.916,3.187,3.774,3.224
+Nebraska,Lincoln,2024-11-22,2.878,3.115,3.606,3.242
+Nebraska,Norfolk,2024-11-22,2.704,3.099,3.542,3.16
+Nebraska,North Platte,2024-11-22,3.103,3.086,3.47,3.205
+Nebraska,Omaha (NE only),2024-11-22,2.549,2.873,3.308,3.134
+New Hampshire,Manchester,2024-11-22,2.964,3.602,3.966,3.73
+New Hampshire,Portsmouth-Rochester (NH only),2024-11-22,2.89,3.473,3.866,3.659
+North Dakota,Bismarck,2024-11-22,2.963,3.223,3.796,3.572
+North Dakota,Fargo-Moorhead (ND only),2024-11-22,2.717,3.092,3.459,3.34
+North Dakota,Grand Forks (ND only),2024-11-22,2.739,2.997,3.376,3.525
+North Dakota,Minot,2024-11-22,2.918,3.233,3.494,3.448
+Ohio,Akron,2024-11-22,2.899,3.427,3.931,3.479
+Ohio,Belmont County,2024-11-22,2.917,3.432,3.933,3.524
+Ohio,Canton-Massillon,2024-11-22,2.908,3.429,3.95,3.484
+Ohio,Cincinnati (OH only),2024-11-22,2.876,3.416,3.946,3.515
+Ohio,Cleveland-Lorain-Elyria,2024-11-22,2.913,3.495,4.014,3.627
+Ohio,Columbus,2024-11-22,2.919,3.468,3.987,3.62
+Ohio,Dayton,2024-11-22,2.863,3.418,3.939,3.387
+Ohio,Lawerence County,2024-11-22,2.924,3.542,4.07,3.573
+Ohio,Lima,2024-11-22,2.814,3.381,3.897,3.41
+Ohio,Mansfield,2024-11-22,2.895,3.491,4.027,3.542
+Ohio,Springfield,2024-11-22,2.893,3.439,3.962,3.348
+Ohio,Steubenville-Weirton (OH only),2024-11-22,2.921,3.406,3.934,3.606
+Ohio,Toledo,2024-11-22,2.853,3.415,3.904,3.428
+Ohio,Youngstown-Warren,2024-11-22,2.86,3.426,3.93,3.592
+Washington,Bellingham,2024-11-22,3.847,4.199,4.447,4.104
+Washington,Bremerton,2024-11-22,4.146,4.371,4.629,4.5
+Washington,Clarkson,2024-11-22,3.522,0.0,3.956,3.579
+Washington,Longview,2024-11-22,3.954,4.186,4.351,4.238
+Washington,Mount Vernon-Anacortes,2024-11-22,3.763,3.855,4.209,4.157
+Washington,Olympia,2024-11-22,3.921,4.12,4.386,4.471
+Washington,Richland-Kennewick-Pasco,2024-11-22,3.668,3.909,4.155,4.221
+Washington,Seattle-Bellevue-Everett,2024-11-22,4.182,4.454,4.645,4.542
+Washington,Spokane,2024-11-22,3.656,3.893,4.131,4.064
+Washington,Tacoma,2024-11-22,4.008,4.266,4.496,4.487
+Washington,Vancouver,2024-11-22,3.892,4.085,4.299,4.12
+Washington,Walla Walla,2024-11-22,4.181,4.283,4.545,4.472
+Washington,Wenatchee,2024-11-22,3.811,3.985,4.204,4.226
+Washington,Yakima,2024-11-22,3.692,3.925,4.186,4.156
