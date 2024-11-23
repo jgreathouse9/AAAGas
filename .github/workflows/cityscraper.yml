@@ -54,6 +54,9 @@ jobs:
           else
             echo "HistoricalGasData.csv not found, skipping commit."
           fi
+
+          # Pull the latest changes from the remote repository to avoid conflicts
+          git pull --rebase origin main || git reset --hard origin/main
           
           # Commit and push changes if there are updates
           if ! git diff-index --quiet HEAD --; then
