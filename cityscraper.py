@@ -276,3 +276,4 @@ def scrape_all_counties():
 
         except Exception as e:
             print(f"Failed to scrape {state_url}: {e}")
+    return pd.DataFrame(all_prices)
