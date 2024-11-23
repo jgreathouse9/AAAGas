@@ -1,4 +1,4 @@
-name: Gas Data Scraper
+name: City Gas Data Scraper
 
 on:
   schedule:
@@ -33,15 +33,15 @@ jobs:
 
       - name: Verify HistoricalGasData.csv exists
         run: |
-          if [ ! -f "CountyPrices/HistoricalGasData.csv" ]; then
+          if [ ! -f "CityPrices/HistoricalGasData.csv" ]; then
             echo "HistoricalGasData.csv file not found!"
             exit 1
           fi
 
-      - name: List files in CountyPrices
+      - name: List files in CityPrices
         run: |
-          echo "Listing files in CountyPrices directory:"
-          ls -l CountyPrices
+          echo "Listing files in CityPrices directory:"
+          ls -l CityPrices
 
       - name: Commit and push HistoricalGasData.csv to repository
         run: |
@@ -49,8 +49,8 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           # Force add the historical gas data file if it exists
-          if [ -f "CountyPrices/HistoricalGasData.csv" ]; then
-            git add -f CountyPrices/HistoricalGasData.csv
+          if [ -f "CityPrices/HistoricalGasData.csv" ]; then
+            git add -f CityPrices/HistoricalGasData.csv
           else
             echo "HistoricalGasData.csv not found, skipping commit."
           fi
@@ -92,19 +92,19 @@ jobs:
 
       - name: Verify all necessary files exist
         run: |
-          if [ ! -f "CountyPrices/LiveScrape.csv" ]; then
+          if [ ! -f "CityPrices/LiveScrape.csv" ]; then
             echo "LiveScrape.csv file not found!"
             exit 1
           fi
-          if [ ! -f "CountyPrices/MasterMergedGas.csv" ]; then
+          if [ ! -f "CityPrices/MasterMergedGas.csv" ]; then
             echo "MasterMergedGas.csv file not found!"
             exit 1
           fi
 
-      - name: List files in CountyPrices
+      - name: List files in CityPrices
         run: |
-          echo "Listing files in CountyPrices directory:"
-          ls -l CountyPrices
+          echo "Listing files in CityPrices directory:"
+          ls -l CityPrices
 
       - name: Commit and push all files to repository
         run: |
@@ -112,14 +112,14 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
           # Dynamically add files if they exist
-          if [ -f "CountyPrices/HistoricalGasData.csv" ]; then
-            git add -f CountyPrices/HistoricalGasData.csv
+          if [ -f "CityPrices/HistoricalGasData.csv" ]; then
+            git add -f CityPrices/HistoricalGasData.csv
           fi
-          if [ -f "CountyPrices/LiveScrape.csv" ]; then
-            git add -f CountyPrices/LiveScrape.csv
+          if [ -f "CityPrices/LiveScrape.csv" ]; then
+            git add -f CityPrices/LiveScrape.csv
           fi
           if [ -f "CountyPrices/MasterMergedGas.csv" ]; then
-            git add -f CountyPrices/MasterMergedGas.csv
+            git add -f CityPrices/MasterMergedGas.csv
           fi
           
           # Commit and push changes if there are updates
