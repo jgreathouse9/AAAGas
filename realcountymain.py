@@ -7,7 +7,7 @@ all_gas_prices = scrape_all_counties()
 
 
 # Convert the list of dictionaries to a pandas DataFrame
-df = pd.DataFrame(all_prices)
+df = pd.DataFrame(all_gas_prices)
 
 # Ensure the directory exists
 directory = "/RealCounty"
