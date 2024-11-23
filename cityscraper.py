@@ -7,6 +7,8 @@ import os
 import re
 import matplotlib.pyplot as plt
 import matplotlib
+from selenium import webdriver
+import time
 
 # Custom theme for matplotlib
 jared_theme = {
@@ -163,14 +165,6 @@ def plot_city_gas_prices(master_df: pd.DataFrame, cities: list, output_file: str
     plt.savefig(output_file)
     plt.close()
 
-
-
-import requests
-from selenium import webdriver
-from bs4 import BeautifulSoup
-import re
-import time
-
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
 }
@@ -263,20 +257,22 @@ def get_gas_prices(url):
 def scrape_all_counties():
     """
     Scrapes gas prices for all states in the nation by iterating through state URLs.
-
+    
     Returns:
         dict: A dictionary where keys are state names and values are dictionaries of region prices.
     """
     all_state_urls = scrape_state_urls()
-    all_prices = {}
+    all_prices = []
 
     for state_url in all_state_urls:
         try:
             print(f"Scraping data for: {state_url}")
             state_prices = get_gas_prices(state_url)
             state_name = state_url.split('=')[-1].upper()  # Extract state name from URL
-            all_prices[state_name] = state_prices
+
+            # Flatten the state_prices dictionary and append to the all_prices list
+            for region, price in state_prices.items():
+                all_prices.append({"State": state_name, "Region": region, "Price": price})
+
         except Exception as e:
             print(f"Failed to scrape {state_url}: {e}")
-
-    return all_prices
