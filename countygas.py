@@ -1,4 +1,4 @@
-from countyscraper import get_all_state_data
+from cityscraper import get_all_state_data
 import os
 import pandas as pd
 
