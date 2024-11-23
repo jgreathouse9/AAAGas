@@ -162,3 +162,121 @@ def plot_city_gas_prices(master_df: pd.DataFrame, cities: list, output_file: str
     plt.tight_layout()
     plt.savefig(output_file)
     plt.close()
+
+
+
+import requests
+from selenium import webdriver
+from bs4 import BeautifulSoup
+import re
+import time
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+}
+
+
+def find_map_config_variable(url, driver=None):
+    """
+    Extracts the map configuration JavaScript variable from a given URL.
+
+    Args:
+        url (str): The URL of the webpage to scrape.
+        driver (selenium.webdriver.Chrome, optional): Reuse an existing WebDriver instance.
+
+    Returns:
+        str: The name of the JavaScript variable (e.g., 'premiumhtml5map_map_cfg_45').
+
+    Raises:
+        Exception: If the variable name cannot be found in the page source.
+    """
+    # Initialize WebDriver if not provided
+    driver_provided = driver is not None
+    if not driver_provided:
+        driver = webdriver.Chrome()
+
+    # Load the page
+    driver.get(url)
+    time.sleep(5)  # Adjust based on page load time
+
+    # Get the page source
+    page_source = driver.page_source
+
+    # Parse with BeautifulSoup
+    soup = BeautifulSoup(page_source, 'html.parser')
+
+    # Search for the variable name in <script> tags
+    pattern = r'premiumhtml5map_map_cfg_\d+'
+    script_var = None
+
+    for script in soup.find_all('script'):
+        if script.string and re.search(pattern, script.string):
+            script_var = re.search(pattern, script.string).group(0)
+            break
+
+    # Close WebDriver if it was created here
+    if not driver_provided:
+        driver.quit()
+
+    # Raise an exception if the variable name wasn't found
+    if not script_var:
+        raise Exception("Unable to find the map configuration variable in the page source.")
+
+    return script_var
+
+
+def get_gas_prices(url):
+    """
+    Scrapes gas prices for each region from the AAA gas prices webpage.
+
+    Args:
+        url (str): The URL of the webpage to scrape.
+
+    Returns:
+        dict: A dictionary with region names as keys and gas prices as values.
+    """
+    # Initialize WebDriver
+    driver = webdriver.Chrome()
+    driver.get(url)
+    time.sleep(5)  # Adjust based on page load time
+
+    # Find the map configuration variable dynamically
+    script_var = find_map_config_variable(url, driver)
+
+    # Execute JavaScript to retrieve the map configuration object
+    script = f"return window.{script_var};"
+    config_data = driver.execute_script(script)
+
+    # Extract region names and their prices from map_data
+    gas_prices = {}
+    for key, region in config_data['map_data'].items():
+        region_name = region['name']
+        price = region['comment']
+        gas_prices[region_name] = price
+
+    # Close the WebDriver
+    driver.quit()
+
+    return gas_prices
+
+
+def scrape_all_counties():
+    """
+    Scrapes gas prices for all states in the nation by iterating through state URLs.
+
+    Returns:
+        dict: A dictionary where keys are state names and values are dictionaries of region prices.
+    """
+    all_state_urls = scrape_state_urls()
+    all_prices = {}
+
+    for state_url in all_state_urls:
+        try:
+            print(f"Scraping data for: {state_url}")
+            state_prices = get_gas_prices(state_url)
+            state_name = state_url.split('=')[-1].upper()  # Extract state name from URL
+            all_prices[state_name] = state_prices
+        except Exception as e:
+            print(f"Failed to scrape {state_url}: {e}")
+
+    return all_prices
