@@ -9127,3 +9127,798 @@ Wisconsin,Superior,2024-11-23,2.887,3.359,3.75,3.343
 Wisconsin,Wausau,2024-11-23,2.815,3.305,3.773,3.284
 Wyoming,Casper,2024-11-23,2.803,3.113,3.413,3.324
 Wyoming,Cheyenne,2024-11-23,3.03,3.333,3.581,3.437
+Arizona,East Valley,2023-11-23,3.63,3.981,4.281,4.26
+Arizona,Flagstaff,2023-11-23,3.762,3.988,4.269,4.626
+Arizona,Glendale,2023-11-23,3.551,3.926,4.206,4.205
+Arizona,Lake Havasu-Kingman,2023-11-23,3.759,3.956,4.235,4.59
+Arizona,Peoria,2023-11-23,3.622,3.983,4.235,4.252
+Arizona,Phoenix Proper,2023-11-23,3.538,3.878,4.169,4.212
+Arizona,Phoenix-Mesa,2023-11-23,3.579,3.922,4.213,4.26
+Arizona,Pima County,2023-11-23,3.227,3.554,3.837,4.193
+Arizona,Prescott,2023-11-23,3.702,4.033,4.345,4.464
+Arizona,Scottsdale,2023-11-23,3.786,4.115,4.399,4.538
+Arizona,Sierra Vista-Douglas,2023-11-23,3.609,3.9,4.17,4.389
+Arizona,Tucson,2023-11-23,3.227,3.556,3.842,4.197
+Arizona,West Valley,2023-11-23,3.575,3.948,4.208,4.223
+Arizona,Yuma,2023-11-23,3.572,3.986,4.179,4.732
+Colorado,Boulder-Longmont,2023-11-23,3.166,3.593,3.866,4.242
+Colorado,Colorado Springs,2023-11-23,2.871,3.295,3.604,4.027
+Colorado,Denver,2023-11-23,2.943,3.356,3.669,4.021
+Colorado,Durango,2023-11-23,3.467,3.711,4.012,4.411
+Colorado,Fort Collins-Loveland,2023-11-23,3.147,3.558,3.86,4.192
+Colorado,Glenwood Springs,2023-11-23,3.767,4.136,4.199,4.23
+Colorado,Grand Junction (CO only),2023-11-23,3.595,3.94,4.205,4.268
+Colorado,Greeley,2023-11-23,2.807,3.239,3.514,3.88
+Colorado,Pueblo,2023-11-23,3.06,3.436,3.753,4.128
+Colorado,Vail,2023-11-23,3.609,3.923,4.194,4.34
+Nebraska,Columbus,2023-11-23,2.969,3.086,3.805,4.249
+Nebraska,Grand Island,2023-11-23,3.074,3.178,3.7,4.025
+Nebraska,Kearney,2023-11-23,3.405,3.643,4.227,4.231
+Nebraska,Lincoln,2023-11-23,3.271,3.447,4.046,4.302
+Nebraska,Norfolk,2023-11-23,3.095,3.467,4.066,4.099
+Nebraska,North Platte,2023-11-23,3.528,3.469,3.886,3.812
+Nebraska,Omaha (NE only),2023-11-23,2.873,3.211,3.627,4.142
+Nevada,Las Vegas (NV only),2023-11-23,4.175,4.463,4.697,4.691
+Nevada,Reno,2023-11-23,4.63,4.869,5.061,4.784
+New Hampshire,Manchester,2023-11-23,3.288,3.872,4.283,4.311
+New Hampshire,Portsmouth-Rochester (NH only),2023-11-23,3.155,3.641,4.059,4.25
+New Jersey,Atlantic City,2023-11-23,3.277,3.812,4.016,4.305
+New Jersey,Bergen-Passaic,2023-11-23,3.284,3.94,4.257,4.394
+New Jersey,Cape May,2023-11-23,3.386,3.899,4.045,4.451
+New Jersey,Middlesex-Somerset-Hunterdon,2023-11-23,3.294,3.902,4.213,4.307
+New Jersey,Monmouth-Ocean,2023-11-23,3.319,3.925,4.203,4.385
+New Jersey,Newark,2023-11-23,3.333,4.023,4.308,4.408
+New Jersey,Parsippany-Troy Hills,2023-11-23,3.285,3.985,4.22,4.36
+New Jersey,Philadelphia (NJ Only),2023-11-23,3.211,3.799,4.003,4.261
+New Jersey,Trenton,2023-11-23,3.343,3.898,4.226,4.387
+New Jersey,Vineland,2023-11-23,3.229,3.754,3.918,4.303
+New Jersey,Warren County,2023-11-23,3.236,3.811,4.101,4.213
+New Mexico,Albuquerque,2023-11-23,2.837,3.239,3.544,3.933
+New Mexico,Farmington,2023-11-23,3.85,4.157,4.428,4.612
+New Mexico,Las Cruces,2023-11-23,2.806,3.184,3.481,3.98
+New Mexico,Santa Fe,2023-11-23,2.95,3.346,3.625,4.268
+New York,Albany-Schenectady-Troy,2023-11-23,3.521,4.096,4.511,4.481
+New York,Batavia,2023-11-23,3.627,4.101,4.48,4.678
+New York,Binghamton,2023-11-23,3.683,4.126,4.527,4.637
+New York,Buffalo-Niagara Falls,2023-11-23,3.669,4.081,4.451,4.654
+New York,Dutchess-Putnam County,2023-11-23,3.571,4.214,4.564,4.507
+New York,Elmira,2023-11-23,3.335,3.727,4.081,4.466
+New York,Glens Falls,2023-11-23,3.632,4.129,4.567,4.475
+New York,Ithaca,2023-11-23,3.616,4.052,4.434,4.672
+New York,Kingston,2023-11-23,3.43,3.975,4.38,4.421
+New York,Nassau-Suffolk,2023-11-23,3.446,4.005,4.338,4.575
+New York,New York,2023-11-23,3.629,4.115,4.499,4.87
+New York,Rochester,2023-11-23,3.664,4.097,4.453,4.668
+New York,Syracuse,2023-11-23,3.6,4.038,4.426,4.574
+New York,Utica-Rome,2023-11-23,3.624,4.114,4.545,4.574
+New York,Watertown-Fort Drum,2023-11-23,3.574,3.981,4.418,4.579
+New York,White Plains,2023-11-23,3.675,4.335,4.679,4.718
+North Carolina,Asheville,2023-11-23,3.244,3.677,4.059,4.216
+North Carolina,Burlington,2023-11-23,3.069,3.497,3.874,4.093
+North Carolina,Charlotte-Gastonia-Rock Hill (NC only),2023-11-23,3.001,3.429,3.797,4.106
+North Carolina,Durham-Chapel Hill,2023-11-23,3.169,3.561,3.948,4.187
+North Carolina,Fayetteville,2023-11-23,3.022,3.416,3.8,3.944
+North Carolina,Goldsboro,2023-11-23,3.066,3.549,3.957,4.182
+North Carolina,Greensboro,2023-11-23,3.062,3.496,3.86,4.099
+North Carolina,Hickory-Lenoir-Morganton,2023-11-23,2.983,3.434,3.81,4.06
+North Carolina,Jacksonville,2023-11-23,3.038,3.405,3.835,3.992
+North Carolina,New Bern,2023-11-23,3.014,3.416,3.805,4.036
+North Carolina,Norfolk-Virginia Beach-Newport News,2023-11-23,3.107,3.492,3.836,4.088
+North Carolina,Raleigh,2023-11-23,3.074,3.488,3.848,4.122
+North Carolina,Rocky Mount,2023-11-23,3.067,3.478,3.817,4.034
+North Carolina,Wilmington,2023-11-23,3.045,3.473,3.845,4.034
+North Carolina,Winston-Salem,2023-11-23,3.051,3.491,3.865,4.058
+North Dakota,Bismarck,2023-11-23,3.214,3.449,3.894,4.236
+North Dakota,Fargo-Moorhead (ND only),2023-11-23,3.018,3.277,3.716,4.213
+North Dakota,Grand Forks (ND only),2023-11-23,3.015,3.228,3.519,4.272
+North Dakota,Minot,2023-11-23,3.201,3.577,3.962,4.255
+Oklahoma,Lawton,2023-11-23,2.676,3.03,3.312,3.868
+Oklahoma,Le Flore-Sequoyah,2023-11-23,2.95,3.303,3.642,4.036
+Oklahoma,Oklahoma City,2023-11-23,2.804,3.173,3.418,3.905
+Oklahoma,Tulsa,2023-11-23,2.656,2.887,3.157,3.882
+Oregon,Albany,2023-11-23,3.76,3.904,4.21,4.277
+Oregon,Bend,2023-11-23,3.984,4.192,4.429,4.635
+Oregon,Corvallis,2023-11-23,3.752,3.976,4.038,4.202
+Oregon,Eugene-Springfield,2023-11-23,3.832,4.059,4.258,4.531
+Oregon,Grants Pass,2023-11-23,4.145,4.261,4.441,4.737
+Oregon,Medford-Ashland,2023-11-23,4.028,4.24,4.487,4.665
+Oregon,Pendleton,2023-11-23,3.772,4.044,4.345,4.322
+Oregon,Portland-Vancouver (OR only),2023-11-23,4.296,4.534,4.736,4.899
+Oregon,Salem,2023-11-23,3.881,4.049,4.288,4.679
+Rhode Island,Providence-Fall River-Warwick (RI only),2023-11-23,3.339,3.969,4.296,4.419
+South Dakota,North Sioux City,2023-11-23,3.071,3.171,4.075,3.858
+South Dakota,Rapid City,2023-11-23,3.368,3.425,3.947,4.163
+South Dakota,Sioux Falls,2023-11-23,3.038,3.366,3.903,4.141
+Tennessee,Chattanooga (TN only),2023-11-23,2.724,3.082,3.417,3.786
+Tennessee,Clarksville-Hopkinsville (TN only),2023-11-23,2.821,3.2,3.535,3.92
+Tennessee,Cleveland,2023-11-23,2.83,3.275,3.66,4.03
+Tennessee,Jackson,2023-11-23,2.968,3.469,3.68,4.136
+Tennessee,Johnson City,2023-11-23,2.905,3.302,3.723,4.05
+Tennessee,Kingsport-Bristol,2023-11-23,2.869,3.261,3.636,4.061
+Tennessee,Knoxville,2023-11-23,2.883,3.251,3.628,3.907
+Tennessee,Memphis (TN only),2023-11-23,2.938,3.394,3.809,4.158
+Tennessee,Morristown,2023-11-23,2.971,3.364,3.807,3.982
+Tennessee,Nashville,2023-11-23,2.951,3.372,3.75,4.014
+Texas,Abilene,2023-11-23,2.593,2.991,3.339,3.586
+Texas,Amarillo,2023-11-23,2.681,3.004,3.324,4.001
+Texas,Austin-San Marcos,2023-11-23,2.71,3.154,3.494,3.697
+Texas,Beaumont-Port Arthur,2023-11-23,2.709,3.154,3.598,3.702
+Texas,Brownsville-Harlingen,2023-11-23,2.732,3.097,3.421,3.638
+Texas,College Station-Bryan,2023-11-23,2.927,3.427,3.744,3.87
+Texas,Corpus Christi,2023-11-23,2.749,3.109,3.441,3.553
+Texas,Dallas,2023-11-23,2.759,3.144,3.475,3.608
+Texas,El Paso,2023-11-23,2.808,3.264,3.584,3.854
+Texas,Fort Worth-Arlington,2023-11-23,2.762,3.146,3.484,3.617
+Texas,Galveston-Texas City,2023-11-23,2.732,3.223,3.571,3.791
+Texas,Houston,2023-11-23,2.711,3.229,3.603,3.744
+Texas,Killeen-Temple-Fort Hood,2023-11-23,2.65,3.015,3.272,3.581
+Texas,Laredo,2023-11-23,2.721,3.109,3.448,3.642
+Texas,Longview,2023-11-23,2.698,3.124,3.469,3.72
+Texas,Lubbock,2023-11-23,2.735,3.152,3.437,3.764
+Texas,McAllen-Edinburg-Mission,2023-11-23,2.715,3.083,3.41,3.521
+Texas,Midland,2023-11-23,2.861,3.294,3.534,3.955
+Texas,Odessa,2023-11-23,2.753,3.195,3.428,3.881
+Texas,San Angelo,2023-11-23,2.7,3.092,3.416,3.769
+Texas,San Antonio,2023-11-23,2.619,3.034,3.371,3.615
+Texas,Sherman-Denison,2023-11-23,2.706,3.059,3.417,3.478
+Texas,Texarkana (TX only),2023-11-23,2.72,3.035,3.381,3.643
+Texas,Tyler,2023-11-23,2.624,2.98,3.385,3.624
+Texas,Victoria,2023-11-23,2.604,2.946,3.322,3.704
+Texas,Waco,2023-11-23,2.688,3.092,3.42,3.65
+Texas,Wichita Falls,2023-11-23,2.632,3.129,3.375,3.677
+Utah,Logan,2023-11-23,3.467,3.681,3.866,4.242
+Utah,Ogden,2023-11-23,3.208,3.471,3.681,4.145
+Utah,Provo-Orem,2023-11-23,3.142,3.397,3.594,4.159
+Utah,Salt Lake City,2023-11-23,3.108,3.365,3.588,4.169
+Utah,St. George,2023-11-23,3.664,3.9,4.09,4.289
+Vermont,Burlington,2023-11-23,3.496,4.069,4.455,4.439
+Virginia,Blacksburg-Christiansburg-Radford,2023-11-23,3.196,3.646,3.997,4.128
+Virginia,Bristol-Scott-Washington,2023-11-23,3.056,3.474,3.798,4.118
+Virginia,Charlottesville,2023-11-23,3.097,3.525,3.873,4.075
+Virginia,Fredericksburg,2023-11-23,3.017,3.416,3.742,4.03
+Virginia,Harrisonburg,2023-11-23,3.119,3.449,3.78,4.255
+Virginia,Lynchburg,2023-11-23,3.044,3.484,3.817,4.197
+Virginia,Norfolk-Virginia Beach-Newport News,2023-11-23,3.089,3.546,3.904,4.089
+Virginia,Richmond-Petersburg,2023-11-23,3.066,3.53,3.865,4.055
+Virginia,Roanoke,2023-11-23,3.081,3.506,3.908,4.192
+Virginia,Staunton-Waynesboro,2023-11-23,3.148,3.54,3.914,4.198
+Virginia,"Washington, DC, (VA Only)",2023-11-23,3.272,3.77,4.105,4.261
+Virginia,Winchester,2023-11-23,3.112,3.465,3.771,4.173
+Washington,Bellingham,2023-11-23,4.118,4.495,4.671,4.806
+Washington,Bremerton,2023-11-23,4.392,4.642,4.876,5.167
+Washington,Clarkson,2023-11-23,3.954,0.0,4.259,4.579
+Washington,Longview,2023-11-23,4.274,4.522,4.708,5.147
+Washington,Mount Vernon-Anacortes,2023-11-23,4.048,4.207,4.404,4.892
+Washington,Olympia,2023-11-23,4.445,4.584,4.871,5.402
+Washington,Richland-Kennewick-Pasco,2023-11-23,4.262,4.45,4.676,5.078
+Washington,Seattle-Bellevue-Everett,2023-11-23,4.641,4.881,5.07,5.459
+Washington,Spokane,2023-11-23,4.218,4.463,4.69,4.931
+Washington,Tacoma,2023-11-23,4.338,4.536,4.76,5.298
+Washington,Vancouver,2023-11-23,4.46,4.666,4.821,5.024
+Washington,Walla Walla,2023-11-23,4.623,4.963,5.179,5.309
+Washington,Wenatchee,2023-11-23,4.037,4.138,4.361,4.756
+Washington,Yakima,2023-11-23,4.052,4.457,4.52,4.976
+West Virginia,Beckley,2023-11-23,3.283,3.59,3.92,4.253
+West Virginia,Charleston,2023-11-23,3.264,3.668,4.028,4.144
+West Virginia,Hampshire County,2023-11-23,3.534,3.829,3.999,4.263
+West Virginia,Huntington,2023-11-23,3.125,3.498,3.791,4.188
+West Virginia,Jefferson County,2023-11-23,3.156,3.553,3.916,4.018
+West Virginia,Mineral County,2023-11-23,3.253,3.422,3.722,4.151
+West Virginia,Morgantown,2023-11-23,3.175,3.505,3.855,4.113
+West Virginia,Parkersburg-Marietta (WV only),2023-11-23,2.98,3.408,3.789,4.198
+West Virginia,Steubenville-Weirton (WV only),2023-11-23,3.055,3.443,3.862,4.043
+West Virginia,"Washington, DC (WV Only)",2023-11-23,3.055,3.421,3.784,4.073
+West Virginia,Wheeling (WV only),2023-11-23,2.987,3.402,3.828,4.011
+Wisconsin,Appleton,2023-11-23,2.926,3.433,3.874,3.977
+Wisconsin,Eau Claire,2023-11-23,2.931,3.294,3.745,3.981
+Wisconsin,Fond du Lac,2023-11-23,2.986,3.51,3.844,4.002
+Wisconsin,Green Bay,2023-11-23,2.983,3.466,3.962,4.077
+Wisconsin,Janesville-Beloit,2023-11-23,2.949,3.461,3.86,3.946
+Wisconsin,Kenosha County,2023-11-23,3.002,3.511,3.881,4.065
+Wisconsin,La Crosse (WI only),2023-11-23,2.953,3.309,3.965,3.999
+Wisconsin,Madison,2023-11-23,2.996,3.534,3.903,4.011
+Wisconsin,Milwaukee-Waukesha,2023-11-23,2.901,3.403,3.793,3.974
+Wisconsin,Oshkosh,2023-11-23,2.976,3.431,3.884,4.005
+Wisconsin,Pierce -St. Croix County,2023-11-23,3.099,3.468,3.92,4.062
+Wisconsin,Racine,2023-11-23,2.949,3.421,3.833,3.987
+Wisconsin,Sheboygan,2023-11-23,3.007,3.561,3.971,3.894
+Wisconsin,Superior,2023-11-23,3.01,3.336,3.834,4.33
+Wisconsin,Wausau,2023-11-23,2.959,3.506,3.824,3.991
+Wyoming,Casper,2023-11-23,2.652,2.936,3.266,4.114
+Wyoming,Cheyenne,2023-11-23,3.105,3.402,3.67,4.314
+Arizona,East Valley,2024-10-23,3.367,3.703,4.027,3.49
+Arizona,Flagstaff,2024-10-23,3.368,3.646,4.014,3.584
+Arizona,Glendale,2024-10-23,3.175,3.505,3.841,3.456
+Arizona,Lake Havasu-Kingman,2024-10-23,3.281,3.467,3.812,3.506
+Arizona,Peoria,2024-10-23,3.27,3.631,3.934,3.518
+Arizona,Phoenix Proper,2024-10-23,3.258,3.602,3.911,3.583
+Arizona,Phoenix-Mesa,2024-10-23,3.302,3.645,3.957,3.558
+Arizona,Pima County,2024-10-23,3.204,3.545,3.868,3.474
+Arizona,Prescott,2024-10-23,3.347,3.6,3.924,3.54
+Arizona,Scottsdale,2024-10-23,3.459,3.787,4.082,3.725
+Arizona,Sierra Vista-Douglas,2024-10-23,3.306,3.611,3.906,3.535
+Arizona,Tucson,2024-10-23,3.208,3.554,3.875,3.481
+Arizona,West Valley,2024-10-23,3.2,3.546,3.873,3.47
+Arizona,Yuma,2024-10-23,3.156,3.476,3.782,3.377
+Colorado,Boulder-Longmont,2024-10-23,3.274,3.71,4.024,3.518
+Colorado,Colorado Springs,2024-10-23,3.162,3.568,3.886,3.408
+Colorado,Denver,2024-10-23,3.176,3.578,3.893,3.473
+Colorado,Durango,2024-10-23,3.45,3.718,4.074,3.644
+Colorado,Fort Collins-Loveland,2024-10-23,3.167,3.522,3.859,3.366
+Colorado,Glenwood Springs,2024-10-23,3.614,4.032,4.333,3.86
+Colorado,Grand Junction (CO only),2024-10-23,3.251,3.57,3.896,3.522
+Colorado,Greeley,2024-10-23,3.088,3.495,3.833,3.396
+Colorado,Pueblo,2024-10-23,3.419,3.813,4.138,3.498
+Colorado,Vail,2024-10-23,3.768,4.1,4.406,3.807
+Nebraska,Columbus,2024-10-23,2.796,3.065,3.569,3.361
+Nebraska,Grand Island,2024-10-23,2.909,3.124,3.577,3.308
+Nebraska,Kearney,2024-10-23,3.198,3.371,3.843,3.392
+Nebraska,Lincoln,2024-10-23,3.06,3.285,3.825,3.366
+Nebraska,Norfolk,2024-10-23,2.865,3.199,3.665,3.217
+Nebraska,North Platte,2024-10-23,3.277,3.235,3.7,3.321
+Nebraska,Omaha (NE only),2024-10-23,2.955,3.26,3.684,3.267
+Nevada,Las Vegas (NV only),2024-10-23,3.795,4.142,4.386,3.747
+Nevada,Reno,2024-10-23,4.297,4.495,4.642,3.929
+New Hampshire,Manchester,2024-10-23,3.018,3.631,4.022,3.764
+New Hampshire,Portsmouth-Rochester (NH only),2024-10-23,2.987,3.503,3.948,3.68
+New Jersey,Atlantic City,2024-10-23,2.987,3.53,3.766,3.502
+New Jersey,Bergen-Passaic,2024-10-23,2.966,3.613,3.882,3.488
+New Jersey,Cape May,2024-10-23,3.119,3.679,3.797,3.604
+New Jersey,Middlesex-Somerset-Hunterdon,2024-10-23,2.967,3.563,3.836,3.454
+New Jersey,Monmouth-Ocean,2024-10-23,2.986,3.584,3.802,3.557
+New Jersey,Newark,2024-10-23,3.011,3.686,3.967,3.564
+New Jersey,Parsippany-Troy Hills,2024-10-23,2.947,3.536,3.8,3.539
+New Jersey,Philadelphia (NJ Only),2024-10-23,2.92,3.474,3.674,3.467
+New Jersey,Trenton,2024-10-23,2.962,3.564,3.868,3.588
+New Jersey,Vineland,2024-10-23,2.93,3.459,3.628,3.494
+New Jersey,Warren County,2024-10-23,2.893,3.462,3.784,3.501
+New Mexico,Albuquerque,2024-10-23,2.914,3.359,3.661,3.292
+New Mexico,Farmington,2024-10-23,3.346,3.661,3.951,3.573
+New Mexico,Las Cruces,2024-10-23,2.985,3.437,3.771,3.328
+New Mexico,Santa Fe,2024-10-23,2.883,3.301,3.615,3.315
+New York,Albany-Schenectady-Troy,2024-10-23,3.179,3.721,4.169,3.794
+New York,Batavia,2024-10-23,3.342,3.838,4.263,4.022
+New York,Binghamton,2024-10-23,3.252,3.747,4.121,4.007
+New York,Buffalo-Niagara Falls,2024-10-23,3.31,3.783,4.161,4.033
+New York,Dutchess-Putnam County,2024-10-23,3.243,3.884,4.243,3.765
+New York,Elmira,2024-10-23,3.132,3.551,3.88,3.776
+New York,Glens Falls,2024-10-23,3.299,3.79,4.249,3.788
+New York,Ithaca,2024-10-23,3.4,3.828,4.273,3.99
+New York,Kingston,2024-10-23,3.128,3.672,4.085,3.682
+New York,Nassau-Suffolk,2024-10-23,3.031,3.55,3.905,3.749
+New York,New York,2024-10-23,3.125,3.62,3.986,4.117
+New York,Rochester,2024-10-23,3.356,3.826,4.194,4.117
+New York,Syracuse,2024-10-23,3.231,3.713,4.111,3.973
+New York,Utica-Rome,2024-10-23,3.339,3.871,4.316,3.889
+New York,Watertown-Fort Drum,2024-10-23,3.174,3.627,4.084,4.015
+New York,White Plains,2024-10-23,3.318,3.981,4.355,4.076
+North Carolina,Asheville,2024-10-23,2.948,3.365,3.731,3.534
+North Carolina,Burlington,2024-10-23,2.955,3.426,3.805,3.522
+North Carolina,Charlotte-Gastonia-Rock Hill (NC only),2024-10-23,2.982,3.423,3.788,3.464
+North Carolina,Durham-Chapel Hill,2024-10-23,3.069,3.511,3.884,3.608
+North Carolina,Fayetteville,2024-10-23,2.86,3.328,3.763,3.419
+North Carolina,Goldsboro,2024-10-23,2.895,3.354,3.801,3.434
+North Carolina,Greensboro,2024-10-23,2.977,3.438,3.831,3.487
+North Carolina,Hickory-Lenoir-Morganton,2024-10-23,2.871,3.288,3.688,3.408
+North Carolina,Jacksonville,2024-10-23,2.857,3.253,3.673,3.384
+North Carolina,New Bern,2024-10-23,2.858,3.265,3.687,3.299
+North Carolina,Norfolk-Virginia Beach-Newport News,2024-10-23,2.972,3.28,3.83,3.367
+North Carolina,Raleigh,2024-10-23,2.998,3.433,3.788,3.611
+North Carolina,Rocky Mount,2024-10-23,2.913,3.344,3.742,3.423
+North Carolina,Wilmington,2024-10-23,2.885,3.338,3.725,3.509
+North Carolina,Winston-Salem,2024-10-23,2.917,3.381,3.774,3.45
+North Dakota,Bismarck,2024-10-23,3.219,3.52,3.976,3.581
+North Dakota,Fargo-Moorhead (ND only),2024-10-23,2.92,3.258,3.653,3.434
+North Dakota,Grand Forks (ND only),2024-10-23,2.875,3.083,3.475,3.556
+North Dakota,Minot,2024-10-23,3.153,3.504,3.768,3.494
+Oklahoma,Lawton,2024-10-23,2.686,3.077,3.289,3.064
+Oklahoma,Le Flore-Sequoyah,2024-10-23,2.819,3.16,3.485,3.284
+Oklahoma,Oklahoma City,2024-10-23,2.818,3.259,3.486,3.083
+Oklahoma,Tulsa,2024-10-23,2.629,2.853,3.123,3.221
+Oregon,Albany,2024-10-23,3.493,3.699,3.849,3.85
+Oregon,Bend,2024-10-23,3.489,3.633,3.914,3.815
+Oregon,Corvallis,2024-10-23,3.393,3.593,3.745,3.819
+Oregon,Eugene-Springfield,2024-10-23,3.51,3.681,3.925,3.808
+Oregon,Grants Pass,2024-10-23,3.74,3.946,4.127,3.967
+Oregon,Medford-Ashland,2024-10-23,3.677,3.914,4.162,3.951
+Oregon,Pendleton,2024-10-23,3.535,3.779,4.104,3.684
+Oregon,Portland-Vancouver (OR only),2024-10-23,3.807,4.043,4.283,4.04
+Oregon,Salem,2024-10-23,3.564,3.803,4.004,3.994
+Rhode Island,Providence-Fall River-Warwick (RI only),2024-10-23,2.987,3.674,4.017,3.724
+South Dakota,North Sioux City,2024-10-23,3.015,2.939,3.677,3.158
+South Dakota,Rapid City,2024-10-23,3.337,3.44,3.917,3.489
+South Dakota,Sioux Falls,2024-10-23,2.816,3.248,3.649,3.099
+Tennessee,Chattanooga (TN only),2024-10-23,2.789,3.184,3.543,3.171
+Tennessee,Clarksville-Hopkinsville (TN only),2024-10-23,2.819,3.228,3.583,3.33
+Tennessee,Cleveland,2024-10-23,2.828,3.182,3.57,3.302
+Tennessee,Jackson,2024-10-23,2.874,3.389,3.672,3.522
+Tennessee,Johnson City,2024-10-23,2.85,3.278,3.636,3.341
+Tennessee,Kingsport-Bristol,2024-10-23,2.778,3.17,3.55,3.341
+Tennessee,Knoxville,2024-10-23,2.746,3.122,3.53,3.273
+Tennessee,Memphis (TN only),2024-10-23,2.819,3.268,3.664,3.486
+Tennessee,Morristown,2024-10-23,2.712,3.057,3.488,3.351
+Tennessee,Nashville,2024-10-23,2.89,3.335,3.72,3.377
+Texas,Abilene,2024-10-23,2.706,3.089,3.376,3.076
+Texas,Amarillo,2024-10-23,2.625,2.961,3.295,3.046
+Texas,Austin-San Marcos,2024-10-23,2.679,3.151,3.505,3.065
+Texas,Beaumont-Port Arthur,2024-10-23,2.71,3.189,3.578,3.083
+Texas,Brownsville-Harlingen,2024-10-23,2.774,3.228,3.564,3.126
+Texas,College Station-Bryan,2024-10-23,2.76,3.259,3.575,3.154
+Texas,Corpus Christi,2024-10-23,2.821,3.198,3.545,3.099
+Texas,Dallas,2024-10-23,2.692,3.101,3.43,3.09
+Texas,El Paso,2024-10-23,2.955,3.386,3.716,3.224
+Texas,Fort Worth-Arlington,2024-10-23,2.697,3.093,3.422,3.07
+Texas,Galveston-Texas City,2024-10-23,2.748,3.226,3.618,3.172
+Texas,Houston,2024-10-23,2.715,3.249,3.656,3.082
+Texas,Killeen-Temple-Fort Hood,2024-10-23,2.63,3.009,3.297,3.01
+Texas,Laredo,2024-10-23,2.646,3.134,3.469,3.035
+Texas,Longview,2024-10-23,2.719,3.137,3.465,3.102
+Texas,Lubbock,2024-10-23,2.606,2.994,3.274,2.99
+Texas,McAllen-Edinburg-Mission,2024-10-23,2.765,3.233,3.578,3.06
+Texas,Midland,2024-10-23,2.76,3.223,3.515,3.205
+Texas,Odessa,2024-10-23,2.708,3.204,3.432,3.146
+Texas,San Angelo,2024-10-23,2.915,3.385,3.673,3.169
+Texas,San Antonio,2024-10-23,2.641,3.06,3.424,2.995
+Texas,Sherman-Denison,2024-10-23,2.647,3.016,3.341,3.032
+Texas,Texarkana (TX only),2024-10-23,2.694,3.071,3.421,3.1
+Texas,Tyler,2024-10-23,2.651,3.051,3.392,3.074
+Texas,Victoria,2024-10-23,2.736,3.144,3.489,3.075
+Texas,Waco,2024-10-23,2.649,3.002,3.331,3.038
+Texas,Wichita Falls,2024-10-23,2.636,3.012,3.349,3.079
+Utah,Logan,2024-10-23,3.395,3.601,3.807,3.632
+Utah,Ogden,2024-10-23,3.397,3.661,3.885,3.622
+Utah,Provo-Orem,2024-10-23,3.364,3.621,3.836,3.655
+Utah,Salt Lake City,2024-10-23,3.406,3.673,3.899,3.67
+Utah,St. George,2024-10-23,3.505,3.706,3.904,3.576
+Vermont,Burlington,2024-10-23,3.255,3.846,4.23,3.583
+Virginia,Blacksburg-Christiansburg-Radford,2024-10-23,3.053,3.494,3.917,3.476
+Virginia,Bristol-Scott-Washington,2024-10-23,2.938,3.318,3.678,3.484
+Virginia,Charlottesville,2024-10-23,3.149,3.59,3.973,3.545
+Virginia,Fredericksburg,2024-10-23,3.083,3.486,3.865,3.423
+Virginia,Harrisonburg,2024-10-23,3.18,3.596,3.917,3.555
+Virginia,Lynchburg,2024-10-23,2.994,3.447,3.871,3.537
+Virginia,Norfolk-Virginia Beach-Newport News,2024-10-23,2.935,3.405,3.77,3.531
+Virginia,Richmond-Petersburg,2024-10-23,3.106,3.582,3.951,3.505
+Virginia,Roanoke,2024-10-23,2.97,3.418,3.818,3.553
+Virginia,Staunton-Waynesboro,2024-10-23,3.163,3.589,3.961,3.572
+Virginia,"Washington, DC, (VA Only)",2024-10-23,3.182,3.696,4.061,3.654
+Virginia,Winchester,2024-10-23,3.162,3.497,3.879,3.507
+Washington,Bellingham,2024-10-23,3.91,4.185,4.495,4.149
+Washington,Bremerton,2024-10-23,4.196,4.457,4.673,4.521
+Washington,Clarkson,2024-10-23,3.686,4.099,4.312,3.599
+Washington,Longview,2024-10-23,4.005,4.177,4.386,4.261
+Washington,Mount Vernon-Anacortes,2024-10-23,3.818,4.071,4.25,4.207
+Washington,Olympia,2024-10-23,4.056,4.29,4.501,4.522
+Washington,Richland-Kennewick-Pasco,2024-10-23,3.778,3.991,4.211,4.257
+Washington,Seattle-Bellevue-Everett,2024-10-23,4.277,4.551,4.742,4.573
+Washington,Spokane,2024-10-23,3.795,4.04,4.261,4.136
+Washington,Tacoma,2024-10-23,4.072,4.317,4.57,4.505
+Washington,Vancouver,2024-10-23,3.964,4.184,4.401,4.18
+Washington,Walla Walla,2024-10-23,4.197,4.331,4.41,4.438
+Washington,Wenatchee,2024-10-23,3.955,4.089,4.26,4.279
+Washington,Yakima,2024-10-23,3.773,4.04,4.275,4.207
+West Virginia,Beckley,2024-10-23,3.093,3.554,3.925,3.693
+West Virginia,Charleston,2024-10-23,3.037,3.474,3.95,3.564
+West Virginia,Hampshire County,2024-10-23,3.257,3.599,3.992,3.526
+West Virginia,Huntington,2024-10-23,2.959,3.414,3.913,3.702
+West Virginia,Jefferson County,2024-10-23,3.148,3.555,3.962,3.703
+West Virginia,Mineral County,2024-10-23,3.037,3.437,3.817,3.661
+West Virginia,Morgantown,2024-10-23,3.08,3.471,3.909,3.654
+West Virginia,Parkersburg-Marietta (WV only),2024-10-23,3.1,3.543,4.04,3.535
+West Virginia,Steubenville-Weirton (WV only),2024-10-23,3.055,3.543,4.005,3.664
+West Virginia,"Washington, DC (WV Only)",2024-10-23,3.162,3.557,3.969,3.745
+West Virginia,Wheeling (WV only),2024-10-23,2.959,3.419,3.845,3.497
+Wisconsin,Appleton,2024-10-23,2.921,3.449,3.926,3.351
+Wisconsin,Eau Claire,2024-10-23,2.916,4.989,3.82,3.522
+Wisconsin,Fond du Lac,2024-10-23,2.92,3.49,4.009,3.285
+Wisconsin,Green Bay,2024-10-23,2.956,3.437,3.971,3.365
+Wisconsin,Janesville-Beloit,2024-10-23,2.894,3.394,3.855,3.421
+Wisconsin,Kenosha County,2024-10-23,2.893,3.472,3.978,3.619
+Wisconsin,La Crosse (WI only),2024-10-23,2.836,3.349,3.835,3.261
+Wisconsin,Madison,2024-10-23,2.972,3.53,3.983,3.435
+Wisconsin,Milwaukee-Waukesha,2024-10-23,2.828,3.362,3.817,3.392
+Wisconsin,Oshkosh,2024-10-23,2.975,3.508,3.987,3.377
+Wisconsin,Pierce -St. Croix County,2024-10-23,3.045,3.484,3.953,3.499
+Wisconsin,Racine,2024-10-23,2.951,3.437,3.953,3.487
+Wisconsin,Sheboygan,2024-10-23,2.914,3.482,3.938,3.273
+Wisconsin,Superior,2024-10-23,3.015,3.314,3.932,3.403
+Wisconsin,Wausau,2024-10-23,2.886,3.417,3.925,3.31
+Wyoming,Casper,2024-10-23,2.922,3.225,3.506,3.341
+Wyoming,Cheyenne,2024-10-23,3.199,3.482,3.716,3.497
+Arizona,East Valley,2024-11-16,3.223,3.566,3.895,3.479
+Arizona,Flagstaff,2024-11-16,3.315,3.618,3.937,3.611
+Arizona,Glendale,2024-11-16,3.016,3.369,3.685,3.423
+Arizona,Lake Havasu-Kingman,2024-11-16,3.142,3.409,3.701,3.536
+Arizona,Peoria,2024-11-16,3.092,3.449,3.767,3.49
+Arizona,Phoenix Proper,2024-11-16,3.093,3.419,3.749,3.522
+Arizona,Phoenix-Mesa,2024-11-16,3.155,3.497,3.822,3.527
+Arizona,Pima County,2024-11-16,3.1,3.45,3.765,3.425
+Arizona,Prescott,2024-11-16,3.272,3.56,3.901,3.515
+Arizona,Scottsdale,2024-11-16,3.306,3.645,3.932,3.724
+Arizona,Sierra Vista-Douglas,2024-11-16,3.234,3.521,3.841,3.552
+Arizona,Tucson,2024-11-16,3.106,3.457,3.775,3.442
+Arizona,West Valley,2024-11-16,3.03,3.393,3.723,3.447
+Arizona,Yuma,2024-11-16,3.182,3.503,3.821,3.404
+Colorado,Boulder-Longmont,2024-11-16,3.121,3.54,3.891,3.469
+Colorado,Colorado Springs,2024-11-16,2.877,3.286,3.616,3.309
+Colorado,Denver,2024-11-16,2.911,3.331,3.652,3.37
+Colorado,Durango,2024-11-16,3.202,3.474,3.861,3.433
+Colorado,Fort Collins-Loveland,2024-11-16,2.904,3.279,3.601,3.287
+Colorado,Glenwood Springs,2024-11-16,3.525,3.888,4.199,3.752
+Colorado,Grand Junction (CO only),2024-11-16,3.112,3.431,3.771,3.478
+Colorado,Greeley,2024-11-16,2.805,3.214,3.535,3.274
+Colorado,Pueblo,2024-11-16,3.17,3.529,3.783,3.445
+Colorado,Vail,2024-11-16,3.617,3.949,4.201,3.752
+Nebraska,Columbus,2024-11-16,2.694,2.885,3.126,3.359
+Nebraska,Grand Island,2024-11-16,2.911,3.035,3.581,3.244
+Nebraska,Kearney,2024-11-16,2.97,3.175,3.81,3.226
+Nebraska,Lincoln,2024-11-16,2.897,3.127,3.669,3.263
+Nebraska,Norfolk,2024-11-16,2.713,3.105,3.47,3.156
+Nebraska,North Platte,2024-11-16,3.15,3.106,3.588,3.19
+Nebraska,Omaha (NE only),2024-11-16,2.582,2.95,3.356,3.147
+Nevada,Las Vegas (NV only),2024-11-16,3.71,4.051,4.296,3.719
+Nevada,Reno,2024-11-16,4.148,4.333,4.508,3.856
+New Hampshire,Manchester,2024-11-16,2.965,3.584,3.99,3.741
+New Hampshire,Portsmouth-Rochester (NH only),2024-11-16,2.882,3.435,3.869,3.67
+New Jersey,Atlantic City,2024-11-16,2.872,3.424,3.643,3.417
+New Jersey,Bergen-Passaic,2024-11-16,2.916,3.555,3.826,3.452
+New Jersey,Cape May,2024-11-16,2.981,3.473,3.766,3.528
+New Jersey,Middlesex-Somerset-Hunterdon,2024-11-16,2.901,3.496,3.773,3.415
+New Jersey,Monmouth-Ocean,2024-11-16,2.907,3.492,3.711,3.464
+New Jersey,Newark,2024-11-16,2.951,3.588,3.882,3.515
+New Jersey,Parsippany-Troy Hills,2024-11-16,2.883,3.51,3.742,3.472
+New Jersey,Philadelphia (NJ Only),2024-11-16,2.844,3.417,3.625,3.401
+New Jersey,Trenton,2024-11-16,2.888,3.542,3.799,3.509
+New Jersey,Vineland,2024-11-16,2.874,3.448,3.624,3.435
+New Jersey,Warren County,2024-11-16,2.809,3.384,3.685,3.413
+New Mexico,Albuquerque,2024-11-16,2.776,3.204,3.524,3.214
+New Mexico,Farmington,2024-11-16,3.201,3.508,3.803,3.484
+New Mexico,Las Cruces,2024-11-16,2.747,3.225,3.529,3.154
+New Mexico,Santa Fe,2024-11-16,2.742,3.166,3.474,3.225
+New York,Albany-Schenectady-Troy,2024-11-16,3.088,3.646,4.099,3.753
+New York,Batavia,2024-11-16,3.283,3.805,4.177,3.979
+New York,Binghamton,2024-11-16,3.148,3.616,4.001,3.968
+New York,Buffalo-Niagara Falls,2024-11-16,3.212,3.68,4.07,3.984
+New York,Dutchess-Putnam County,2024-11-16,3.127,3.764,4.122,3.71
+New York,Elmira,2024-11-16,3.128,3.595,3.907,3.76
+New York,Glens Falls,2024-11-16,3.22,3.715,4.187,3.76
+New York,Ithaca,2024-11-16,3.36,3.792,4.199,3.963
+New York,Kingston,2024-11-16,3.04,3.557,3.994,3.658
+New York,Nassau-Suffolk,2024-11-16,2.982,3.51,3.85,3.732
+New York,New York,2024-11-16,3.078,3.594,3.944,4.075
+New York,Rochester,2024-11-16,3.272,3.749,4.13,4.076
+New York,Syracuse,2024-11-16,3.177,3.655,4.032,3.92
+New York,Utica-Rome,2024-11-16,3.329,3.866,4.273,3.855
+New York,Watertown-Fort Drum,2024-11-16,3.14,3.577,4.003,3.936
+New York,White Plains,2024-11-16,3.243,3.908,4.245,3.974
+North Carolina,Asheville,2024-11-16,2.909,3.341,3.726,3.496
+North Carolina,Burlington,2024-11-16,2.953,3.414,3.784,3.486
+North Carolina,Charlotte-Gastonia-Rock Hill (NC only),2024-11-16,2.9,3.346,3.703,3.409
+North Carolina,Durham-Chapel Hill,2024-11-16,3.023,3.468,3.841,3.595
+North Carolina,Fayetteville,2024-11-16,2.876,3.344,3.736,3.429
+North Carolina,Goldsboro,2024-11-16,2.915,3.402,3.798,3.372
+North Carolina,Greensboro,2024-11-16,2.948,3.404,3.824,3.481
+North Carolina,Hickory-Lenoir-Morganton,2024-11-16,2.806,3.239,3.644,3.358
+North Carolina,Jacksonville,2024-11-16,2.872,3.28,3.685,3.384
+North Carolina,New Bern,2024-11-16,2.874,3.3,3.706,3.358
+North Carolina,Norfolk-Virginia Beach-Newport News,2024-11-16,2.978,3.303,3.718,3.34
+North Carolina,Raleigh,2024-11-16,2.989,3.436,3.791,3.559
+North Carolina,Rocky Mount,2024-11-16,2.919,3.348,3.715,3.383
+North Carolina,Wilmington,2024-11-16,2.881,3.334,3.745,3.469
+North Carolina,Winston-Salem,2024-11-16,2.923,3.382,3.772,3.401
+North Dakota,Bismarck,2024-11-16,3.02,3.311,3.801,3.579
+North Dakota,Fargo-Moorhead (ND only),2024-11-16,2.752,3.068,3.499,3.33
+North Dakota,Grand Forks (ND only),2024-11-16,2.748,3.001,3.371,3.447
+North Dakota,Minot,2024-11-16,2.99,3.317,3.579,3.466
+Oklahoma,Lawton,2024-11-16,2.473,2.868,3.079,2.914
+Oklahoma,Le Flore-Sequoyah,2024-11-16,2.763,3.128,3.412,3.22
+Oklahoma,Oklahoma City,2024-11-16,2.531,2.991,3.2,2.91
+Oklahoma,Tulsa,2024-11-16,2.58,2.842,3.078,3.054
+Oregon,Albany,2024-11-16,3.339,3.568,3.861,3.696
+Oregon,Bend,2024-11-16,3.281,3.486,3.713,3.734
+Oregon,Corvallis,2024-11-16,3.346,3.51,3.625,3.752
+Oregon,Eugene-Springfield,2024-11-16,3.383,3.637,3.812,3.77
+Oregon,Grants Pass,2024-11-16,3.692,3.842,4.02,3.923
+Oregon,Medford-Ashland,2024-11-16,3.534,3.804,4.002,3.873
+Oregon,Pendleton,2024-11-16,3.421,3.689,4.022,3.642
+Oregon,Portland-Vancouver (OR only),2024-11-16,3.705,3.983,4.219,3.997
+Oregon,Salem,2024-11-16,3.477,3.656,3.937,3.941
+Rhode Island,Providence-Fall River-Warwick (RI only),2024-11-16,2.92,3.61,3.979,3.714
+South Dakota,North Sioux City,2024-11-16,2.815,2.899,3.417,3.022
+South Dakota,Rapid City,2024-11-16,3.123,3.25,3.709,3.408
+South Dakota,Sioux Falls,2024-11-16,2.565,3.048,3.405,2.984
+Tennessee,Chattanooga (TN only),2024-11-16,2.641,3.001,3.372,3.145
+Tennessee,Clarksville-Hopkinsville (TN only),2024-11-16,2.634,3.037,3.376,3.294
+Tennessee,Cleveland,2024-11-16,2.696,3.094,3.408,3.299
+Tennessee,Jackson,2024-11-16,2.779,3.271,3.614,3.547
+Tennessee,Johnson City,2024-11-16,2.793,3.222,3.573,3.322
+Tennessee,Kingsport-Bristol,2024-11-16,2.701,3.108,3.511,3.292
+Tennessee,Knoxville,2024-11-16,2.674,3.055,3.447,3.23
+Tennessee,Memphis (TN only),2024-11-16,2.743,3.267,3.639,3.427
+Tennessee,Morristown,2024-11-16,2.662,3.05,3.482,3.281
+Tennessee,Nashville,2024-11-16,2.726,3.164,3.562,3.35
+Texas,Abilene,2024-11-16,2.499,2.852,3.107,3.038
+Texas,Amarillo,2024-11-16,2.536,2.866,3.21,2.981
+Texas,Austin-San Marcos,2024-11-16,2.614,3.077,3.43,3.048
+Texas,Beaumont-Port Arthur,2024-11-16,2.605,3.086,3.454,3.035
+Texas,Brownsville-Harlingen,2024-11-16,2.574,3.029,3.377,3.042
+Texas,College Station-Bryan,2024-11-16,2.661,3.118,3.501,3.087
+Texas,Corpus Christi,2024-11-16,2.638,3.043,3.366,2.966
+Texas,Dallas,2024-11-16,2.814,3.237,3.563,3.174
+Texas,El Paso,2024-11-16,2.766,3.224,3.554,3.162
+Texas,Fort Worth-Arlington,2024-11-16,2.815,3.218,3.555,3.158
+Texas,Galveston-Texas City,2024-11-16,2.609,3.082,3.47,3.054
+Texas,Houston,2024-11-16,2.607,3.157,3.568,3.022
+Texas,Killeen-Temple-Fort Hood,2024-11-16,2.518,2.913,3.179,2.946
+Texas,Laredo,2024-11-16,2.546,3.017,3.358,2.999
+Texas,Longview,2024-11-16,2.63,3.086,3.421,3.048
+Texas,Lubbock,2024-11-16,2.46,2.851,3.139,2.93
+Texas,McAllen-Edinburg-Mission,2024-11-16,2.574,3.02,3.387,2.977
+Texas,Midland,2024-11-16,2.717,3.24,3.492,3.189
+Texas,Odessa,2024-11-16,2.676,3.162,3.417,3.092
+Texas,San Angelo,2024-11-16,2.569,3.039,3.312,3.114
+Texas,San Antonio,2024-11-16,2.574,2.989,3.356,2.994
+Texas,Sherman-Denison,2024-11-16,2.796,3.166,3.457,3.135
+Texas,Texarkana (TX only),2024-11-16,2.659,3.028,3.37,3.093
+Texas,Tyler,2024-11-16,2.551,2.938,3.293,3.03
+Texas,Victoria,2024-11-16,2.59,2.988,3.321,3.047
+Texas,Waco,2024-11-16,2.6,2.987,3.295,3.011
+Texas,Wichita Falls,2024-11-16,2.559,2.921,3.252,3.035
+Utah,Logan,2024-11-16,3.026,3.272,3.466,3.405
+Utah,Ogden,2024-11-16,3.083,3.358,3.565,3.369
+Utah,Provo-Orem,2024-11-16,3.049,3.32,3.527,3.388
+Utah,Salt Lake City,2024-11-16,3.113,3.386,3.612,3.436
+Utah,St. George,2024-11-16,3.252,3.475,3.692,3.429
+Vermont,Burlington,2024-11-16,3.181,3.705,4.088,3.539
+Virginia,Blacksburg-Christiansburg-Radford,2024-11-16,3.02,3.466,3.867,3.443
+Virginia,Bristol-Scott-Washington,2024-11-16,2.892,3.229,3.577,3.458
+Virginia,Charlottesville,2024-11-16,3.099,3.528,3.914,3.493
+Virginia,Fredericksburg,2024-11-16,3.116,3.559,3.923,3.363
+Virginia,Harrisonburg,2024-11-16,3.135,3.555,3.903,3.516
+Virginia,Lynchburg,2024-11-16,2.966,3.418,3.824,3.501
+Virginia,Norfolk-Virginia Beach-Newport News,2024-11-16,2.863,3.335,3.694,3.49
+Virginia,Richmond-Petersburg,2024-11-16,3.08,3.59,3.944,3.432
+Virginia,Roanoke,2024-11-16,2.953,3.446,3.818,3.521
+Virginia,Staunton-Waynesboro,2024-11-16,3.092,3.529,3.882,3.522
+Virginia,"Washington, DC, (VA Only)",2024-11-16,3.115,3.637,4.001,3.609
+Virginia,Winchester,2024-11-16,3.019,3.415,3.769,3.483
+Washington,Bellingham,2024-11-16,3.838,4.219,4.527,4.069
+Washington,Bremerton,2024-11-16,4.151,4.398,4.632,4.508
+Washington,Clarkson,2024-11-16,3.389,0.0,3.874,3.599
+Washington,Longview,2024-11-16,3.93,4.148,4.309,4.246
+Washington,Mount Vernon-Anacortes,2024-11-16,3.741,3.991,4.247,4.109
+Washington,Olympia,2024-11-16,3.932,4.195,4.424,4.474
+Washington,Richland-Kennewick-Pasco,2024-11-16,3.691,3.928,4.167,4.225
+Washington,Seattle-Bellevue-Everett,2024-11-16,4.21,4.464,4.67,4.55
+Washington,Spokane,2024-11-16,3.696,3.965,4.192,4.083
+Washington,Tacoma,2024-11-16,3.996,4.276,4.503,4.465
+Washington,Vancouver,2024-11-16,3.898,4.131,4.369,4.125
+Washington,Walla Walla,2024-11-16,4.211,4.212,4.567,4.483
+Washington,Wenatchee,2024-11-16,3.798,4.034,4.222,4.22
+Washington,Yakima,2024-11-16,3.704,3.986,4.231,4.185
+West Virginia,Beckley,2024-11-16,3.015,3.455,3.792,3.702
+West Virginia,Charleston,2024-11-16,2.978,3.437,3.892,3.556
+West Virginia,Huntington,2024-11-16,2.913,3.393,3.869,3.689
+West Virginia,Jefferson County,2024-11-16,3.163,3.585,4.009,3.696
+West Virginia,Mineral County,2024-11-16,2.982,3.374,3.666,3.639
+West Virginia,Morgantown,2024-11-16,3.152,3.573,4.019,3.608
+West Virginia,Parkersburg-Marietta (WV only),2024-11-16,2.767,3.207,3.627,3.458
+West Virginia,Steubenville-Weirton (WV only),2024-11-16,3.025,3.55,4.011,3.644
+West Virginia,"Washington, DC (WV Only)",2024-11-16,3.205,3.613,4.021,3.7
+West Virginia,Wheeling (WV only),2024-11-16,2.91,3.345,3.821,3.435
+Wisconsin,Appleton,2024-11-16,2.909,3.359,3.892,3.332
+Wisconsin,Eau Claire,2024-11-16,2.721,4.219,3.661,3.346
+Wisconsin,Fond du Lac,2024-11-16,2.812,3.333,3.912,3.275
+Wisconsin,Green Bay,2024-11-16,2.908,3.401,3.911,3.348
+Wisconsin,Janesville-Beloit,2024-11-16,2.814,3.331,3.8,3.355
+Wisconsin,Kenosha County,2024-11-16,2.851,3.393,3.89,3.608
+Wisconsin,La Crosse (WI only),2024-11-16,2.766,3.184,3.77,3.357
+Wisconsin,Madison,2024-11-16,2.879,3.452,3.889,3.403
+Wisconsin,Milwaukee-Waukesha,2024-11-16,2.801,3.301,3.778,3.387
+Wisconsin,Oshkosh,2024-11-16,2.913,3.403,3.917,3.383
+Wisconsin,Pierce -St. Croix County,2024-11-16,2.924,3.388,3.844,3.472
+Wisconsin,Racine,2024-11-16,2.805,3.3,3.791,3.442
+Wisconsin,Sheboygan,2024-11-16,2.882,3.493,3.903,3.375
+Wisconsin,Superior,2024-11-16,2.9,3.399,3.821,3.417
+Wisconsin,Wausau,2024-11-16,2.834,3.341,3.816,3.316
+Wyoming,Casper,2024-11-16,2.817,3.137,3.441,3.332
+Wyoming,Cheyenne,2024-11-16,3.053,3.37,3.61,3.471
+Arizona,East Valley,2024-11-23,3.272,3.624,3.958,3.463
+Arizona,Flagstaff,2024-11-23,3.283,3.543,3.884,3.629
+Arizona,Glendale,2024-11-23,3.232,3.579,3.911,3.423
+Arizona,Lake Havasu-Kingman,2024-11-23,3.101,3.361,3.692,3.533
+Arizona,Peoria,2024-11-23,3.259,3.606,3.932,3.489
+Arizona,Phoenix Proper,2024-11-23,3.26,3.626,3.93,3.523
+Arizona,Phoenix-Mesa,2024-11-23,3.257,3.604,3.922,3.521
+Arizona,Pima County,2024-11-23,3.097,3.438,3.75,3.396
+Arizona,Prescott,2024-11-23,3.27,3.554,3.886,3.49
+Arizona,Scottsdale,2024-11-23,3.318,3.622,3.937,3.728
+Arizona,Sierra Vista-Douglas,2024-11-23,3.228,3.534,3.803,3.559
+Arizona,Tucson,2024-11-23,3.105,3.45,3.763,3.423
+Arizona,West Valley,2024-11-23,3.235,3.586,3.915,3.434
+Arizona,Yuma,2024-11-23,3.158,3.478,3.781,3.392
+Colorado,Boulder-Longmont,2024-11-23,3.012,3.446,3.821,3.382
+Colorado,Colorado Springs,2024-11-23,2.748,3.163,3.489,3.232
+Colorado,Denver,2024-11-23,2.801,3.227,3.547,3.288
+Colorado,Durango,2024-11-23,3.168,3.441,3.85,3.408
+Colorado,Fort Collins-Loveland,2024-11-23,2.814,3.186,3.48,3.204
+Colorado,Glenwood Springs,2024-11-23,3.507,3.846,4.19,3.789
+Colorado,Grand Junction (CO only),2024-11-23,3.04,3.388,3.707,3.448
+Colorado,Greeley,2024-11-23,2.7,3.135,3.444,3.164
+Colorado,Pueblo,2024-11-23,2.961,3.349,3.675,3.372
+Colorado,Vail,2024-11-23,3.56,3.885,4.205,3.67
+Nebraska,Columbus,2024-11-23,2.559,2.632,3.102,3.137
+Nebraska,Grand Island,2024-11-23,2.937,3.006,3.594,3.238
+Nebraska,Kearney,2024-11-23,2.978,3.205,3.774,3.224
+Nebraska,Lincoln,2024-11-23,2.861,3.089,3.636,3.218
+Nebraska,Norfolk,2024-11-23,2.707,3.099,3.55,3.16
+Nebraska,North Platte,2024-11-23,3.105,3.151,3.6,3.184
+Nebraska,Omaha (NE only),2024-11-23,2.523,2.868,3.28,3.136
+Nevada,Las Vegas (NV only),2024-11-23,3.68,4.012,4.266,3.709
+Nevada,Reno,2024-11-23,4.08,4.252,4.439,3.803
+New Hampshire,Manchester,2024-11-23,2.976,3.598,3.981,3.728
+New Hampshire,Portsmouth-Rochester (NH only),2024-11-23,2.895,3.454,3.861,3.669
+New Jersey,Atlantic City,2024-11-23,2.94,3.428,3.672,3.409
+New Jersey,Bergen-Passaic,2024-11-23,2.973,3.603,3.846,3.458
+New Jersey,Cape May,2024-11-23,3.005,3.559,3.686,3.513
+New Jersey,Middlesex-Somerset-Hunterdon,2024-11-23,2.99,3.548,3.831,3.414
+New Jersey,Monmouth-Ocean,2024-11-23,3.002,3.546,3.77,3.473
+New Jersey,Newark,2024-11-23,3.012,3.63,3.917,3.501
+New Jersey,Parsippany-Troy Hills,2024-11-23,2.967,3.554,3.806,3.478
+New Jersey,Philadelphia (NJ Only),2024-11-23,2.927,3.466,3.655,3.398
+New Jersey,Trenton,2024-11-23,2.959,3.566,3.84,3.507
+New Jersey,Vineland,2024-11-23,2.942,3.467,3.618,3.431
+New Jersey,Warren County,2024-11-23,2.922,3.463,3.797,3.403
+New Mexico,Albuquerque,2024-11-23,2.873,3.322,3.629,3.348
+New Mexico,Farmington,2024-11-23,3.087,3.406,3.692,3.391
+New Mexico,Las Cruces,2024-11-23,2.862,3.369,3.675,3.349
+New Mexico,Santa Fe,2024-11-23,2.891,3.313,3.632,3.311
+New York,Albany-Schenectady-Troy,2024-11-23,3.074,3.625,4.073,3.726
+New York,Batavia,2024-11-23,3.253,3.776,4.188,3.997
+New York,Binghamton,2024-11-23,3.14,3.62,3.96,3.946
+New York,Buffalo-Niagara Falls,2024-11-23,3.193,3.662,4.074,3.979
+New York,Dutchess-Putnam County,2024-11-23,3.131,3.729,4.11,3.683
+New York,Elmira,2024-11-23,3.139,3.541,3.89,3.753
+New York,Glens Falls,2024-11-23,3.214,3.725,4.166,3.768
+New York,Ithaca,2024-11-23,3.365,3.804,4.221,3.997
+New York,Kingston,2024-11-23,3.031,3.555,3.976,3.645
+New York,Nassau-Suffolk,2024-11-23,2.996,3.506,3.857,3.717
+New York,New York,2024-11-23,3.101,3.586,3.954,4.051
+New York,Rochester,2024-11-23,3.269,3.728,4.145,4.074
+New York,Syracuse,2024-11-23,3.171,3.628,4.036,3.912
+New York,Utica-Rome,2024-11-23,3.323,3.809,4.243,3.839
+New York,Watertown-Fort Drum,2024-11-23,3.147,3.601,4.034,3.923
+New York,White Plains,2024-11-23,3.252,3.914,4.248,4.008
+North Carolina,Asheville,2024-11-23,2.904,3.359,3.726,3.503
+North Carolina,Burlington,2024-11-23,2.895,3.346,3.732,3.448
+North Carolina,Charlotte-Gastonia-Rock Hill (NC only),2024-11-23,2.92,3.366,3.727,3.414
+North Carolina,Durham-Chapel Hill,2024-11-23,3.002,3.434,3.814,3.572
+North Carolina,Fayetteville,2024-11-23,2.753,3.198,3.605,3.382
+North Carolina,Goldsboro,2024-11-23,2.793,3.267,3.661,3.356
+North Carolina,Greensboro,2024-11-23,2.898,3.35,3.768,3.453
+North Carolina,Hickory-Lenoir-Morganton,2024-11-23,2.791,3.243,3.619,3.359
+North Carolina,Jacksonville,2024-11-23,2.742,3.149,3.54,3.331
+North Carolina,New Bern,2024-11-23,2.792,3.18,3.594,3.333
+North Carolina,Norfolk-Virginia Beach-Newport News,2024-11-23,2.89,3.248,3.595,3.327
+North Carolina,Raleigh,2024-11-23,2.919,3.364,3.731,3.526
+North Carolina,Rocky Mount,2024-11-23,2.81,3.229,3.617,3.356
+North Carolina,Wilmington,2024-11-23,2.824,3.258,3.686,3.428
+North Carolina,Winston-Salem,2024-11-23,2.85,3.313,3.687,3.378
+North Dakota,Bismarck,2024-11-23,2.958,3.194,3.718,3.578
+North Dakota,Fargo-Moorhead (ND only),2024-11-23,2.718,3.048,3.458,3.342
+North Dakota,Grand Forks (ND only),2024-11-23,2.74,3.025,3.374,3.504
+North Dakota,Minot,2024-11-23,2.909,3.216,3.505,3.488
+Oklahoma,Lawton,2024-11-23,2.382,2.718,2.965,2.905
+Oklahoma,Le Flore-Sequoyah,2024-11-23,2.729,3.08,3.377,3.188
+Oklahoma,Oklahoma City,2024-11-23,2.462,2.9,3.134,2.902
+Oklahoma,Tulsa,2024-11-23,2.567,2.825,3.066,3.097
+Oregon,Albany,2024-11-23,3.333,3.537,3.805,3.683
+Oregon,Bend,2024-11-23,3.341,3.493,3.732,3.742
+Oregon,Corvallis,2024-11-23,3.296,3.521,3.646,3.688
+Oregon,Eugene-Springfield,2024-11-23,3.369,3.572,3.779,3.749
+Oregon,Grants Pass,2024-11-23,3.747,3.912,4.146,3.958
+Oregon,Medford-Ashland,2024-11-23,3.628,3.909,4.09,3.886
+Oregon,Pendleton,2024-11-23,3.412,3.693,4.011,3.63
+Oregon,Portland-Vancouver (OR only),2024-11-23,3.707,3.942,4.186,3.973
+Oregon,Salem,2024-11-23,3.438,3.646,3.932,3.944
+Rhode Island,Providence-Fall River-Warwick (RI only),2024-11-23,2.935,3.626,3.969,3.699
+South Dakota,North Sioux City,2024-11-23,2.716,2.736,3.346,3.027
+South Dakota,Rapid City,2024-11-23,3.107,3.224,3.684,3.429
+South Dakota,Sioux Falls,2024-11-23,2.653,3.029,3.438,3.03
+Tennessee,Chattanooga (TN only),2024-11-23,2.684,3.075,3.439,3.116
+Tennessee,Clarksville-Hopkinsville (TN only),2024-11-23,2.709,3.11,3.468,3.262
+Tennessee,Cleveland,2024-11-23,2.705,3.132,3.467,3.28
+Tennessee,Jackson,2024-11-23,2.773,3.316,3.636,3.573
+Tennessee,Johnson City,2024-11-23,2.775,3.212,3.574,3.327
+Tennessee,Kingsport-Bristol,2024-11-23,2.692,3.094,3.498,3.289
+Tennessee,Knoxville,2024-11-23,2.663,3.045,3.44,3.218
+Tennessee,Memphis (TN only),2024-11-23,2.757,3.275,3.674,3.419
+Tennessee,Morristown,2024-11-23,2.645,3.008,3.483,3.29
+Tennessee,Nashville,2024-11-23,2.774,3.225,3.606,3.328
+Texas,Abilene,2024-11-23,2.683,3.017,3.262,3.044
+Texas,Amarillo,2024-11-23,2.439,2.783,3.126,2.965
+Texas,Austin-San Marcos,2024-11-23,2.704,3.179,3.528,3.029
+Texas,Beaumont-Port Arthur,2024-11-23,2.591,3.064,3.434,3.031
+Texas,Brownsville-Harlingen,2024-11-23,2.615,3.067,3.421,3.154
+Texas,College Station-Bryan,2024-11-23,2.645,3.089,3.5,3.086
+Texas,Corpus Christi,2024-11-23,2.64,3.053,3.392,3.134
+Texas,Dallas,2024-11-23,2.682,3.086,3.416,3.07
+Texas,El Paso,2024-11-23,2.884,3.35,3.667,3.28
+Texas,Fort Worth-Arlington,2024-11-23,2.689,3.088,3.431,3.047
+Texas,Galveston-Texas City,2024-11-23,2.601,3.131,3.518,3.077
+Texas,Houston,2024-11-23,2.6,3.15,3.564,3.026
+Texas,Killeen-Temple-Fort Hood,2024-11-23,2.513,2.922,3.192,2.938
+Texas,Laredo,2024-11-23,2.632,3.091,3.458,3.152
+Texas,Longview,2024-11-23,2.618,3.029,3.407,3.062
+Texas,Lubbock,2024-11-23,2.403,2.786,3.103,2.912
+Texas,McAllen-Edinburg-Mission,2024-11-23,2.618,3.078,3.437,3.137
+Texas,Midland,2024-11-23,2.66,3.187,3.45,3.151
+Texas,Odessa,2024-11-23,2.596,3.082,3.37,3.091
+Texas,San Angelo,2024-11-23,2.787,3.249,3.496,3.213
+Texas,San Antonio,2024-11-23,2.703,3.135,3.478,2.958
+Texas,Sherman-Denison,2024-11-23,2.637,2.995,3.322,3.015
+Texas,Texarkana (TX only),2024-11-23,2.622,2.996,3.34,3.074
+Texas,Tyler,2024-11-23,2.581,2.961,3.342,3.028
+Texas,Victoria,2024-11-23,2.571,2.985,3.33,3.048
+Texas,Waco,2024-11-23,2.555,2.895,3.256,2.978
+Texas,Wichita Falls,2024-11-23,2.535,2.915,3.255,2.974
+Utah,Logan,2024-11-23,2.978,3.21,3.426,3.293
+Utah,Ogden,2024-11-23,3.017,3.3,3.516,3.302
+Utah,Provo-Orem,2024-11-23,2.983,3.243,3.472,3.321
+Utah,Salt Lake City,2024-11-23,3.057,3.33,3.547,3.367
+Utah,St. George,2024-11-23,3.187,3.378,3.598,3.367
+Vermont,Burlington,2024-11-23,3.181,3.678,4.067,3.544
+Virginia,Blacksburg-Christiansburg-Radford,2024-11-23,2.951,3.381,3.753,3.455
+Virginia,Bristol-Scott-Washington,2024-11-23,2.854,3.242,3.561,3.454
+Virginia,Charlottesville,2024-11-23,3.017,3.46,3.82,3.462
+Virginia,Fredericksburg,2024-11-23,2.933,3.337,3.7,3.341
+Virginia,Harrisonburg,2024-11-23,3.116,3.531,3.882,3.521
+Virginia,Lynchburg,2024-11-23,2.928,3.385,3.8,3.501
+Virginia,Norfolk-Virginia Beach-Newport News,2024-11-23,2.865,3.334,3.683,3.466
+Virginia,Richmond-Petersburg,2024-11-23,2.998,3.496,3.842,3.419
+Virginia,Roanoke,2024-11-23,2.903,3.351,3.731,3.526
+Virginia,Staunton-Waynesboro,2024-11-23,3.037,3.465,3.842,3.502
+Virginia,"Washington, DC, (VA Only)",2024-11-23,3.062,3.568,3.932,3.594
+Virginia,Winchester,2024-11-23,2.892,3.3,3.655,3.467
+Washington,Bellingham,2024-11-23,3.834,4.18,4.422,4.114
+Washington,Bremerton,2024-11-23,4.146,4.379,4.628,4.513
+Washington,Clarkson,2024-11-23,3.377,0.0,3.879,3.579
+Washington,Longview,2024-11-23,3.966,4.188,4.329,4.256
+Washington,Mount Vernon-Anacortes,2024-11-23,3.772,3.945,4.18,4.144
+Washington,Olympia,2024-11-23,3.943,4.127,4.389,4.46
+Washington,Richland-Kennewick-Pasco,2024-11-23,3.661,3.899,4.141,4.225
+Washington,Seattle-Bellevue-Everett,2024-11-23,4.197,4.449,4.648,4.547
+Washington,Spokane,2024-11-23,3.655,3.894,4.136,4.074
+Washington,Tacoma,2024-11-23,4.016,4.286,4.509,4.493
+Washington,Vancouver,2024-11-23,3.899,4.086,4.274,4.125
+Washington,Walla Walla,2024-11-23,4.171,4.186,4.352,4.413
+Washington,Wenatchee,2024-11-23,3.834,4.021,4.228,4.204
+Washington,Yakima,2024-11-23,3.687,3.966,4.169,4.178
+West Virginia,Beckley,2024-11-23,2.928,3.346,3.805,3.695
+West Virginia,Charleston,2024-11-23,2.916,3.35,3.825,3.541
+West Virginia,Hampshire County,2024-11-23,3.246,3.599,4.074,3.506
+West Virginia,Huntington,2024-11-23,2.841,3.263,3.78,3.667
+West Virginia,Jefferson County,2024-11-23,3.122,3.536,3.945,3.692
+West Virginia,Mineral County,2024-11-23,2.949,3.399,3.749,3.487
+West Virginia,Morgantown,2024-11-23,3.029,3.457,3.899,3.602
+West Virginia,Parkersburg-Marietta (WV only),2024-11-23,2.683,3.111,3.557,3.458
+West Virginia,Steubenville-Weirton (WV only),2024-11-23,2.943,3.388,3.89,3.672
+West Virginia,"Washington, DC (WV Only)",2024-11-23,3.169,3.575,3.988,3.699
+West Virginia,Wheeling (WV only),2024-11-23,2.902,3.319,3.688,3.434
+Wisconsin,Appleton,2024-11-23,2.918,3.419,3.884,3.34
+Wisconsin,Eau Claire,2024-11-23,2.701,5.999,3.638,3.327
+Wisconsin,Fond du Lac,2024-11-23,2.857,3.368,3.905,3.282
+Wisconsin,Green Bay,2024-11-23,2.901,3.372,3.904,3.352
+Wisconsin,Janesville-Beloit,2024-11-23,2.908,3.372,3.848,3.335
+Wisconsin,Kenosha County,2024-11-23,2.906,3.485,3.941,3.616
+Wisconsin,La Crosse (WI only),2024-11-23,2.766,3.066,3.721,3.365
+Wisconsin,Madison,2024-11-23,2.917,3.454,3.885,3.402
+Wisconsin,Milwaukee-Waukesha,2024-11-23,2.849,3.378,3.822,3.389
+Wisconsin,Oshkosh,2024-11-23,2.905,3.353,3.894,3.371
+Wisconsin,Pierce -St. Croix County,2024-11-23,2.906,3.383,3.808,3.454
+Wisconsin,Racine,2024-11-23,2.862,3.381,3.83,3.405
+Wisconsin,Sheboygan,2024-11-23,2.848,3.444,3.938,3.366
+Wisconsin,Superior,2024-11-23,2.876,3.236,3.737,3.369
+Wisconsin,Wausau,2024-11-23,2.843,3.31,3.779,3.279
+Wyoming,Casper,2024-11-23,2.8,3.109,3.432,3.316
+Wyoming,Cheyenne,2024-11-23,3.029,3.349,3.571,3.445
