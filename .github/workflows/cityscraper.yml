@@ -1,4 +1,4 @@
-name: County Gas Data Scraper
+name: City Gas Data Scraper
 
 on:
   schedule:
@@ -88,7 +88,7 @@ jobs:
 
       - name: Run live gas scraper and update files
         run: |
-          python countygas.py
+          python citygas.py
 
       - name: Verify all necessary files exist
         run: |
