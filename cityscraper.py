@@ -9,7 +9,10 @@ import matplotlib.pyplot as plt
 import matplotlib
 from selenium import webdriver
 import time
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
+from selenium import webdriver
 
 # Custom theme for matplotlib
 jared_theme = {
@@ -261,7 +264,14 @@ def scrape_all_counties():
     for state_url in all_state_urls:
         try:
             print(f"Scraping data for: {state_url}")
-            driver = webdriver.Chrome()
+            # Set up Chrome options
+            chrome_options = Options()
+        
+            chrome_options.add_argument("--headless")  # Enable headless mode
+            chrome_options.add_argument("--disable-gpu")  # Disable GPU for headless mode (optional)
+        
+            # Initialize the WebDriver (ensure you have the appropriate driver installed, e.g., chromedriver)
+            driver = webdriver.Chrome(options=chrome_options)
             state_prices = get_gas_prices(state_url, driver)
             state_name = state_url.split('=')[-1].upper()  # Extract state name from URL
 
