@@ -11,6 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Set timezone to Eastern Time
+      run: |
+        sudo timedatectl set-timezone America/New_York
+
     - name: Checkout repository
       uses: actions/checkout@v3  # Ensure using the most recent checkout action
 
