@@ -2,8 +2,12 @@
 
 from cityscraper import scrape_all_counties
 import os
+from datetime import datetime
 
 df = scrape_all_counties()
+
+today_date = datetime.now().strftime('%Y-%m-%d')  # Format: YYYY-MM-DD
+df['Date'] = today_date
 
 # Ensure the directory exists
 directory = 'RealCounty'  # Relative path, not absolute
