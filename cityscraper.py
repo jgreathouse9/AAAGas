@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 import matplotlib
 from selenium import webdriver
 import time
+from selenium.webdriver.chrome.options import Options
 
 # Custom theme for matplotlib
 jared_theme = {
@@ -169,6 +170,19 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
 }
 
+def create_headless_driver():
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # Run Chrome in headless mode
+    chrome_options.add_argument("--no-sandbox")  # Disable sandboxing (necessary in some environments like CI)
+    chrome_options.add_argument("--disable-dev-shm-usage")  # Overcome potential memory issues in CI
+    chrome_options.add_argument("--remote-debugging-port=9222")  # Enable debugging if needed
+
+    driver = webdriver.Chrome(options=chrome_options)  # Initialize WebDriver with options
+    return driver
+
+
+
+
 
 def find_map_config_variable(url, driver=None):
     """
@@ -219,18 +233,17 @@ def find_map_config_variable(url, driver=None):
     return script_var
 
 
-def get_gas_prices(url):
+def get_gas_prices(url, driver):
     """
     Scrapes gas prices for each region from the AAA gas prices webpage.
 
     Args:
         url (str): The URL of the webpage to scrape.
+        driver (selenium.webdriver.Chrome): The WebDriver instance.
 
     Returns:
         dict: A dictionary with region names as keys and gas prices as values.
     """
-    # Initialize WebDriver
-    driver = webdriver.Chrome()
     driver.get(url)
     time.sleep(5)  # Adjust based on page load time
 
@@ -248,32 +261,28 @@ def get_gas_prices(url):
         price = region['comment']
         gas_prices[region_name] = price
 
-    # Close the WebDriver
-    driver.quit()
-
     return gas_prices
 
 
+
 def scrape_all_counties():
-    """
-    Scrapes gas prices for all states in the nation by iterating through state URLs.
-    
-    Returns:
-        dict: A dictionary where keys are state names and values are dictionaries of region prices.
-    """
     all_state_urls = scrape_state_urls()
     all_prices = []
 
     for state_url in all_state_urls:
         try:
             print(f"Scraping data for: {state_url}")
-            state_prices = get_gas_prices(state_url)
+            driver = create_headless_driver()  # Create headless driver
+            state_prices = get_gas_prices(state_url, driver)
             state_name = state_url.split('=')[-1].upper()  # Extract state name from URL
 
             # Flatten the state_prices dictionary and append to the all_prices list
             for region, price in state_prices.items():
                 all_prices.append({"State": state_name, "Region": region, "Price": price})
 
+            driver.quit()  # Quit the driver after use
+
         except Exception as e:
             print(f"Failed to scrape {state_url}: {e}")
     return pd.DataFrame(all_prices)
+
