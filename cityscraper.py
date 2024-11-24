@@ -170,17 +170,6 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
 }
 
-def create_headless_driver():
-    chrome_options = Options()
-    chrome_options.add_argument("--headless")  # Run Chrome in headless mode
-    chrome_options.add_argument("--no-sandbox")  # Disable sandboxing (necessary in some environments like CI)
-    chrome_options.add_argument("--disable-dev-shm-usage")  # Overcome potential memory issues in CI
-    chrome_options.add_argument("--remote-debugging-port=9222")  # Enable debugging if needed
-
-    driver = webdriver.Chrome(options=chrome_options)  # Initialize WebDriver with options
-    return driver
-
-
 
 
 
@@ -272,7 +261,7 @@ def scrape_all_counties():
     for state_url in all_state_urls:
         try:
             print(f"Scraping data for: {state_url}")
-            driver = create_headless_driver()  # Create headless driver
+            driver = webdriver.Chrome()
             state_prices = get_gas_prices(state_url, driver)
             state_name = state_url.split('=')[-1].upper()  # Extract state name from URL
 
@@ -285,4 +274,3 @@ def scrape_all_counties():
         except Exception as e:
             print(f"Failed to scrape {state_url}: {e}")
     return pd.DataFrame(all_prices)
-
