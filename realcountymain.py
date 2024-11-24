@@ -3,7 +3,7 @@
 from cityscraper import scrape_all_counties
 import os
 
-all_gas_prices = scrape_all_counties()
+df = scrape_all_counties()
 
 # Ensure the directory exists
 directory = 'RealCounty'  # Relative path, not absolute
