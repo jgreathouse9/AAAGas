@@ -3,7 +3,7 @@ name: Scrape and Save County Gas Prices
 on:
   schedule:
     # Runs once a day at 1:00 PM UTC (7:00 AM EST). Adjust the schedule as needed.
-    - cron: "0 13 * * *"
+    - cron: "0 12 * * *"
   workflow_dispatch: # Allows manual triggering from the GitHub Actions UI.
 
 jobs:
