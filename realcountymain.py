@@ -1,20 +1,28 @@
-# THESE ARE THE REAL COUNTY VALUES, the other ones are are the city.
-
 from cityscraper import scrape_all_counties
 import os
+import pandas as pd
 from datetime import datetime
 
+# Scrape data
 df = scrape_all_counties()
 
-today_date = datetime.now().strftime('%Y-%m-%d')  # Format: YYYY-MM-DD
+# Add today's date
+today_date = datetime.now().strftime('%Y-%m-%d')
 df['Date'] = today_date
 
+# File path
+file_path = "RealCounty/RealCounty.csv"
+
 # Ensure the directory exists
-directory = 'RealCounty'  # Relative path, not absolute
-if not os.path.exists(directory):
-    os.makedirs(directory)  # This will now create the directory in the current working directory
+os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
-
-# Save the DataFrame to a CSV file in the specified directory
-csv_file_path = os.path.join(directory, "RealCounty.csv")
-df.to_csv(csv_file_path, index=False)
+# Append or create the file
+try:
+    if os.path.exists(file_path):
+        existing_df = pd.read_csv(file_path)
+        combined_df = pd.concat([existing_df, df], ignore_index=True)
+        combined_df.to_csv(file_path, index=False)
+    else:
+        df.to_csv(file_path, index=False)
+except Exception as e:
+    print(f"Error writing to {file_path}: {e}")
