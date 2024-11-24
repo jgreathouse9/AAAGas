@@ -7,7 +7,6 @@ import os
 import re
 import matplotlib.pyplot as plt
 import matplotlib
-from selenium import webdriver
 import time
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
