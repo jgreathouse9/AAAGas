@@ -23,6 +23,16 @@ jobs:
       run: |
         pip install -r requirements.txt
 
+    - name: Install Chrome and ChromeDriver
+      run: |
+        sudo apt update
+        sudo apt install -y wget curl unzip
+        sudo apt install -y google-chrome-stable
+        wget https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_linux64.zip
+        unzip chromedriver_linux64.zip
+        sudo mv chromedriver /usr/local/bin/
+        sudo chmod +x /usr/local/bin/chromedriver
+
     - name: Run gas price scraper
       run: |
         python3 realcountymain.py
