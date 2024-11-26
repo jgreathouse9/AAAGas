@@ -15562,3 +15562,264 @@ Wisconsin,Superior,2024-11-26,2.846,3.199,3.651,3.337
 Wisconsin,Wausau,2024-11-26,2.783,3.293,3.845,3.273
 Wyoming,Casper,2024-11-26,2.798,3.111,3.404,3.305
 Wyoming,Cheyenne,2024-11-26,2.999,3.321,3.551,3.419
+California,Bakersfield,2023-11-26,5.088,5.243,5.509,6.036
+California,Chico-Paradise,2023-11-26,4.631,4.761,4.995,5.577
+California,El Centro,2023-11-26,4.759,4.979,5.17,5.91
+California,Fresno,2023-11-26,4.762,4.964,5.178,5.861
+California,Hanford-Corcoran,2023-11-26,4.511,4.713,4.885,5.819
+California,Los Angeles-Long Beach,2023-11-26,5.006,5.213,5.36,5.933
+California,Madera-Chowchilla,2023-11-26,4.868,5.078,5.242,5.973
+California,Merced,2023-11-26,4.867,5.122,5.303,5.878
+California,Modesto,2023-11-26,4.616,4.855,5.015,5.71
+California,Napa,2023-11-26,4.98,5.145,5.335,6.025
+California,Oakland,2023-11-26,4.904,5.127,5.29,5.947
+California,Orange County,2023-11-26,4.849,5.067,5.188,5.83
+California,Redding,2023-11-26,4.553,4.64,4.835,5.339
+California,Riverside,2023-11-26,4.834,5.032,5.214,5.691
+California,Sacramento,2023-11-26,4.723,4.925,5.116,5.71
+California,Salinas,2023-11-26,5.096,5.269,5.442,6.158
+California,San Bernardino,2023-11-26,4.8,4.941,5.16,5.738
+California,San Diego,2023-11-26,5.034,5.251,5.398,5.81
+California,San Francisco,2023-11-26,5.034,5.21,5.4,5.959
+California,San Jose,2023-11-26,4.806,5.042,5.198,5.88
+California,San Luis Obispo-Atascadero-Paso Robles,2023-11-26,5.207,5.361,5.56,6.245
+California,San Rafael,2023-11-26,4.987,5.212,5.372,5.886
+California,Santa Barbara-Santa Maria-Lompoc,2023-11-26,5.042,5.189,5.3,6.104
+California,Santa Cruz-Watsonville,2023-11-26,5.011,5.214,5.417,6.1
+California,Santa Rosa,2023-11-26,5.086,5.292,5.447,5.824
+California,Stockton-Lodi,2023-11-26,4.6,4.772,4.982,5.733
+California,Vallejo-Fairfield,2023-11-26,4.845,5.112,5.275,5.803
+California,Ventura,2023-11-26,5.097,5.304,5.43,6.042
+California,Visalia-Tulare-Porterville,2023-11-26,4.945,4.961,5.313,5.925
+California,Yolo,2023-11-26,4.722,4.956,5.137,5.581
+California,Yuba City,2023-11-26,4.532,4.857,5.073,5.671
+Florida,Bradenton-Sarasota-Venice,2023-11-26,2.989,3.404,3.726,4.01
+Florida,Crestview-Fort Walton Beach,2023-11-26,2.858,3.224,3.572,3.923
+Florida,Daytona Beach,2023-11-26,2.996,3.383,3.722,4.033
+Florida,Fort Lauderdale,2023-11-26,3.081,3.555,3.882,4.09
+Florida,Fort Myers-Cape Coral,2023-11-26,3.001,3.395,3.736,3.995
+Florida,Gainesville,2023-11-26,3.074,3.494,3.864,4.08
+Florida,Homosassa Springs,2023-11-26,3.0,3.392,3.777,4.014
+Florida,Jacksonville,2023-11-26,2.965,3.389,3.761,4.025
+Florida,Lakeland-Winter Haven,2023-11-26,2.987,3.373,3.694,4.009
+Florida,Melbourne-Titusville,2023-11-26,2.944,3.371,3.703,4.022
+Florida,Miami,2023-11-26,3.096,3.56,3.828,4.07
+Florida,Naples,2023-11-26,3.049,3.461,3.848,4.101
+Florida,Ocala,2023-11-26,3.014,3.381,3.724,4.025
+Florida,Orlando,2023-11-26,2.966,3.371,3.664,4.011
+Florida,Panama City,2023-11-26,2.898,3.26,3.616,3.899
+Florida,Pensacola,2023-11-26,2.848,3.269,3.629,3.909
+Florida,Port St. Lucie,2023-11-26,3.059,3.477,3.858,4.052
+Florida,Punta Gorda,2023-11-26,2.974,3.42,3.721,4.027
+Florida,Sebastian-Vero Beach,2023-11-26,3.029,3.393,3.81,4.039
+Florida,Sebring,2023-11-26,3.005,3.367,3.669,4.011
+Florida,Tallahassee,2023-11-26,3.098,3.493,3.883,4.122
+Florida,Tampa-St. Petersburg-Clearwater,2023-11-26,2.972,3.38,3.712,3.997
+Florida,The Villages,2023-11-26,2.97,3.357,3.68,3.899
+Florida,West Palm Beach-Boca Raton,2023-11-26,3.215,3.629,3.953,4.142
+Kansas,Kansas City (KS only),2023-11-26,2.795,3.092,3.4,4.03
+Kansas,Lawrence,2023-11-26,2.902,3.265,3.63,4.03
+Kansas,Manhattan,2023-11-26,2.979,3.324,3.697,3.879
+Kansas,Topeka,2023-11-26,2.937,3.279,3.627,4.155
+Kansas,Wichita,2023-11-26,2.952,3.181,3.46,3.994
+Texas,Abilene,2023-11-26,2.605,2.965,3.289,3.546
+Texas,Amarillo,2023-11-26,2.659,2.981,3.304,3.951
+Texas,Austin-San Marcos,2023-11-26,2.685,3.059,3.423,3.653
+Texas,Beaumont-Port Arthur,2023-11-26,2.689,3.134,3.498,3.676
+Texas,Brownsville-Harlingen,2023-11-26,2.675,3.033,3.364,3.6
+Texas,College Station-Bryan,2023-11-26,2.907,3.363,3.675,3.837
+Texas,Corpus Christi,2023-11-26,2.704,3.06,3.363,3.511
+Texas,Dallas,2023-11-26,2.717,3.074,3.399,3.565
+Texas,El Paso,2023-11-26,2.803,3.258,3.558,3.843
+Texas,Fort Worth-Arlington,2023-11-26,2.72,3.07,3.4,3.574
+Texas,Galveston-Texas City,2023-11-26,2.719,3.124,3.515,3.745
+Texas,Houston,2023-11-26,2.701,3.168,3.552,3.723
+Texas,Killeen-Temple-Fort Hood,2023-11-26,2.64,2.976,3.214,3.576
+Texas,Laredo,2023-11-26,2.672,3.048,3.405,3.594
+Texas,Longview,2023-11-26,2.687,3.123,3.433,3.7
+Texas,Lubbock,2023-11-26,2.714,3.127,3.392,3.723
+Texas,McAllen-Edinburg-Mission,2023-11-26,2.661,3.027,3.346,3.485
+Texas,Midland,2023-11-26,2.85,3.291,3.518,3.942
+Texas,Odessa,2023-11-26,2.761,3.175,3.395,3.864
+Texas,San Angelo,2023-11-26,2.696,3.058,3.371,3.765
+Texas,San Antonio,2023-11-26,2.592,2.967,3.31,3.591
+Texas,Sherman-Denison,2023-11-26,2.647,2.937,3.271,3.406
+Texas,Texarkana (TX only),2023-11-26,2.694,3.024,3.349,3.635
+Texas,Tyler,2023-11-26,2.612,2.983,3.318,3.594
+Texas,Victoria,2023-11-26,2.612,2.983,3.321,3.691
+Texas,Waco,2023-11-26,2.666,3.068,3.405,3.626
+Texas,Wichita Falls,2023-11-26,2.625,3.009,3.314,3.645
+California,Bakersfield,2024-10-26,4.534,4.769,5.018,5.108
+California,Chico-Paradise,2024-10-26,4.633,4.821,4.98,4.742
+California,El Centro,2024-10-26,4.538,4.763,4.901,4.897
+California,Fresno,2024-10-26,4.623,4.893,5.083,5.015
+California,Hanford-Corcoran,2024-10-26,4.452,4.686,4.891,4.938
+California,Los Angeles-Long Beach,2024-10-26,4.55,4.768,4.929,4.903
+California,Madera-Chowchilla,2024-10-26,4.686,4.872,5.149,5.108
+California,Merced,2024-10-26,4.616,4.868,5.104,5.041
+California,Modesto,2024-10-26,4.441,4.694,4.899,4.944
+California,Napa,2024-10-26,4.814,5.014,5.221,4.998
+California,Oakland,2024-10-26,4.727,4.976,5.141,5.02
+California,Orange County,2024-10-26,4.467,4.691,4.823,4.704
+California,Redding,2024-10-26,4.469,4.562,4.803,4.851
+California,Riverside,2024-10-26,4.412,4.666,4.817,4.791
+California,Sacramento,2024-10-26,4.613,4.863,5.054,4.883
+California,Salinas,2024-10-26,4.883,5.087,5.242,5.231
+California,San Bernardino,2024-10-26,4.45,4.654,4.848,4.834
+California,San Diego,2024-10-26,4.621,4.843,5.016,4.838
+California,San Francisco,2024-10-26,4.876,5.103,5.288,5.072
+California,San Jose,2024-10-26,4.65,4.895,5.051,5.011
+California,San Luis Obispo-Atascadero-Paso Robles,2024-10-26,4.822,5.053,5.196,5.268
+California,San Rafael,2024-10-26,4.75,4.975,5.167,4.992
+California,Santa Barbara-Santa Maria-Lompoc,2024-10-26,4.61,4.775,4.952,4.949
+California,Santa Cruz-Watsonville,2024-10-26,4.861,5.051,5.255,5.149
+California,Santa Rosa,2024-10-26,4.866,5.082,5.271,5.074
+California,Stockton-Lodi,2024-10-26,4.521,4.785,4.989,4.894
+California,Vallejo-Fairfield,2024-10-26,4.681,4.943,5.109,4.932
+California,Ventura,2024-10-26,4.635,4.85,5.007,5.063
+California,Visalia-Tulare-Porterville,2024-10-26,4.587,4.883,5.078,5.019
+California,Yolo,2024-10-26,4.604,4.833,5.051,4.763
+California,Yuba City,2024-10-26,4.408,4.78,4.917,4.784
+Florida,Bradenton-Sarasota-Venice,2024-10-26,3.169,3.643,3.936,3.492
+Florida,Crestview-Fort Walton Beach,2024-10-26,2.807,3.172,3.538,3.284
+Florida,Daytona Beach,2024-10-26,3.173,3.599,3.935,3.476
+Florida,Fort Lauderdale,2024-10-26,3.185,3.632,3.943,3.498
+Florida,Fort Myers-Cape Coral,2024-10-26,3.169,3.641,3.936,3.49
+Florida,Gainesville,2024-10-26,3.198,3.651,4.054,3.598
+Florida,Homosassa Springs,2024-10-26,3.198,3.614,3.965,3.513
+Florida,Jacksonville,2024-10-26,3.156,3.56,3.925,3.495
+Florida,Lakeland-Winter Haven,2024-10-26,3.179,3.617,3.925,3.466
+Florida,Melbourne-Titusville,2024-10-26,3.157,3.609,3.93,3.509
+Florida,Miami,2024-10-26,3.145,3.58,3.845,3.457
+Florida,Naples,2024-10-26,3.213,3.683,3.993,3.531
+Florida,Ocala,2024-10-26,3.196,3.593,3.961,3.538
+Florida,Orlando,2024-10-26,3.178,3.603,3.899,3.498
+Florida,Panama City,2024-10-26,2.838,3.252,3.62,3.39
+Florida,Pensacola,2024-10-26,2.841,3.251,3.612,3.316
+Florida,Port St. Lucie,2024-10-26,3.191,3.625,3.957,3.518
+Florida,Punta Gorda,2024-10-26,3.145,3.632,3.915,3.507
+Florida,Sebastian-Vero Beach,2024-10-26,3.176,3.638,3.963,3.523
+Florida,Sebring,2024-10-26,3.178,3.651,3.927,3.463
+Florida,Tallahassee,2024-10-26,3.032,3.492,3.922,3.625
+Florida,Tampa-St. Petersburg-Clearwater,2024-10-26,3.191,3.644,3.988,3.489
+Florida,The Villages,2024-10-26,3.177,3.576,3.989,3.444
+Florida,West Palm Beach-Boca Raton,2024-10-26,3.323,3.775,4.106,3.572
+Kansas,Kansas City (KS only),2024-10-26,2.72,3.03,3.334,3.238
+Kansas,Lawrence,2024-10-26,2.743,3.176,3.507,3.327
+Kansas,Manhattan,2024-10-26,2.743,3.112,3.47,3.178
+Kansas,Topeka,2024-10-26,2.722,3.079,3.435,3.326
+Kansas,Wichita,2024-10-26,2.86,3.102,3.339,3.26
+Texas,Abilene,2024-10-26,2.61,2.937,3.27,3.048
+Texas,Amarillo,2024-10-26,2.582,2.927,3.275,3.035
+Texas,Austin-San Marcos,2024-10-26,2.686,3.147,3.511,3.046
+Texas,Beaumont-Port Arthur,2024-10-26,2.696,3.162,3.559,3.078
+Texas,Brownsville-Harlingen,2024-10-26,2.69,3.139,3.476,3.087
+Texas,College Station-Bryan,2024-10-26,2.757,3.196,3.579,3.149
+Texas,Corpus Christi,2024-10-26,2.741,3.138,3.461,3.048
+Texas,Dallas,2024-10-26,2.606,3.001,3.345,3.032
+Texas,El Paso,2024-10-26,2.997,3.467,3.795,3.256
+Texas,Fort Worth-Arlington,2024-10-26,2.606,2.992,3.321,3.012
+Texas,Galveston-Texas City,2024-10-26,2.723,3.204,3.583,3.151
+Texas,Houston,2024-10-26,2.693,3.234,3.637,3.068
+Texas,Killeen-Temple-Fort Hood,2024-10-26,2.609,2.998,3.289,2.987
+Texas,Laredo,2024-10-26,2.549,3.025,3.331,2.989
+Texas,Longview,2024-10-26,2.699,3.142,3.467,3.091
+Texas,Lubbock,2024-10-26,2.562,2.948,3.263,2.955
+Texas,McAllen-Edinburg-Mission,2024-10-26,2.671,3.131,3.458,2.998
+Texas,Midland,2024-10-26,2.682,3.137,3.447,3.153
+Texas,Odessa,2024-10-26,2.64,3.115,3.339,3.104
+Texas,San Angelo,2024-10-26,2.929,3.405,3.701,3.143
+Texas,San Antonio,2024-10-26,2.693,3.13,3.482,2.969
+Texas,Sherman-Denison,2024-10-26,2.578,2.92,3.271,2.977
+Texas,Texarkana (TX only),2024-10-26,2.674,3.071,3.44,3.084
+Texas,Tyler,2024-10-26,2.627,3.028,3.371,3.056
+Texas,Victoria,2024-10-26,2.691,3.083,3.436,3.068
+Texas,Waco,2024-10-26,2.612,2.992,3.28,3.007
+Texas,Wichita Falls,2024-10-26,2.586,2.975,3.359,3.062
+California,Bakersfield,2024-11-26,4.399,4.651,4.869,5.026
+California,Chico-Paradise,2024-11-26,4.293,4.521,4.64,4.611
+California,El Centro,2024-11-26,4.372,4.601,4.801,4.771
+California,Fresno,2024-11-26,4.38,4.635,4.821,4.925
+California,Hanford-Corcoran,2024-11-26,4.234,4.394,4.676,4.845
+California,Los Angeles-Long Beach,2024-11-26,4.458,4.67,4.834,4.893
+California,Madera-Chowchilla,2024-11-26,4.357,4.61,4.852,4.931
+California,Merced,2024-11-26,4.327,4.577,4.832,4.968
+California,Modesto,2024-11-26,4.177,4.394,4.63,4.799
+California,Napa,2024-11-26,4.569,4.777,4.966,4.966
+California,Oakland,2024-11-26,4.475,4.712,4.889,4.916
+California,Orange County,2024-11-26,4.383,4.596,4.745,4.704
+California,Redding,2024-11-26,4.094,4.184,4.399,4.709
+California,Riverside,2024-11-26,4.337,4.577,4.74,4.778
+California,Sacramento,2024-11-26,4.374,4.585,4.798,4.816
+California,Salinas,2024-11-26,4.671,4.812,5.01,5.17
+California,San Bernardino,2024-11-26,4.369,4.578,4.769,4.806
+California,San Diego,2024-11-26,4.53,4.754,4.91,4.796
+California,San Francisco,2024-11-26,4.628,4.83,5.028,5.018
+California,San Jose,2024-11-26,4.414,4.633,4.796,4.955
+California,San Luis Obispo-Atascadero-Paso Robles,2024-11-26,4.732,4.961,5.151,5.245
+California,San Rafael,2024-11-26,4.535,4.697,4.921,5.016
+California,Santa Barbara-Santa Maria-Lompoc,2024-11-26,4.473,4.638,4.773,4.902
+California,Santa Cruz-Watsonville,2024-11-26,4.7,4.924,5.099,5.173
+California,Santa Rosa,2024-11-26,4.688,4.903,5.082,5.018
+California,Stockton-Lodi,2024-11-26,4.275,4.518,4.721,4.745
+California,Vallejo-Fairfield,2024-11-26,4.383,4.634,4.807,4.895
+California,Ventura,2024-11-26,4.55,4.75,4.922,5.019
+California,Visalia-Tulare-Porterville,2024-11-26,4.334,4.585,4.813,4.897
+California,Yolo,2024-11-26,4.307,4.554,4.739,4.699
+California,Yuba City,2024-11-26,4.238,4.502,4.693,4.65
+Florida,Bradenton-Sarasota-Venice,2024-11-26,3.129,3.592,3.885,3.475
+Florida,Crestview-Fort Walton Beach,2024-11-26,2.74,3.125,3.449,3.178
+Florida,Daytona Beach,2024-11-26,3.117,3.538,3.863,3.452
+Florida,Fort Lauderdale,2024-11-26,3.124,3.572,3.851,3.47
+Florida,Fort Myers-Cape Coral,2024-11-26,3.137,3.595,3.885,3.471
+Florida,Gainesville,2024-11-26,3.154,3.655,4.001,3.55
+Florida,Homosassa Springs,2024-11-26,3.198,3.598,3.944,3.493
+Florida,Jacksonville,2024-11-26,3.113,3.528,3.883,3.469
+Florida,Lakeland-Winter Haven,2024-11-26,3.152,3.573,3.888,3.497
+Florida,Melbourne-Titusville,2024-11-26,3.12,3.553,3.891,3.496
+Florida,Miami,2024-11-26,3.076,3.515,3.744,3.432
+Florida,Naples,2024-11-26,3.193,3.651,3.948,3.507
+Florida,Ocala,2024-11-26,3.142,3.543,3.864,3.494
+Florida,Orlando,2024-11-26,3.151,3.572,3.86,3.467
+Florida,Panama City,2024-11-26,2.761,3.115,3.527,3.293
+Florida,Pensacola,2024-11-26,2.85,3.287,3.644,3.282
+Florida,Port St. Lucie,2024-11-26,3.138,3.566,3.865,3.509
+Florida,Punta Gorda,2024-11-26,3.085,3.544,3.846,3.473
+Florida,Sebastian-Vero Beach,2024-11-26,3.13,3.605,3.864,3.518
+Florida,Sebring,2024-11-26,3.152,3.607,3.888,3.479
+Florida,Tallahassee,2024-11-26,3.005,3.459,3.868,3.59
+Florida,Tampa-St. Petersburg-Clearwater,2024-11-26,3.167,3.621,3.944,3.494
+Florida,The Villages,2024-11-26,3.14,3.572,3.872,3.477
+Florida,West Palm Beach-Boca Raton,2024-11-26,3.276,3.731,4.088,3.555
+Kansas,Kansas City (KS only),2024-11-26,2.734,3.05,3.377,3.215
+Kansas,Lawrence,2024-11-26,2.746,3.113,3.522,3.244
+Kansas,Manhattan,2024-11-26,2.654,3.051,3.402,3.078
+Kansas,Topeka,2024-11-26,2.616,2.962,3.298,3.246
+Kansas,Wichita,2024-11-26,2.744,3.014,3.235,3.228
+Texas,Abilene,2024-11-26,2.606,2.913,3.197,3.08
+Texas,Amarillo,2024-11-26,2.427,2.771,3.121,2.99
+Texas,Austin-San Marcos,2024-11-26,2.653,3.099,3.464,3.02
+Texas,Beaumont-Port Arthur,2024-11-26,2.595,3.052,3.396,3.034
+Texas,Brownsville-Harlingen,2024-11-26,2.551,2.993,3.348,3.124
+Texas,College Station-Bryan,2024-11-26,2.653,3.104,3.454,3.081
+Texas,Corpus Christi,2024-11-26,2.618,2.994,3.344,3.084
+Texas,Dallas,2024-11-26,2.65,3.046,3.373,3.277
+Texas,El Paso,2024-11-26,2.805,3.268,3.585,3.217
+Texas,Fort Worth-Arlington,2024-11-26,2.654,3.042,3.393,3.231
+Texas,Galveston-Texas City,2024-11-26,2.618,3.142,3.505,3.067
+Texas,Houston,2024-11-26,2.614,3.153,3.564,3.047
+Texas,Killeen-Temple-Fort Hood,2024-11-26,2.511,2.87,3.182,2.934
+Texas,Laredo,2024-11-26,2.584,3.008,3.384,3.095
+Texas,Longview,2024-11-26,2.609,3.023,3.397,3.05
+Texas,Lubbock,2024-11-26,2.423,2.809,3.119,2.945
+Texas,McAllen-Edinburg-Mission,2024-11-26,2.555,3.001,3.353,3.095
+Texas,Midland,2024-11-26,2.627,3.156,3.395,3.142
+Texas,Odessa,2024-11-26,2.573,3.021,3.288,3.074
+Texas,San Angelo,2024-11-26,2.702,3.152,3.413,3.189
+Texas,San Antonio,2024-11-26,2.689,3.118,3.475,3.04
+Texas,Sherman-Denison,2024-11-26,2.6,2.979,3.247,3.119
+Texas,Texarkana (TX only),2024-11-26,2.638,2.989,3.341,3.107
+Texas,Tyler,2024-11-26,2.57,2.937,3.299,3.024
+Texas,Victoria,2024-11-26,2.542,2.951,3.246,3.04
+Texas,Waco,2024-11-26,2.557,2.861,3.242,2.979
+Texas,Wichita Falls,2024-11-26,2.506,2.93,3.253,2.981
