@@ -58,6 +58,3 @@ def fetch_gas_prices(state_abbreviations):
     all_data = all_data.sort_values(by=['State', 'City', 'Date']).reset_index(drop=True)
 
     return all_data
-
-df = fetch_gas_prices(state_abbreviations)
-print(df.head())
