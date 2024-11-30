@@ -25,7 +25,7 @@ jobs:
 
     - name: Run gas scraper
       run: |
-        python City Scrape/cityscrape.py
+        python "City Scrape/cityscrape.py"
 
     - name: Commit and push updated CSV to repository
       run: |
