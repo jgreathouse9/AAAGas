@@ -26,16 +26,16 @@ def fetch_gas_prices(state_abbreviations):
         
         # Extract city sections and process them
         city_sections = soup.select('.accordion-prices.metros-js > h3[data-title]')
-        return list(map(extract_city_data, city_sections))  # Return the processed data for this state
+        return list(map(lambda city_section: extract_city_data(city_section, state), city_sections))  # Pass state here
 
-    def extract_city_data(city_section):
+    def extract_city_data(city_section, state):
         """Extract city data from a city section."""
         city_name = city_section.get_text(strip=True)
         table = city_section.find_next('table')
         rows = table.select('tbody tr')
-        return list(map(lambda row: process_row(row, city_name, time_mapping), rows))
+        return list(map(lambda row: process_row(row, state, city_name, time_mapping), rows))
 
-    def process_row(row, city_name, time_mapping):
+    def process_row(row, state, city_name, time_mapping):
         """Process a single row and return the data."""
         cells = row.find_all('td')
         date_label = cells[0].get_text(strip=True)
