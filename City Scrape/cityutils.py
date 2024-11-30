@@ -38,6 +38,15 @@ def fetch_gas_prices(state_abbreviations):
         # Return the processed data
         return [date, state, city_name] + prices
 
+    # Function to process each city's data
+    def process_city_data(city, time_mapping, today, state):
+        """Process the data for a single city and extract gas prices."""
+        city_name = city.get_text(strip=True)
+        rows = city.find_next('table').select('tbody tr')
+        
+        # Use list comprehension to process each row and return the results
+        return [extract_gas_prices(row, time_mapping, today, state, city_name) for row in rows]
+
     # Iterate over each state abbreviation
     for state, abbreviation in state_abbreviations.items():
         params = {'state': abbreviation}
@@ -52,15 +61,8 @@ def fetch_gas_prices(state_abbreviations):
         # Extract city sections
         cities = soup.select('.accordion-prices.metros-js > h3[data-title]')
         
-        # Extract data for each city
-        for city in cities:
-            city_name = city.get_text(strip=True)
-            rows = city.find_next('table').select('tbody tr')
-
-            # Process each row using the helper function
-            for row in rows:
-                row_data = extract_gas_prices(row, time_mapping, today, state, city_name)
-                all_data.append(row_data)
+        # Use map to process each city and flatten the list of rows
+        all_data.extend([row_data for city in cities for row_data in process_city_data(city, time_mapping, today, state)])
 
     # Convert list of data into DataFrame
     all_data_df = pd.DataFrame(all_data, columns=['Date', 'State', 'City', 'Regular', 'Mid-Grade', 'Premium', 'Diesel'])
