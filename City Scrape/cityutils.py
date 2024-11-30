@@ -23,6 +23,21 @@ def fetch_gas_prices(state_abbreviations):
         "Year Ago Avg.": lambda: today - relativedelta(years=1),
     }
 
+    # Function to extract gas prices from each row
+    def extract_gas_prices(row, time_mapping, today, state, city_name):
+        """Extract and process gas price data from a row."""
+        cells = row.find_all('td')
+        date_text = cells[0].get_text(strip=True)
+        
+        # Get the corresponding date using time_mapping, defaulting to today
+        date = time_mapping.get(date_text, lambda: today)().strftime('%Y-%d-%m')
+        
+        # Extract prices, removing the dollar sign
+        prices = [cell.get_text(strip=True).replace('$', '') for cell in cells[1:]]
+        
+        # Return the processed data
+        return [date, state, city_name] + prices
+
     # Iterate over each state abbreviation
     for state, abbreviation in state_abbreviations.items():
         params = {'state': abbreviation}
@@ -37,18 +52,15 @@ def fetch_gas_prices(state_abbreviations):
         # Extract city sections
         cities = soup.select('.accordion-prices.metros-js > h3[data-title]')
         
-        # Extract data using list comprehensions
+        # Extract data for each city
         for city in cities:
             city_name = city.get_text(strip=True)
             rows = city.find_next('table').select('tbody tr')
 
+            # Process each row using the helper function
             for row in rows:
-                cells = row.find_all('td')
-                date_text = cells[0].get_text(strip=True)
-                date = time_mapping.get(date_text, lambda: today)().strftime('%Y-%d-%m')
-                prices = [cell.get_text(strip=True).replace('$', '') for cell in cells[1:]]
-                
-                all_data.append([date, state, city_name] + prices)
+                row_data = extract_gas_prices(row, time_mapping, today, state, city_name)
+                all_data.append(row_data)
 
     # Convert list of data into DataFrame
     all_data_df = pd.DataFrame(all_data, columns=['Date', 'State', 'City', 'Regular', 'Mid-Grade', 'Premium', 'Diesel'])
