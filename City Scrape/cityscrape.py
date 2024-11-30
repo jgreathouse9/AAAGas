@@ -1,62 +1,27 @@
-import requests
-from bs4 import BeautifulSoup
 import pandas as pd
-from dateutil.relativedelta import relativedelta
+from datetime import datetime
+from cityutils import fetch_gas_prices
+import os
 
-def fetch_gas_prices(state_abbreviations):
-    """Fetch and process gas prices for all states."""
-    # Define headers
-    headers = {
-        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
-    }
+# URL of the CSV file
+url = "https://raw.githubusercontent.com/jasonong/List-of-US-States/refs/heads/master/states.csv"
 
-    # Initialize an empty list to hold all data
-    all_data = []
+# Read the CSV into a DataFrame
+states_df = pd.read_csv(url)
 
-    # Time mapping for relative deltas using relativedelta
-    today = pd.Timestamp.today()
-    time_mapping = {
-        "Current Avg.": lambda: today,
-        "Yesterday Avg.": lambda: today - pd.Timedelta(days=1),
-        "Week Ago Avg.": lambda: today - pd.Timedelta(weeks=1),
-        "Month Ago Avg.": lambda: today - relativedelta(months=1),
-        "Year Ago Avg.": lambda: today - relativedelta(years=1),
-    }
+# Create a dictionary mapping state names to abbreviations
+state_abbreviations = dict(zip(states_df['State'], states_df['Abbreviation']))
 
-    # Iterate over each state abbreviation
-    for state, abbreviation in state_abbreviations.items():
-        params = {'state': abbreviation}
-        response = requests.get('https://gasprices.aaa.com/', params=params, headers=headers)
+# Fetch gas prices
+df = fetch_gas_prices(state_abbreviations)
 
-        if response.status_code != 200:
-            print(f"Error fetching data for {state}. Status code: {response.status_code}")
-            continue
+# Format the date for the filename
+date_str = datetime.now().strftime("%Y-%m-%d")
 
-        soup = BeautifulSoup(response.content, 'html.parser')
+# Ensure the output directory exists
+output_dir = "./City Scrape/Data"
+os.makedirs(output_dir, exist_ok=True)
 
-        # Extract city sections
-        cities = soup.select('.accordion-prices.metros-js > h3[data-title]')
-        
-        # Extract data using list comprehensions
-        for city in cities:
-            city_name = city.get_text(strip=True)
-            rows = city.find_next('table').select('tbody tr')
-
-            for row in rows:
-                cells = row.find_all('td')
-                date_text = cells[0].get_text(strip=True)
-                date = time_mapping.get(date_text, lambda: today)().strftime('%Y-%d-%m')
-                prices = [cell.get_text(strip=True).replace('$', '') for cell in cells[1:]]
-                
-                all_data.append([date, state, city_name] + prices)
-
-    # Convert list of data into DataFrame
-    all_data_df = pd.DataFrame(all_data, columns=['Date', 'State', 'City', 'Regular', 'Mid-Grade', 'Premium', 'Diesel'])
-
-    # Convert 'Date' to datetime
-    all_data_df['Date'] = pd.to_datetime(all_data_df['Date'], format='%Y-%d-%m')
-
-    # Sort by 'State', 'City', and 'Date'
-    all_data_df = all_data_df.sort_values(by=['State', 'City', 'Date']).reset_index(drop=True)
-
-    return all_data_df
+# Save the DataFrame as "/City Scrape/Data/City_{date}.csv"
+output_path = f"{output_dir}/City_{date_str}.csv"
+df.to_csv(output_path, index=False)
