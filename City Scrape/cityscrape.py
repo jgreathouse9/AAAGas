@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-from dateutil.relativedelta import relativedelta  # For precise relative deltas
+from dateutil.relativedelta import relativedelta
 
 def fetch_gas_prices(state_abbreviations):
     """Fetch and process gas prices for all states."""
@@ -10,8 +10,8 @@ def fetch_gas_prices(state_abbreviations):
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
     }
 
-    # Initialize an empty DataFrame to hold all data
-    all_data = pd.DataFrame(columns=['Date', 'State', 'City', 'Regular', 'Mid-Grade', 'Premium', 'Diesel'])
+    # Initialize an empty list to hold all data
+    all_data = []
 
     # Time mapping for relative deltas using relativedelta
     today = pd.Timestamp.today()
@@ -27,34 +27,36 @@ def fetch_gas_prices(state_abbreviations):
     for state, abbreviation in state_abbreviations.items():
         params = {'state': abbreviation}
         response = requests.get('https://gasprices.aaa.com/', params=params, headers=headers)
+
+        if response.status_code != 200:
+            print(f"Error fetching data for {state}. Status code: {response.status_code}")
+            continue
+
         soup = BeautifulSoup(response.content, 'html.parser')
 
         # Extract city sections
         cities = soup.select('.accordion-prices.metros-js > h3[data-title]')
-
+        
         # Extract data using list comprehensions
-        data = [
-            [
-                # Calculate date using time_mapping
-                time_mapping.get(row.find_all('td')[0].get_text(strip=True), lambda: today)().strftime('%Y-%d-%m'),
-                state,
-                city.get_text(strip=True),
-                *[cell.get_text(strip=True).replace('$', '') for cell in row.find_all('td')[1:]]
-            ]
-            for city in cities
-            for row in city.find_next('table').select('tbody tr')
-        ]
+        for city in cities:
+            city_name = city.get_text(strip=True)
+            rows = city.find_next('table').select('tbody tr')
 
-        # Create a DataFrame for the current state
-        state_df = pd.DataFrame(data, columns=['Date', 'State', 'City', 'Regular', 'Mid-Grade', 'Premium', 'Diesel'])
+            for row in rows:
+                cells = row.find_all('td')
+                date_text = cells[0].get_text(strip=True)
+                date = time_mapping.get(date_text, lambda: today)().strftime('%Y-%d-%m')
+                prices = [cell.get_text(strip=True).replace('$', '') for cell in cells[1:]]
+                
+                all_data.append([date, state, city_name] + prices)
 
-        # Append to the all_data DataFrame
-        all_data = pd.concat([all_data, state_df], ignore_index=True)
+    # Convert list of data into DataFrame
+    all_data_df = pd.DataFrame(all_data, columns=['Date', 'State', 'City', 'Regular', 'Mid-Grade', 'Premium', 'Diesel'])
 
     # Convert 'Date' to datetime
-    all_data['Date'] = pd.to_datetime(all_data['Date'], format='%Y-%d-%m')
+    all_data_df['Date'] = pd.to_datetime(all_data_df['Date'], format='%Y-%d-%m')
 
     # Sort by 'State', 'City', and 'Date'
-    all_data = all_data.sort_values(by=['State', 'City', 'Date']).reset_index(drop=True)
+    all_data_df = all_data_df.sort_values(by=['State', 'City', 'Date']).reset_index(drop=True)
 
-    return all_data
+    return all_data_df
