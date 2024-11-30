@@ -27,6 +27,19 @@ jobs:
       run: |
         python "City Scrape/cityscrape.py"
 
+    - name: Ensure directory exists
+      run: |
+        mkdir -p "City Scrape/Data/"
+
+    - name: Check if CSV files exist
+      run: |
+        if ls "City Scrape/Data/City_*.csv" 1> /dev/null 2>&1; then
+          echo "CSV files found, proceeding to commit."
+        else
+          echo "No CSV files found, skipping commit."
+          exit 0
+        fi
+
     - name: Commit and push updated CSV to repository
       run: |
         git config --global user.name "GitHub Actions"
