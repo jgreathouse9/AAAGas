@@ -1,5 +1,4 @@
-name: Scrape and Save County Gas Prices
-
+name: County Prices
 on:
   schedule:
     # Runs once a day at 1:00 PM UTC (7:00 AM EST). Adjust the schedule as needed.
@@ -40,9 +39,11 @@ jobs:
         # Check if there are any changes (to avoid errors if nothing changed)
         git diff --exit-code || echo "Changes detected"
 
+        # Add new or modified files in the 'Data' directory
+        git add ./Data/* || echo "No new files to add"
+
         # Commit the changes
         git commit -m "Update gas prices data" || echo "No changes to commit"
 
         # Push the changes to the repository
         git push
-
