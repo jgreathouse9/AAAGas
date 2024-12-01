@@ -10,7 +10,8 @@ today = datetime.now().strftime('%Y-%m-%d')
 df = get_gas_prices(get_state_abbreviations())
 
 # Ensure the directory exists, create it if it doesn't
-directory = '/Data'
+directory = './Data'
+
 if not os.path.exists(directory):
     os.makedirs(directory)
 
