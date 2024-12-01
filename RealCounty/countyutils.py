@@ -83,8 +83,6 @@ def get_gas_prices(state_abbreviations, base_url='https://gasprices.aaa.com/', h
                             'date': today
                         })
 
-                    print(f"Updated state_abbreviations for {state}.")
-
                 except json.JSONDecodeError as e:
                     print(f"Error decoding map_data for {state}: {e}")
             else:
