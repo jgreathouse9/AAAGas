@@ -1,4 +1,4 @@
-name: Scrape and Save County Gas Prices
+name: County Scraper
 
 on:
   schedule:
