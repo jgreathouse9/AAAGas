@@ -29,8 +29,8 @@ jobs:
 
     - name: Run gas price scraper
       run: |
-        python3 realcountymain.py
-
+        python3 RealCounty/county_scraper_main
+        
     - name: Commit and push the scraped data
       run: |
         # Ensure Git user configuration is correct
@@ -39,9 +39,6 @@ jobs:
 
         # Check if there are any changes (to avoid errors if nothing changed)
         git diff --exit-code || echo "Changes detected"
-
-        # Stage the file changes (modify as per the actual file path)
-        git add RealCounty/RealCounty.csv  # Adjust path to where the file is located
 
         # Commit the changes
         git commit -m "Update gas prices data" || echo "No changes to commit"
