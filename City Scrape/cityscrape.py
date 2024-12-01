@@ -3,16 +3,18 @@ from datetime import datetime
 from cityutils import fetch_gas_prices
 import os
 
-# URL of the CSV file
+# We just need the state abbreviations since
+# AAA indexes their states by the abbreviation.
+
 url = "https://raw.githubusercontent.com/jasonong/List-of-US-States/refs/heads/master/states.csv"
 
-# Read the CSV into a DataFrame
+# We read the csv into a df
 states_df = pd.read_csv(url)
 
-# Create a dictionary mapping state names to abbreviations
+# And now we just map the full name to the abbreviation
 state_abbreviations = dict(zip(states_df['State'], states_df['Abbreviation']))
 
-# Fetch gas prices
+# Here is the main function that does the scrape.
 df = fetch_gas_prices(state_abbreviations)
 
 # Format the date for the filename
