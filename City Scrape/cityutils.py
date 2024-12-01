@@ -4,13 +4,20 @@ import pandas as pd
 from dateutil.relativedelta import relativedelta
 
 def fetch_gas_prices(state_abbreviations):
-    """Fetch and process gas prices for all states."""
-    # Define headers
+    """Grabs and processes gas prices for
+    all counties. This is the parent function."""
+    
+    # Here we define headers.
+    # This is so our scraping will be easier without being blocked. Unlikely in this case,
+    # but it's just good practice to have them.
+    
     headers = {
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
     }
 
-    # Time mapping for relative deltas using relativedelta
+    # AAA consistently maps their prices to these strings.
+    # So to facilitate this, we map them to each other.
+    
     today = pd.Timestamp.today()
     time_mapping = {
         "Current Avg.": lambda: today,
@@ -20,9 +27,10 @@ def fetch_gas_prices(state_abbreviations):
         "Year Ago Avg.": lambda: today - relativedelta(years=1),
     }
 
-    # Helper function to extract gas prices from a row
     def extract_gas_prices(row, time_mapping, today, state, city_name):
-        """Extract and process gas price data from a row."""
+        """Extract and process gas price data from a row Specifically this is the row for the accordion tables found at the bottom
+        of the page."""
+        
         cells = row.find_all('td')
         date_text = cells[0].get_text(strip=True)
         
