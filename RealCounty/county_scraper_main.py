@@ -1,4 +1,4 @@
-from countyutils import get_state_abbreviations, get_gas_prices
+from countyutils import get_state_abbreviations, process_gas_prices
 import os
 import pandas as pd
 from datetime import datetime
@@ -20,7 +20,7 @@ try:
     today = datetime.now().strftime('%Y-%m-%d')
 
     # Fetch gas price data
-    df = get_gas_prices(get_state_abbreviations())
+    df = process_gas_prices(get_state_abbreviations())
     logging.info("Gas price data successfully fetched.")
 
     # Create directory if it doesn't exist
