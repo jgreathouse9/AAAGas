@@ -1,4 +1,6 @@
 from countyutils import get_state_abbreviations, get_gas_prices
+import os
+import pandas as pd
 
 
 # Fetch gas prices and return as a DataFrame
