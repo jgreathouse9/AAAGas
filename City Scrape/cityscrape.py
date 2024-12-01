@@ -12,7 +12,7 @@ url = "https://raw.githubusercontent.com/jasonong/List-of-US-States/refs/heads/m
 states_df = pd.read_csv(url)
 
 # And now we just map the full name to the abbreviation
-state_abbreviations = dict(zip(states_df['State'], states_df['Abbreviation']))
+state_abbreviations = dict(zip(states_df["State"], states_df["Abbreviation"]))
 
 # Here is the main function that does the scrape.
 df = fetch_gas_prices(state_abbreviations)

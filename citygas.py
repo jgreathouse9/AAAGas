@@ -23,7 +23,11 @@ if os.path.exists(live_file):
     print(existing_live_df.head())
 
     # Append today's live data, removing duplicates
-    all_live_df = pd.concat([existing_live_df, today_live_df]).drop_duplicates().reset_index(drop=True)
+    all_live_df = (
+        pd.concat([existing_live_df, today_live_df])
+        .drop_duplicates()
+        .reset_index(drop=True)
+    )
 else:
     print("No existing live data found. Using today's data only.")
     all_live_df = today_live_df
@@ -40,19 +44,21 @@ if os.path.exists(historical_file):
     print(historical_df.head())
 
     # Merge historical and live data, removing duplicates
-    merged_df = pd.concat([historical_df, all_live_df]).drop_duplicates().reset_index(drop=True)
+    merged_df = (
+        pd.concat([historical_df, all_live_df]).drop_duplicates().reset_index(drop=True)
+    )
 else:
     print("No historical data found. Using live data only for merged file.")
     merged_df = all_live_df
 
 # Ensure 'Date' column is valid
 print("Converting 'Date' column to datetime...")
-merged_df['Date'] = pd.to_datetime(merged_df['Date'], errors='coerce')
+merged_df["Date"] = pd.to_datetime(merged_df["Date"], errors="coerce")
 
 # Check for invalid dates
-if merged_df['Date'].isna().any():
+if merged_df["Date"].isna().any():
     print("Invalid dates detected. Sample rows with issues:")
-    invalid_dates = merged_df[merged_df['Date'].isna()]
+    invalid_dates = merged_df[merged_df["Date"].isna()]
     print(invalid_dates.head(10))
     raise ValueError("Invalid dates detected in the 'Date' column. Process halted.")
 

@@ -15,8 +15,8 @@ css_selector = "#sortable"
 gas_prices_df = scrape_gas_prices(url, css_selector)
 
 # Add a column to the df for today's date
-today_date = datetime.now().strftime('%Y-%m-%d')  # Format: YYYY-MM-DD
-gas_prices_df['Date'] = today_date
+today_date = datetime.now().strftime("%Y-%m-%d")  # Format: YYYY-MM-DD
+gas_prices_df["Date"] = today_date
 
 # Create 'Prices' folder if it does not yet exist
 output_dir = "Prices"
@@ -38,7 +38,7 @@ else:
     # If MasterGas.csv does not exist, create it with the current day's data
     master_df = gas_prices_df
 
-master_df = master_df.sort_values(by=['State', 'Date'])
+master_df = master_df.sort_values(by=["State", "Date"])
 
 # Save the updated master file
 master_df.to_csv(master_file, index=False)

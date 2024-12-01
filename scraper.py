@@ -3,6 +3,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from io import StringIO
 
+
 def scrape_gas_prices(url, css_selector):
     """
     Scrapes the state level AAA gas data

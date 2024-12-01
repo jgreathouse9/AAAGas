@@ -2,6 +2,7 @@ import os
 import pandas as pd
 from datetime import datetime, timedelta
 
+
 def fetch_and_combine_gas_prices(start_date: str, end_date: str) -> pd.DataFrame:
     """
     Fetches daily gas price data from the specified date range, cleans, and combines the data.
@@ -21,7 +22,9 @@ def fetch_and_combine_gas_prices(start_date: str, end_date: str) -> pd.DataFrame
 
     # Load the state mapping
     state_mapping_df = pd.read_csv(state_mapping_url)
-    state_mapping = dict(zip(state_mapping_df['Abbreviation'], state_mapping_df['State']))
+    state_mapping = dict(
+        zip(state_mapping_df["Abbreviation"], state_mapping_df["State"])
+    )
 
     # Convert input dates to datetime objects
     start = datetime.strptime(start_date, "%Y-%m-%d")
@@ -62,19 +65,30 @@ def fetch_and_combine_gas_prices(start_date: str, end_date: str) -> pd.DataFrame
     if dataframes:
         combined_df = pd.concat(dataframes, ignore_index=True)
         # Rename the columns to match the scraper's naming conventions
-        combined_df.columns = ["City", "State", "Date", "Regular", "Mid", "Premium", "Diesel"]
+        combined_df.columns = [
+            "City",
+            "State",
+            "Date",
+            "Regular",
+            "Mid",
+            "Premium",
+            "Diesel",
+        ]
 
         # Replace state abbreviations with full state names
-        combined_df['State'] = combined_df['State'].replace(state_mapping)
+        combined_df["State"] = combined_df["State"].replace(state_mapping)
 
         # Format the 'Date' column to 'YYYY-MM-DD'
-        combined_df['Date'] = pd.to_datetime(combined_df['Date'])
+        combined_df["Date"] = pd.to_datetime(combined_df["Date"])
 
         print("Successfully combined, renamed, and formatted all data")
         return combined_df
     else:
         print("No data was fetched")
-        return pd.DataFrame(columns=["City", "State", "Date", "Regular", "Mid", "Premium", "Diesel"])
+        return pd.DataFrame(
+            columns=["City", "State", "Date", "Regular", "Mid", "Premium", "Diesel"]
+        )
+
 
 # Ensure the CountyPrices directory exists
 output_dir = "CountyPrices"

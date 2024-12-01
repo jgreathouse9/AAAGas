@@ -3,11 +3,11 @@ import os
 import pandas as pd
 from datetime import datetime
 
-today = datetime.now().strftime('%Y-%m-%d')
+today = datetime.now().strftime("%Y-%m-%d")
 
 df = get_gas_prices(get_state_abbreviations())
 
-directory = './RealCounty/Data'
+directory = "./RealCounty/Data"
 if not os.path.exists(directory):
     os.makedirs(directory)
 
