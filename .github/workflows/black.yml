@@ -1,44 +1,40 @@
-name: Format with Black
+name: Format and Push
 
 on:
   push:
-    paths:
-      - '**/*.py'
-  pull_request:
-    paths:
-      - '**/*.py'
+    branches:
+      - master
 
 jobs:
-  format:
+  format-and-push:
     runs-on: ubuntu-latest
-
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch the full history to avoid issues with pulling
 
-      # Step 2: Set up Python environment
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.9
 
-      # Step 3: Install Black
       - name: Install Black
         run: pip install black
 
-      # Step 4: Run Black to format code
-      - name: Run Black
+      - name: Format Code
         run: black .
 
-      # Step 5: Commit changes (if any)
-      - name: Commit changes
+      - name: Configure Git
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Apply Black formatting" || echo "No changes to commit"
-      - name: Push changes
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Pull Latest Changes
+        run: git pull origin master --rebase  # Rebase to apply new changes on top of the latest remote branch
+
+      - name: Commit and Push Changes
         uses: ad-m/github-push-action@v0.6.0
         with:
+          branch: master
           github_token: ${{ secrets.GITHUB_TOKEN }}
