@@ -41,7 +41,6 @@ def process_gas_prices(state_abbreviations, base_url='https://gasprices.aaa.com/
     for state, abbreviation in state_abbreviations.items():
         try:
             # Fetch map_id for the state
-            logging.info(f"Processing state: {state} ({abbreviation})")
             response = requests.get(base_url, params={'state': abbreviation}, headers=headers)
             response.raise_for_status()
             map_id_match = re.search(r'map_id=(\d+)', response.text)
