@@ -11,7 +11,7 @@ def get_state_abbreviations(url="https://raw.githubusercontent.com/jasonong/List
     return dict(zip(states_df['State'], states_df['Abbreviation']))
 
 
-# Fetch gas prices for all states and return as a DataFrame
+# Function to fetch gas prices for all states and return as a DataFrame
 def get_gas_prices(state_abbreviations, base_url='https://gasprices.aaa.com/', headers=None):
     today = datetime.now().strftime('%Y-%m-%d')
 
@@ -50,19 +50,22 @@ def get_gas_prices(state_abbreviations, base_url='https://gasprices.aaa.com/', h
 
             map_data = json.loads(map_data_match.group(1))
 
-            # Simplify and collect data
-            for item in map_data.values():
-                state_data.append({
-                    'state': state,
-                    'abbreviation': abbreviation,
-                    'name': item.get('name'),
-                    'price': item.get('comment'),
-                    'date': today
-                })
+            # Simplify and collect data using map
+            state_data.extend(
+                map(
+                    lambda item: {
+                        'state': state,
+                        'abbreviation': abbreviation,
+                        'name': item.get('name'),
+                        'price': item.get('comment'),
+                        'date': today
+                    },
+                    map_data.values()
+                )
+            )
 
         except (requests.RequestException, json.JSONDecodeError) as e:
             print(f"Error processing {state}: {e}")
 
     # Convert data to a DataFrame
     return pd.DataFrame(state_data)
-
