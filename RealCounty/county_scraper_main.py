@@ -1,6 +1,9 @@
 from countyutils import get_state_abbreviations, get_gas_prices
 import os
 import pandas as pd
+from datetime import datetime
+
+today = datetime.now().strftime('%Y-%m-%d')
 
 
 # Fetch gas prices and return as a DataFrame
