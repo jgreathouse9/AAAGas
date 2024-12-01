@@ -29,7 +29,7 @@ jobs:
 
     - name: Run gas price scraper
       run: |
-        python3 RealCounty/county_scraper_main
+        python3 RealCounty/county_scraper_main.py
         
     - name: Commit and push the scraped data
       run: |
