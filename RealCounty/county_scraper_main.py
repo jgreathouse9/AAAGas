@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime
 import logging
 
-# Configure logging
+# Configure logging for the main code
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
