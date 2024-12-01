@@ -4,7 +4,7 @@ import pandas as pd
 import json
 from datetime import datetime
 
-# Function to fetch state abbreviations
+# 1. Fetch state abbreviations
 def get_state_abbreviations(
         url="https://raw.githubusercontent.com/jasonong/List-of-US-States/refs/heads/master/states.csv"):
     """
@@ -19,7 +19,7 @@ def get_state_abbreviations(
     states_df = pd.read_csv(url)
     return dict(zip(states_df['State'], states_df['Abbreviation']))
 
-# Function to fetch gas price data for a single state
+# 2. Fetch gas price data for a single state
 def fetch_state_data(state, abbreviation, base_url, headers, today):
     """
     Fetch gas price data for a single state.
@@ -76,7 +76,7 @@ def fetch_state_data(state, abbreviation, base_url, headers, today):
 
     return state_data
 
-# Function to fetch gas prices for all states using mapping
+# 3. Fetch gas prices for all states using mapping
 def fetch_all_states(state_abbreviations, base_url, headers):
     """
     Fetch gas price data for all states using the mapping approach.
@@ -108,7 +108,7 @@ def fetch_all_states(state_abbreviations, base_url, headers):
     # Flatten the list of lists
     return [item for sublist in state_data for item in sublist]
 
-# Function to convert state data into a DataFrame
+# 4. Convert state data into a DataFrame
 def get_gas_prices(state_abbreviations, base_url='https://gasprices.aaa.com/', headers=None):
     """
     Fetches gas prices for all states and returns the data as a DataFrame.
