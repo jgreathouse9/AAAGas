@@ -1,0 +1,2371 @@
+Date,State,City,Regular,Mid-Grade,Premium,Diesel
+2023-12-24,Alabama,Anniston-Oxford,2.799,3.140,3.541,3.774
+2024-11-24,Alabama,Anniston-Oxford,2.747,3.139,3.529,3.260
+2024-12-17,Alabama,Anniston-Oxford,2.771,3.141,3.531,3.279
+2024-12-23,Alabama,Anniston-Oxford,2.775,3.179,3.564,3.298
+2024-12-24,Alabama,Anniston-Oxford,2.772,3.145,3.630,3.289
+2023-12-24,Alabama,Auburn,2.785,3.168,3.496,3.713
+2024-11-24,Alabama,Auburn,2.691,3.084,3.464,3.259
+2024-12-17,Alabama,Auburn,2.664,3.093,3.470,3.237
+2024-12-23,Alabama,Auburn,2.688,3.045,3.472,3.236
+2024-12-24,Alabama,Auburn,2.679,3.052,3.487,3.220
+2023-12-24,Alabama,Birmingham,2.810,3.225,3.613,3.787
+2024-11-24,Alabama,Birmingham,2.766,3.232,3.630,3.345
+2024-12-17,Alabama,Birmingham,2.724,3.172,3.598,3.376
+2024-12-23,Alabama,Birmingham,2.738,3.187,3.591,3.350
+2024-12-24,Alabama,Birmingham,2.733,3.189,3.594,3.357
+2023-12-24,Alabama,Daphne-Fairhope-Foley,2.814,3.209,3.613,3.694
+2024-11-24,Alabama,Daphne-Fairhope-Foley,2.733,3.151,3.540,3.239
+2024-12-17,Alabama,Daphne-Fairhope-Foley,2.694,3.109,3.517,3.207
+2024-12-23,Alabama,Daphne-Fairhope-Foley,2.710,3.135,3.470,3.219
+2024-12-24,Alabama,Daphne-Fairhope-Foley,2.707,3.114,3.514,3.202
+2023-12-24,Alabama,Decatur,2.730,3.156,3.517,3.747
+2024-11-24,Alabama,Decatur,2.696,3.161,3.502,3.242
+2024-12-17,Alabama,Decatur,2.690,3.091,3.466,3.216
+2024-12-23,Alabama,Decatur,2.700,3.099,3.470,3.201
+2024-12-24,Alabama,Decatur,2.699,3.104,3.460,3.219
+2023-12-24,Alabama,Dothan,2.834,3.203,3.596,3.834
+2024-11-24,Alabama,Dothan,2.813,3.200,3.614,3.505
+2024-12-17,Alabama,Dothan,2.800,3.211,3.568,3.521
+2024-12-23,Alabama,Dothan,2.737,3.151,3.531,3.520
+2024-12-24,Alabama,Dothan,2.748,3.163,3.556,3.514
+2023-12-24,Alabama,Florence-Muscle Shoals,2.798,3.180,3.572,3.811
+2024-11-24,Alabama,Florence-Muscle Shoals,2.729,3.134,3.524,3.239
+2024-12-17,Alabama,Florence-Muscle Shoals,2.746,3.196,3.568,3.228
+2024-12-23,Alabama,Florence-Muscle Shoals,2.776,3.175,3.559,3.227
+2024-12-24,Alabama,Florence-Muscle Shoals,2.753,3.176,3.554,3.224
+2023-12-24,Alabama,Gadsden,2.716,3.055,3.482,3.714
+2024-11-24,Alabama,Gadsden,2.732,3.111,3.555,3.260
+2024-12-17,Alabama,Gadsden,2.690,3.105,3.498,3.246
+2024-12-23,Alabama,Gadsden,2.723,3.124,3.545,3.245
+2024-12-24,Alabama,Gadsden,2.712,3.142,3.519,3.267
+2023-12-24,Alabama,Huntsville,2.808,3.183,3.556,3.777
+2024-11-24,Alabama,Huntsville,2.782,3.196,3.586,3.355
+2024-12-17,Alabama,Huntsville,2.738,3.143,3.522,3.296
+2024-12-23,Alabama,Huntsville,2.744,3.149,3.521,3.315
+2024-12-24,Alabama,Huntsville,2.739,3.144,3.521,3.323
+2023-12-24,Alabama,Mobile,2.808,3.263,3.620,3.716
+2024-11-24,Alabama,Mobile,2.698,3.135,3.531,3.242
+2024-12-17,Alabama,Mobile,2.657,3.116,3.482,3.272
+2024-12-23,Alabama,Mobile,2.673,3.120,3.485,3.226
+2024-12-24,Alabama,Mobile,2.663,3.103,3.493,3.247
+2023-12-24,Alabama,Montgomery,2.845,3.304,3.691,3.816
+2024-11-24,Alabama,Montgomery,2.761,3.217,3.611,3.304
+2024-12-17,Alabama,Montgomery,2.709,3.157,3.563,3.288
+2024-12-23,Alabama,Montgomery,2.713,3.145,3.542,3.295
+2024-12-24,Alabama,Montgomery,2.715,3.160,3.560,3.283
+2023-12-24,Alabama,Russell County,2.819,3.255,3.624,3.914
+2024-11-24,Alabama,Russell County,2.734,3.184,3.555,3.468
+2024-12-17,Alabama,Russell County,2.739,3.209,3.547,3.425
+2024-12-23,Alabama,Russell County,2.717,3.168,3.444,3.381
+2024-12-24,Alabama,Russell County,2.714,3.189,3.454,3.389
+2023-12-24,Alabama,Tuscaloosa,2.788,3.193,3.588,3.703
+2024-11-24,Alabama,Tuscaloosa,2.722,3.160,3.560,3.270
+2024-12-17,Alabama,Tuscaloosa,2.679,3.087,3.516,3.262
+2024-12-23,Alabama,Tuscaloosa,2.716,3.140,3.534,3.253
+2024-12-24,Alabama,Tuscaloosa,2.715,3.158,3.571,3.258
+2023-12-24,Alaska,Anchorage,3.599,3.927,4.093,4.000
+2024-11-24,Alaska,Anchorage,3.459,3.769,4.045,3.599
+2024-12-17,Alaska,Anchorage,3.341,3.664,3.870,3.547
+2024-12-23,Alaska,Anchorage,3.338,3.611,3.826,3.539
+2024-12-24,Alaska,Anchorage,3.328,3.623,3.831,3.528
+2023-12-24,Alaska,Fairbanks,3.576,3.768,3.933,4.047
+2024-11-24,Alaska,Fairbanks,3.423,3.668,3.849,3.642
+2024-12-17,Alaska,Fairbanks,3.233,3.487,3.715,3.581
+2024-12-23,Alaska,Fairbanks,3.206,3.449,3.671,3.580
+2024-12-24,Alaska,Fairbanks,3.224,3.443,3.659,3.589
+2023-12-24,Alaska,Juneau,3.883,3.756,4.069,4.231
+2024-11-24,Alaska,Juneau,3.581,3.513,3.743,3.704
+2024-12-17,Alaska,Juneau,3.363,3.379,3.473,3.513
+2024-12-23,Alaska,Juneau,3.463,3.357,3.455,3.719
+2024-12-24,Alaska,Juneau,3.433,3.369,3.465,3.698
+2023-12-24,Arizona,East Valley,3.249,3.592,3.881,3.968
+2024-11-24,Arizona,East Valley,3.273,3.624,3.956,3.464
+2024-12-17,Arizona,East Valley,3.206,3.552,3.877,3.461
+2024-12-23,Arizona,East Valley,3.165,3.503,3.839,3.423
+2024-12-24,Arizona,East Valley,3.162,3.515,3.852,3.422
+2023-12-24,Arizona,Flagstaff,3.407,3.648,3.883,4.208
+2024-11-24,Arizona,Flagstaff,3.263,3.527,3.890,3.614
+2024-12-17,Arizona,Flagstaff,3.114,3.374,3.762,3.579
+2024-12-23,Arizona,Flagstaff,3.088,3.389,3.691,3.544
+2024-12-24,Arizona,Flagstaff,3.083,3.383,3.705,3.533
+2023-12-24,Arizona,Glendale,3.256,3.588,3.862,3.945
+2024-11-24,Arizona,Glendale,3.233,3.579,3.898,3.430
+2024-12-17,Arizona,Glendale,3.109,3.438,3.749,3.401
+2024-12-23,Arizona,Glendale,3.031,3.374,3.684,3.355
+2024-12-24,Arizona,Glendale,3.053,3.412,3.700,3.360
+2023-12-24,Arizona,Lake Havasu-Kingman,3.446,3.601,3.922,4.170
+2024-11-24,Arizona,Lake Havasu-Kingman,3.094,3.347,3.670,3.538
+2024-12-17,Arizona,Lake Havasu-Kingman,3.067,3.346,3.666,3.503
+2024-12-23,Arizona,Lake Havasu-Kingman,3.046,3.308,3.619,3.533
+2024-12-24,Arizona,Lake Havasu-Kingman,3.032,3.257,3.618,3.534
+2023-12-24,Arizona,Peoria,3.306,3.624,3.990,3.923
+2024-11-24,Arizona,Peoria,3.257,3.606,3.929,3.458
+2024-12-17,Arizona,Peoria,3.123,3.476,3.808,3.459
+2024-12-23,Arizona,Peoria,3.083,3.433,3.753,3.453
+2024-12-24,Arizona,Peoria,3.090,3.435,3.755,3.448
+2023-12-24,Arizona,Phoenix Proper,3.205,3.549,3.839,3.957
+2024-11-24,Arizona,Phoenix Proper,3.264,3.619,3.929,3.533
+2024-12-17,Arizona,Phoenix Proper,3.150,3.490,3.811,3.498
+2024-12-23,Arizona,Phoenix Proper,3.100,3.439,3.757,3.456
+2024-12-24,Arizona,Phoenix Proper,3.103,3.447,3.761,3.450
+2023-12-24,Arizona,Phoenix-Mesa,3.243,3.586,3.869,3.973
+2024-11-24,Arizona,Phoenix-Mesa,3.258,3.603,3.923,3.522
+2024-12-17,Arizona,Phoenix-Mesa,3.151,3.496,3.813,3.491
+2024-12-23,Arizona,Phoenix-Mesa,3.105,3.447,3.762,3.449
+2024-12-24,Arizona,Phoenix-Mesa,3.110,3.457,3.777,3.449
+2023-12-24,Arizona,Pima County,3.034,3.353,3.633,3.893
+2024-11-24,Arizona,Pima County,3.094,3.441,3.747,3.392
+2024-12-17,Arizona,Pima County,2.983,3.315,3.631,3.430
+2024-12-23,Arizona,Pima County,2.954,3.287,3.617,3.396
+2024-12-24,Arizona,Pima County,2.973,3.310,3.637,3.420
+2023-12-24,Arizona,Prescott,3.356,3.642,3.937,4.084
+2024-11-24,Arizona,Prescott,3.258,3.550,3.905,3.501
+2024-12-17,Arizona,Prescott,3.239,3.475,3.838,3.501
+2024-12-23,Arizona,Prescott,3.196,3.467,3.785,3.418
+2024-12-24,Arizona,Prescott,3.203,3.470,3.809,3.436
+2023-12-24,Arizona,Scottsdale,3.412,3.733,3.983,4.175
+2024-11-24,Arizona,Scottsdale,3.318,3.640,3.945,3.728
+2024-12-17,Arizona,Scottsdale,3.221,3.542,3.857,3.639
+2024-12-23,Arizona,Scottsdale,3.192,3.528,3.812,3.618
+2024-12-24,Arizona,Scottsdale,3.210,3.536,3.846,3.621
+2023-12-24,Arizona,Sierra Vista-Douglas,3.281,3.627,3.889,4.147
+2024-11-24,Arizona,Sierra Vista-Douglas,3.225,3.506,3.796,3.570
+2024-12-17,Arizona,Sierra Vista-Douglas,3.209,3.518,3.829,3.535
+2024-12-23,Arizona,Sierra Vista-Douglas,3.166,3.454,3.770,3.525
+2024-12-24,Arizona,Sierra Vista-Douglas,3.159,3.452,3.764,3.505
+2023-12-24,Arizona,Tucson,3.028,3.346,3.628,3.903
+2024-11-24,Arizona,Tucson,3.100,3.451,3.758,3.419
+2024-12-17,Arizona,Tucson,2.986,3.324,3.640,3.442
+2024-12-23,Arizona,Tucson,2.958,3.296,3.625,3.405
+2024-12-24,Arizona,Tucson,2.972,3.312,3.638,3.424
+2023-12-24,Arizona,West Valley,3.266,3.593,3.898,3.924
+2024-11-24,Arizona,West Valley,3.235,3.587,3.906,3.425
+2024-12-17,Arizona,West Valley,3.101,3.445,3.765,3.418
+2024-12-23,Arizona,West Valley,3.040,3.389,3.701,3.390
+2024-12-24,Arizona,West Valley,3.055,3.415,3.717,3.388
+2023-12-24,Arizona,Yuma,3.379,3.761,3.987,4.439
+2024-11-24,Arizona,Yuma,3.155,3.474,3.765,3.391
+2024-12-17,Arizona,Yuma,3.147,3.466,3.770,3.396
+2024-12-23,Arizona,Yuma,3.076,3.397,3.716,3.381
+2024-12-24,Arizona,Yuma,3.031,3.354,3.676,3.389
+2023-12-24,Arkansas,Fayetteville-Springdale-Rogers,2.666,3.029,3.348,3.507
+2024-11-24,Arkansas,Fayetteville-Springdale-Rogers,2.579,2.956,3.267,3.066
+2024-12-17,Arkansas,Fayetteville-Springdale-Rogers,2.598,2.979,3.276,2.997
+2024-12-23,Arkansas,Fayetteville-Springdale-Rogers,2.651,3.023,3.348,3.074
+2024-12-24,Arkansas,Fayetteville-Springdale-Rogers,2.642,3.019,3.333,3.058
+2023-12-24,Arkansas,Fort Smith (AR only),2.655,3.027,3.414,3.753
+2024-11-24,Arkansas,Fort Smith (AR only),2.543,2.934,3.271,3.135
+2024-12-17,Arkansas,Fort Smith (AR only),2.532,2.916,3.235,3.070
+2024-12-23,Arkansas,Fort Smith (AR only),2.595,2.999,3.336,3.107
+2024-12-24,Arkansas,Fort Smith (AR only),2.583,2.991,3.347,3.104
+2023-12-24,Arkansas,Hot Springs,2.653,3.098,3.462,3.734
+2024-11-24,Arkansas,Hot Springs,2.630,3.108,3.484,3.246
+2024-12-17,Arkansas,Hot Springs,2.608,3.020,3.424,3.172
+2024-12-23,Arkansas,Hot Springs,2.647,3.080,3.471,3.182
+2024-12-24,Arkansas,Hot Springs,2.629,3.086,3.492,3.184
+2023-12-24,Arkansas,Jonesboro,2.664,3.071,3.496,3.703
+2024-11-24,Arkansas,Jonesboro,2.623,2.995,3.392,3.270
+2024-12-17,Arkansas,Jonesboro,2.591,2.991,3.413,3.200
+2024-12-23,Arkansas,Jonesboro,2.628,2.979,3.397,3.212
+2024-12-24,Arkansas,Jonesboro,2.617,2.971,3.399,3.227
+2023-12-24,Arkansas,Little Rock-North Little Rock,2.668,3.072,3.465,3.656
+2024-11-24,Arkansas,Little Rock-North Little Rock,2.632,3.064,3.454,3.157
+2024-12-17,Arkansas,Little Rock-North Little Rock,2.572,3.003,3.389,3.135
+2024-12-23,Arkansas,Little Rock-North Little Rock,2.647,3.076,3.455,3.135
+2024-12-24,Arkansas,Little Rock-North Little Rock,2.642,3.075,3.455,3.137
+2023-12-24,Arkansas,Pine Bluff,2.785,3.207,3.675,3.725
+2024-11-24,Arkansas,Pine Bluff,2.730,3.195,3.714,3.276
+2024-12-17,Arkansas,Pine Bluff,2.644,3.059,3.571,3.236
+2024-12-23,Arkansas,Pine Bluff,2.631,3.056,3.562,3.288
+2024-12-24,Arkansas,Pine Bluff,2.635,3.000,3.564,3.286
+2023-12-24,Arkansas,Texarkana (AR only),2.721,3.077,3.431,3.555
+2024-11-24,Arkansas,Texarkana (AR only),2.671,3.051,3.426,3.179
+2024-12-17,Arkansas,Texarkana (AR only),2.653,3.003,3.365,3.170
+2024-12-23,Arkansas,Texarkana (AR only),2.658,3.021,3.460,3.236
+2024-12-24,Arkansas,Texarkana (AR only),2.656,3.010,3.387,3.190
+2023-12-24,Arkansas,West Memphis,2.807,3.247,3.787,3.590
+2024-11-24,Arkansas,West Memphis,2.733,3.146,3.639,3.161
+2024-12-17,Arkansas,West Memphis,2.666,2.975,3.486,3.172
+2024-12-23,Arkansas,West Memphis,2.704,3.105,3.552,3.147
+2024-12-24,Arkansas,West Memphis,2.697,3.123,3.508,3.181
+2023-12-24,California,Bakersfield,4.785,4.967,5.192,5.735
+2024-11-24,California,Bakersfield,4.430,4.671,4.886,5.027
+2024-12-17,California,Bakersfield,4.263,4.498,4.735,4.860
+2024-12-23,California,Bakersfield,4.311,4.511,4.793,4.900
+2024-12-24,California,Bakersfield,4.284,4.493,4.732,4.903
+2023-12-24,California,Chico-Paradise,4.384,4.647,4.766,5.216
+2024-11-24,California,Chico-Paradise,4.306,4.506,4.706,4.638
+2024-12-17,California,Chico-Paradise,4.115,4.313,4.476,4.486
+2024-12-23,California,Chico-Paradise,4.107,4.259,4.472,4.470
+2024-12-24,California,Chico-Paradise,4.113,4.291,4.484,4.477
+2023-12-24,California,El Centro,4.322,4.502,4.737,5.545
+2024-11-24,California,El Centro,4.373,4.579,4.795,4.776
+2024-12-17,California,El Centro,4.225,4.466,4.699,4.732
+2024-12-23,California,El Centro,4.226,4.389,4.610,4.681
+2024-12-24,California,El Centro,4.218,4.422,4.642,4.711
+2023-12-24,California,Fresno,4.469,4.660,4.864,5.529
+2024-11-24,California,Fresno,4.408,4.641,4.873,4.907
+2024-12-17,California,Fresno,4.238,4.466,4.691,4.855
+2024-12-23,California,Fresno,4.237,4.479,4.665,4.820
+2024-12-24,California,Fresno,4.229,4.472,4.644,4.826
+2023-12-24,California,Hanford-Corcoran,4.345,4.517,4.725,5.431
+2024-11-24,California,Hanford-Corcoran,4.231,4.398,4.600,4.857
+2024-12-17,California,Hanford-Corcoran,4.115,4.229,4.551,4.880
+2024-12-23,California,Hanford-Corcoran,4.113,4.321,4.544,4.786
+2024-12-24,California,Hanford-Corcoran,4.128,4.378,4.532,4.846
+2023-12-24,California,Los Angeles-Long Beach,4.710,4.912,5.056,5.622
+2024-11-24,California,Los Angeles-Long Beach,4.460,4.675,4.835,4.889
+2024-12-17,California,Los Angeles-Long Beach,4.373,4.583,4.746,4.852
+2024-12-23,California,Los Angeles-Long Beach,4.396,4.608,4.767,4.822
+2024-12-24,California,Los Angeles-Long Beach,4.403,4.617,4.771,4.834
+2023-12-24,California,Madera-Chowchilla,4.484,4.656,4.974,5.593
+2024-11-24,California,Madera-Chowchilla,4.427,4.698,4.939,4.937
+2024-12-17,California,Madera-Chowchilla,4.224,4.456,4.764,4.892
+2024-12-23,California,Madera-Chowchilla,4.209,4.470,4.684,4.851
+2024-12-24,California,Madera-Chowchilla,4.226,4.383,4.679,4.909
+2023-12-24,California,Merced,4.399,4.682,4.889,5.452
+2024-11-24,California,Merced,4.329,4.597,4.856,4.968
+2024-12-17,California,Merced,4.182,4.414,4.663,4.946
+2024-12-23,California,Merced,4.191,4.392,4.683,4.937
+2024-12-24,California,Merced,4.180,4.391,4.652,4.912
+2023-12-24,California,Modesto,4.267,4.488,4.674,5.326
+2024-11-24,California,Modesto,4.174,4.405,4.628,4.841
+2024-12-17,California,Modesto,4.018,4.252,4.495,4.802
+2024-12-23,California,Modesto,4.057,4.258,4.528,4.780
+2024-12-24,California,Modesto,4.071,4.290,4.521,4.796
+2023-12-24,California,Napa,4.721,4.893,5.070,5.528
+2024-11-24,California,Napa,4.599,4.763,5.014,4.912
+2024-12-17,California,Napa,4.407,4.562,4.776,4.878
+2024-12-23,California,Napa,4.417,4.547,4.717,4.786
+2024-12-24,California,Napa,4.415,4.585,4.738,4.859
+2023-12-24,California,Oakland,4.601,4.802,4.972,5.530
+2024-11-24,California,Oakland,4.482,4.717,4.906,4.934
+2024-12-17,California,Oakland,4.308,4.575,4.746,4.832
+2024-12-23,California,Oakland,4.319,4.562,4.746,4.843
+2024-12-24,California,Oakland,4.331,4.570,4.747,4.834
+2023-12-24,California,Orange County,4.587,4.794,4.918,5.438
+2024-11-24,California,Orange County,4.387,4.608,4.751,4.701
+2024-12-17,California,Orange County,4.291,4.511,4.658,4.644
+2024-12-23,California,Orange County,4.335,4.546,4.697,4.651
+2024-12-24,California,Orange County,4.342,4.551,4.702,4.653
+2023-12-24,California,Redding,4.287,4.461,4.595,4.924
+2024-11-24,California,Redding,4.195,4.378,4.518,4.707
+2024-12-17,California,Redding,3.941,4.080,4.272,4.521
+2024-12-23,California,Redding,3.957,4.120,4.286,4.536
+2024-12-24,California,Redding,3.889,4.110,4.301,4.528
+2023-12-24,California,Riverside,4.533,4.737,4.897,5.321
+2024-11-24,California,Riverside,4.335,4.564,4.747,4.761
+2024-12-17,California,Riverside,4.260,4.495,4.671,4.747
+2024-12-23,California,Riverside,4.267,4.505,4.694,4.731
+2024-12-24,California,Riverside,4.276,4.511,4.690,4.738
+2023-12-24,California,Sacramento,4.487,4.703,4.872,5.260
+2024-11-24,California,Sacramento,4.379,4.605,4.802,4.811
+2024-12-17,California,Sacramento,4.223,4.444,4.636,4.737
+2024-12-23,California,Sacramento,4.240,4.467,4.673,4.727
+2024-12-24,California,Sacramento,4.253,4.486,4.681,4.750
+2023-12-24,California,Salinas,4.832,4.886,5.159,5.789
+2024-11-24,California,Salinas,4.678,4.790,5.039,5.206
+2024-12-17,California,Salinas,4.534,4.711,4.949,5.051
+2024-12-23,California,Salinas,4.547,4.636,4.914,5.046
+2024-12-24,California,Salinas,4.551,4.727,4.927,5.051
+2023-12-24,California,San Bernardino,4.493,4.665,4.825,5.424
+2024-11-24,California,San Bernardino,4.376,4.579,4.770,4.822
+2024-12-17,California,San Bernardino,4.284,4.501,4.664,4.766
+2024-12-23,California,San Bernardino,4.307,4.510,4.707,4.768
+2024-12-24,California,San Bernardino,4.300,4.510,4.701,4.772
+2023-12-24,California,San Diego,4.753,4.952,5.114,5.443
+2024-11-24,California,San Diego,4.531,4.742,4.920,4.773
+2024-12-17,California,San Diego,4.458,4.681,4.853,4.763
+2024-12-23,California,San Diego,4.470,4.686,4.867,4.752
+2024-12-24,California,San Diego,4.480,4.701,4.877,4.772
+2023-12-24,California,San Francisco,4.804,4.950,5.138,5.465
+2024-11-24,California,San Francisco,4.636,4.878,5.040,5.051
+2024-12-17,California,San Francisco,4.452,4.668,4.841,4.948
+2024-12-23,California,San Francisco,4.449,4.649,4.829,4.909
+2024-12-24,California,San Francisco,4.444,4.668,4.868,4.923
+2023-12-24,California,San Jose,4.593,4.794,4.946,5.467
+2024-11-24,California,San Jose,4.423,4.650,4.815,4.951
+2024-12-17,California,San Jose,4.269,4.493,4.648,4.882
+2024-12-23,California,San Jose,4.274,4.485,4.654,4.868
+2024-12-24,California,San Jose,4.281,4.494,4.657,4.876
+2023-12-24,California,San Luis Obispo-Atascadero-Paso Robles,4.921,5.104,5.240,6.036
+2024-11-24,California,San Luis Obispo-Atascadero-Paso Robles,4.738,4.953,5.146,5.239
+2024-12-17,California,San Luis Obispo-Atascadero-Paso Robles,4.623,4.833,5.059,5.209
+2024-12-23,California,San Luis Obispo-Atascadero-Paso Robles,4.603,4.795,4.975,5.172
+2024-12-24,California,San Luis Obispo-Atascadero-Paso Robles,4.607,4.793,4.986,5.159
+2023-12-24,California,San Rafael,4.739,4.895,5.076,5.402
+2024-11-24,California,San Rafael,4.532,4.731,4.896,5.022
+2024-12-17,California,San Rafael,4.373,4.623,4.767,4.924
+2024-12-23,California,San Rafael,4.411,4.608,4.821,4.929
+2024-12-24,California,San Rafael,4.421,4.604,4.791,4.909
+2023-12-24,California,Santa Barbara-Santa Maria-Lompoc,4.722,4.889,5.034,5.783
+2024-11-24,California,Santa Barbara-Santa Maria-Lompoc,4.453,4.644,4.788,4.899
+2024-12-17,California,Santa Barbara-Santa Maria-Lompoc,4.380,4.551,4.735,4.838
+2024-12-23,California,Santa Barbara-Santa Maria-Lompoc,4.395,4.559,4.708,4.816
+2024-12-24,California,Santa Barbara-Santa Maria-Lompoc,4.403,4.580,4.728,4.834
+2023-12-24,California,Santa Cruz-Watsonville,4.689,4.960,5.150,5.749
+2024-11-24,California,Santa Cruz-Watsonville,4.708,4.936,5.112,5.114
+2024-12-17,California,Santa Cruz-Watsonville,4.565,4.785,4.961,5.080
+2024-12-23,California,Santa Cruz-Watsonville,4.577,4.785,4.987,5.143
+2024-12-24,California,Santa Cruz-Watsonville,4.571,4.798,4.994,5.068
+2023-12-24,California,Santa Rosa,4.785,4.975,5.157,5.412
+2024-11-24,California,Santa Rosa,4.688,4.906,5.088,5.004
+2024-12-17,California,Santa Rosa,4.548,4.751,4.939,4.931
+2024-12-23,California,Santa Rosa,4.552,4.764,4.940,4.894
+2024-12-24,California,Santa Rosa,4.556,4.771,4.934,4.920
+2023-12-24,California,Stockton-Lodi,4.339,4.543,4.713,5.325
+2024-11-24,California,Stockton-Lodi,4.289,4.551,4.742,4.789
+2024-12-17,California,Stockton-Lodi,4.107,4.339,4.564,4.671
+2024-12-23,California,Stockton-Lodi,4.128,4.342,4.542,4.636
+2024-12-24,California,Stockton-Lodi,4.118,4.361,4.583,4.663
+2023-12-24,California,Vallejo-Fairfield,4.551,4.805,4.968,5.371
+2024-11-24,California,Vallejo-Fairfield,4.391,4.657,4.839,4.902
+2024-12-17,California,Vallejo-Fairfield,4.222,4.491,4.654,4.804
+2024-12-23,California,Vallejo-Fairfield,4.244,4.456,4.636,4.800
+2024-12-24,California,Vallejo-Fairfield,4.260,4.484,4.667,4.789
+2023-12-24,California,Ventura,4.763,4.974,5.123,5.676
+2024-11-24,California,Ventura,4.556,4.766,4.929,5.021
+2024-12-17,California,Ventura,4.451,4.646,4.818,4.987
+2024-12-23,California,Ventura,4.450,4.631,4.814,4.939
+2024-12-24,California,Ventura,4.451,4.661,4.824,4.965
+2023-12-24,California,Visalia-Tulare-Porterville,4.560,4.720,5.021,5.476
+2024-11-24,California,Visalia-Tulare-Porterville,4.370,4.710,4.892,4.912
+2024-12-17,California,Visalia-Tulare-Porterville,4.202,4.494,4.668,4.871
+2024-12-23,California,Visalia-Tulare-Porterville,4.236,4.480,4.628,4.883
+2024-12-24,California,Visalia-Tulare-Porterville,4.228,4.492,4.685,4.858
+2023-12-24,California,Yolo,4.404,4.594,4.809,5.099
+2024-11-24,California,Yolo,4.316,4.535,4.774,4.655
+2024-12-17,California,Yolo,4.142,4.355,4.591,4.632
+2024-12-23,California,Yolo,4.139,4.348,4.599,4.637
+2024-12-24,California,Yolo,4.154,4.384,4.548,4.617
+2023-12-24,California,Yuba City,4.173,4.459,4.611,5.212
+2024-11-24,California,Yuba City,4.230,4.547,4.654,4.697
+2024-12-17,California,Yuba City,4.068,4.387,4.489,4.583
+2024-12-23,California,Yuba City,4.074,4.426,4.548,4.637
+2024-12-24,California,Yuba City,4.071,4.468,4.553,4.622
+2023-12-24,Colorado,Boulder-Longmont,2.725,3.139,3.415,3.587
+2024-11-24,Colorado,Boulder-Longmont,3.006,3.428,3.796,3.379
+2024-12-17,Colorado,Boulder-Longmont,2.928,3.372,3.681,3.348
+2024-12-23,Colorado,Boulder-Longmont,2.974,3.394,3.731,3.331
+2024-12-24,Colorado,Boulder-Longmont,2.985,3.380,3.732,3.343
+2023-12-24,Colorado,Colorado Springs,2.716,3.133,3.419,3.658
+2024-11-24,Colorado,Colorado Springs,2.738,3.149,3.473,3.226
+2024-12-17,Colorado,Colorado Springs,2.867,3.287,3.613,3.186
+2024-12-23,Colorado,Colorado Springs,2.861,3.276,3.603,3.120
+2024-12-24,Colorado,Colorado Springs,2.844,3.245,3.577,3.124
+2023-12-24,Colorado,Denver,2.720,3.131,3.438,3.615
+2024-11-24,Colorado,Denver,2.791,3.211,3.529,3.277
+2024-12-17,Colorado,Denver,2.870,3.308,3.635,3.221
+2024-12-23,Colorado,Denver,2.887,3.316,3.636,3.175
+2024-12-24,Colorado,Denver,2.878,3.309,3.631,3.178
+2023-12-24,Colorado,Durango,3.190,3.448,3.749,4.041
+2024-11-24,Colorado,Durango,3.159,3.435,3.795,3.411
+2024-12-17,Colorado,Durango,3.073,3.358,3.677,3.366
+2024-12-23,Colorado,Durango,3.031,3.307,3.606,3.259
+2024-12-24,Colorado,Durango,2.997,3.292,3.596,3.259
+2023-12-24,Colorado,Fort Collins-Loveland,2.771,3.157,3.512,3.726
+2024-11-24,Colorado,Fort Collins-Loveland,2.801,3.134,3.458,3.183
+2024-12-17,Colorado,Fort Collins-Loveland,2.856,3.276,3.581,3.203
+2024-12-23,Colorado,Fort Collins-Loveland,2.886,3.249,3.602,3.167
+2024-12-24,Colorado,Fort Collins-Loveland,2.869,3.229,3.563,3.169
+2023-12-24,Colorado,Glenwood Springs,3.272,3.589,3.849,4.143
+2024-11-24,Colorado,Glenwood Springs,3.507,3.933,4.190,3.784
+2024-12-17,Colorado,Glenwood Springs,3.471,3.981,4.179,3.756
+2024-12-23,Colorado,Glenwood Springs,3.469,3.952,4.173,3.631
+2024-12-24,Colorado,Glenwood Springs,3.463,3.963,4.143,3.690
+2023-12-24,Colorado,Grand Junction (CO only),3.192,3.518,3.807,4.009
+2024-11-24,Colorado,Grand Junction (CO only),3.037,3.384,3.699,3.434
+2024-12-17,Colorado,Grand Junction (CO only),2.889,3.238,3.579,3.335
+2024-12-23,Colorado,Grand Junction (CO only),2.877,3.246,3.559,3.320
+2024-12-24,Colorado,Grand Junction (CO only),2.872,3.230,3.564,3.317
+2023-12-24,Colorado,Greeley,2.597,3.003,3.304,3.521
+2024-11-24,Colorado,Greeley,2.688,3.123,3.405,3.160
+2024-12-17,Colorado,Greeley,2.807,3.249,3.541,3.123
+2024-12-23,Colorado,Greeley,2.798,3.215,3.512,3.091
+2024-12-24,Colorado,Greeley,2.793,3.217,3.521,3.090
+2023-12-24,Colorado,Pueblo,2.537,2.916,3.218,3.751
+2024-11-24,Colorado,Pueblo,2.947,3.330,3.677,3.367
+2024-12-17,Colorado,Pueblo,2.800,3.207,3.496,3.259
+2024-12-23,Colorado,Pueblo,2.835,3.210,3.501,3.250
+2024-12-24,Colorado,Pueblo,2.823,3.208,3.484,3.255
+2023-12-24,Colorado,Vail,3.344,3.672,3.772,3.910
+2024-11-24,Colorado,Vail,3.578,3.883,4.218,3.675
+2024-12-17,Colorado,Vail,3.486,3.795,4.025,3.545
+2024-12-23,Colorado,Vail,3.486,3.820,4.056,3.545
+2024-12-24,Colorado,Vail,3.486,3.756,4.050,3.554
+2023-12-24,Connecticut,Bridgeport,3.381,3.956,4.384,4.439
+2024-11-24,Connecticut,Bridgeport,3.137,3.793,4.132,3.733
+2024-12-17,Connecticut,Bridgeport,3.108,3.763,4.116,3.730
+2024-12-23,Connecticut,Bridgeport,3.085,3.747,4.092,3.732
+2024-12-24,Connecticut,Bridgeport,3.092,3.758,4.128,3.715
+2023-12-24,Connecticut,Hartford,3.139,3.772,4.174,4.302
+2024-11-24,Connecticut,Hartford,3.045,3.680,4.073,3.686
+2024-12-17,Connecticut,Hartford,3.028,3.677,4.061,3.679
+2024-12-23,Connecticut,Hartford,3.016,3.700,4.077,3.657
+2024-12-24,Connecticut,Hartford,3.015,3.687,4.043,3.675
+2023-12-24,Connecticut,Lower Fairfield County,3.388,3.948,4.381,4.407
+2024-11-24,Connecticut,Lower Fairfield County,3.114,3.777,4.113,3.768
+2024-12-17,Connecticut,Lower Fairfield County,3.070,3.733,4.077,3.771
+2024-12-23,Connecticut,Lower Fairfield County,3.066,3.684,4.060,3.760
+2024-12-24,Connecticut,Lower Fairfield County,3.059,3.694,4.109,3.759
+2023-12-24,Connecticut,New Haven-Meriden,3.237,3.823,4.225,4.316
+2024-11-24,Connecticut,New Haven-Meriden,3.042,3.689,4.003,3.660
+2024-12-17,Connecticut,New Haven-Meriden,3.019,3.647,3.969,3.654
+2024-12-23,Connecticut,New Haven-Meriden,3.015,3.641,3.986,3.648
+2024-12-24,Connecticut,New Haven-Meriden,3.014,3.655,3.940,3.659
+2023-12-24,Connecticut,New London-Norwich (CT only),3.212,3.729,4.132,4.251
+2024-11-24,Connecticut,New London-Norwich (CT only),3.031,3.589,3.926,3.610
+2024-12-17,Connecticut,New London-Norwich (CT only),3.013,3.510,3.929,3.594
+2024-12-23,Connecticut,New London-Norwich (CT only),3.010,3.529,3.897,3.606
+2024-12-24,Connecticut,New London-Norwich (CT only),3.009,3.545,3.918,3.598
+2023-12-24,Connecticut,Windham,3.212,3.647,4.089,4.284
+2024-11-24,Connecticut,Windham,3.051,3.511,3.929,3.632
+2024-12-17,Connecticut,Windham,3.026,3.448,3.873,3.590
+2024-12-23,Connecticut,Windham,3.019,3.449,3.883,3.601
+2024-12-24,Connecticut,Windham,3.016,3.441,3.856,3.591
+2023-12-24,Delaware,Dover,3.069,3.546,3.840,3.999
+2024-11-24,Delaware,Dover,3.098,3.565,3.901,3.576
+2024-12-17,Delaware,Dover,2.813,3.321,3.573,3.310
+2024-12-23,Delaware,Dover,2.782,3.311,3.559,3.379
+2024-12-24,Delaware,Dover,2.784,3.303,3.593,3.382
+2023-12-24,Delaware,Milford-Seaford,3.075,3.461,3.807,3.990
+2024-11-24,Delaware,Milford-Seaford,3.076,3.513,3.894,3.548
+2024-12-17,Delaware,Milford-Seaford,2.796,3.216,3.560,3.268
+2024-12-23,Delaware,Milford-Seaford,2.750,3.169,3.498,3.305
+2024-12-24,Delaware,Milford-Seaford,2.748,3.196,3.504,3.304
+2023-12-24,Delaware,Wilmington-Newark (DE only),3.078,3.667,3.951,3.998
+2024-11-24,Delaware,Wilmington-Newark (DE only),3.008,3.657,3.903,3.529
+2024-12-17,Delaware,Wilmington-Newark (DE only),2.793,3.448,3.704,3.289
+2024-12-23,Delaware,Wilmington-Newark (DE only),2.741,3.421,3.666,3.388
+2024-12-24,Delaware,Wilmington-Newark (DE only),2.750,3.441,3.679,3.370
+2023-12-24,District of Columbia,Washington (DC only),3.259,3.841,4.228,4.287
+2024-11-24,District of Columbia,Washington (DC only),3.231,3.822,4.185,3.701
+2024-12-17,District of Columbia,Washington (DC only),3.226,3.729,4.212,3.785
+2024-12-23,District of Columbia,Washington (DC only),3.235,3.773,4.227,3.688
+2024-12-24,District of Columbia,Washington (DC only),3.231,3.760,4.237,3.771
+2023-12-24,District of Columbia,Washington (Entire Metro Average),3.143,3.637,3.996,4.069
+2024-11-24,District of Columbia,Washington (Entire Metro Average),3.098,3.629,3.978,3.617
+2024-12-17,District of Columbia,Washington (Entire Metro Average),3.022,3.542,3.904,3.582
+2024-12-23,District of Columbia,Washington (Entire Metro Average),3.015,3.526,3.905,3.575
+2024-12-24,District of Columbia,Washington (Entire Metro Average),3.022,3.542,3.912,3.575
+2023-12-24,Florida,Bradenton-Sarasota-Venice,3.150,3.564,3.873,3.962
+2024-11-24,Florida,Bradenton-Sarasota-Venice,3.151,3.615,3.916,3.495
+2024-12-17,Florida,Bradenton-Sarasota-Venice,3.147,3.603,3.893,3.477
+2024-12-23,Florida,Bradenton-Sarasota-Venice,2.966,3.419,3.708,3.480
+2024-12-24,Florida,Bradenton-Sarasota-Venice,3.099,3.571,3.864,3.487
+2023-12-24,Florida,Crestview-Fort Walton Beach,2.817,3.164,3.582,3.725
+2024-11-24,Florida,Crestview-Fort Walton Beach,2.747,3.117,3.501,3.187
+2024-12-17,Florida,Crestview-Fort Walton Beach,2.729,3.118,3.418,3.246
+2024-12-23,Florida,Crestview-Fort Walton Beach,2.740,3.154,3.479,3.244
+2024-12-24,Florida,Crestview-Fort Walton Beach,2.743,3.131,3.452,3.248
+2023-12-24,Florida,Daytona Beach,3.136,3.564,3.867,3.963
+2024-11-24,Florida,Daytona Beach,3.137,3.576,3.892,3.477
+2024-12-17,Florida,Daytona Beach,3.138,3.579,3.904,3.467
+2024-12-23,Florida,Daytona Beach,2.974,3.355,3.684,3.470
+2024-12-24,Florida,Daytona Beach,3.096,3.525,3.852,3.478
+2023-12-24,Florida,Fort Lauderdale,3.153,3.612,3.924,3.983
+2024-11-24,Florida,Fort Lauderdale,3.127,3.580,3.874,3.475
+2024-12-17,Florida,Fort Lauderdale,3.143,3.581,3.866,3.467
+2024-12-23,Florida,Fort Lauderdale,3.016,3.457,3.754,3.463
+2024-12-24,Florida,Fort Lauderdale,3.091,3.545,3.827,3.471
+2023-12-24,Florida,Fort Myers-Cape Coral,3.148,3.560,3.898,3.970
+2024-11-24,Florida,Fort Myers-Cape Coral,3.163,3.631,3.920,3.482
+2024-12-17,Florida,Fort Myers-Cape Coral,3.163,3.620,3.904,3.477
+2024-12-23,Florida,Fort Myers-Cape Coral,2.992,3.447,3.746,3.476
+2024-12-24,Florida,Fort Myers-Cape Coral,3.108,3.591,3.875,3.478
+2023-12-24,Florida,Gainesville,3.159,3.610,3.958,4.014
+2024-11-24,Florida,Gainesville,3.162,3.638,4.035,3.568
+2024-12-17,Florida,Gainesville,3.158,3.615,4.005,3.553
+2024-12-23,Florida,Gainesville,3.103,3.543,3.904,3.538
+2024-12-24,Florida,Gainesville,3.136,3.600,3.964,3.540
+2023-12-24,Florida,Homosassa Springs,3.152,3.528,3.902,4.024
+2024-11-24,Florida,Homosassa Springs,3.175,3.603,3.922,3.490
+2024-12-17,Florida,Homosassa Springs,3.184,3.600,3.935,3.499
+2024-12-23,Florida,Homosassa Springs,2.978,3.371,3.758,3.513
+2024-12-24,Florida,Homosassa Springs,3.110,3.554,3.869,3.499
+2023-12-24,Florida,Jacksonville,3.124,3.533,3.887,3.963
+2024-11-24,Florida,Jacksonville,3.119,3.540,3.887,3.471
+2024-12-17,Florida,Jacksonville,3.130,3.552,3.907,3.472
+2024-12-23,Florida,Jacksonville,2.970,3.386,3.732,3.447
+2024-12-24,Florida,Jacksonville,3.067,3.504,3.850,3.470
+2023-12-24,Florida,Lakeland-Winter Haven,3.147,3.555,3.881,3.955
+2024-11-24,Florida,Lakeland-Winter Haven,3.147,3.575,3.895,3.489
+2024-12-17,Florida,Lakeland-Winter Haven,3.156,3.578,3.921,3.483
+2024-12-23,Florida,Lakeland-Winter Haven,2.999,3.378,3.724,3.481
+2024-12-24,Florida,Lakeland-Winter Haven,3.093,3.542,3.864,3.481
+2023-12-24,Florida,Melbourne-Titusville,3.123,3.527,3.852,3.971
+2024-11-24,Florida,Melbourne-Titusville,3.120,3.575,3.893,3.497
+2024-12-17,Florida,Melbourne-Titusville,3.144,3.592,3.897,3.494
+2024-12-23,Florida,Melbourne-Titusville,2.982,3.418,3.750,3.489
+2024-12-24,Florida,Melbourne-Titusville,3.087,3.554,3.856,3.499
+2023-12-24,Florida,Miami,3.088,3.570,3.818,3.942
+2024-11-24,Florida,Miami,3.060,3.505,3.734,3.437
+2024-12-17,Florida,Miami,3.078,3.526,3.746,3.434
+2024-12-23,Florida,Miami,2.977,3.421,3.653,3.423
+2024-12-24,Florida,Miami,3.027,3.481,3.704,3.443
+2023-12-24,Florida,Naples,3.161,3.598,3.962,4.030
+2024-11-24,Florida,Naples,3.199,3.673,3.975,3.516
+2024-12-17,Florida,Naples,3.192,3.640,3.959,3.520
+2024-12-23,Florida,Naples,3.129,3.573,3.888,3.518
+2024-12-24,Florida,Naples,3.165,3.635,3.931,3.518
+2023-12-24,Florida,Ocala,3.154,3.537,3.897,3.972
+2024-11-24,Florida,Ocala,3.130,3.564,3.923,3.519
+2024-12-17,Florida,Ocala,3.159,3.581,3.935,3.508
+2024-12-23,Florida,Ocala,3.011,3.405,3.750,3.486
+2024-12-24,Florida,Ocala,3.095,3.554,3.886,3.500
+2023-12-24,Florida,Orlando,3.144,3.555,3.839,3.982
+2024-11-24,Florida,Orlando,3.163,3.589,3.870,3.496
+2024-12-17,Florida,Orlando,3.156,3.579,3.880,3.485
+2024-12-23,Florida,Orlando,2.943,3.343,3.653,3.487
+2024-12-24,Florida,Orlando,3.108,3.546,3.850,3.494
+2023-12-24,Florida,Panama City,2.866,3.267,3.605,3.813
+2024-11-24,Florida,Panama City,2.766,3.131,3.522,3.296
+2024-12-17,Florida,Panama City,2.740,3.103,3.505,3.322
+2024-12-23,Florida,Panama City,2.798,3.193,3.586,3.344
+2024-12-24,Florida,Panama City,2.795,3.190,3.565,3.350
+2023-12-24,Florida,Pensacola,2.860,3.262,3.622,3.761
+2024-11-24,Florida,Pensacola,2.859,3.312,3.654,3.298
+2024-12-17,Florida,Pensacola,2.836,3.281,3.641,3.377
+2024-12-23,Florida,Pensacola,2.841,3.299,3.646,3.372
+2024-12-24,Florida,Pensacola,2.832,3.281,3.640,3.358
+2023-12-24,Florida,Port St. Lucie,3.171,3.575,3.922,3.963
+2024-11-24,Florida,Port St. Lucie,3.132,3.560,3.886,3.505
+2024-12-17,Florida,Port St. Lucie,3.154,3.593,3.888,3.488
+2024-12-23,Florida,Port St. Lucie,3.004,3.414,3.728,3.477
+2024-12-24,Florida,Port St. Lucie,3.085,3.550,3.814,3.487
+2023-12-24,Florida,Punta Gorda,3.134,3.540,3.864,3.961
+2024-11-24,Florida,Punta Gorda,3.114,3.592,3.875,3.505
+2024-12-17,Florida,Punta Gorda,3.114,3.583,3.883,3.458
+2024-12-23,Florida,Punta Gorda,2.953,3.422,3.700,3.473
+2024-12-24,Florida,Punta Gorda,3.093,3.555,3.839,3.475
+2023-12-24,Florida,Sebastian-Vero Beach,3.136,3.549,3.901,3.997
+2024-11-24,Florida,Sebastian-Vero Beach,3.134,3.576,3.857,3.495
+2024-12-17,Florida,Sebastian-Vero Beach,3.130,3.645,3.913,3.513
+2024-12-23,Florida,Sebastian-Vero Beach,2.993,3.467,3.717,3.521
+2024-12-24,Florida,Sebastian-Vero Beach,3.080,3.608,3.844,3.517
+2023-12-24,Florida,Sebring,3.160,3.579,3.867,3.955
+2024-11-24,Florida,Sebring,3.135,3.658,3.888,3.483
+2024-12-17,Florida,Sebring,3.158,3.575,3.863,3.479
+2024-12-23,Florida,Sebring,3.047,3.412,3.686,3.471
+2024-12-24,Florida,Sebring,3.104,3.601,3.821,3.488
+2023-12-24,Florida,Tallahassee,3.055,3.482,3.856,3.968
+2024-11-24,Florida,Tallahassee,3.029,3.510,3.911,3.589
+2024-12-17,Florida,Tallahassee,2.945,3.391,3.815,3.549
+2024-12-23,Florida,Tallahassee,2.949,3.413,3.812,3.555
+2024-12-24,Florida,Tallahassee,2.982,3.491,3.888,3.566
+2023-12-24,Florida,Tampa-St. Petersburg-Clearwater,3.160,3.572,3.901,3.968
+2024-11-24,Florida,Tampa-St. Petersburg-Clearwater,3.163,3.616,3.947,3.495
+2024-12-17,Florida,Tampa-St. Petersburg-Clearwater,3.170,3.619,3.945,3.478
+2024-12-23,Florida,Tampa-St. Petersburg-Clearwater,3.008,3.454,3.784,3.486
+2024-12-24,Florida,Tampa-St. Petersburg-Clearwater,3.103,3.579,3.894,3.482
+2023-12-24,Florida,The Villages,3.137,3.554,3.928,3.901
+2024-11-24,Florida,The Villages,3.138,3.542,3.921,3.473
+2024-12-17,Florida,The Villages,3.152,3.590,3.981,3.461
+2024-12-23,Florida,The Villages,3.009,3.384,3.774,3.437
+2024-12-24,Florida,The Villages,3.119,3.547,3.929,3.446
+2023-12-24,Florida,West Palm Beach-Boca Raton,3.302,3.757,4.083,4.047
+2024-11-24,Florida,West Palm Beach-Boca Raton,3.276,3.717,4.049,3.566
+2024-12-17,Florida,West Palm Beach-Boca Raton,3.269,3.704,4.049,3.540
+2024-12-23,Florida,West Palm Beach-Boca Raton,3.163,3.579,3.927,3.539
+2024-12-24,Florida,West Palm Beach-Boca Raton,3.218,3.676,3.990,3.562
+2023-12-24,Georgia,Albany,2.965,3.315,3.696,3.883
+2024-11-24,Georgia,Albany,2.878,3.327,3.666,3.377
+2024-12-17,Georgia,Albany,2.758,3.132,3.501,3.355
+2024-12-23,Georgia,Albany,2.789,3.170,3.545,3.409
+2024-12-24,Georgia,Albany,2.773,3.152,3.511,3.393
+2023-12-24,Georgia,Athens,2.972,3.391,3.765,3.913
+2024-11-24,Georgia,Athens,2.950,3.366,3.795,3.425
+2024-12-17,Georgia,Athens,2.925,3.344,3.751,3.414
+2024-12-23,Georgia,Athens,2.927,3.308,3.726,3.469
+2024-12-24,Georgia,Athens,2.924,3.341,3.704,3.457
+2023-12-24,Georgia,Atlanta,3.027,3.483,3.861,4.045
+2024-11-24,Georgia,Atlanta,2.962,3.410,3.815,3.509
+2024-12-17,Georgia,Atlanta,2.945,3.391,3.792,3.500
+2024-12-23,Georgia,Atlanta,2.948,3.388,3.787,3.536
+2024-12-24,Georgia,Atlanta,2.946,3.391,3.790,3.541
+2023-12-24,Georgia,Augusta-Aiken (GA only),2.979,3.463,3.841,3.858
+2024-11-24,Georgia,Augusta-Aiken (GA only),2.884,3.355,3.753,3.412
+2024-12-17,Georgia,Augusta-Aiken (GA only),2.885,3.364,3.766,3.382
+2024-12-23,Georgia,Augusta-Aiken (GA only),2.873,3.351,3.761,3.341
+2024-12-24,Georgia,Augusta-Aiken (GA only),2.863,3.318,3.719,3.343
+2023-12-24,Georgia,Brunswick,3.042,3.505,3.847,3.966
+2024-11-24,Georgia,Brunswick,2.908,3.346,3.707,3.489
+2024-12-17,Georgia,Brunswick,2.806,3.257,3.647,3.421
+2024-12-23,Georgia,Brunswick,2.812,3.264,3.579,3.406
+2024-12-24,Georgia,Brunswick,2.808,3.267,3.572,3.407
+2023-12-24,Georgia,Catoosa-Dade-Walker,2.861,3.333,3.683,3.871
+2024-11-24,Georgia,Catoosa-Dade-Walker,2.734,3.160,3.500,3.323
+2024-12-17,Georgia,Catoosa-Dade-Walker,2.740,3.203,3.594,3.231
+2024-12-23,Georgia,Catoosa-Dade-Walker,2.718,3.178,3.521,3.235
+2024-12-24,Georgia,Catoosa-Dade-Walker,2.721,3.163,3.575,3.266
+2023-12-24,Georgia,Columbus (GA only),2.953,3.326,3.696,3.954
+2024-11-24,Georgia,Columbus (GA only),2.872,3.286,3.646,3.396
+2024-12-17,Georgia,Columbus (GA only),2.814,3.197,3.635,3.389
+2024-12-23,Georgia,Columbus (GA only),2.808,3.222,3.606,3.411
+2024-12-24,Georgia,Columbus (GA only),2.803,3.176,3.597,3.416
+2023-12-24,Georgia,Dalton,2.921,3.366,3.713,3.852
+2024-11-24,Georgia,Dalton,2.825,3.247,3.608,3.394
+2024-12-17,Georgia,Dalton,2.815,3.271,3.590,3.380
+2024-12-23,Georgia,Dalton,2.784,3.223,3.620,3.375
+2024-12-24,Georgia,Dalton,2.768,3.202,3.594,3.398
+2023-12-24,Georgia,Gainesville,2.971,3.391,3.793,3.955
+2024-11-24,Georgia,Gainesville,2.899,3.352,3.742,3.461
+2024-12-17,Georgia,Gainesville,2.884,3.299,3.653,3.443
+2024-12-23,Georgia,Gainesville,2.893,3.305,3.706,3.447
+2024-12-24,Georgia,Gainesville,2.892,3.315,3.698,3.476
+2023-12-24,Georgia,Hinesville-Fort Stewart,3.059,3.589,3.745,3.930
+2024-11-24,Georgia,Hinesville-Fort Stewart,2.964,3.329,3.772,3.497
+2024-12-17,Georgia,Hinesville-Fort Stewart,2.910,3.214,3.710,3.507
+2024-12-23,Georgia,Hinesville-Fort Stewart,2.893,3.252,3.686,3.391
+2024-12-24,Georgia,Hinesville-Fort Stewart,2.882,3.297,3.752,3.433
+2023-12-24,Georgia,Macon,3.026,3.469,3.838,3.923
+2024-11-24,Georgia,Macon,2.953,3.382,3.768,3.459
+2024-12-17,Georgia,Macon,2.924,3.365,3.781,3.439
+2024-12-23,Georgia,Macon,2.944,3.393,3.770,3.410
+2024-12-24,Georgia,Macon,2.936,3.384,3.778,3.438
+2023-12-24,Georgia,Rome,2.933,3.347,3.795,3.823
+2024-11-24,Georgia,Rome,2.876,3.330,3.757,3.412
+2024-12-17,Georgia,Rome,2.871,3.313,3.787,3.398
+2024-12-23,Georgia,Rome,2.870,3.264,3.685,3.385
+2024-12-24,Georgia,Rome,2.843,3.312,3.759,3.387
+2023-12-24,Georgia,Savannah,3.123,3.584,3.931,3.925
+2024-11-24,Georgia,Savannah,2.957,3.369,3.772,3.467
+2024-12-17,Georgia,Savannah,2.980,3.401,3.785,3.453
+2024-12-23,Georgia,Savannah,2.953,3.351,3.759,3.452
+2024-12-24,Georgia,Savannah,2.951,3.356,3.736,3.449
+2023-12-24,Georgia,Valdosta,2.942,3.354,3.705,3.783
+2024-11-24,Georgia,Valdosta,2.948,3.416,3.749,3.377
+2024-12-17,Georgia,Valdosta,2.883,3.306,3.686,3.318
+2024-12-23,Georgia,Valdosta,2.867,3.267,3.670,3.345
+2024-12-24,Georgia,Valdosta,2.893,3.284,3.668,3.370
+2023-12-24,Georgia,Warner Robins,2.889,3.234,3.672,3.820
+2024-11-24,Georgia,Warner Robins,2.929,3.326,3.722,3.392
+2024-12-17,Georgia,Warner Robins,2.877,3.268,3.640,3.361
+2024-12-23,Georgia,Warner Robins,2.883,3.277,3.656,3.319
+2024-12-24,Georgia,Warner Robins,2.875,3.285,3.665,3.331
+2023-12-24,Hawaii,Hilo,4.806,5.027,5.329,5.636
+2024-11-24,Hawaii,Hilo,4.751,4.940,5.277,5.180
+2024-12-17,Hawaii,Hilo,4.665,4.871,5.183,5.063
+2024-12-23,Hawaii,Hilo,4.636,4.932,5.139,5.122
+2024-12-24,Hawaii,Hilo,4.633,4.916,5.134,5.112
+2023-12-24,Hawaii,Honolulu,4.528,4.774,5.053,5.539
+2024-11-24,Hawaii,Honolulu,4.452,4.730,4.985,5.241
+2024-12-17,Hawaii,Honolulu,4.439,4.726,4.985,5.238
+2024-12-23,Hawaii,Honolulu,4.441,4.699,4.978,5.240
+2024-12-24,Hawaii,Honolulu,4.448,4.728,4.971,5.239
+2023-12-24,Hawaii,Kahului,4.796,4.938,5.031,5.726
+2024-11-24,Hawaii,Kahului,4.606,4.732,5.023,5.461
+2024-12-17,Hawaii,Kahului,4.573,4.672,4.962,5.410
+2024-12-23,Hawaii,Kahului,4.545,4.834,4.962,5.306
+2024-12-24,Hawaii,Kahului,4.582,4.768,4.910,5.355
+2023-12-24,Hawaii,Lihue (Kauai),5.232,5.536,5.728,6.281
+2024-11-24,Hawaii,Lihue (Kauai),5.189,5.463,5.682,5.579
+2024-12-17,Hawaii,Lihue (Kauai),5.178,5.419,5.532,5.576
+2024-12-23,Hawaii,Lihue (Kauai),5.163,5.425,5.544,5.459
+2024-12-24,Hawaii,Lihue (Kauai),5.153,5.425,5.481,5.664
+2023-12-24,Hawaii,Wailuku,4.796,4.938,5.031,5.726
+2024-11-24,Hawaii,Wailuku,4.606,4.732,5.023,5.461
+2024-12-17,Hawaii,Wailuku,4.573,4.672,4.962,5.410
+2024-12-23,Hawaii,Wailuku,4.545,4.834,4.962,5.306
+2024-12-24,Hawaii,Wailuku,4.582,4.768,4.910,5.355
+2023-12-24,Idaho,Boise City,3.311,3.469,3.708,4.189
+2024-11-24,Idaho,Boise City,3.105,3.336,3.508,3.503
+2024-12-17,Idaho,Boise City,3.067,3.251,3.475,3.389
+2024-12-23,Idaho,Boise City,3.080,3.296,3.494,3.405
+2024-12-24,Idaho,Boise City,3.137,3.343,3.559,3.463
+2023-12-24,Idaho,Coeur D'Alene,3.439,3.722,3.960,3.915
+2024-11-24,Idaho,Coeur D'Alene,2.934,3.209,3.453,3.443
+2024-12-17,Idaho,Coeur D'Alene,2.854,3.076,3.354,3.374
+2024-12-23,Idaho,Coeur D'Alene,2.823,2.972,3.282,3.336
+2024-12-24,Idaho,Coeur D'Alene,2.820,3.002,3.342,3.350
+2023-12-24,Idaho,Franklin,2.878,3.211,3.558,3.979
+2024-11-24,Idaho,Franklin,3.062,3.351,3.479,3.424
+2024-12-17,Idaho,Franklin,3.008,3.272,3.475,3.339
+2024-12-23,Idaho,Franklin,3.069,3.332,3.469,3.399
+2024-12-24,Idaho,Franklin,3.078,3.381,3.571,3.432
+2023-12-24,Idaho,Idaho Falls,3.023,3.278,3.452,4.041
+2024-11-24,Idaho,Idaho Falls,3.010,3.324,3.512,3.353
+2024-12-17,Idaho,Idaho Falls,2.945,3.258,3.473,3.305
+2024-12-23,Idaho,Idaho Falls,2.970,3.263,3.440,3.324
+2024-12-24,Idaho,Idaho Falls,3.030,3.346,3.564,3.381
+2023-12-24,Idaho,Lewiston,3.639,3.921,4.121,4.357
+2024-11-24,Idaho,Lewiston,3.297,3.497,3.683,3.631
+2024-12-17,Idaho,Lewiston,3.199,3.422,3.686,3.591
+2024-12-23,Idaho,Lewiston,3.148,3.363,3.565,3.578
+2024-12-24,Idaho,Lewiston,3.127,3.326,3.591,3.578
+2023-12-24,Idaho,Pocatello,2.710,2.932,3.077,4.136
+2024-11-24,Idaho,Pocatello,3.195,3.495,3.678,3.471
+2024-12-17,Idaho,Pocatello,3.020,3.296,3.484,3.363
+2024-12-23,Idaho,Pocatello,3.001,3.280,3.487,3.389
+2024-12-24,Idaho,Pocatello,3.031,3.319,3.543,3.427
+2023-12-24,Idaho,Twin Falls,3.162,3.390,3.649,4.145
+2024-11-24,Idaho,Twin Falls,3.125,3.410,3.675,3.608
+2024-12-17,Idaho,Twin Falls,3.000,3.252,3.543,3.437
+2024-12-23,Idaho,Twin Falls,3.057,3.343,3.618,3.445
+2024-12-24,Idaho,Twin Falls,3.084,3.374,3.670,3.497
+2023-12-24,Illinois,Alexander County,3.599,0.000,0.000,0.000
+2024-11-24,Illinois,Alexander County,3.499,0.000,0.000,0.000
+2024-12-17,Illinois,Alexander County,3.499,0.000,0.000,0.000
+2024-12-23,Illinois,Alexander County,3.499,0.000,0.000,0.000
+2024-12-24,Illinois,Alexander County,3.499,0.000,0.000,0.000
+2023-12-24,Illinois,Bloomington-Normal,3.010,3.443,3.794,3.849
+2024-11-24,Illinois,Bloomington-Normal,3.028,3.597,3.931,3.471
+2024-12-17,Illinois,Bloomington-Normal,3.080,3.624,4.011,3.472
+2024-12-23,Illinois,Bloomington-Normal,3.063,3.608,3.966,3.469
+2024-12-24,Illinois,Bloomington-Normal,3.055,3.603,3.961,3.458
+2023-12-24,Illinois,Carbondale-Marion,3.019,3.470,3.782,3.954
+2024-11-24,Illinois,Carbondale-Marion,2.940,3.416,3.803,3.600
+2024-12-17,Illinois,Carbondale-Marion,2.992,3.457,3.823,3.525
+2024-12-23,Illinois,Carbondale-Marion,2.972,3.439,3.801,3.510
+2024-12-24,Illinois,Carbondale-Marion,2.956,3.487,3.828,3.516
+2023-12-24,Illinois,Champaign-Urbana,3.067,3.537,3.890,3.944
+2024-11-24,Illinois,Champaign-Urbana,3.070,3.661,3.972,3.415
+2024-12-17,Illinois,Champaign-Urbana,3.036,3.600,3.930,3.375
+2024-12-23,Illinois,Champaign-Urbana,3.034,3.603,3.930,3.368
+2024-12-24,Illinois,Champaign-Urbana,3.013,3.592,3.909,3.360
+2023-12-24,Illinois,Chicago Metro,3.194,3.694,4.174,4.083
+2024-11-24,Illinois,Chicago Metro,3.306,3.887,4.382,3.706
+2024-12-17,Illinois,Chicago Metro,3.357,3.942,4.431,3.667
+2024-12-23,Illinois,Chicago Metro,3.439,4.026,4.525,3.655
+2024-12-24,Illinois,Chicago Metro,3.417,4.007,4.502,3.662
+2023-12-24,Illinois,City of Chicago,3.622,4.200,4.698,4.531
+2024-11-24,Illinois,City of Chicago,3.610,4.224,4.736,4.061
+2024-12-17,Illinois,City of Chicago,3.591,4.204,4.737,4.036
+2024-12-23,Illinois,City of Chicago,3.607,4.209,4.746,4.048
+2024-12-24,Illinois,City of Chicago,3.595,4.203,4.740,4.044
+2023-12-24,Illinois,Danville,3.067,3.527,3.884,3.786
+2024-11-24,Illinois,Danville,3.060,3.623,4.023,3.442
+2024-12-17,Illinois,Danville,3.048,3.599,4.001,3.396
+2024-12-23,Illinois,Danville,3.064,3.618,4.035,3.369
+2024-12-24,Illinois,Danville,3.062,3.633,4.081,3.363
+2023-12-24,Illinois,Davenport-Moline-Rock Island (IL only),3.321,3.788,4.177,4.079
+2024-11-24,Illinois,Davenport-Moline-Rock Island (IL only),3.185,3.659,4.128,3.681
+2024-12-17,Illinois,Davenport-Moline-Rock Island (IL only),3.148,3.624,4.073,3.658
+2024-12-23,Illinois,Davenport-Moline-Rock Island (IL only),3.158,3.677,4.133,3.681
+2024-12-24,Illinois,Davenport-Moline-Rock Island (IL only),3.164,3.650,4.134,3.677
+2023-12-24,Illinois,Decatur,2.866,3.348,3.671,3.765
+2024-11-24,Illinois,Decatur,2.939,3.456,3.876,3.400
+2024-12-17,Illinois,Decatur,3.018,3.538,3.914,3.426
+2024-12-23,Illinois,Decatur,2.984,3.490,3.856,3.437
+2024-12-24,Illinois,Decatur,2.970,3.486,3.844,3.417
+2023-12-24,Illinois,East Saint Louis,3.111,3.568,3.886,3.939
+2024-11-24,Illinois,East Saint Louis,3.158,3.683,4.000,3.657
+2024-12-17,Illinois,East Saint Louis,3.134,3.650,3.960,3.610
+2024-12-23,Illinois,East Saint Louis,3.166,3.679,3.977,3.587
+2024-12-24,Illinois,East Saint Louis,3.165,3.670,3.982,3.593
+2023-12-24,Illinois,Elgin,2.999,3.533,3.994,3.943
+2024-11-24,Illinois,Elgin,3.118,3.682,4.160,3.575
+2024-12-17,Illinois,Elgin,3.219,3.807,4.286,3.511
+2024-12-23,Illinois,Elgin,3.298,3.873,4.353,3.509
+2024-12-24,Illinois,Elgin,3.286,3.869,4.352,3.498
+2023-12-24,Illinois,Kankakee-Bradley,2.879,3.352,3.691,3.885
+2024-11-24,Illinois,Kankakee-Bradley,2.948,3.536,3.836,3.458
+2024-12-17,Illinois,Kankakee-Bradley,2.990,3.582,3.937,3.404
+2024-12-23,Illinois,Kankakee-Bradley,2.981,3.564,3.927,3.408
+2024-12-24,Illinois,Kankakee-Bradley,2.979,3.569,3.933,3.400
+2023-12-24,Illinois,Lake County,2.971,3.468,3.980,3.855
+2024-11-24,Illinois,Lake County,3.102,3.703,4.175,3.523
+2024-12-17,Illinois,Lake County,3.206,3.782,4.296,3.482
+2024-12-23,Illinois,Lake County,3.333,3.901,4.406,3.467
+2024-12-24,Illinois,Lake County,3.301,3.881,4.373,3.461
+2023-12-24,Illinois,Peoria-Pekin,3.093,3.593,3.950,4.124
+2024-11-24,Illinois,Peoria-Pekin,3.172,3.704,4.070,3.550
+2024-12-17,Illinois,Peoria-Pekin,3.173,3.695,4.060,3.549
+2024-12-23,Illinois,Peoria-Pekin,3.160,3.701,4.069,3.525
+2024-12-24,Illinois,Peoria-Pekin,3.160,3.679,4.073,3.532
+2023-12-24,Illinois,Quincy,3.078,3.462,3.815,3.873
+2024-11-24,Illinois,Quincy,3.075,3.471,3.890,3.298
+2024-12-17,Illinois,Quincy,3.071,3.469,3.945,3.228
+2024-12-23,Illinois,Quincy,3.050,3.436,3.736,3.206
+2024-12-24,Illinois,Quincy,3.034,3.416,3.860,3.205
+2023-12-24,Illinois,Rockford,3.091,3.596,4.002,3.873
+2024-11-24,Illinois,Rockford,3.163,3.667,4.130,3.461
+2024-12-17,Illinois,Rockford,3.156,3.671,4.126,3.463
+2024-12-23,Illinois,Rockford,3.129,3.636,4.055,3.453
+2024-12-24,Illinois,Rockford,3.126,3.632,4.080,3.441
+2023-12-24,Illinois,Springfield,2.989,3.460,3.836,3.838
+2024-11-24,Illinois,Springfield,2.946,3.493,3.941,3.426
+2024-12-17,Illinois,Springfield,2.998,3.579,4.021,3.389
+2024-12-23,Illinois,Springfield,2.996,3.568,3.973,3.373
+2024-12-24,Illinois,Springfield,2.997,3.561,3.993,3.373
+2023-12-24,Indiana,Bloomington,2.972,3.480,3.963,4.113
+2024-11-24,Indiana,Bloomington,2.925,3.451,3.950,3.716
+2024-12-17,Indiana,Bloomington,3.103,3.632,4.137,3.717
+2024-12-23,Indiana,Bloomington,3.147,3.690,4.198,3.714
+2024-12-24,Indiana,Bloomington,3.124,3.679,4.182,3.722
+2023-12-24,Indiana,Clarksville,2.874,3.318,3.687,4.013
+2024-11-24,Indiana,Clarksville,2.871,3.326,3.721,3.701
+2024-12-17,Indiana,Clarksville,2.918,3.402,3.813,3.660
+2024-12-23,Indiana,Clarksville,2.941,3.397,3.791,3.624
+2024-12-24,Indiana,Clarksville,2.928,3.414,3.799,3.622
+2023-12-24,Indiana,Columbus,2.961,3.477,3.912,3.911
+2024-11-24,Indiana,Columbus,2.925,3.436,3.920,3.502
+2024-12-17,Indiana,Columbus,3.122,3.633,4.127,3.616
+2024-12-23,Indiana,Columbus,3.159,3.663,4.139,3.559
+2024-12-24,Indiana,Columbus,3.126,3.647,4.125,3.556
+2023-12-24,Indiana,Dearborn-Franklin-Ohio-Union,2.879,3.385,3.873,4.061
+2024-11-24,Indiana,Dearborn-Franklin-Ohio-Union,2.921,3.384,3.951,3.600
+2024-12-17,Indiana,Dearborn-Franklin-Ohio-Union,2.956,3.453,3.988,3.569
+2024-12-23,Indiana,Dearborn-Franklin-Ohio-Union,3.047,3.559,4.060,3.508
+2024-12-24,Indiana,Dearborn-Franklin-Ohio-Union,3.015,3.537,4.063,3.537
+2023-12-24,Indiana,Elkhart,2.954,3.430,3.888,3.868
+2024-11-24,Indiana,Elkhart,2.841,3.455,3.969,3.588
+2024-12-17,Indiana,Elkhart,2.991,3.573,4.061,3.608
+2024-12-23,Indiana,Elkhart,3.041,3.637,4.123,3.584
+2024-12-24,Indiana,Elkhart,3.001,3.595,4.077,3.587
+2023-12-24,Indiana,Evansville,2.916,3.334,3.724,4.054
+2024-11-24,Indiana,Evansville,2.765,3.195,3.582,3.633
+2024-12-17,Indiana,Evansville,2.708,3.160,3.543,3.609
+2024-12-23,Indiana,Evansville,2.760,3.178,3.577,3.601
+2024-12-24,Indiana,Evansville,2.761,3.218,3.584,3.600
+2023-12-24,Indiana,Fort Wayne,2.924,3.442,3.948,3.962
+2024-11-24,Indiana,Fort Wayne,2.795,3.375,3.953,3.661
+2024-12-17,Indiana,Fort Wayne,3.092,3.649,4.197,3.677
+2024-12-23,Indiana,Fort Wayne,3.160,3.715,4.286,3.616
+2024-12-24,Indiana,Fort Wayne,3.141,3.696,4.262,3.630
+2023-12-24,Indiana,Gary,2.898,3.400,3.859,3.978
+2024-11-24,Indiana,Gary,3.100,3.643,4.148,3.690
+2024-12-17,Indiana,Gary,2.975,3.529,4.029,3.647
+2024-12-23,Indiana,Gary,3.092,3.644,4.156,3.646
+2024-12-24,Indiana,Gary,3.056,3.619,4.121,3.638
+2023-12-24,Indiana,Indianapolis,2.920,3.451,3.917,4.066
+2024-11-24,Indiana,Indianapolis,2.874,3.446,3.975,3.669
+2024-12-17,Indiana,Indianapolis,3.009,3.583,4.113,3.665
+2024-12-23,Indiana,Indianapolis,3.141,3.717,4.249,3.655
+2024-12-24,Indiana,Indianapolis,3.112,3.694,4.220,3.652
+2023-12-24,Indiana,Kokomo,2.930,3.434,3.893,4.022
+2024-11-24,Indiana,Kokomo,2.917,3.478,4.012,3.610
+2024-12-17,Indiana,Kokomo,3.011,3.551,4.084,3.579
+2024-12-23,Indiana,Kokomo,3.148,3.708,4.203,3.557
+2024-12-24,Indiana,Kokomo,3.112,3.667,4.183,3.548
+2023-12-24,Indiana,Lafayette,2.957,3.462,3.943,4.093
+2024-11-24,Indiana,Lafayette,3.241,3.760,4.263,3.642
+2024-12-17,Indiana,Lafayette,3.097,3.641,4.130,3.657
+2024-12-23,Indiana,Lafayette,3.230,3.773,4.258,3.626
+2024-12-24,Indiana,Lafayette,3.192,3.751,4.224,3.621
+2023-12-24,Indiana,Michigan City-La Porte,2.931,3.438,3.937,3.955
+2024-11-24,Indiana,Michigan City-La Porte,3.104,3.669,4.207,3.638
+2024-12-17,Indiana,Michigan City-La Porte,3.056,3.624,4.161,3.663
+2024-12-23,Indiana,Michigan City-La Porte,3.180,3.745,4.288,3.659
+2024-12-24,Indiana,Michigan City-La Porte,3.135,3.725,4.255,3.639
+2023-12-24,Indiana,Muncie,2.889,3.380,3.851,3.933
+2024-11-24,Indiana,Muncie,2.844,3.397,3.931,3.700
+2024-12-17,Indiana,Muncie,3.012,3.568,4.108,3.728
+2024-12-23,Indiana,Muncie,3.129,3.647,4.209,3.705
+2024-12-24,Indiana,Muncie,3.090,3.618,4.190,3.675
+2023-12-24,Indiana,South Bend,2.938,3.464,3.947,3.953
+2024-11-24,Indiana,South Bend,2.871,3.481,4.008,3.659
+2024-12-17,Indiana,South Bend,3.020,3.597,4.109,3.666
+2024-12-23,Indiana,South Bend,3.126,3.669,4.206,3.637
+2024-12-24,Indiana,South Bend,3.082,3.649,4.178,3.663
+2023-12-24,Indiana,Terre Haute,2.915,3.352,3.781,4.077
+2024-11-24,Indiana,Terre Haute,2.844,3.331,3.815,3.700
+2024-12-17,Indiana,Terre Haute,3.030,3.544,3.973,3.725
+2024-12-23,Indiana,Terre Haute,3.091,3.642,4.080,3.738
+2024-12-24,Indiana,Terre Haute,3.080,3.642,4.080,3.742
+2023-12-24,Iowa,Ames,2.896,3.349,3.700,3.512
+2024-11-24,Iowa,Ames,2.776,3.199,3.546,3.202
+2024-12-17,Iowa,Ames,2.653,3.099,3.325,3.148
+2024-12-23,Iowa,Ames,2.748,3.099,3.455,3.228
+2024-12-24,Iowa,Ames,2.760,3.051,3.415,3.232
+2023-12-24,Iowa,Cedar Rapids,2.843,3.257,3.693,3.653
+2024-11-24,Iowa,Cedar Rapids,2.798,3.213,3.618,3.424
+2024-12-17,Iowa,Cedar Rapids,2.694,3.134,3.483,3.368
+2024-12-23,Iowa,Cedar Rapids,2.785,3.267,3.564,3.368
+2024-12-24,Iowa,Cedar Rapids,2.772,3.190,3.575,3.375
+2023-12-24,Iowa,Council Bluffs,2.742,2.996,3.539,3.676
+2024-11-24,Iowa,Council Bluffs,2.657,2.978,3.451,3.302
+2024-12-17,Iowa,Council Bluffs,2.601,2.958,3.471,3.260
+2024-12-23,Iowa,Council Bluffs,2.736,3.086,3.556,3.276
+2024-12-24,Iowa,Council Bluffs,2.730,3.041,3.521,3.270
+2023-12-24,Iowa,Davenport-Moline-Rock Island (IA only),2.775,3.251,3.683,3.863
+2024-11-24,Iowa,Davenport-Moline-Rock Island (IA only),2.809,3.178,3.744,3.520
+2024-12-17,Iowa,Davenport-Moline-Rock Island (IA only),2.673,3.078,3.552,3.458
+2024-12-23,Iowa,Davenport-Moline-Rock Island (IA only),2.791,3.155,3.687,3.496
+2024-12-24,Iowa,Davenport-Moline-Rock Island (IA only),2.770,3.112,3.679,3.479
+2023-12-24,Iowa,Des Moines,2.848,3.252,3.595,3.634
+2024-11-24,Iowa,Des Moines,2.605,2.945,3.338,3.276
+2024-12-17,Iowa,Des Moines,2.628,2.972,3.327,3.157
+2024-12-23,Iowa,Des Moines,2.686,3.059,3.433,3.267
+2024-12-24,Iowa,Des Moines,2.689,3.086,3.431,3.267
+2023-12-24,Iowa,Dubuque,2.939,3.351,3.965,3.865
+2024-11-24,Iowa,Dubuque,2.936,3.311,3.847,3.342
+2024-12-17,Iowa,Dubuque,2.898,3.267,3.791,3.305
+2024-12-23,Iowa,Dubuque,2.969,3.373,3.845,3.295
+2024-12-24,Iowa,Dubuque,2.965,3.363,3.853,3.299
+2023-12-24,Iowa,Iowa City,2.870,3.366,3.701,3.684
+2024-11-24,Iowa,Iowa City,2.852,3.449,3.602,3.251
+2024-12-17,Iowa,Iowa City,2.707,3.195,3.486,3.221
+2024-12-23,Iowa,Iowa City,2.825,3.219,3.573,3.197
+2024-12-24,Iowa,Iowa City,2.791,3.148,3.543,3.207
+2023-12-24,Iowa,Sioux City (IA only),2.728,3.046,3.497,3.766
+2024-11-24,Iowa,Sioux City (IA only),2.513,2.966,3.356,3.185
+2024-12-17,Iowa,Sioux City (IA only),2.594,2.966,3.393,3.176
+2024-12-23,Iowa,Sioux City (IA only),2.739,3.233,3.515,3.165
+2024-12-24,Iowa,Sioux City (IA only),2.739,3.146,3.530,3.196
+2023-12-24,Iowa,Waterloo-Cedar Falls,2.839,3.207,3.703,3.670
+2024-11-24,Iowa,Waterloo-Cedar Falls,2.868,3.229,3.773,3.535
+2024-12-17,Iowa,Waterloo-Cedar Falls,2.754,3.071,3.633,3.418
+2024-12-23,Iowa,Waterloo-Cedar Falls,2.959,3.370,3.854,3.410
+2024-12-24,Iowa,Waterloo-Cedar Falls,2.923,3.362,3.843,3.418
+2023-12-24,Kansas,Kansas City (KS only),2.679,2.982,3.263,3.640
+2024-11-24,Kansas,Kansas City (KS only),2.739,3.068,3.392,3.211
+2024-12-17,Kansas,Kansas City (KS only),2.708,3.030,3.374,3.198
+2024-12-23,Kansas,Kansas City (KS only),2.726,3.041,3.373,3.197
+2024-12-24,Kansas,Kansas City (KS only),2.728,3.047,3.383,3.205
+2023-12-24,Kansas,Lawrence,2.652,3.067,3.389,3.708
+2024-11-24,Kansas,Lawrence,2.773,3.099,3.490,3.253
+2024-12-17,Kansas,Lawrence,2.717,3.078,3.461,3.226
+2024-12-23,Kansas,Lawrence,2.719,3.116,3.468,3.226
+2024-12-24,Kansas,Lawrence,2.717,3.102,3.460,3.213
+2023-12-24,Kansas,Manhattan,2.766,3.122,3.475,3.591
+2024-11-24,Kansas,Manhattan,2.651,3.030,3.371,3.072
+2024-12-17,Kansas,Manhattan,2.660,3.002,3.325,3.051
+2024-12-23,Kansas,Manhattan,2.653,3.016,3.374,3.060
+2024-12-24,Kansas,Manhattan,2.656,3.017,3.341,3.083
+2023-12-24,Kansas,Topeka,2.684,3.026,3.405,3.713
+2024-11-24,Kansas,Topeka,2.629,2.985,3.313,3.249
+2024-12-17,Kansas,Topeka,2.626,2.980,3.299,3.211
+2024-12-23,Kansas,Topeka,2.662,3.007,3.345,3.230
+2024-12-24,Kansas,Topeka,2.653,3.000,3.336,3.232
+2023-12-24,Kansas,Wichita,2.712,2.952,3.210,3.685
+2024-11-24,Kansas,Wichita,2.743,3.017,3.247,3.233
+2024-12-17,Kansas,Wichita,2.672,2.933,3.176,3.190
+2024-12-23,Kansas,Wichita,2.674,2.930,3.188,3.192
+2024-12-24,Kansas,Wichita,2.669,2.915,3.172,3.190
+2023-12-24,Kentucky,Bowling Green,2.879,3.294,3.674,3.593
+2024-11-24,Kentucky,Bowling Green,2.616,3.073,3.452,3.211
+2024-12-17,Kentucky,Bowling Green,2.689,3.155,3.529,3.166
+2024-12-23,Kentucky,Bowling Green,2.682,3.144,3.534,3.135
+2024-12-24,Kentucky,Bowling Green,2.666,3.150,3.507,3.155
+2023-12-24,Kentucky,Covington,2.769,3.250,3.671,3.576
+2024-11-24,Kentucky,Covington,2.772,3.290,3.711,3.182
+2024-12-17,Kentucky,Covington,2.910,3.449,3.857,3.120
+2024-12-23,Kentucky,Covington,2.985,3.524,3.935,3.102
+2024-12-24,Kentucky,Covington,2.959,3.492,3.921,3.105
+2023-12-24,Kentucky,Elizabethtown-Fort Knox,2.821,3.299,3.742,3.624
+2024-11-24,Kentucky,Elizabethtown-Fort Knox,2.656,3.134,3.602,3.151
+2024-12-17,Kentucky,Elizabethtown-Fort Knox,2.657,3.139,3.599,3.075
+2024-12-23,Kentucky,Elizabethtown-Fort Knox,2.687,3.157,3.617,3.028
+2024-12-24,Kentucky,Elizabethtown-Fort Knox,2.686,3.174,3.632,3.054
+2023-12-24,Kentucky,Henderson,2.693,3.075,3.523,3.768
+2024-11-24,Kentucky,Henderson,2.473,2.827,3.251,3.207
+2024-12-17,Kentucky,Henderson,2.481,2.853,3.201,3.216
+2024-12-23,Kentucky,Henderson,2.668,3.019,3.520,3.212
+2024-12-24,Kentucky,Henderson,2.652,3.026,3.474,3.193
+2023-12-24,Kentucky,Hopkinsville,2.864,3.285,3.671,3.847
+2024-11-24,Kentucky,Hopkinsville,2.711,3.188,3.534,3.322
+2024-12-17,Kentucky,Hopkinsville,2.625,3.012,3.424,3.342
+2024-12-23,Kentucky,Hopkinsville,2.691,3.087,3.490,3.280
+2024-12-24,Kentucky,Hopkinsville,2.692,3.108,3.495,3.323
+2023-12-24,Kentucky,Huntington-Ashland (KY only),2.904,3.415,3.863,3.866
+2024-11-24,Kentucky,Huntington-Ashland (KY only),2.789,3.341,3.825,3.549
+2024-12-17,Kentucky,Huntington-Ashland (KY only),2.860,3.405,3.805,3.559
+2024-12-23,Kentucky,Huntington-Ashland (KY only),2.845,3.413,3.844,3.578
+2024-12-24,Kentucky,Huntington-Ashland (KY only),2.846,3.421,3.842,3.568
+2023-12-24,Kentucky,Lexington,2.839,3.358,3.726,3.780
+2024-11-24,Kentucky,Lexington,2.866,3.425,3.781,3.283
+2024-12-17,Kentucky,Lexington,2.878,3.435,3.773,3.201
+2024-12-23,Kentucky,Lexington,2.827,3.368,3.731,3.184
+2024-12-24,Kentucky,Lexington,2.812,3.350,3.723,3.182
+2023-12-24,Kentucky,Louisville (KY only),2.864,3.336,3.742,3.725
+2024-11-24,Kentucky,Louisville (KY only),2.826,3.368,3.800,3.255
+2024-12-17,Kentucky,Louisville (KY only),2.887,3.431,3.861,3.201
+2024-12-23,Kentucky,Louisville (KY only),2.829,3.369,3.801,3.188
+2024-12-24,Kentucky,Louisville (KY only),2.821,3.364,3.791,3.195
+2023-12-24,Kentucky,Owensboro,2.737,3.313,3.678,3.880
+2024-11-24,Kentucky,Owensboro,2.595,3.103,3.509,3.353
+2024-12-17,Kentucky,Owensboro,2.583,3.144,3.499,3.267
+2024-12-23,Kentucky,Owensboro,2.583,3.090,3.454,3.268
+2024-12-24,Kentucky,Owensboro,2.579,3.117,3.504,3.293
+2023-12-24,Louisiana,Alexandria,2.756,3.245,3.566,3.675
+2024-11-24,Louisiana,Alexandria,2.664,3.048,3.488,3.353
+2024-12-17,Louisiana,Alexandria,2.641,3.029,3.482,3.309
+2024-12-23,Louisiana,Alexandria,2.670,3.058,3.502,3.303
+2024-12-24,Louisiana,Alexandria,2.666,3.058,3.517,3.318
+2023-12-24,Louisiana,Baton Rouge,2.718,3.135,3.511,3.582
+2024-11-24,Louisiana,Baton Rouge,2.736,3.199,3.556,3.194
+2024-12-17,Louisiana,Baton Rouge,2.708,3.157,3.484,3.163
+2024-12-23,Louisiana,Baton Rouge,2.702,3.123,3.478,3.198
+2024-12-24,Louisiana,Baton Rouge,2.696,3.138,3.495,3.206
+2023-12-24,Louisiana,Hammond,2.725,3.160,3.559,3.568
+2024-11-24,Louisiana,Hammond,2.678,3.090,3.538,3.171
+2024-12-17,Louisiana,Hammond,2.652,3.056,3.458,3.123
+2024-12-23,Louisiana,Hammond,2.651,3.062,3.434,3.159
+2024-12-24,Louisiana,Hammond,2.648,3.122,3.482,3.142
+2023-12-24,Louisiana,Houma-Thibodaux,2.784,3.279,3.549,3.703
+2024-11-24,Louisiana,Houma-Thibodaux,2.767,3.146,3.516,3.255
+2024-12-17,Louisiana,Houma-Thibodaux,2.757,3.144,3.477,3.265
+2024-12-23,Louisiana,Houma-Thibodaux,2.741,3.091,3.415,3.243
+2024-12-24,Louisiana,Houma-Thibodaux,2.757,3.135,3.486,3.243
+2023-12-24,Louisiana,Lafayette,2.769,3.153,3.521,3.634
+2024-11-24,Louisiana,Lafayette,2.734,3.115,3.519,3.199
+2024-12-17,Louisiana,Lafayette,2.716,3.093,3.497,3.170
+2024-12-23,Louisiana,Lafayette,2.720,3.123,3.515,3.193
+2024-12-24,Louisiana,Lafayette,2.716,3.145,3.525,3.195
+2023-12-24,Louisiana,Lake Charles,2.778,3.190,3.547,3.558
+2024-11-24,Louisiana,Lake Charles,2.764,3.143,3.578,3.087
+2024-12-17,Louisiana,Lake Charles,2.712,3.144,3.571,3.070
+2024-12-23,Louisiana,Lake Charles,2.706,3.138,3.575,3.075
+2024-12-24,Louisiana,Lake Charles,2.716,3.164,3.565,3.071
+2023-12-24,Louisiana,Monroe,2.612,3.024,3.379,3.477
+2024-11-24,Louisiana,Monroe,2.554,2.922,3.347,3.108
+2024-12-17,Louisiana,Monroe,2.558,2.944,3.349,3.106
+2024-12-23,Louisiana,Monroe,2.550,2.943,3.362,3.086
+2024-12-24,Louisiana,Monroe,2.544,2.929,3.377,3.104
+2023-12-24,Louisiana,New Orleans,2.757,3.311,3.689,3.724
+2024-11-24,Louisiana,New Orleans,2.752,3.289,3.641,3.289
+2024-12-17,Louisiana,New Orleans,2.730,3.250,3.647,3.285
+2024-12-23,Louisiana,New Orleans,2.719,3.234,3.626,3.280
+2024-12-24,Louisiana,New Orleans,2.722,3.232,3.622,3.279
+2023-12-24,Louisiana,Shreveport-Bossier City,2.691,3.046,3.411,3.532
+2024-11-24,Louisiana,Shreveport-Bossier City,2.598,2.991,3.357,3.109
+2024-12-17,Louisiana,Shreveport-Bossier City,2.604,3.025,3.364,3.102
+2024-12-23,Louisiana,Shreveport-Bossier City,2.604,2.985,3.335,3.133
+2024-12-24,Louisiana,Shreveport-Bossier City,2.605,2.976,3.340,3.112
+2023-12-24,Maine,Bangor,3.243,3.679,4.089,4.426
+2024-11-24,Maine,Bangor,3.048,3.545,4.049,3.790
+2024-12-17,Maine,Bangor,3.041,3.536,4.059,3.808
+2024-12-23,Maine,Bangor,3.032,3.533,4.030,3.797
+2024-12-24,Maine,Bangor,3.027,3.523,4.037,3.805
+2023-12-24,Maine,Lewiston-Auburn,3.159,3.588,3.941,4.349
+2024-11-24,Maine,Lewiston-Auburn,3.118,3.658,4.050,3.893
+2024-12-17,Maine,Lewiston-Auburn,3.073,3.599,3.969,3.892
+2024-12-23,Maine,Lewiston-Auburn,3.066,3.664,3.996,3.918
+2024-12-24,Maine,Lewiston-Auburn,3.076,3.676,3.981,3.914
+2023-12-24,Maine,Portland,3.224,3.657,4.065,4.305
+2024-11-24,Maine,Portland,3.073,3.600,4.020,3.802
+2024-12-17,Maine,Portland,3.037,3.562,3.990,3.785
+2024-12-23,Maine,Portland,3.026,3.550,3.990,3.794
+2024-12-24,Maine,Portland,3.029,3.562,3.974,3.776
+2023-12-24,Maryland,Annapolis,3.200,3.791,4.040,4.032
+2024-11-24,Maryland,Annapolis,3.121,3.784,4.086,3.570
+2024-12-17,Maryland,Annapolis,2.884,3.472,3.814,3.384
+2024-12-23,Maryland,Annapolis,2.854,3.486,3.786,3.384
+2024-12-24,Maryland,Annapolis,2.863,3.484,3.794,3.377
+2023-12-24,Maryland,Baltimore,3.199,3.713,4.006,4.040
+2024-11-24,Maryland,Baltimore,3.113,3.699,4.021,3.560
+2024-12-17,Maryland,Baltimore,2.880,3.415,3.747,3.355
+2024-12-23,Maryland,Baltimore,2.852,3.409,3.727,3.361
+2024-12-24,Maryland,Baltimore,2.858,3.424,3.733,3.367
+2023-12-24,Maryland,Bowie-St. Charles,3.193,3.938,4.178,4.118
+2024-11-24,Maryland,Bowie-St. Charles,3.108,3.879,4.151,3.591
+2024-12-17,Maryland,Bowie-St. Charles,2.943,3.710,3.959,3.465
+2024-12-23,Maryland,Bowie-St. Charles,2.898,3.651,3.897,3.471
+2024-12-24,Maryland,Bowie-St. Charles,2.903,3.696,3.925,3.478
+2023-12-24,Maryland,Cumberland (MD Only),3.198,3.532,3.851,4.164
+2024-11-24,Maryland,Cumberland (MD Only),3.180,3.551,3.944,3.663
+2024-12-17,Maryland,Cumberland (MD Only),3.163,3.557,3.985,3.581
+2024-12-23,Maryland,Cumberland (MD Only),3.120,3.515,3.943,3.548
+2024-12-24,Maryland,Cumberland (MD Only),3.115,3.523,3.932,3.552
+2023-12-24,Maryland,Frederick,3.171,3.590,3.893,4.048
+2024-11-24,Maryland,Frederick,3.103,3.581,3.917,3.524
+2024-12-17,Maryland,Frederick,3.024,3.466,3.796,3.463
+2024-12-23,Maryland,Frederick,2.971,3.410,3.748,3.434
+2024-12-24,Maryland,Frederick,2.982,3.430,3.786,3.436
+2023-12-24,Maryland,Hagerstown,3.170,3.580,3.866,4.125
+2024-11-24,Maryland,Hagerstown,3.080,3.499,3.941,3.729
+2024-12-17,Maryland,Hagerstown,2.971,3.438,3.856,3.661
+2024-12-23,Maryland,Hagerstown,2.916,3.386,3.767,3.642
+2024-12-24,Maryland,Hagerstown,2.965,3.429,3.775,3.632
+2023-12-24,Maryland,Salisbury,3.186,3.611,3.946,4.012
+2024-11-24,Maryland,Salisbury,3.100,3.601,3.980,3.560
+2024-12-17,Maryland,Salisbury,2.848,3.292,3.636,3.311
+2024-12-23,Maryland,Salisbury,2.812,3.281,3.570,3.337
+2024-12-24,Maryland,Salisbury,2.819,3.259,3.597,3.353
+2023-12-24,Maryland,Washington (MD only),3.234,3.793,4.109,4.170
+2024-11-24,Maryland,Washington (MD only),3.155,3.774,4.087,3.671
+2024-12-17,Maryland,Washington (MD only),3.060,3.678,3.980,3.603
+2024-12-23,Maryland,Washington (MD only),3.030,3.626,3.957,3.596
+2024-12-24,Maryland,Washington (MD only),3.036,3.659,3.973,3.598
+2023-12-24,Massachusetts,Barnstable-Yarmouth,3.314,3.853,4.218,4.316
+2024-11-24,Massachusetts,Barnstable-Yarmouth,3.081,3.664,4.038,3.812
+2024-12-17,Massachusetts,Barnstable-Yarmouth,3.086,3.628,4.005,3.817
+2024-12-23,Massachusetts,Barnstable-Yarmouth,3.087,3.613,3.983,3.716
+2024-12-24,Massachusetts,Barnstable-Yarmouth,3.082,3.626,4.004,3.761
+2023-12-24,Massachusetts,Boston (MA only),3.254,3.871,4.247,4.281
+2024-11-24,Massachusetts,Boston (MA only),3.026,3.638,3.974,3.726
+2024-12-17,Massachusetts,Boston (MA only),3.017,3.622,3.985,3.718
+2024-12-23,Massachusetts,Boston (MA only),3.024,3.609,4.000,3.699
+2024-12-24,Massachusetts,Boston (MA only),3.026,3.641,3.987,3.704
+2023-12-24,Massachusetts,Cambridge-Newton-Framingham,3.327,3.898,4.262,4.334
+2024-11-24,Massachusetts,Cambridge-Newton-Framingham,3.078,3.636,4.018,3.762
+2024-12-17,Massachusetts,Cambridge-Newton-Framingham,3.062,3.647,4.021,3.761
+2024-12-23,Massachusetts,Cambridge-Newton-Framingham,3.064,3.628,4.007,3.751
+2024-12-24,Massachusetts,Cambridge-Newton-Framingham,3.066,3.638,4.022,3.763
+2023-12-24,Massachusetts,Pittsfield,3.241,3.884,4.232,4.223
+2024-11-24,Massachusetts,Pittsfield,3.043,3.659,4.033,3.522
+2024-12-17,Massachusetts,Pittsfield,3.056,3.700,3.983,3.542
+2024-12-23,Massachusetts,Pittsfield,3.062,3.694,3.983,3.527
+2024-12-24,Massachusetts,Pittsfield,3.061,3.713,4.022,3.545
+2023-12-24,Massachusetts,Seekonk,3.085,3.657,3.994,4.133
+2024-11-24,Massachusetts,Seekonk,2.897,3.499,3.820,3.653
+2024-12-17,Massachusetts,Seekonk,2.899,3.496,3.815,3.630
+2024-12-23,Massachusetts,Seekonk,2.908,3.482,3.820,3.634
+2024-12-24,Massachusetts,Seekonk,2.907,3.501,3.826,3.636
+2023-12-24,Massachusetts,Springfield,3.060,3.643,4.019,4.139
+2024-11-24,Massachusetts,Springfield,2.948,3.487,3.849,3.565
+2024-12-17,Massachusetts,Springfield,2.962,3.515,3.877,3.550
+2024-12-23,Massachusetts,Springfield,2.965,3.497,3.878,3.534
+2024-12-24,Massachusetts,Springfield,2.966,3.483,3.857,3.535
+2023-12-24,Massachusetts,Worcester,3.199,3.875,4.170,4.184
+2024-11-24,Massachusetts,Worcester,3.019,3.658,3.999,3.606
+2024-12-17,Massachusetts,Worcester,3.017,3.671,4.008,3.579
+2024-12-23,Massachusetts,Worcester,3.013,3.639,3.986,3.598
+2024-12-24,Massachusetts,Worcester,3.011,3.642,4.001,3.598
+2023-12-24,Michigan,Ann Arbor,3.030,3.595,4.060,4.095
+2024-11-24,Michigan,Ann Arbor,3.067,3.748,4.284,3.652
+2024-12-17,Michigan,Ann Arbor,3.060,3.749,4.296,3.622
+2024-12-23,Michigan,Ann Arbor,3.101,3.792,4.321,3.639
+2024-12-24,Michigan,Ann Arbor,3.083,3.760,4.295,3.635
+2023-12-24,Michigan,Benton Harbor,2.924,3.403,3.905,3.923
+2024-11-24,Michigan,Benton Harbor,2.850,3.341,3.901,3.645
+2024-12-17,Michigan,Benton Harbor,2.946,3.510,4.028,3.624
+2024-12-23,Michigan,Benton Harbor,3.114,3.583,4.121,3.620
+2024-12-24,Michigan,Benton Harbor,3.062,3.582,4.108,3.606
+2023-12-24,Michigan,Flint,2.941,3.445,3.933,3.990
+2024-11-24,Michigan,Flint,2.922,3.476,4.008,3.534
+2024-12-17,Michigan,Flint,2.990,3.523,4.087,3.437
+2024-12-23,Michigan,Flint,3.114,3.656,4.187,3.473
+2024-12-24,Michigan,Flint,3.080,3.617,4.172,3.445
+2023-12-24,Michigan,Grand Rapids-Muskegon-Holland,2.938,3.434,3.928,3.928
+2024-11-24,Michigan,Grand Rapids-Muskegon-Holland,2.961,3.527,4.097,3.568
+2024-12-17,Michigan,Grand Rapids-Muskegon-Holland,3.030,3.583,4.145,3.524
+2024-12-23,Michigan,Grand Rapids-Muskegon-Holland,3.171,3.711,4.256,3.526
+2024-12-24,Michigan,Grand Rapids-Muskegon-Holland,3.143,3.696,4.253,3.515
+2023-12-24,Michigan,Jackson,3.014,3.612,4.131,4.036
+2024-11-24,Michigan,Jackson,3.006,3.639,4.254,3.629
+2024-12-17,Michigan,Jackson,3.082,3.705,4.288,3.564
+2024-12-23,Michigan,Jackson,3.152,3.772,4.367,3.557
+2024-12-24,Michigan,Jackson,3.120,3.789,4.370,3.570
+2023-12-24,Michigan,Lansing-East Lansing,2.976,3.498,3.982,4.123
+2024-11-24,Michigan,Lansing-East Lansing,2.967,3.514,4.044,3.638
+2024-12-17,Michigan,Lansing-East Lansing,3.008,3.557,4.074,3.614
+2024-12-23,Michigan,Lansing-East Lansing,3.145,3.693,4.201,3.631
+2024-12-24,Michigan,Lansing-East Lansing,3.120,3.668,4.199,3.638
+2023-12-24,Michigan,Marquette,3.008,3.577,3.999,4.171
+2024-11-24,Michigan,Marquette,3.013,3.591,4.138,3.641
+2024-12-17,Michigan,Marquette,2.978,3.406,3.958,3.684
+2024-12-23,Michigan,Marquette,2.978,3.482,4.043,3.603
+2024-12-24,Michigan,Marquette,2.975,3.473,3.977,3.622
+2023-12-24,Michigan,Metro Detroit,2.978,3.585,4.073,4.102
+2024-11-24,Michigan,Metro Detroit,3.062,3.716,4.287,3.732
+2024-12-17,Michigan,Metro Detroit,3.018,3.659,4.228,3.687
+2024-12-23,Michigan,Metro Detroit,3.061,3.724,4.300,3.685
+2024-12-24,Michigan,Metro Detroit,3.043,3.706,4.281,3.687
+2023-12-24,Michigan,Saginaw-Bay City-Midland,2.957,3.424,3.962,4.030
+2024-11-24,Michigan,Saginaw-Bay City-Midland,2.896,3.448,4.002,3.540
+2024-12-17,Michigan,Saginaw-Bay City-Midland,2.996,3.526,4.090,3.488
+2024-12-23,Michigan,Saginaw-Bay City-Midland,3.168,3.686,4.210,3.535
+2024-12-24,Michigan,Saginaw-Bay City-Midland,3.124,3.657,4.221,3.512
+2023-12-24,Michigan,Traverse City,2.955,3.496,3.998,4.019
+2024-11-24,Michigan,Traverse City,2.959,3.462,4.005,3.733
+2024-12-17,Michigan,Traverse City,2.918,3.430,3.989,3.705
+2024-12-23,Michigan,Traverse City,3.119,3.612,4.117,3.705
+2024-12-24,Michigan,Traverse City,3.031,3.550,4.038,3.705
+2023-12-24,Minnesota,Duluth-Superior (MN only),2.860,3.193,3.588,3.917
+2024-11-24,Minnesota,Duluth-Superior (MN only),2.851,3.258,3.740,3.476
+2024-12-17,Minnesota,Duluth-Superior (MN only),2.765,3.177,3.610,3.461
+2024-12-23,Minnesota,Duluth-Superior (MN only),2.777,3.248,3.641,3.441
+2024-12-24,Minnesota,Duluth-Superior (MN only),2.766,3.241,3.652,3.439
+2023-12-24,Minnesota,Houston County,2.875,0.000,3.769,3.747
+2024-11-24,Minnesota,Houston County,2.849,3.149,3.799,3.399
+2024-12-17,Minnesota,Houston County,2.813,0.000,3.749,3.399
+2024-12-23,Minnesota,Houston County,2.905,0.000,3.849,3.399
+2024-12-24,Minnesota,Houston County,2.904,0.000,3.849,3.399
+2023-12-24,Minnesota,Mankato,2.922,3.204,3.585,3.659
+2024-11-24,Minnesota,Mankato,2.820,3.195,3.700,3.276
+2024-12-17,Minnesota,Mankato,2.892,3.239,3.794,3.274
+2024-12-23,Minnesota,Mankato,2.909,3.284,3.793,3.258
+2024-12-24,Minnesota,Mankato,2.911,3.311,3.778,3.286
+2023-12-24,Minnesota,Minneapolis-St. Paul (MN only),2.918,3.274,3.649,3.978
+2024-11-24,Minnesota,Minneapolis-St. Paul (MN only),2.884,3.339,3.757,3.493
+2024-12-17,Minnesota,Minneapolis-St. Paul (MN only),2.938,3.397,3.799,3.469
+2024-12-23,Minnesota,Minneapolis-St. Paul (MN only),2.932,3.385,3.785,3.482
+2024-12-24,Minnesota,Minneapolis-St. Paul (MN only),2.923,3.370,3.775,3.483
+2023-12-24,Minnesota,Moorhead,2.976,3.210,3.715,4.054
+2024-11-24,Minnesota,Moorhead,2.867,3.218,3.623,3.456
+2024-12-17,Minnesota,Moorhead,2.739,3.025,3.519,3.409
+2024-12-23,Minnesota,Moorhead,2.828,3.110,3.467,3.410
+2024-12-24,Minnesota,Moorhead,2.821,3.098,3.552,3.464
+2023-12-24,Minnesota,Polk County,2.847,3.111,3.787,3.841
+2024-11-24,Minnesota,Polk County,2.720,3.009,3.382,3.298
+2024-12-17,Minnesota,Polk County,2.733,2.909,3.333,3.368
+2024-12-23,Minnesota,Polk County,2.738,2.939,3.419,3.291
+2024-12-24,Minnesota,Polk County,2.729,2.936,3.372,3.342
+2023-12-24,Minnesota,Rochester,2.957,3.300,3.757,3.813
+2024-11-24,Minnesota,Rochester,2.924,3.463,3.826,3.380
+2024-12-17,Minnesota,Rochester,2.946,3.535,3.859,3.367
+2024-12-23,Minnesota,Rochester,2.943,3.521,3.821,3.375
+2024-12-24,Minnesota,Rochester,2.940,3.503,3.808,3.372
+2023-12-24,Minnesota,St. Cloud,2.863,3.248,3.683,3.673
+2024-11-24,Minnesota,St. Cloud,2.732,3.159,3.632,3.305
+2024-12-17,Minnesota,St. Cloud,2.799,3.260,3.712,3.277
+2024-12-23,Minnesota,St. Cloud,2.747,3.147,3.583,3.230
+2024-12-24,Minnesota,St. Cloud,2.742,3.145,3.586,3.207
+2023-12-24,Mississippi,Biloxi-Gulfport-Pascagoula,2.586,2.996,3.319,3.446
+2024-11-24,Mississippi,Biloxi-Gulfport-Pascagoula,2.530,2.925,3.286,3.079
+2024-12-17,Mississippi,Biloxi-Gulfport-Pascagoula,2.537,2.906,3.308,3.062
+2024-12-23,Mississippi,Biloxi-Gulfport-Pascagoula,2.536,2.929,3.298,3.079
+2024-12-24,Mississippi,Biloxi-Gulfport-Pascagoula,2.537,2.903,3.280,3.048
+2023-12-24,Mississippi,Hattiesburg,2.643,3.078,3.460,3.624
+2024-11-24,Mississippi,Hattiesburg,2.597,2.993,3.353,3.079
+2024-12-17,Mississippi,Hattiesburg,2.527,2.947,3.342,3.023
+2024-12-23,Mississippi,Hattiesburg,2.505,2.903,3.326,3.022
+2024-12-24,Mississippi,Hattiesburg,2.510,2.908,3.329,3.015
+2023-12-24,Mississippi,Jackson,2.660,3.032,3.399,3.608
+2024-11-24,Mississippi,Jackson,2.654,3.068,3.419,3.114
+2024-12-17,Mississippi,Jackson,2.620,3.024,3.389,3.101
+2024-12-23,Mississippi,Jackson,2.631,3.045,3.421,3.083
+2024-12-24,Mississippi,Jackson,2.624,3.036,3.413,3.092
+2023-12-24,Mississippi,South Haven - Olive Branch,2.708,3.251,3.602,3.668
+2024-11-24,Mississippi,South Haven - Olive Branch,2.609,3.143,3.554,3.194
+2024-12-17,Mississippi,South Haven - Olive Branch,2.564,3.069,3.428,3.199
+2024-12-23,Mississippi,South Haven - Olive Branch,2.575,3.099,3.478,3.197
+2024-12-24,Mississippi,South Haven - Olive Branch,2.574,3.122,3.506,3.186
+2023-12-24,Missouri,Cape Girardeau,2.768,3.095,3.464,3.851
+2024-11-24,Missouri,Cape Girardeau,2.782,3.020,3.394,3.322
+2024-12-17,Missouri,Cape Girardeau,2.663,2.858,3.292,3.261
+2024-12-23,Missouri,Cape Girardeau,2.672,2.853,3.238,3.268
+2024-12-24,Missouri,Cape Girardeau,2.680,2.966,3.263,3.270
+2023-12-24,Missouri,Columbia,2.687,2.970,3.242,3.712
+2024-11-24,Missouri,Columbia,2.861,3.180,3.384,3.210
+2024-12-17,Missouri,Columbia,2.814,3.177,3.369,3.162
+2024-12-23,Missouri,Columbia,2.959,3.310,3.487,3.195
+2024-12-24,Missouri,Columbia,2.942,3.341,3.505,3.203
+2023-12-24,Missouri,Jefferson City,2.788,3.098,3.407,3.680
+2024-11-24,Missouri,Jefferson City,2.834,3.124,3.387,3.206
+2024-12-17,Missouri,Jefferson City,2.780,3.068,3.391,3.186
+2024-12-23,Missouri,Jefferson City,2.820,3.095,3.423,3.181
+2024-12-24,Missouri,Jefferson City,2.829,3.127,3.438,3.189
+2023-12-24,Missouri,Joplin,2.602,2.980,3.300,3.421
+2024-11-24,Missouri,Joplin,2.509,2.928,3.202,3.103
+2024-12-17,Missouri,Joplin,2.486,2.889,3.169,3.060
+2024-12-23,Missouri,Joplin,2.526,2.888,3.205,3.090
+2024-12-24,Missouri,Joplin,2.520,2.887,3.211,3.082
+2023-12-24,Missouri,Kansas City (MO only),2.678,2.973,3.263,3.609
+2024-11-24,Missouri,Kansas City (MO only),2.708,3.036,3.331,3.200
+2024-12-17,Missouri,Kansas City (MO only),2.677,3.019,3.323,3.184
+2024-12-23,Missouri,Kansas City (MO only),2.738,3.071,3.369,3.190
+2024-12-24,Missouri,Kansas City (MO only),2.737,3.064,3.363,3.193
+2023-12-24,Missouri,Springfield,2.664,2.998,3.295,3.547
+2024-11-24,Missouri,Springfield,2.567,2.899,3.192,3.079
+2024-12-17,Missouri,Springfield,2.564,2.907,3.199,3.031
+2024-12-23,Missouri,Springfield,2.643,2.968,3.263,3.078
+2024-12-24,Missouri,Springfield,2.639,3.001,3.266,3.081
+2023-12-24,Missouri,St. Joseph,2.655,2.972,3.279,3.407
+2024-11-24,Missouri,St. Joseph,2.613,2.919,3.248,3.101
+2024-12-17,Missouri,St. Joseph,2.581,2.936,3.231,3.123
+2024-12-23,Missouri,St. Joseph,2.699,3.063,3.348,3.103
+2024-12-24,Missouri,St. Joseph,2.690,3.063,3.328,3.109
+2023-12-24,Missouri,St. Louis (MO only),2.736,3.071,3.376,3.638
+2024-11-24,Missouri,St. Louis (MO only),2.841,3.198,3.483,3.105
+2024-12-17,Missouri,St. Louis (MO only),2.753,3.123,3.419,3.090
+2024-12-23,Missouri,St. Louis (MO only),2.891,3.257,3.538,3.090
+2024-12-24,Missouri,St. Louis (MO only),2.888,3.252,3.537,3.125
+2023-12-24,Montana,Billings,2.943,3.235,3.628,3.573
+2024-11-24,Montana,Billings,2.949,3.268,3.600,3.335
+2024-12-17,Montana,Billings,2.757,3.100,3.421,3.115
+2024-12-23,Montana,Billings,2.710,3.045,3.392,3.070
+2024-12-24,Montana,Billings,2.716,3.043,3.388,3.066
+2023-12-24,Montana,Great Falls,2.856,3.127,3.427,3.640
+2024-11-24,Montana,Great Falls,2.867,3.178,3.460,3.356
+2024-12-17,Montana,Great Falls,2.753,3.053,3.347,3.127
+2024-12-23,Montana,Great Falls,2.697,3.021,3.331,3.070
+2024-12-24,Montana,Great Falls,2.693,3.016,3.291,3.063
+2023-12-24,Montana,Missoula,2.966,3.240,3.474,3.611
+2024-11-24,Montana,Missoula,2.971,3.237,3.522,3.397
+2024-12-17,Montana,Missoula,2.764,3.044,3.295,3.114
+2024-12-23,Montana,Missoula,2.765,3.058,3.321,3.109
+2024-12-24,Montana,Missoula,2.757,3.022,3.302,3.110
+2023-12-24,Nebraska,Columbus,2.772,2.907,3.524,3.674
+2024-11-24,Nebraska,Columbus,2.539,2.632,3.231,3.207
+2024-12-17,Nebraska,Columbus,2.619,2.716,3.251,3.247
+2024-12-23,Nebraska,Columbus,2.755,3.049,3.549,3.229
+2024-12-24,Nebraska,Columbus,2.766,2.879,3.276,3.229
+2023-12-24,Nebraska,Grand Island,2.884,3.045,3.477,3.675
+2024-11-24,Nebraska,Grand Island,2.951,2.945,3.553,3.238
+2024-12-17,Nebraska,Grand Island,2.832,2.880,3.482,3.204
+2024-12-23,Nebraska,Grand Island,2.818,2.898,3.502,3.184
+2024-12-24,Nebraska,Grand Island,2.797,2.916,3.525,3.198
+2023-12-24,Nebraska,Kearney,3.050,3.252,3.859,3.890
+2024-11-24,Nebraska,Kearney,2.936,3.071,3.699,3.222
+2024-12-17,Nebraska,Kearney,2.938,3.146,3.596,3.158
+2024-12-23,Nebraska,Kearney,2.787,3.151,3.412,3.165
+2024-12-24,Nebraska,Kearney,2.792,3.107,3.496,3.171
+2023-12-24,Nebraska,Lincoln,3.164,3.258,4.028,3.746
+2024-11-24,Nebraska,Lincoln,2.852,3.085,3.651,3.200
+2024-12-17,Nebraska,Lincoln,2.794,3.036,3.573,3.175
+2024-12-23,Nebraska,Lincoln,2.794,3.068,3.580,3.187
+2024-12-24,Nebraska,Lincoln,2.795,3.029,3.565,3.174
+2023-12-24,Nebraska,Norfolk,2.737,3.147,3.584,3.579
+2024-11-24,Nebraska,Norfolk,2.704,3.078,3.594,3.160
+2024-12-17,Nebraska,Norfolk,2.676,3.088,3.489,3.235
+2024-12-23,Nebraska,Norfolk,2.675,3.223,3.622,3.179
+2024-12-24,Nebraska,Norfolk,2.678,3.135,3.406,3.212
+2023-12-24,Nebraska,North Platte,3.190,3.175,3.553,3.453
+2024-11-24,Nebraska,North Platte,3.132,3.172,3.580,3.184
+2024-12-17,Nebraska,North Platte,3.103,3.038,3.574,3.162
+2024-12-23,Nebraska,North Platte,2.994,3.197,3.559,3.178
+2024-12-24,Nebraska,North Platte,3.040,3.033,3.531,3.156
+2023-12-24,Nebraska,Omaha (NE only),2.786,3.083,3.550,3.716
+2024-11-24,Nebraska,Omaha (NE only),2.523,2.876,3.279,3.132
+2024-12-17,Nebraska,Omaha (NE only),2.599,2.919,3.372,3.101
+2024-12-23,Nebraska,Omaha (NE only),2.782,3.100,3.531,3.198
+2024-12-24,Nebraska,Omaha (NE only),2.778,3.100,3.536,3.203
+2023-12-24,Nevada,Las Vegas (NV only),3.860,4.109,4.377,4.348
+2024-11-24,Nevada,Las Vegas (NV only),3.676,4.009,4.254,3.714
+2024-12-17,Nevada,Las Vegas (NV only),3.591,3.925,4.173,3.679
+2024-12-23,Nevada,Las Vegas (NV only),3.613,3.938,4.212,3.667
+2024-12-24,Nevada,Las Vegas (NV only),3.623,3.959,4.214,3.666
+2023-12-24,Nevada,Reno,4.362,4.586,4.771,4.340
+2024-11-24,Nevada,Reno,4.082,4.258,4.435,3.796
+2024-12-17,Nevada,Reno,3.927,4.086,4.291,3.723
+2024-12-23,Nevada,Reno,3.870,4.066,4.235,3.676
+2024-12-24,Nevada,Reno,3.852,4.042,4.236,3.686
+2023-12-24,New Hampshire,Manchester,3.128,3.696,4.090,4.175
+2024-11-24,New Hampshire,Manchester,2.975,3.594,3.975,3.739
+2024-12-17,New Hampshire,Manchester,2.959,3.592,3.993,3.706
+2024-12-23,New Hampshire,Manchester,2.960,3.566,3.947,3.696
+2024-12-24,New Hampshire,Manchester,2.952,3.572,3.942,3.704
+2023-12-24,New Hampshire,Portsmouth-Rochester (NH only),3.048,3.537,3.951,4.144
+2024-11-24,New Hampshire,Portsmouth-Rochester (NH only),2.898,3.441,3.860,3.665
+2024-12-17,New Hampshire,Portsmouth-Rochester (NH only),2.875,3.442,3.851,3.650
+2024-12-23,New Hampshire,Portsmouth-Rochester (NH only),2.852,3.382,3.802,3.617
+2024-12-24,New Hampshire,Portsmouth-Rochester (NH only),2.852,3.392,3.818,3.631
+2023-12-24,New Jersey,Atlantic City,3.146,3.675,3.868,4.148
+2024-11-24,New Jersey,Atlantic City,2.954,3.443,3.667,3.410
+2024-12-17,New Jersey,Atlantic City,2.872,3.365,3.603,3.385
+2024-12-23,New Jersey,Atlantic City,2.869,3.379,3.620,3.408
+2024-12-24,New Jersey,Atlantic City,2.867,3.392,3.607,3.392
+2023-12-24,New Jersey,Bergen-Passaic,3.119,3.768,4.074,4.158
+2024-11-24,New Jersey,Bergen-Passaic,2.978,3.589,3.844,3.447
+2024-12-17,New Jersey,Bergen-Passaic,2.938,3.587,3.826,3.446
+2024-12-23,New Jersey,Bergen-Passaic,2.938,3.565,3.815,3.448
+2024-12-24,New Jersey,Bergen-Passaic,2.941,3.575,3.831,3.456
+2023-12-24,New Jersey,Cape May,3.221,3.736,3.896,4.217
+2024-11-24,New Jersey,Cape May,3.010,3.515,3.604,3.515
+2024-12-17,New Jersey,Cape May,2.916,3.412,3.613,3.455
+2024-12-23,New Jersey,Cape May,2.947,3.435,3.645,3.548
+2024-12-24,New Jersey,Cape May,2.945,3.423,3.607,3.500
+2023-12-24,New Jersey,Middlesex-Somerset-Hunterdon,3.156,3.755,4.026,4.107
+2024-11-24,New Jersey,Middlesex-Somerset-Hunterdon,3.005,3.549,3.836,3.417
+2024-12-17,New Jersey,Middlesex-Somerset-Hunterdon,2.933,3.497,3.783,3.397
+2024-12-23,New Jersey,Middlesex-Somerset-Hunterdon,2.931,3.507,3.804,3.424
+2024-12-24,New Jersey,Middlesex-Somerset-Hunterdon,2.931,3.517,3.792,3.404
+2023-12-24,New Jersey,Monmouth-Ocean,3.165,3.781,4.018,4.198
+2024-11-24,New Jersey,Monmouth-Ocean,3.004,3.563,3.768,3.475
+2024-12-17,New Jersey,Monmouth-Ocean,2.920,3.464,3.703,3.420
+2024-12-23,New Jersey,Monmouth-Ocean,2.929,3.477,3.695,3.475
+2024-12-24,New Jersey,Monmouth-Ocean,2.940,3.472,3.705,3.472
+2023-12-24,New Jersey,Newark,3.180,3.843,4.148,4.214
+2024-11-24,New Jersey,Newark,3.023,3.646,3.944,3.499
+2024-12-17,New Jersey,Newark,2.971,3.621,3.860,3.467
+2024-12-23,New Jersey,Newark,2.971,3.582,3.881,3.502
+2024-12-24,New Jersey,Newark,2.970,3.602,3.887,3.501
+2023-12-24,New Jersey,Parsippany-Troy Hills,3.113,3.738,4.035,4.168
+2024-11-24,New Jersey,Parsippany-Troy Hills,2.968,3.538,3.828,3.478
+2024-12-17,New Jersey,Parsippany-Troy Hills,2.925,3.526,3.774,3.431
+2024-12-23,New Jersey,Parsippany-Troy Hills,2.928,3.498,3.767,3.440
+2024-12-24,New Jersey,Parsippany-Troy Hills,2.920,3.536,3.782,3.465
+2023-12-24,New Jersey,Philadelphia (NJ Only),3.068,3.625,3.846,4.115
+2024-11-24,New Jersey,Philadelphia (NJ Only),2.934,3.451,3.639,3.395
+2024-12-17,New Jersey,Philadelphia (NJ Only),2.843,3.379,3.573,3.377
+2024-12-23,New Jersey,Philadelphia (NJ Only),2.862,3.403,3.582,3.418
+2024-12-24,New Jersey,Philadelphia (NJ Only),2.858,3.391,3.579,3.415
+2023-12-24,New Jersey,Trenton,3.133,3.807,4.084,4.204
+2024-11-24,New Jersey,Trenton,2.974,3.577,3.847,3.514
+2024-12-17,New Jersey,Trenton,2.916,3.519,3.811,3.486
+2024-12-23,New Jersey,Trenton,2.921,3.497,3.829,3.456
+2024-12-24,New Jersey,Trenton,2.921,3.525,3.874,3.473
+2023-12-24,New Jersey,Vineland,3.109,3.695,3.829,4.115
+2024-11-24,New Jersey,Vineland,2.948,3.467,3.616,3.432
+2024-12-17,New Jersey,Vineland,2.870,3.378,3.514,3.419
+2024-12-23,New Jersey,Vineland,2.882,3.400,3.555,3.437
+2024-12-24,New Jersey,Vineland,2.880,3.390,3.574,3.439
+2023-12-24,New Jersey,Warren County,3.035,3.631,3.908,4.018
+2024-11-24,New Jersey,Warren County,2.928,3.509,3.799,3.413
+2024-12-17,New Jersey,Warren County,2.820,3.328,3.666,3.357
+2024-12-23,New Jersey,Warren County,2.835,3.316,3.662,3.408
+2024-12-24,New Jersey,Warren County,2.840,3.356,3.698,3.410
+2023-12-24,New Mexico,Albuquerque,2.838,3.263,3.554,3.716
+2024-11-24,New Mexico,Albuquerque,2.857,3.302,3.609,3.336
+2024-12-17,New Mexico,Albuquerque,2.817,3.273,3.581,3.218
+2024-12-23,New Mexico,Albuquerque,2.792,3.234,3.538,3.185
+2024-12-24,New Mexico,Albuquerque,2.776,3.226,3.524,3.184
+2023-12-24,New Mexico,Farmington,3.576,3.906,4.197,4.368
+2024-11-24,New Mexico,Farmington,3.074,3.392,3.675,3.385
+2024-12-17,New Mexico,Farmington,2.968,3.314,3.590,3.325
+2024-12-23,New Mexico,Farmington,2.939,3.272,3.548,3.308
+2024-12-24,New Mexico,Farmington,2.927,3.264,3.547,3.306
+2023-12-24,New Mexico,Las Cruces,2.823,3.274,3.547,3.811
+2024-11-24,New Mexico,Las Cruces,2.864,3.357,3.666,3.342
+2024-12-17,New Mexico,Las Cruces,2.850,3.341,3.620,3.274
+2024-12-23,New Mexico,Las Cruces,2.892,3.377,3.686,3.249
+2024-12-24,New Mexico,Las Cruces,2.878,3.390,3.708,3.248
+2023-12-24,New Mexico,Santa Fe,2.811,3.188,3.509,4.045
+2024-11-24,New Mexico,Santa Fe,2.859,3.267,3.625,3.304
+2024-12-17,New Mexico,Santa Fe,2.808,3.271,3.569,3.264
+2024-12-23,New Mexico,Santa Fe,2.740,3.146,3.456,3.239
+2024-12-24,New Mexico,Santa Fe,2.716,3.138,3.447,3.240
+2023-12-24,New York,Albany-Schenectady-Troy,3.328,3.883,4.312,4.363
+2024-11-24,New York,Albany-Schenectady-Troy,3.072,3.628,4.075,3.727
+2024-12-17,New York,Albany-Schenectady-Troy,3.097,3.638,4.089,3.722
+2024-12-23,New York,Albany-Schenectady-Troy,3.085,3.618,4.060,3.702
+2024-12-24,New York,Albany-Schenectady-Troy,3.085,3.619,4.064,3.714
+2023-12-24,New York,Batavia,3.430,3.831,4.267,4.432
+2024-11-24,New York,Batavia,3.257,3.795,4.211,3.989
+2024-12-17,New York,Batavia,3.232,3.756,4.178,3.962
+2024-12-23,New York,Batavia,3.230,3.758,4.105,3.959
+2024-12-24,New York,Batavia,3.229,3.726,4.102,3.957
+2023-12-24,New York,Binghamton,3.468,3.914,4.336,4.511
+2024-11-24,New York,Binghamton,3.142,3.615,3.978,3.948
+2024-12-17,New York,Binghamton,3.109,3.571,3.963,3.946
+2024-12-23,New York,Binghamton,3.103,3.596,3.979,3.958
+2024-12-24,New York,Binghamton,3.102,3.571,3.956,3.943
+2023-12-24,New York,Buffalo-Niagara Falls,3.519,3.930,4.290,4.589
+2024-11-24,New York,Buffalo-Niagara Falls,3.197,3.655,4.080,3.979
+2024-12-17,New York,Buffalo-Niagara Falls,3.156,3.627,4.035,3.957
+2024-12-23,New York,Buffalo-Niagara Falls,3.136,3.616,4.015,3.930
+2024-12-24,New York,Buffalo-Niagara Falls,3.135,3.589,3.998,3.927
+2023-12-24,New York,Dutchess-Putnam County,3.374,3.987,4.355,4.338
+2024-11-24,New York,Dutchess-Putnam County,3.135,3.750,4.132,3.679
+2024-12-17,New York,Dutchess-Putnam County,3.110,3.717,4.065,3.669
+2024-12-23,New York,Dutchess-Putnam County,3.098,3.708,4.081,3.675
+2024-12-24,New York,Dutchess-Putnam County,3.102,3.691,4.083,3.654
+2023-12-24,New York,Elmira,3.153,3.564,3.910,4.350
+2024-11-24,New York,Elmira,3.139,3.534,3.859,3.730
+2024-12-17,New York,Elmira,3.093,3.494,3.797,3.786
+2024-12-23,New York,Elmira,3.088,3.535,3.856,3.801
+2024-12-24,New York,Elmira,3.083,3.500,3.803,3.748
+2023-12-24,New York,Glens Falls,3.376,3.860,4.286,4.407
+2024-11-24,New York,Glens Falls,3.212,3.734,4.152,3.766
+2024-12-17,New York,Glens Falls,3.219,3.682,4.131,3.747
+2024-12-23,New York,Glens Falls,3.223,3.700,4.141,3.728
+2024-12-24,New York,Glens Falls,3.222,3.712,4.116,3.736
+2023-12-24,New York,Ithaca,3.436,3.914,4.321,4.543
+2024-11-24,New York,Ithaca,3.365,3.804,4.229,3.997
+2024-12-17,New York,Ithaca,3.354,3.769,4.170,3.916
+2024-12-23,New York,Ithaca,3.343,3.797,4.189,3.909
+2024-12-24,New York,Ithaca,3.337,3.767,4.170,3.908
+2023-12-24,New York,Kingston,3.187,3.737,4.132,4.256
+2024-11-24,New York,Kingston,3.034,3.566,3.969,3.654
+2024-12-17,New York,Kingston,3.039,3.518,3.997,3.632
+2024-12-23,New York,Kingston,3.030,3.518,3.999,3.624
+2024-12-24,New York,Kingston,3.032,3.523,4.029,3.633
+2023-12-24,New York,Nassau-Suffolk,3.219,3.782,4.113,4.416
+2024-11-24,New York,Nassau-Suffolk,3.004,3.505,3.857,3.711
+2024-12-17,New York,Nassau-Suffolk,3.005,3.506,3.863,3.699
+2024-12-23,New York,Nassau-Suffolk,2.991,3.502,3.846,3.689
+2024-12-24,New York,Nassau-Suffolk,2.990,3.511,3.852,3.702
+2023-12-24,New York,New York,3.416,3.899,4.282,4.737
+2024-11-24,New York,New York,3.106,3.591,3.965,4.051
+2024-12-17,New York,New York,3.099,3.592,3.974,4.039
+2024-12-23,New York,New York,3.094,3.553,3.959,4.027
+2024-12-24,New York,New York,3.090,3.602,3.960,4.025
+2023-12-24,New York,Rochester,3.472,3.867,4.241,4.557
+2024-11-24,New York,Rochester,3.269,3.736,4.142,4.069
+2024-12-17,New York,Rochester,3.236,3.708,4.095,4.049
+2024-12-23,New York,Rochester,3.227,3.700,4.087,4.046
+2024-12-24,New York,Rochester,3.225,3.702,4.076,4.041
+2023-12-24,New York,Syracuse,3.386,3.807,4.207,4.466
+2024-11-24,New York,Syracuse,3.170,3.628,4.035,3.915
+2024-12-17,New York,Syracuse,3.144,3.614,3.990,3.901
+2024-12-23,New York,Syracuse,3.139,3.594,3.991,3.881
+2024-12-24,New York,Syracuse,3.140,3.611,3.978,3.889
+2023-12-24,New York,Utica-Rome,3.417,3.928,4.359,4.510
+2024-11-24,New York,Utica-Rome,3.326,3.821,4.251,3.833
+2024-12-17,New York,Utica-Rome,3.316,3.826,4.277,3.873
+2024-12-23,New York,Utica-Rome,3.297,3.811,4.235,3.847
+2024-12-24,New York,Utica-Rome,3.299,3.807,4.219,3.839
+2023-12-24,New York,Watertown-Fort Drum,3.243,3.646,4.086,4.473
+2024-11-24,New York,Watertown-Fort Drum,3.146,3.599,4.001,3.913
+2024-12-17,New York,Watertown-Fort Drum,3.125,3.573,3.938,3.894
+2024-12-23,New York,Watertown-Fort Drum,3.115,3.591,4.002,3.888
+2024-12-24,New York,Watertown-Fort Drum,3.121,3.579,4.003,3.883
+2023-12-24,New York,White Plains,3.522,4.186,4.546,4.597
+2024-11-24,New York,White Plains,3.252,3.906,4.263,3.982
+2024-12-17,New York,White Plains,3.235,3.878,4.233,3.972
+2024-12-23,New York,White Plains,3.224,3.845,4.240,3.959
+2024-12-24,New York,White Plains,3.224,3.845,4.239,3.977
+2023-12-24,North Carolina,Asheville,3.080,3.514,3.918,4.038
+2024-11-24,North Carolina,Asheville,2.901,3.356,3.715,3.508
+2024-12-17,North Carolina,Asheville,2.871,3.303,3.685,3.455
+2024-12-23,North Carolina,Asheville,2.850,3.264,3.662,3.461
+2024-12-24,North Carolina,Asheville,2.848,3.283,3.687,3.465
+2023-12-24,North Carolina,Burlington,2.938,3.368,3.751,3.924
+2024-11-24,North Carolina,Burlington,2.893,3.339,3.719,3.440
+2024-12-17,North Carolina,Burlington,2.848,3.313,3.688,3.448
+2024-12-23,North Carolina,Burlington,2.841,3.317,3.679,3.461
+2024-12-24,North Carolina,Burlington,2.878,3.381,3.751,3.454
+2023-12-24,North Carolina,Charlotte-Gastonia-Rock Hill (NC only),2.943,3.382,3.735,3.953
+2024-11-24,North Carolina,Charlotte-Gastonia-Rock Hill (NC only),2.913,3.355,3.716,3.412
+2024-12-17,North Carolina,Charlotte-Gastonia-Rock Hill (NC only),2.882,3.329,3.684,3.368
+2024-12-23,North Carolina,Charlotte-Gastonia-Rock Hill (NC only),2.873,3.315,3.670,3.404
+2024-12-24,North Carolina,Charlotte-Gastonia-Rock Hill (NC only),2.885,3.336,3.694,3.408
+2023-12-24,North Carolina,Durham-Chapel Hill,3.005,3.434,3.805,4.051
+2024-11-24,North Carolina,Durham-Chapel Hill,3.001,3.432,3.819,3.566
+2024-12-17,North Carolina,Durham-Chapel Hill,2.973,3.399,3.762,3.529
+2024-12-23,North Carolina,Durham-Chapel Hill,2.966,3.391,3.776,3.546
+2024-12-24,North Carolina,Durham-Chapel Hill,2.978,3.409,3.807,3.547
+2023-12-24,North Carolina,Fayetteville,2.929,3.338,3.739,3.789
+2024-11-24,North Carolina,Fayetteville,2.744,3.179,3.596,3.350
+2024-12-17,North Carolina,Fayetteville,2.838,3.243,3.655,3.366
+2024-12-23,North Carolina,Fayetteville,2.814,3.263,3.647,3.395
+2024-12-24,North Carolina,Fayetteville,2.851,3.308,3.701,3.381
+2023-12-24,North Carolina,Goldsboro,2.942,3.463,3.847,4.048
+2024-11-24,North Carolina,Goldsboro,2.780,3.255,3.662,3.348
+2024-12-17,North Carolina,Goldsboro,2.821,3.296,3.697,3.283
+2024-12-23,North Carolina,Goldsboro,2.787,3.279,3.664,3.334
+2024-12-24,North Carolina,Goldsboro,2.869,3.362,3.750,3.348
+2023-12-24,North Carolina,Greensboro,2.954,3.377,3.759,3.951
+2024-11-24,North Carolina,Greensboro,2.894,3.355,3.750,3.449
+2024-12-17,North Carolina,Greensboro,2.857,3.309,3.693,3.418
+2024-12-23,North Carolina,Greensboro,2.850,3.300,3.697,3.432
+2024-12-24,North Carolina,Greensboro,2.875,3.331,3.738,3.427
+2023-12-24,North Carolina,Hickory-Lenoir-Morganton,2.904,3.321,3.712,3.880
+2024-11-24,North Carolina,Hickory-Lenoir-Morganton,2.784,3.229,3.613,3.355
+2024-12-17,North Carolina,Hickory-Lenoir-Morganton,2.764,3.199,3.591,3.347
+2024-12-23,North Carolina,Hickory-Lenoir-Morganton,2.764,3.208,3.597,3.347
+2024-12-24,North Carolina,Hickory-Lenoir-Morganton,2.771,3.224,3.611,3.336
+2023-12-24,North Carolina,Jacksonville,2.930,3.323,3.736,3.881
+2024-11-24,North Carolina,Jacksonville,2.745,3.150,3.539,3.330
+2024-12-17,North Carolina,Jacksonville,2.751,3.149,3.558,3.241
+2024-12-23,North Carolina,Jacksonville,2.751,3.134,3.532,3.315
+2024-12-24,North Carolina,Jacksonville,2.803,3.204,3.612,3.327
+2023-12-24,North Carolina,New Bern,2.868,3.295,3.699,3.908
+2024-11-24,North Carolina,New Bern,2.784,3.178,3.587,3.334
+2024-12-17,North Carolina,New Bern,2.772,3.164,3.575,3.286
+2024-12-23,North Carolina,New Bern,2.783,3.207,3.602,3.296
+2024-12-24,North Carolina,New Bern,2.808,3.239,3.631,3.297
+2023-12-24,North Carolina,Norfolk-Virginia Beach-Newport News,3.003,3.437,3.814,3.859
+2024-11-24,North Carolina,Norfolk-Virginia Beach-Newport News,2.888,3.357,3.613,3.333
+2024-12-17,North Carolina,Norfolk-Virginia Beach-Newport News,2.862,3.241,3.656,3.310
+2024-12-23,North Carolina,Norfolk-Virginia Beach-Newport News,2.824,3.175,3.612,3.322
+2024-12-24,North Carolina,Norfolk-Virginia Beach-Newport News,2.877,3.268,3.655,3.320
+2023-12-24,North Carolina,Raleigh,2.981,3.388,3.749,3.973
+2024-11-24,North Carolina,Raleigh,2.913,3.354,3.714,3.519
+2024-12-17,North Carolina,Raleigh,2.889,3.327,3.682,3.486
+2024-12-23,North Carolina,Raleigh,2.877,3.301,3.667,3.494
+2024-12-24,North Carolina,Raleigh,2.908,3.330,3.693,3.505
+2023-12-24,North Carolina,Rocky Mount,2.924,3.338,3.708,3.850
+2024-11-24,North Carolina,Rocky Mount,2.786,3.223,3.598,3.353
+2024-12-17,North Carolina,Rocky Mount,2.856,3.282,3.668,3.347
+2024-12-23,North Carolina,Rocky Mount,2.811,3.212,3.612,3.340
+2024-12-24,North Carolina,Rocky Mount,2.855,3.283,3.670,3.330
+2023-12-24,North Carolina,Wilmington,2.954,3.417,3.750,3.983
+2024-11-24,North Carolina,Wilmington,2.810,3.246,3.688,3.428
+2024-12-17,North Carolina,Wilmington,2.834,3.264,3.684,3.368
+2024-12-23,North Carolina,Wilmington,2.808,3.230,3.684,3.367
+2024-12-24,North Carolina,Wilmington,2.845,3.288,3.723,3.363
+2023-12-24,North Carolina,Winston-Salem,2.950,3.392,3.765,3.943
+2024-11-24,North Carolina,Winston-Salem,2.839,3.302,3.681,3.378
+2024-12-17,North Carolina,Winston-Salem,2.830,3.298,3.697,3.379
+2024-12-23,North Carolina,Winston-Salem,2.843,3.318,3.708,3.390
+2024-12-24,North Carolina,Winston-Salem,2.885,3.366,3.746,3.384
+2023-12-24,North Dakota,Bismarck,2.939,3.153,3.629,3.719
+2024-11-24,North Dakota,Bismarck,2.931,3.253,3.690,3.582
+2024-12-17,North Dakota,Bismarck,2.871,3.106,3.554,3.516
+2024-12-23,North Dakota,Bismarck,2.921,3.219,3.504,3.475
+2024-12-24,North Dakota,Bismarck,2.893,3.248,3.542,3.509
+2023-12-24,North Dakota,Fargo-Moorhead (ND only),2.846,3.110,3.550,3.920
+2024-11-24,North Dakota,Fargo-Moorhead (ND only),2.709,3.032,3.459,3.333
+2024-12-17,North Dakota,Fargo-Moorhead (ND only),2.701,3.095,3.471,3.311
+2024-12-23,North Dakota,Fargo-Moorhead (ND only),2.744,3.106,3.511,3.301
+2024-12-24,North Dakota,Fargo-Moorhead (ND only),2.748,3.075,3.490,3.311
+2023-12-24,North Dakota,Grand Forks (ND only),2.646,2.826,3.140,3.904
+2024-11-24,North Dakota,Grand Forks (ND only),2.739,3.025,3.417,3.462
+2024-12-17,North Dakota,Grand Forks (ND only),2.700,2.985,3.297,3.443
+2024-12-23,North Dakota,Grand Forks (ND only),2.727,3.012,3.351,3.430
+2024-12-24,North Dakota,Grand Forks (ND only),2.707,3.038,3.288,3.464
+2023-12-24,North Dakota,Minot,2.815,3.123,3.605,3.833
+2024-11-24,North Dakota,Minot,2.912,3.206,3.573,3.501
+2024-12-17,North Dakota,Minot,2.889,3.202,3.455,3.381
+2024-12-23,North Dakota,Minot,2.887,3.221,3.498,3.321
+2024-12-24,North Dakota,Minot,2.876,3.154,3.455,3.393
+2023-12-24,Ohio,Akron,2.849,3.293,3.725,3.912
+2024-11-24,Ohio,Akron,2.837,3.360,3.865,3.473
+2024-12-17,Ohio,Akron,2.993,3.514,4.020,3.436
+2024-12-23,Ohio,Akron,3.123,3.631,4.135,3.428
+2024-12-24,Ohio,Akron,3.074,3.584,4.087,3.421
+2023-12-24,Ohio,Belmont County,2.862,3.285,3.733,3.837
+2024-11-24,Ohio,Belmont County,2.913,3.392,3.940,3.526
+2024-12-17,Ohio,Belmont County,2.977,3.538,4.048,3.542
+2024-12-23,Ohio,Belmont County,2.981,3.491,4.019,3.544
+2024-12-24,Ohio,Belmont County,2.966,3.516,4.024,3.539
+2023-12-24,Ohio,Canton-Massillon,2.847,3.288,3.736,3.797
+2024-11-24,Ohio,Canton-Massillon,2.814,3.337,3.850,3.469
+2024-12-17,Ohio,Canton-Massillon,3.012,3.534,4.050,3.480
+2024-12-23,Ohio,Canton-Massillon,3.124,3.651,4.161,3.441
+2024-12-24,Ohio,Canton-Massillon,3.076,3.600,4.122,3.437
+2023-12-24,Ohio,Cincinnati (OH only),2.925,3.417,3.912,4.153
+2024-11-24,Ohio,Cincinnati (OH only),2.806,3.350,3.882,3.513
+2024-12-17,Ohio,Cincinnati (OH only),3.016,3.561,4.091,3.515
+2024-12-23,Ohio,Cincinnati (OH only),3.116,3.654,4.179,3.503
+2024-12-24,Ohio,Cincinnati (OH only),3.075,3.618,4.146,3.503
+2023-12-24,Ohio,Cleveland-Lorain-Elyria,2.840,3.380,3.849,4.052
+2024-11-24,Ohio,Cleveland-Lorain-Elyria,2.883,3.453,3.986,3.623
+2024-12-17,Ohio,Cleveland-Lorain-Elyria,3.023,3.596,4.115,3.615
+2024-12-23,Ohio,Cleveland-Lorain-Elyria,3.104,3.678,4.205,3.590
+2024-12-24,Ohio,Cleveland-Lorain-Elyria,3.073,3.659,4.175,3.582
+2023-12-24,Ohio,Columbus,2.937,3.409,3.854,4.025
+2024-11-24,Ohio,Columbus,2.890,3.432,3.961,3.622
+2024-12-17,Ohio,Columbus,3.071,3.609,4.135,3.619
+2024-12-23,Ohio,Columbus,3.182,3.717,4.242,3.607
+2024-12-24,Ohio,Columbus,3.152,3.692,4.211,3.601
+2023-12-24,Ohio,Dayton,2.919,3.437,3.893,4.024
+2024-11-24,Ohio,Dayton,2.815,3.370,3.888,3.385
+2024-12-17,Ohio,Dayton,2.990,3.547,4.064,3.454
+2024-12-23,Ohio,Dayton,3.094,3.657,4.196,3.435
+2024-12-24,Ohio,Dayton,3.059,3.623,4.158,3.435
+2023-12-24,Ohio,Lawerence County,2.933,3.438,3.969,4.096
+2024-11-24,Ohio,Lawerence County,2.828,3.414,3.943,3.563
+2024-12-17,Ohio,Lawerence County,2.885,3.492,4.083,3.632
+2024-12-23,Ohio,Lawerence County,3.105,3.707,4.261,3.608
+2024-12-24,Ohio,Lawerence County,3.056,3.662,4.223,3.606
+2023-12-24,Ohio,Lima,2.938,3.387,3.889,3.802
+2024-11-24,Ohio,Lima,2.726,3.317,3.808,3.395
+2024-12-17,Ohio,Lima,2.942,3.494,4.039,3.380
+2024-12-23,Ohio,Lima,3.069,3.630,4.187,3.366
+2024-12-24,Ohio,Lima,3.022,3.598,4.154,3.344
+2023-12-24,Ohio,Mansfield,2.850,3.320,3.792,3.885
+2024-11-24,Ohio,Mansfield,2.847,3.425,3.973,3.530
+2024-12-17,Ohio,Mansfield,3.029,3.616,4.174,3.498
+2024-12-23,Ohio,Mansfield,3.141,3.727,4.277,3.491
+2024-12-24,Ohio,Mansfield,3.106,3.685,4.248,3.511
+2023-12-24,Ohio,Springfield,2.939,3.381,3.844,3.890
+2024-11-24,Ohio,Springfield,2.841,3.411,3.903,3.328
+2024-12-17,Ohio,Springfield,2.996,3.555,4.062,3.395
+2024-12-23,Ohio,Springfield,3.124,3.693,4.202,3.370
+2024-12-24,Ohio,Springfield,3.093,3.664,4.189,3.407
+2023-12-24,Ohio,Steubenville-Weirton (OH only),2.869,3.308,3.766,4.068
+2024-11-24,Ohio,Steubenville-Weirton (OH only),2.919,3.399,3.923,3.550
+2024-12-17,Ohio,Steubenville-Weirton (OH only),3.033,3.572,4.050,3.614
+2024-12-23,Ohio,Steubenville-Weirton (OH only),3.133,3.653,4.172,3.583
+2024-12-24,Ohio,Steubenville-Weirton (OH only),3.122,3.679,4.153,3.582
+2023-12-24,Ohio,Toledo,2.909,3.370,3.814,3.955
+2024-11-24,Ohio,Toledo,2.793,3.327,3.872,3.432
+2024-12-17,Ohio,Toledo,2.948,3.499,4.014,3.482
+2024-12-23,Ohio,Toledo,3.068,3.619,4.145,3.459
+2024-12-24,Ohio,Toledo,3.014,3.550,4.118,3.464
+2023-12-24,Ohio,Youngstown-Warren,2.813,3.309,3.758,3.946
+2024-11-24,Ohio,Youngstown-Warren,2.843,3.410,3.929,3.603
+2024-12-17,Ohio,Youngstown-Warren,2.935,3.498,4.000,3.568
+2024-12-23,Ohio,Youngstown-Warren,3.031,3.587,4.097,3.568
+2024-12-24,Ohio,Youngstown-Warren,2.994,3.567,4.077,3.563
+2023-12-24,Oklahoma,Lawton,4.810,4.421,5.111,3.452
+2024-11-24,Oklahoma,Lawton,2.372,2.718,2.928,2.908
+2024-12-17,Oklahoma,Lawton,2.444,2.842,3.136,2.947
+2024-12-23,Oklahoma,Lawton,2.447,2.802,3.116,2.967
+2024-12-24,Oklahoma,Lawton,2.467,2.846,3.139,2.996
+2023-12-24,Oklahoma,Le Flore-Sequoyah,2.675,3.075,3.373,3.793
+2024-11-24,Oklahoma,Le Flore-Sequoyah,2.746,3.047,3.355,3.200
+2024-12-17,Oklahoma,Le Flore-Sequoyah,2.695,3.017,3.393,3.172
+2024-12-23,Oklahoma,Le Flore-Sequoyah,2.698,2.995,3.400,3.155
+2024-12-24,Oklahoma,Le Flore-Sequoyah,2.685,2.997,3.401,3.166
+2023-12-24,Oklahoma,Oklahoma City,2.666,3.056,3.315,3.562
+2024-11-24,Oklahoma,Oklahoma City,2.445,2.872,3.107,2.904
+2024-12-17,Oklahoma,Oklahoma City,2.474,2.916,3.181,2.869
+2024-12-23,Oklahoma,Oklahoma City,2.415,2.834,3.100,2.887
+2024-12-24,Oklahoma,Oklahoma City,2.437,2.869,3.119,2.896
+2023-12-24,Oklahoma,Tulsa,2.554,2.799,3.048,3.403
+2024-11-24,Oklahoma,Tulsa,2.553,2.803,3.030,3.089
+2024-12-17,Oklahoma,Tulsa,2.563,2.847,3.135,3.049
+2024-12-23,Oklahoma,Tulsa,2.675,2.982,3.252,3.037
+2024-12-24,Oklahoma,Tulsa,2.674,2.984,3.265,3.038
+2023-12-24,Oregon,Albany,3.502,3.547,3.939,3.984
+2024-11-24,Oregon,Albany,3.333,3.527,3.800,3.702
+2024-12-17,Oregon,Albany,3.266,3.454,3.748,3.580
+2024-12-23,Oregon,Albany,3.231,3.316,3.555,3.561
+2024-12-24,Oregon,Albany,3.237,3.428,3.683,3.541
+2023-12-24,Oregon,Bend,3.708,3.846,4.124,4.245
+2024-11-24,Oregon,Bend,3.397,3.481,3.688,3.739
+2024-12-17,Oregon,Bend,3.271,3.405,3.712,3.696
+2024-12-23,Oregon,Bend,3.233,3.398,3.570,3.653
+2024-12-24,Oregon,Bend,3.229,3.355,3.583,3.618
+2023-12-24,Oregon,Corvallis,3.441,3.630,3.784,4.039
+2024-11-24,Oregon,Corvallis,3.290,3.482,3.578,3.679
+2024-12-17,Oregon,Corvallis,3.234,3.411,3.529,3.670
+2024-12-23,Oregon,Corvallis,3.120,3.365,3.524,3.573
+2024-12-24,Oregon,Corvallis,3.160,3.338,3.456,3.523
+2023-12-24,Oregon,Eugene-Springfield,3.544,3.697,3.940,4.161
+2024-11-24,Oregon,Eugene-Springfield,3.367,3.572,3.780,3.744
+2024-12-17,Oregon,Eugene-Springfield,3.310,3.548,3.747,3.701
+2024-12-23,Oregon,Eugene-Springfield,3.312,3.499,3.733,3.699
+2024-12-24,Oregon,Eugene-Springfield,3.319,3.520,3.741,3.684
+2023-12-24,Oregon,Grants Pass,3.935,4.076,4.216,4.481
+2024-11-24,Oregon,Grants Pass,3.715,3.906,4.159,3.942
+2024-12-17,Oregon,Grants Pass,3.648,3.723,4.073,3.827
+2024-12-23,Oregon,Grants Pass,3.623,3.776,3.941,3.873
+2024-12-24,Oregon,Grants Pass,3.635,3.671,3.832,3.842
+2023-12-24,Oregon,Medford-Ashland,3.752,3.936,4.166,4.259
+2024-11-24,Oregon,Medford-Ashland,3.643,3.941,4.100,3.866
+2024-12-17,Oregon,Medford-Ashland,3.470,3.657,3.869,3.699
+2024-12-23,Oregon,Medford-Ashland,3.483,3.629,3.906,3.652
+2024-12-24,Oregon,Medford-Ashland,3.502,3.713,3.934,3.676
+2023-12-24,Oregon,Pendleton,3.556,3.811,4.089,4.045
+2024-11-24,Oregon,Pendleton,3.409,3.646,3.984,3.601
+2024-12-17,Oregon,Pendleton,3.229,3.523,3.840,3.544
+2024-12-23,Oregon,Pendleton,3.241,3.491,3.861,3.462
+2024-12-24,Oregon,Pendleton,3.230,3.460,3.856,3.509
+2023-12-24,Oregon,Portland-Vancouver (OR only),4.033,4.268,4.462,4.656
+2024-11-24,Oregon,Portland-Vancouver (OR only),3.710,3.944,4.184,3.963
+2024-12-17,Oregon,Portland-Vancouver (OR only),3.639,3.909,4.127,3.916
+2024-12-23,Oregon,Portland-Vancouver (OR only),3.631,3.858,4.096,3.903
+2024-12-24,Oregon,Portland-Vancouver (OR only),3.626,3.864,4.105,3.905
+2023-12-24,Oregon,Salem,3.659,3.840,4.047,4.343
+2024-11-24,Oregon,Salem,3.440,3.637,3.909,3.928
+2024-12-17,Oregon,Salem,3.370,3.601,3.861,3.897
+2024-12-23,Oregon,Salem,3.310,3.510,3.757,3.825
+2024-12-24,Oregon,Salem,3.332,3.526,3.781,3.853
+2023-12-24,Pennsylvania,Allentown-Bethlehem-Easton,3.328,3.770,4.100,4.530
+2024-11-24,Pennsylvania,Allentown-Bethlehem-Easton,3.123,3.574,3.930,3.821
+2024-12-17,Pennsylvania,Allentown-Bethlehem-Easton,3.086,3.549,3.908,3.781
+2024-12-23,Pennsylvania,Allentown-Bethlehem-Easton,3.078,3.538,3.894,3.776
+2024-12-24,Pennsylvania,Allentown-Bethlehem-Easton,3.102,3.569,3.927,3.770
+2023-12-24,Pennsylvania,Altoona,3.248,3.573,3.867,4.592
+2024-11-24,Pennsylvania,Altoona,3.379,3.800,4.192,4.001
+2024-12-17,Pennsylvania,Altoona,3.346,3.766,4.165,3.978
+2024-12-23,Pennsylvania,Altoona,3.330,3.751,4.140,3.985
+2024-12-24,Pennsylvania,Altoona,3.348,3.774,4.158,3.991
+2023-12-24,Pennsylvania,Bloomsburg-Berwick,3.398,3.797,4.150,4.368
+2024-11-24,Pennsylvania,Bloomsburg-Berwick,3.125,3.512,3.898,3.902
+2024-12-17,Pennsylvania,Bloomsburg-Berwick,3.100,3.454,3.883,3.829
+2024-12-23,Pennsylvania,Bloomsburg-Berwick,3.099,3.525,3.880,3.850
+2024-12-24,Pennsylvania,Bloomsburg-Berwick,3.141,3.576,3.960,3.833
+2023-12-24,Pennsylvania,Chambersburg-Waynesboro,3.495,3.810,4.148,4.454
+2024-11-24,Pennsylvania,Chambersburg-Waynesboro,3.313,3.719,4.131,4.082
+2024-12-17,Pennsylvania,Chambersburg-Waynesboro,3.269,3.677,4.095,4.061
+2024-12-23,Pennsylvania,Chambersburg-Waynesboro,3.264,3.727,4.109,4.091
+2024-12-24,Pennsylvania,Chambersburg-Waynesboro,3.282,3.703,4.114,4.068
+2023-12-24,Pennsylvania,East Stroudsburg,3.347,3.872,4.224,4.600
+2024-11-24,Pennsylvania,East Stroudsburg,3.138,3.622,3.939,3.798
+2024-12-17,Pennsylvania,East Stroudsburg,3.082,3.618,3.916,3.763
+2024-12-23,Pennsylvania,East Stroudsburg,3.077,3.598,3.946,3.773
+2024-12-24,Pennsylvania,East Stroudsburg,3.100,3.603,3.955,3.764
+2023-12-24,Pennsylvania,Erie,3.358,3.674,4.008,4.628
+2024-11-24,Pennsylvania,Erie,3.342,3.717,4.120,4.307
+2024-12-17,Pennsylvania,Erie,3.385,3.778,4.184,4.179
+2024-12-23,Pennsylvania,Erie,3.365,3.786,4.165,4.191
+2024-12-24,Pennsylvania,Erie,3.345,3.732,4.115,4.164
+2023-12-24,Pennsylvania,Gettysburg,3.497,3.865,4.161,4.566
+2024-11-24,Pennsylvania,Gettysburg,3.324,3.795,4.151,4.124
+2024-12-17,Pennsylvania,Gettysburg,3.262,3.786,4.112,3.986
+2024-12-23,Pennsylvania,Gettysburg,3.245,3.734,4.097,3.966
+2024-12-24,Pennsylvania,Gettysburg,3.254,3.748,4.125,3.964
+2023-12-24,Pennsylvania,Harrisburg,3.445,3.786,4.128,4.597
+2024-11-24,Pennsylvania,Harrisburg,3.207,3.631,3.990,4.092
+2024-12-17,Pennsylvania,Harrisburg,3.201,3.635,4.018,4.052
+2024-12-23,Pennsylvania,Harrisburg,3.198,3.643,4.022,4.065
+2024-12-24,Pennsylvania,Harrisburg,3.220,3.673,4.026,4.064
+2023-12-24,Pennsylvania,Johnstown,3.312,3.609,3.914,4.614
+2024-11-24,Pennsylvania,Johnstown,3.421,3.824,4.196,4.175
+2024-12-17,Pennsylvania,Johnstown,3.409,3.794,4.167,4.146
+2024-12-23,Pennsylvania,Johnstown,3.371,3.782,4.155,4.187
+2024-12-24,Pennsylvania,Johnstown,3.369,3.764,4.147,4.206
+2023-12-24,Pennsylvania,Lancaster,3.399,3.745,4.056,4.519
+2024-11-24,Pennsylvania,Lancaster,3.193,3.602,3.937,3.925
+2024-12-17,Pennsylvania,Lancaster,3.186,3.592,3.941,3.894
+2024-12-23,Pennsylvania,Lancaster,3.193,3.610,3.962,3.877
+2024-12-24,Pennsylvania,Lancaster,3.217,3.631,3.981,3.889
+2023-12-24,Pennsylvania,Lebanon,3.432,3.853,4.184,4.552
+2024-11-24,Pennsylvania,Lebanon,3.203,3.613,4.028,3.985
+2024-12-17,Pennsylvania,Lebanon,3.221,3.687,4.092,3.966
+2024-12-23,Pennsylvania,Lebanon,3.231,3.668,4.078,3.972
+2024-12-24,Pennsylvania,Lebanon,3.244,3.679,4.072,3.960
+2023-12-24,Pennsylvania,Mercer County,3.400,3.767,4.103,4.492
+2024-11-24,Pennsylvania,Mercer County,3.217,3.664,4.052,4.122
+2024-12-17,Pennsylvania,Mercer County,3.397,3.833,4.218,4.084
+2024-12-23,Pennsylvania,Mercer County,3.365,3.816,4.180,4.082
+2024-12-24,Pennsylvania,Mercer County,3.332,3.826,4.194,4.087
+2023-12-24,Pennsylvania,Philadelphia (PA only),3.409,3.907,4.167,4.519
+2024-11-24,Pennsylvania,Philadelphia (PA only),3.155,3.643,3.904,3.808
+2024-12-17,Pennsylvania,Philadelphia (PA only),3.059,3.554,3.805,3.726
+2024-12-23,Pennsylvania,Philadelphia (PA only),3.061,3.545,3.820,3.728
+2024-12-24,Pennsylvania,Philadelphia (PA only),3.062,3.558,3.816,3.730
+2023-12-24,Pennsylvania,Pittsburgh,3.465,3.876,4.228,4.624
+2024-11-24,Pennsylvania,Pittsburgh,3.300,3.739,4.133,4.054
+2024-12-17,Pennsylvania,Pittsburgh,3.389,3.818,4.222,4.015
+2024-12-23,Pennsylvania,Pittsburgh,3.349,3.781,4.171,4.001
+2024-12-24,Pennsylvania,Pittsburgh,3.350,3.784,4.170,4.005
+2023-12-24,Pennsylvania,Reading,3.435,3.810,4.095,4.436
+2024-11-24,Pennsylvania,Reading,3.199,3.609,3.911,3.783
+2024-12-17,Pennsylvania,Reading,3.192,3.596,3.917,3.730
+2024-12-23,Pennsylvania,Reading,3.182,3.596,3.918,3.738
+2024-12-24,Pennsylvania,Reading,3.203,3.626,3.953,3.733
+2023-12-24,Pennsylvania,Scranton--Wilkes-Barre--Hazleton,3.437,3.837,4.205,4.643
+2024-11-24,Pennsylvania,Scranton--Wilkes-Barre--Hazleton,3.242,3.647,4.014,4.027
+2024-12-17,Pennsylvania,Scranton--Wilkes-Barre--Hazleton,3.191,3.616,3.991,3.994
+2024-12-23,Pennsylvania,Scranton--Wilkes-Barre--Hazleton,3.175,3.601,3.995,3.979
+2024-12-24,Pennsylvania,Scranton--Wilkes-Barre--Hazleton,3.188,3.607,3.986,3.988
+2023-12-24,Pennsylvania,State College,3.449,3.784,4.158,4.589
+2024-11-24,Pennsylvania,State College,3.400,3.780,4.138,4.197
+2024-12-17,Pennsylvania,State College,3.361,3.744,4.156,4.203
+2024-12-23,Pennsylvania,State College,3.316,3.712,4.096,4.197
+2024-12-24,Pennsylvania,State College,3.306,3.739,4.097,4.181
+2023-12-24,Pennsylvania,Williamsport,3.465,3.865,4.148,4.581
+2024-11-24,Pennsylvania,Williamsport,3.213,3.669,4.021,4.173
+2024-12-17,Pennsylvania,Williamsport,3.181,3.590,3.975,4.123
+2024-12-23,Pennsylvania,Williamsport,3.152,3.629,3.963,4.151
+2024-12-24,Pennsylvania,Williamsport,3.179,3.667,4.008,4.138
+2023-12-24,Pennsylvania,York,3.477,3.798,4.101,4.629
+2024-11-24,Pennsylvania,York,3.376,3.793,4.162,4.060
+2024-12-17,Pennsylvania,York,3.250,3.672,4.055,3.998
+2024-12-23,Pennsylvania,York,3.207,3.620,4.008,3.990
+2024-12-24,Pennsylvania,York,3.210,3.628,4.009,3.996
+2023-12-24,Rhode Island,Providence-Fall River-Warwick (RI only),3.125,3.767,4.119,4.268
+2024-11-24,Rhode Island,Providence-Fall River-Warwick (RI only),2.939,3.627,3.971,3.705
+2024-12-17,Rhode Island,Providence-Fall River-Warwick (RI only),2.944,3.629,3.962,3.693
+2024-12-23,Rhode Island,Providence-Fall River-Warwick (RI only),2.942,3.625,3.961,3.700
+2024-12-24,Rhode Island,Providence-Fall River-Warwick (RI only),2.950,3.628,3.978,3.693
+2023-12-24,South Carolina,Aiken-Edgfield County,2.884,3.388,3.747,3.800
+2024-11-24,South Carolina,Aiken-Edgfield County,2.791,3.248,3.620,3.315
+2024-12-17,South Carolina,Aiken-Edgfield County,2.794,3.264,3.650,3.293
+2024-12-23,South Carolina,Aiken-Edgfield County,2.788,3.263,3.636,3.297
+2024-12-24,South Carolina,Aiken-Edgfield County,2.788,3.256,3.628,3.301
+2023-12-24,South Carolina,Charleston-North Charleston,2.874,3.296,3.669,3.811
+2024-11-24,South Carolina,Charleston-North Charleston,2.743,3.171,3.551,3.321
+2024-12-17,South Carolina,Charleston-North Charleston,2.819,3.262,3.635,3.283
+2024-12-23,South Carolina,Charleston-North Charleston,2.803,3.236,3.613,3.305
+2024-12-24,South Carolina,Charleston-North Charleston,2.793,3.231,3.596,3.324
+2023-12-24,South Carolina,Columbia,2.892,3.364,3.712,3.817
+2024-11-24,South Carolina,Columbia,2.795,3.243,3.628,3.315
+2024-12-17,South Carolina,Columbia,2.809,3.258,3.646,3.241
+2024-12-23,South Carolina,Columbia,2.772,3.204,3.590,3.249
+2024-12-24,South Carolina,Columbia,2.777,3.217,3.600,3.273
+2023-12-24,South Carolina,Florence,2.878,3.260,3.699,3.870
+2024-11-24,South Carolina,Florence,2.696,3.137,3.580,3.386
+2024-12-17,South Carolina,Florence,2.733,3.172,3.571,3.354
+2024-12-23,South Carolina,Florence,2.731,3.144,3.603,3.315
+2024-12-24,South Carolina,Florence,2.724,3.159,3.589,3.359
+2023-12-24,South Carolina,Greenville,2.842,3.191,3.481,3.768
+2024-11-24,South Carolina,Greenville,2.803,3.199,3.520,3.214
+2024-12-17,South Carolina,Greenville,2.686,3.080,3.385,3.115
+2024-12-23,South Carolina,Greenville,2.695,3.055,3.369,3.202
+2024-12-24,South Carolina,Greenville,2.729,3.118,3.448,3.212
+2023-12-24,South Carolina,Hilton Head-Bluffton,2.971,3.418,3.780,3.923
+2024-11-24,South Carolina,Hilton Head-Bluffton,2.806,3.244,3.692,3.398
+2024-12-17,South Carolina,Hilton Head-Bluffton,2.818,3.290,3.690,3.351
+2024-12-23,South Carolina,Hilton Head-Bluffton,2.788,3.243,3.627,3.345
+2024-12-24,South Carolina,Hilton Head-Bluffton,2.776,3.243,3.625,3.338
+2023-12-24,South Carolina,Myrtle Beach,2.838,3.273,3.646,3.752
+2024-11-24,South Carolina,Myrtle Beach,2.655,3.068,3.457,3.248
+2024-12-17,South Carolina,Myrtle Beach,2.768,3.238,3.640,3.228
+2024-12-23,South Carolina,Myrtle Beach,2.726,3.171,3.543,3.284
+2024-12-24,South Carolina,Myrtle Beach,2.718,3.159,3.547,3.278
+2023-12-24,South Carolina,Rock Hill,2.838,3.237,3.598,3.814
+2024-11-24,South Carolina,Rock Hill,2.803,3.216,3.561,3.338
+2024-12-17,South Carolina,Rock Hill,2.779,3.219,3.544,3.317
+2024-12-23,South Carolina,Rock Hill,2.772,3.181,3.502,3.334
+2024-12-24,South Carolina,Rock Hill,2.771,3.223,3.531,3.348
+2023-12-24,South Carolina,Spartanburg,2.845,3.264,3.620,3.828
+2024-11-24,South Carolina,Spartanburg,2.818,3.268,3.622,3.308
+2024-12-17,South Carolina,Spartanburg,2.699,3.152,3.466,3.232
+2024-12-23,South Carolina,Spartanburg,2.698,3.094,3.442,3.261
+2024-12-24,South Carolina,Spartanburg,2.732,3.197,3.531,3.272
+2023-12-24,South Carolina,Sumter,2.841,3.330,3.728,3.728
+2024-11-24,South Carolina,Sumter,2.788,3.200,3.602,3.332
+2024-12-17,South Carolina,Sumter,2.769,3.194,3.607,3.289
+2024-12-23,South Carolina,Sumter,2.761,3.133,3.478,3.326
+2024-12-24,South Carolina,Sumter,2.757,3.168,3.563,3.338
+2023-12-24,South Dakota,North Sioux City,2.895,3.004,3.789,3.321
+2024-11-24,South Dakota,North Sioux City,2.707,2.872,3.326,3.027
+2024-12-17,South Dakota,North Sioux City,2.713,2.872,3.430,3.011
+2024-12-23,South Dakota,North Sioux City,2.677,2.909,3.404,3.039
+2024-12-24,South Dakota,North Sioux City,2.699,2.842,3.511,3.059
+2023-12-24,South Dakota,Rapid City,3.213,3.292,3.760,4.027
+2024-11-24,South Dakota,Rapid City,3.081,3.213,3.672,3.440
+2024-12-17,South Dakota,Rapid City,2.960,3.121,3.566,3.385
+2024-12-23,South Dakota,Rapid City,3.027,3.175,3.646,3.408
+2024-12-24,South Dakota,Rapid City,3.019,3.167,3.637,3.406
+2023-12-24,South Dakota,Sioux Falls,2.829,3.145,3.665,3.694
+2024-11-24,South Dakota,Sioux Falls,2.659,3.044,3.458,3.041
+2024-12-17,South Dakota,Sioux Falls,2.632,3.051,3.465,2.977
+2024-12-23,South Dakota,Sioux Falls,2.599,3.061,3.438,2.979
+2024-12-24,South Dakota,Sioux Falls,2.607,3.039,3.435,2.992
+2023-12-24,Tennessee,Chattanooga (TN only),2.741,3.111,3.443,3.564
+2024-11-24,Tennessee,Chattanooga (TN only),2.674,3.058,3.427,3.111
+2024-12-17,Tennessee,Chattanooga (TN only),2.651,3.049,3.413,3.054
+2024-12-23,Tennessee,Chattanooga (TN only),2.670,3.073,3.437,3.054
+2024-12-24,Tennessee,Chattanooga (TN only),2.654,3.073,3.409,3.057
+2023-12-24,Tennessee,Clarksville-Hopkinsville (TN only),2.779,3.194,3.480,3.752
+2024-11-24,Tennessee,Clarksville-Hopkinsville (TN only),2.692,3.071,3.467,3.278
+2024-12-17,Tennessee,Clarksville-Hopkinsville (TN only),2.619,3.016,3.351,3.172
+2024-12-23,Tennessee,Clarksville-Hopkinsville (TN only),2.650,3.015,3.356,3.169
+2024-12-24,Tennessee,Clarksville-Hopkinsville (TN only),2.621,3.016,3.352,3.174
+2023-12-24,Tennessee,Cleveland,2.790,3.190,3.558,3.837
+2024-11-24,Tennessee,Cleveland,2.699,3.113,3.477,3.280
+2024-12-17,Tennessee,Cleveland,2.678,3.120,3.539,3.218
+2024-12-23,Tennessee,Cleveland,2.728,3.118,3.516,3.216
+2024-12-24,Tennessee,Cleveland,2.714,3.091,3.491,3.222
+2023-12-24,Tennessee,Jackson,2.866,3.307,3.752,3.867
+2024-11-24,Tennessee,Jackson,2.753,3.291,3.558,3.586
+2024-12-17,Tennessee,Jackson,2.740,3.280,3.584,3.451
+2024-12-23,Tennessee,Jackson,2.738,3.178,3.541,3.441
+2024-12-24,Tennessee,Jackson,2.744,3.243,3.560,3.518
+2023-12-24,Tennessee,Johnson City,2.773,3.185,3.583,3.845
+2024-11-24,Tennessee,Johnson City,2.769,3.181,3.561,3.316
+2024-12-17,Tennessee,Johnson City,2.712,3.127,3.505,3.315
+2024-12-23,Tennessee,Johnson City,2.696,3.064,3.444,3.300
+2024-12-24,Tennessee,Johnson City,2.696,3.102,3.483,3.306
+2023-12-24,Tennessee,Kingsport-Bristol,2.799,3.203,3.573,3.882
+2024-11-24,Tennessee,Kingsport-Bristol,2.688,3.078,3.481,3.296
+2024-12-17,Tennessee,Kingsport-Bristol,2.630,3.027,3.432,3.300
+2024-12-23,Tennessee,Kingsport-Bristol,2.632,3.025,3.422,3.295
+2024-12-24,Tennessee,Kingsport-Bristol,2.621,3.022,3.430,3.307
+2023-12-24,Tennessee,Knoxville,2.765,3.122,3.497,3.720
+2024-11-24,Tennessee,Knoxville,2.658,3.030,3.429,3.219
+2024-12-17,Tennessee,Knoxville,2.601,2.978,3.364,3.185
+2024-12-23,Tennessee,Knoxville,2.596,2.964,3.357,3.162
+2024-12-24,Tennessee,Knoxville,2.594,2.983,3.368,3.167
+2023-12-24,Tennessee,Memphis (TN only),2.838,3.296,3.661,3.977
+2024-11-24,Tennessee,Memphis (TN only),2.756,3.249,3.646,3.411
+2024-12-17,Tennessee,Memphis (TN only),2.703,3.194,3.540,3.363
+2024-12-23,Tennessee,Memphis (TN only),2.725,3.230,3.591,3.395
+2024-12-24,Tennessee,Memphis (TN only),2.717,3.230,3.604,3.389
+2023-12-24,Tennessee,Morristown,2.801,3.165,3.570,3.835
+2024-11-24,Tennessee,Morristown,2.637,3.010,3.427,3.294
+2024-12-17,Tennessee,Morristown,2.601,2.971,3.432,3.234
+2024-12-23,Tennessee,Morristown,2.602,2.915,3.367,3.238
+2024-12-24,Tennessee,Morristown,2.606,2.950,3.395,3.234
+2023-12-24,Tennessee,Nashville,2.863,3.286,3.675,3.777
+2024-11-24,Tennessee,Nashville,2.761,3.212,3.596,3.332
+2024-12-17,Tennessee,Nashville,2.780,3.224,3.611,3.297
+2024-12-23,Tennessee,Nashville,2.800,3.242,3.632,3.286
+2024-12-24,Tennessee,Nashville,2.790,3.230,3.622,3.298
+2023-12-24,Texas,Abilene,2.709,3.019,3.345,3.367
+2024-11-24,Texas,Abilene,2.673,2.985,3.278,3.041
+2024-12-17,Texas,Abilene,2.626,2.962,3.269,3.019
+2024-12-23,Texas,Abilene,2.571,2.865,3.184,3.018
+2024-12-24,Texas,Abilene,2.546,2.885,3.171,3.012
+2023-12-24,Texas,Amarillo,2.576,2.895,3.229,3.577
+2024-11-24,Texas,Amarillo,2.430,2.760,3.106,2.967
+2024-12-17,Texas,Amarillo,2.444,2.776,3.123,2.982
+2024-12-23,Texas,Amarillo,2.573,2.884,3.181,2.995
+2024-12-24,Texas,Amarillo,2.558,2.874,3.192,2.972
+2023-12-24,Texas,Austin-San Marcos,2.692,3.131,3.483,3.483
+2024-11-24,Texas,Austin-San Marcos,2.690,3.151,3.512,3.021
+2024-12-17,Texas,Austin-San Marcos,2.645,3.122,3.476,3.022
+2024-12-23,Texas,Austin-San Marcos,2.673,3.125,3.481,3.024
+2024-12-24,Texas,Austin-San Marcos,2.660,3.113,3.469,3.021
+2023-12-24,Texas,Beaumont-Port Arthur,2.619,3.075,3.494,3.489
+2024-11-24,Texas,Beaumont-Port Arthur,2.586,3.046,3.426,3.035
+2024-12-17,Texas,Beaumont-Port Arthur,2.582,3.072,3.436,3.018
+2024-12-23,Texas,Beaumont-Port Arthur,2.586,3.047,3.469,3.025
+2024-12-24,Texas,Beaumont-Port Arthur,2.583,3.062,3.443,3.023
+2023-12-24,Texas,Brownsville-Harlingen,2.622,2.988,3.288,3.394
+2024-11-24,Texas,Brownsville-Harlingen,2.604,3.038,3.395,3.141
+2024-12-17,Texas,Brownsville-Harlingen,2.601,3.047,3.461,3.187
+2024-12-23,Texas,Brownsville-Harlingen,2.603,3.036,3.398,3.171
+2024-12-24,Texas,Brownsville-Harlingen,2.585,3.009,3.369,3.166
+2023-12-24,Texas,College Station-Bryan,2.713,3.149,3.526,3.677
+2024-11-24,Texas,College Station-Bryan,2.637,3.104,3.480,3.091
+2024-12-17,Texas,College Station-Bryan,2.632,3.069,3.458,3.077
+2024-12-23,Texas,College Station-Bryan,2.617,3.012,3.439,3.068
+2024-12-24,Texas,College Station-Bryan,2.617,3.046,3.406,3.066
+2023-12-24,Texas,Corpus Christi,2.659,3.013,3.336,3.337
+2024-11-24,Texas,Corpus Christi,2.612,3.018,3.349,3.121
+2024-12-17,Texas,Corpus Christi,2.666,3.093,3.416,3.139
+2024-12-23,Texas,Corpus Christi,2.650,3.045,3.387,3.133
+2024-12-24,Texas,Corpus Christi,2.629,3.024,3.371,3.129
+2023-12-24,Texas,Dallas,2.741,3.122,3.439,3.449
+2024-11-24,Texas,Dallas,2.671,3.063,3.402,3.060
+2024-12-17,Texas,Dallas,2.630,3.041,3.370,3.097
+2024-12-23,Texas,Dallas,2.729,3.129,3.463,3.057
+2024-12-24,Texas,Dallas,2.719,3.123,3.459,3.162
+2023-12-24,Texas,El Paso,2.845,3.319,3.622,3.740
+2024-11-24,Texas,El Paso,2.864,3.324,3.644,3.259
+2024-12-17,Texas,El Paso,2.831,3.308,3.612,3.208
+2024-12-23,Texas,El Paso,2.826,3.292,3.607,3.183
+2024-12-24,Texas,El Paso,2.817,3.279,3.597,3.175
+2023-12-24,Texas,Fort Worth-Arlington,2.732,3.106,3.438,3.438
+2024-11-24,Texas,Fort Worth-Arlington,2.675,3.063,3.410,3.037
+2024-12-17,Texas,Fort Worth-Arlington,2.614,3.015,3.342,3.077
+2024-12-23,Texas,Fort Worth-Arlington,2.731,3.124,3.468,3.043
+2024-12-24,Texas,Fort Worth-Arlington,2.721,3.117,3.458,3.124
+2023-12-24,Texas,Galveston-Texas City,2.672,3.139,3.508,3.563
+2024-11-24,Texas,Galveston-Texas City,2.602,3.111,3.484,3.031
+2024-12-17,Texas,Galveston-Texas City,2.627,3.185,3.551,3.048
+2024-12-23,Texas,Galveston-Texas City,2.617,3.186,3.535,3.032
+2024-12-24,Texas,Galveston-Texas City,2.622,3.150,3.503,3.056
+2023-12-24,Texas,Houston,2.639,3.146,3.530,3.550
+2024-11-24,Texas,Houston,2.599,3.130,3.550,3.022
+2024-12-17,Texas,Houston,2.606,3.170,3.577,3.020
+2024-12-23,Texas,Houston,2.603,3.158,3.575,3.015
+2024-12-24,Texas,Houston,2.591,3.136,3.554,3.022
+2023-12-24,Texas,Killeen-Temple-Fort Hood,2.611,2.976,3.289,3.410
+2024-11-24,Texas,Killeen-Temple-Fort Hood,2.509,2.909,3.202,2.929
+2024-12-17,Texas,Killeen-Temple-Fort Hood,2.482,2.825,3.096,2.931
+2024-12-23,Texas,Killeen-Temple-Fort Hood,2.479,2.831,3.089,2.947
+2024-12-24,Texas,Killeen-Temple-Fort Hood,2.480,2.848,3.146,2.953
+2023-12-24,Texas,Laredo,2.646,3.010,3.352,3.439
+2024-11-24,Texas,Laredo,2.617,3.071,3.431,3.134
+2024-12-17,Texas,Laredo,2.652,3.073,3.440,3.191
+2024-12-23,Texas,Laredo,2.644,3.064,3.442,3.135
+2024-12-24,Texas,Laredo,2.623,3.055,3.427,3.113
+2023-12-24,Texas,Longview,2.644,3.073,3.396,3.516
+2024-11-24,Texas,Longview,2.614,3.028,3.402,3.063
+2024-12-17,Texas,Longview,2.588,3.013,3.365,3.041
+2024-12-23,Texas,Longview,2.598,2.989,3.358,3.051
+2024-12-24,Texas,Longview,2.596,2.975,3.372,3.052
+2023-12-24,Texas,Lubbock,2.577,2.949,3.238,3.510
+2024-11-24,Texas,Lubbock,2.404,2.784,3.099,2.907
+2024-12-17,Texas,Lubbock,2.464,2.836,3.146,2.912
+2024-12-23,Texas,Lubbock,2.436,2.820,3.121,2.906
+2024-12-24,Texas,Lubbock,2.434,2.815,3.128,2.916
+2023-12-24,Texas,McAllen-Edinburg-Mission,2.613,2.978,3.306,3.346
+2024-11-24,Texas,McAllen-Edinburg-Mission,2.594,3.038,3.398,3.117
+2024-12-17,Texas,McAllen-Edinburg-Mission,2.618,3.102,3.482,3.169
+2024-12-23,Texas,McAllen-Edinburg-Mission,2.599,3.050,3.414,3.152
+2024-12-24,Texas,McAllen-Edinburg-Mission,2.576,3.022,3.382,3.151
+2023-12-24,Texas,Midland,2.919,3.349,3.587,3.639
+2024-11-24,Texas,Midland,2.638,3.157,3.410,3.149
+2024-12-17,Texas,Midland,2.634,3.134,3.404,3.094
+2024-12-23,Texas,Midland,2.732,3.277,3.519,3.220
+2024-12-24,Texas,Midland,2.709,3.235,3.495,3.206
+2023-12-24,Texas,Odessa,2.871,3.328,3.564,3.580
+2024-11-24,Texas,Odessa,2.588,3.027,3.311,3.077
+2024-12-17,Texas,Odessa,2.525,3.002,3.235,3.077
+2024-12-23,Texas,Odessa,2.698,3.178,3.455,3.265
+2024-12-24,Texas,Odessa,2.665,3.172,3.432,3.252
+2023-12-24,Texas,San Angelo,2.670,3.124,3.369,3.529
+2024-11-24,Texas,San Angelo,2.752,3.232,3.493,3.200
+2024-12-17,Texas,San Angelo,2.641,3.116,3.377,3.170
+2024-12-23,Texas,San Angelo,2.709,3.147,3.425,3.208
+2024-12-24,Texas,San Angelo,2.693,3.139,3.422,3.217
+2023-12-24,Texas,San Antonio,2.643,3.058,3.379,3.411
+2024-11-24,Texas,San Antonio,2.684,3.107,3.457,2.955
+2024-12-17,Texas,San Antonio,2.670,3.127,3.471,2.979
+2024-12-23,Texas,San Antonio,2.678,3.111,3.467,2.976
+2024-12-24,Texas,San Antonio,2.657,3.092,3.444,2.981
+2023-12-24,Texas,Sherman-Denison,2.651,3.023,3.266,3.354
+2024-11-24,Texas,Sherman-Denison,2.626,2.987,3.290,3.015
+2024-12-17,Texas,Sherman-Denison,2.515,2.832,3.160,3.009
+2024-12-23,Texas,Sherman-Denison,2.673,3.007,3.341,3.005
+2024-12-24,Texas,Sherman-Denison,2.656,2.997,3.322,3.014
+2023-12-24,Texas,Texarkana (TX only),2.689,3.031,3.343,3.515
+2024-11-24,Texas,Texarkana (TX only),2.623,2.965,3.306,3.096
+2024-12-17,Texas,Texarkana (TX only),2.603,3.004,3.374,3.033
+2024-12-23,Texas,Texarkana (TX only),2.589,3.009,3.318,3.028
+2024-12-24,Texas,Texarkana (TX only),2.597,3.009,3.296,3.064
+2023-12-24,Texas,Tyler,2.580,2.965,3.351,3.428
+2024-11-24,Texas,Tyler,2.575,2.974,3.312,3.020
+2024-12-17,Texas,Tyler,2.555,2.944,3.273,2.996
+2024-12-23,Texas,Tyler,2.543,2.925,3.299,2.996
+2024-12-24,Texas,Tyler,2.543,2.931,3.278,3.023
+2023-12-24,Texas,Victoria,2.546,2.865,3.240,3.457
+2024-11-24,Texas,Victoria,2.568,2.958,3.280,3.044
+2024-12-17,Texas,Victoria,2.561,2.953,3.296,3.039
+2024-12-23,Texas,Victoria,2.593,3.010,3.318,3.066
+2024-12-24,Texas,Victoria,2.589,2.979,3.311,3.067
+2023-12-24,Texas,Waco,2.636,3.010,3.397,3.447
+2024-11-24,Texas,Waco,2.556,2.886,3.242,2.980
+2024-12-17,Texas,Waco,2.498,2.821,3.168,2.955
+2024-12-23,Texas,Waco,2.483,2.860,3.141,2.940
+2024-12-24,Texas,Waco,2.507,2.874,3.149,2.967
+2023-12-24,Texas,Wichita Falls,2.591,2.954,3.246,3.387
+2024-11-24,Texas,Wichita Falls,2.517,2.927,3.273,2.976
+2024-12-17,Texas,Wichita Falls,2.509,2.933,3.262,2.951
+2024-12-23,Texas,Wichita Falls,2.531,2.930,3.254,2.940
+2024-12-24,Texas,Wichita Falls,2.524,2.943,3.217,2.928
+2023-12-24,Utah,Logan,2.872,3.077,3.264,3.904
+2024-11-24,Utah,Logan,2.961,3.188,3.386,3.293
+2024-12-17,Utah,Logan,2.978,3.197,3.396,3.270
+2024-12-23,Utah,Logan,2.992,3.219,3.424,3.281
+2024-12-24,Utah,Logan,3.032,3.251,3.450,3.341
+2023-12-24,Utah,Ogden,2.835,3.098,3.299,3.834
+2024-11-24,Utah,Ogden,3.002,3.290,3.504,3.291
+2024-12-17,Utah,Ogden,3.010,3.293,3.507,3.303
+2024-12-23,Utah,Ogden,2.992,3.246,3.476,3.286
+2024-12-24,Utah,Ogden,3.034,3.306,3.513,3.361
+2023-12-24,Utah,Provo-Orem,2.839,3.084,3.293,3.800
+2024-11-24,Utah,Provo-Orem,2.970,3.225,3.446,3.313
+2024-12-17,Utah,Provo-Orem,3.002,3.231,3.446,3.310
+2024-12-23,Utah,Provo-Orem,2.990,3.230,3.448,3.321
+2024-12-24,Utah,Provo-Orem,3.040,3.278,3.484,3.403
+2023-12-24,Utah,Salt Lake City,2.828,3.083,3.291,3.788
+2024-11-24,Utah,Salt Lake City,3.049,3.320,3.540,3.361
+2024-12-17,Utah,Salt Lake City,3.033,3.300,3.514,3.339
+2024-12-23,Utah,Salt Lake City,3.027,3.288,3.513,3.359
+2024-12-24,Utah,Salt Lake City,3.059,3.338,3.560,3.440
+2023-12-24,Utah,St. George,3.223,3.434,3.628,3.925
+2024-11-24,Utah,St. George,3.169,3.378,3.610,3.361
+2024-12-17,Utah,St. George,3.058,3.308,3.521,3.325
+2024-12-23,Utah,St. George,3.066,3.276,3.482,3.322
+2024-12-24,Utah,St. George,3.095,3.305,3.518,3.399
+2023-12-24,Vermont,Burlington,3.366,3.926,4.353,4.362
+2024-11-24,Vermont,Burlington,3.179,3.655,4.077,3.554
+2024-12-17,Vermont,Burlington,3.184,3.686,4.057,3.585
+2024-12-23,Vermont,Burlington,3.177,3.636,4.061,3.592
+2024-12-24,Vermont,Burlington,3.181,3.676,4.062,3.589
+2023-12-24,Virginia,Blacksburg-Christiansburg-Radford,3.004,3.458,3.783,3.942
+2024-11-24,Virginia,Blacksburg-Christiansburg-Radford,2.947,3.391,3.762,3.461
+2024-12-17,Virginia,Blacksburg-Christiansburg-Radford,2.925,3.383,3.737,3.437
+2024-12-23,Virginia,Blacksburg-Christiansburg-Radford,2.921,3.349,3.738,3.447
+2024-12-24,Virginia,Blacksburg-Christiansburg-Radford,2.934,3.405,3.791,3.431
+2023-12-24,Virginia,Bristol-Scott-Washington,2.933,3.304,3.650,3.990
+2024-11-24,Virginia,Bristol-Scott-Washington,2.856,3.224,3.573,3.450
+2024-12-17,Virginia,Bristol-Scott-Washington,2.804,3.154,3.593,3.386
+2024-12-23,Virginia,Bristol-Scott-Washington,2.798,3.195,3.584,3.403
+2024-12-24,Virginia,Bristol-Scott-Washington,2.800,3.173,3.583,3.387
+2023-12-24,Virginia,Charlottesville,3.009,3.408,3.781,3.937
+2024-11-24,Virginia,Charlottesville,3.013,3.461,3.820,3.458
+2024-12-17,Virginia,Charlottesville,2.949,3.417,3.757,3.421
+2024-12-23,Virginia,Charlottesville,2.934,3.375,3.773,3.421
+2024-12-24,Virginia,Charlottesville,2.950,3.410,3.787,3.430
+2023-12-24,Virginia,Fredericksburg,2.986,3.343,3.695,3.818
+2024-11-24,Virginia,Fredericksburg,2.922,3.323,3.683,3.342
+2024-12-17,Virginia,Fredericksburg,2.807,3.227,3.585,3.354
+2024-12-23,Virginia,Fredericksburg,2.858,3.270,3.613,3.369
+2024-12-24,Virginia,Fredericksburg,2.874,3.311,3.641,3.369
+2023-12-24,Virginia,Harrisonburg,3.032,3.393,3.733,4.032
+2024-11-24,Virginia,Harrisonburg,3.121,3.509,3.875,3.527
+2024-12-17,Virginia,Harrisonburg,2.978,3.405,3.782,3.478
+2024-12-23,Virginia,Harrisonburg,2.973,3.406,3.782,3.483
+2024-12-24,Virginia,Harrisonburg,2.983,3.407,3.785,3.477
+2023-12-24,Virginia,Lynchburg,2.938,3.345,3.732,4.005
+2024-11-24,Virginia,Lynchburg,2.925,3.377,3.760,3.486
+2024-12-17,Virginia,Lynchburg,2.856,3.302,3.685,3.493
+2024-12-23,Virginia,Lynchburg,2.856,3.298,3.671,3.462
+2024-12-24,Virginia,Lynchburg,2.861,3.328,3.683,3.502
+2023-12-24,Virginia,Norfolk-Virginia Beach-Newport News,2.984,3.432,3.787,3.855
+2024-11-24,Virginia,Norfolk-Virginia Beach-Newport News,2.865,3.330,3.688,3.467
+2024-12-17,Virginia,Norfolk-Virginia Beach-Newport News,2.819,3.290,3.644,3.422
+2024-12-23,Virginia,Norfolk-Virginia Beach-Newport News,2.784,3.254,3.604,3.414
+2024-12-24,Virginia,Norfolk-Virginia Beach-Newport News,2.784,3.256,3.609,3.416
+2023-12-24,Virginia,Richmond-Petersburg,2.976,3.434,3.779,3.838
+2024-11-24,Virginia,Richmond-Petersburg,2.993,3.480,3.829,3.413
+2024-12-17,Virginia,Richmond-Petersburg,2.891,3.389,3.738,3.378
+2024-12-23,Virginia,Richmond-Petersburg,2.884,3.388,3.728,3.429
+2024-12-24,Virginia,Richmond-Petersburg,2.909,3.419,3.757,3.394
+2023-12-24,Virginia,Roanoke,2.947,3.415,3.732,4.007
+2024-11-24,Virginia,Roanoke,2.896,3.330,3.679,3.519
+2024-12-17,Virginia,Roanoke,2.862,3.324,3.707,3.469
+2024-12-23,Virginia,Roanoke,2.861,3.315,3.660,3.506
+2024-12-24,Virginia,Roanoke,2.872,3.342,3.701,3.503
+2023-12-24,Virginia,Staunton-Waynesboro,3.013,3.405,3.790,3.992
+2024-11-24,Virginia,Staunton-Waynesboro,3.028,3.455,3.835,3.499
+2024-12-17,Virginia,Staunton-Waynesboro,2.951,3.391,3.777,3.477
+2024-12-23,Virginia,Staunton-Waynesboro,2.942,3.361,3.765,3.488
+2024-12-24,Virginia,Staunton-Waynesboro,2.947,3.373,3.780,3.474
+2023-12-24,Virginia,"Washington, DC, (VA Only)",3.094,3.563,3.941,4.020
+2024-11-24,Virginia,"Washington, DC, (VA Only)",3.054,3.552,3.914,3.588
+2024-12-17,Virginia,"Washington, DC, (VA Only)",2.975,3.473,3.842,3.557
+2024-12-23,Virginia,"Washington, DC, (VA Only)",2.979,3.466,3.853,3.556
+2024-12-24,Virginia,"Washington, DC, (VA Only)",2.989,3.482,3.857,3.550
+2023-12-24,Virginia,Winchester,2.980,3.333,3.672,3.980
+2024-11-24,Virginia,Winchester,2.894,3.291,3.647,3.461
+2024-12-17,Virginia,Winchester,2.865,3.266,3.627,3.412
+2024-12-23,Virginia,Winchester,2.894,3.299,3.655,3.416
+2024-12-24,Virginia,Winchester,2.904,3.304,3.661,3.413
+2023-12-24,Washington,Bellingham,3.917,4.240,4.519,4.617
+2024-11-24,Washington,Bellingham,3.849,4.138,4.498,4.129
+2024-12-17,Washington,Bellingham,3.782,4.215,4.407,4.033
+2024-12-23,Washington,Bellingham,3.756,4.068,4.313,3.972
+2024-12-24,Washington,Bellingham,3.766,4.058,4.352,4.017
+2023-12-24,Washington,Bremerton,4.080,4.314,4.522,4.892
+2024-11-24,Washington,Bremerton,4.158,4.380,4.630,4.508
+2024-12-17,Washington,Bremerton,4.104,4.371,4.588,4.489
+2024-12-23,Washington,Bremerton,4.067,4.301,4.574,4.410
+2024-12-24,Washington,Bremerton,4.073,4.312,4.535,4.440
+2023-12-24,Washington,Clarkson,3.724,4.099,4.299,4.574
+2024-11-24,Washington,Clarkson,3.334,0.000,3.609,3.579
+2024-12-17,Washington,Clarkson,3.349,3.949,4.009,3.569
+2024-12-23,Washington,Clarkson,3.349,0.000,3.499,3.499
+2024-12-24,Washington,Clarkson,3.466,0.000,3.499,3.499
+2023-12-24,Washington,Longview,4.073,4.224,4.431,4.912
+2024-11-24,Washington,Longview,3.960,4.188,4.327,4.279
+2024-12-17,Washington,Longview,3.916,4.097,4.293,4.220
+2024-12-23,Washington,Longview,3.908,4.076,4.273,4.208
+2024-12-24,Washington,Longview,3.895,4.090,4.291,4.229
+2023-12-24,Washington,Mount Vernon-Anacortes,3.852,4.024,4.281,4.617
+2024-11-24,Washington,Mount Vernon-Anacortes,3.807,3.933,4.216,4.076
+2024-12-17,Washington,Mount Vernon-Anacortes,3.720,3.789,4.067,4.019
+2024-12-23,Washington,Mount Vernon-Anacortes,3.631,3.870,4.080,3.880
+2024-12-24,Washington,Mount Vernon-Anacortes,3.697,3.899,4.058,3.881
+2023-12-24,Washington,Olympia,4.165,4.258,4.513,5.074
+2024-11-24,Washington,Olympia,3.946,4.077,4.418,4.458
+2024-12-17,Washington,Olympia,3.857,4.052,4.282,4.489
+2024-12-23,Washington,Olympia,3.857,4.017,4.259,4.496
+2024-12-24,Washington,Olympia,3.849,4.033,4.293,4.485
+2023-12-24,Washington,Richland-Kennewick-Pasco,3.949,4.191,4.413,4.792
+2024-11-24,Washington,Richland-Kennewick-Pasco,3.666,3.911,4.146,4.215
+2024-12-17,Washington,Richland-Kennewick-Pasco,3.619,3.876,4.127,4.154
+2024-12-23,Washington,Richland-Kennewick-Pasco,3.564,3.798,4.030,4.090
+2024-12-24,Washington,Richland-Kennewick-Pasco,3.569,3.812,4.056,4.115
+2023-12-24,Washington,Seattle-Bellevue-Everett,4.419,4.641,4.834,5.214
+2024-11-24,Washington,Seattle-Bellevue-Everett,4.202,4.441,4.658,4.540
+2024-12-17,Washington,Seattle-Bellevue-Everett,4.165,4.415,4.652,4.520
+2024-12-23,Washington,Seattle-Bellevue-Everett,4.161,4.377,4.603,4.500
+2024-12-24,Washington,Seattle-Bellevue-Everett,4.158,4.385,4.607,4.516
+2023-12-24,Washington,Spokane,3.815,4.066,4.307,4.617
+2024-11-24,Washington,Spokane,3.648,3.893,4.117,4.068
+2024-12-17,Washington,Spokane,3.542,3.775,4.019,3.990
+2024-12-23,Washington,Spokane,3.513,3.727,3.971,3.968
+2024-12-24,Washington,Spokane,3.510,3.730,3.966,3.961
+2023-12-24,Washington,Tacoma,4.073,4.291,4.474,5.025
+2024-11-24,Washington,Tacoma,4.015,4.269,4.490,4.476
+2024-12-17,Washington,Tacoma,3.932,4.171,4.407,4.418
+2024-12-23,Washington,Tacoma,3.926,4.184,4.391,4.406
+2024-12-24,Washington,Tacoma,3.934,4.214,4.410,4.398
+2023-12-24,Washington,Vancouver,4.156,4.337,4.568,4.783
+2024-11-24,Washington,Vancouver,3.898,4.109,4.318,4.132
+2024-12-17,Washington,Vancouver,3.849,4.029,4.277,4.059
+2024-12-23,Washington,Vancouver,3.843,4.070,4.226,4.025
+2024-12-24,Washington,Vancouver,3.849,4.043,4.230,4.032
+2023-12-24,Washington,Walla Walla,4.402,4.610,4.852,5.001
+2024-11-24,Washington,Walla Walla,4.162,4.284,4.470,4.400
+2024-12-17,Washington,Walla Walla,3.981,4.074,4.282,4.277
+2024-12-23,Washington,Walla Walla,3.954,4.109,4.231,4.303
+2024-12-24,Washington,Walla Walla,3.954,4.065,4.209,4.250
+2023-12-24,Washington,Wenatchee,3.853,3.948,4.226,4.480
+2024-11-24,Washington,Wenatchee,3.833,4.007,4.252,4.218
+2024-12-17,Washington,Wenatchee,3.701,3.918,4.025,4.137
+2024-12-23,Washington,Wenatchee,3.642,3.878,4.000,4.105
+2024-12-24,Washington,Wenatchee,3.668,3.854,4.021,4.135
+2023-12-24,Washington,Yakima,3.870,4.080,4.435,4.751
+2024-11-24,Washington,Yakima,3.701,3.972,4.170,4.160
+2024-12-17,Washington,Yakima,3.645,3.924,4.064,4.155
+2024-12-23,Washington,Yakima,3.591,3.832,4.081,4.110
+2024-12-24,Washington,Yakima,3.610,3.894,4.070,4.124
+2023-12-24,West Virginia,Beckley,3.083,3.380,3.734,4.048
+2024-11-24,West Virginia,Beckley,2.924,3.386,3.847,3.697
+2024-12-17,West Virginia,Beckley,2.875,3.272,3.712,3.588
+2024-12-23,West Virginia,Beckley,2.864,3.308,3.722,3.578
+2024-12-24,West Virginia,Beckley,2.905,3.287,3.697,3.598
+2023-12-24,West Virginia,Charleston,3.000,3.397,3.744,3.975
+2024-11-24,West Virginia,Charleston,2.908,3.352,3.804,3.529
+2024-12-17,West Virginia,Charleston,2.899,3.350,3.807,3.464
+2024-12-23,West Virginia,Charleston,2.870,3.319,3.807,3.438
+2024-12-24,West Virginia,Charleston,2.893,3.360,3.854,3.455
+2023-12-24,West Virginia,Hampshire County,3.213,3.549,3.799,3.962
+2024-11-24,West Virginia,Hampshire County,3.248,3.599,4.099,3.537
+2024-12-17,West Virginia,Hampshire County,3.231,3.699,4.099,3.519
+2024-12-23,West Virginia,Hampshire County,3.154,3.499,3.899,3.596
+2024-12-24,West Virginia,Hampshire County,3.091,3.499,3.899,3.556
+2023-12-24,West Virginia,Huntington,2.944,3.305,3.644,3.985
+2024-11-24,West Virginia,Huntington,2.836,3.266,3.788,3.668
+2024-12-17,West Virginia,Huntington,2.864,3.329,3.797,3.642
+2024-12-23,West Virginia,Huntington,2.860,3.317,3.810,3.623
+2024-12-24,West Virginia,Huntington,2.922,3.390,3.877,3.626
+2023-12-24,West Virginia,Jefferson County,3.029,3.482,3.800,3.978
+2024-11-24,West Virginia,Jefferson County,3.122,3.526,3.936,3.692
+2024-12-17,West Virginia,Jefferson County,3.027,3.435,3.840,3.663
+2024-12-23,West Virginia,Jefferson County,2.975,3.402,3.808,3.678
+2024-12-24,West Virginia,Jefferson County,2.985,3.408,3.818,3.670
+2023-12-24,West Virginia,Mineral County,3.102,3.256,3.556,4.066
+2024-11-24,West Virginia,Mineral County,2.944,3.386,3.619,3.467
+2024-12-17,West Virginia,Mineral County,2.924,3.232,3.787,3.397
+2024-12-23,West Virginia,Mineral County,2.912,3.229,3.596,3.417
+2024-12-24,West Virginia,Mineral County,2.898,3.229,3.699,3.417
+2023-12-24,West Virginia,Morgantown,2.937,3.258,3.585,3.993
+2024-11-24,West Virginia,Morgantown,3.028,3.430,3.882,3.594
+2024-12-17,West Virginia,Morgantown,2.932,3.341,3.786,3.555
+2024-12-23,West Virginia,Morgantown,2.961,3.381,3.796,3.564
+2024-12-24,West Virginia,Morgantown,2.974,3.390,3.810,3.560
+2023-12-24,West Virginia,Parkersburg-Marietta (WV only),2.977,3.367,3.753,3.828
+2024-11-24,West Virginia,Parkersburg-Marietta (WV only),2.679,3.128,3.571,3.466
+2024-12-17,West Virginia,Parkersburg-Marietta (WV only),2.806,3.256,3.696,3.494
+2024-12-23,West Virginia,Parkersburg-Marietta (WV only),2.772,3.202,3.614,3.489
+2024-12-24,West Virginia,Parkersburg-Marietta (WV only),2.809,3.265,3.723,3.499
+2023-12-24,West Virginia,Steubenville-Weirton (WV only),2.727,3.072,3.561,3.968
+2024-11-24,West Virginia,Steubenville-Weirton (WV only),2.942,3.407,3.853,3.666
+2024-12-17,West Virginia,Steubenville-Weirton (WV only),2.929,3.400,3.823,3.643
+2024-12-23,West Virginia,Steubenville-Weirton (WV only),2.937,3.378,3.848,3.663
+2024-12-24,West Virginia,Steubenville-Weirton (WV only),2.949,3.374,3.874,3.590
+2023-12-24,West Virginia,"Washington, DC (WV Only)",3.075,3.441,3.795,4.033
+2024-11-24,West Virginia,"Washington, DC (WV Only)",3.168,3.573,3.974,3.672
+2024-12-17,West Virginia,"Washington, DC (WV Only)",3.129,3.518,3.908,3.660
+2024-12-23,West Virginia,"Washington, DC (WV Only)",3.061,3.474,3.876,3.678
+2024-12-24,West Virginia,"Washington, DC (WV Only)",3.048,3.459,3.870,3.670
+2023-12-24,West Virginia,Wheeling (WV only),2.730,3.168,3.559,3.923
+2024-11-24,West Virginia,Wheeling (WV only),2.882,3.335,3.733,3.438
+2024-12-17,West Virginia,Wheeling (WV only),2.868,3.266,3.683,3.416
+2024-12-23,West Virginia,Wheeling (WV only),2.872,3.312,3.695,3.427
+2024-12-24,West Virginia,Wheeling (WV only),2.875,3.309,3.687,3.399
+2023-12-24,Wisconsin,Appleton,2.620,3.181,3.583,3.678
+2024-11-24,Wisconsin,Appleton,2.906,3.433,3.896,3.334
+2024-12-17,Wisconsin,Appleton,2.743,3.274,3.741,3.246
+2024-12-23,Wisconsin,Appleton,2.817,3.338,3.804,3.255
+2024-12-24,Wisconsin,Appleton,2.798,3.317,3.788,3.252
+2023-12-24,Wisconsin,Eau Claire,2.860,3.145,3.638,3.612
+2024-11-24,Wisconsin,Eau Claire,2.702,5.999,3.632,3.331
+2024-12-17,Wisconsin,Eau Claire,2.661,5.999,3.549,3.283
+2024-12-23,Wisconsin,Eau Claire,2.700,3.599,3.618,3.275
+2024-12-24,Wisconsin,Eau Claire,2.680,2.998,3.558,3.271
+2023-12-24,Wisconsin,Fond du Lac,2.714,3.182,3.594,3.740
+2024-11-24,Wisconsin,Fond du Lac,2.873,3.381,3.908,3.283
+2024-12-17,Wisconsin,Fond du Lac,2.744,3.283,3.826,3.234
+2024-12-23,Wisconsin,Fond du Lac,2.761,3.212,3.774,3.239
+2024-12-24,Wisconsin,Fond du Lac,2.743,3.254,3.828,3.234
+2023-12-24,Wisconsin,Green Bay,2.794,3.278,3.757,3.830
+2024-11-24,Wisconsin,Green Bay,2.901,3.370,3.922,3.347
+2024-12-17,Wisconsin,Green Bay,2.772,3.276,3.801,3.257
+2024-12-23,Wisconsin,Green Bay,2.769,3.325,3.769,3.272
+2024-12-24,Wisconsin,Green Bay,2.749,3.276,3.765,3.271
+2023-12-24,Wisconsin,Janesville-Beloit,2.653,3.105,3.514,3.616
+2024-11-24,Wisconsin,Janesville-Beloit,2.884,3.397,3.836,3.337
+2024-12-17,Wisconsin,Janesville-Beloit,2.762,3.282,3.773,3.228
+2024-12-23,Wisconsin,Janesville-Beloit,2.775,3.301,3.792,3.248
+2024-12-24,Wisconsin,Janesville-Beloit,2.764,3.273,3.785,3.242
+2023-12-24,Wisconsin,Kenosha County,2.673,3.275,3.611,3.799
+2024-11-24,Wisconsin,Kenosha County,2.889,3.443,3.954,3.608
+2024-12-17,Wisconsin,Kenosha County,2.785,3.302,3.816,3.606
+2024-12-23,Wisconsin,Kenosha County,2.832,3.420,3.885,3.602
+2024-12-24,Wisconsin,Kenosha County,2.791,3.386,3.894,3.584
+2023-12-24,Wisconsin,La Crosse (WI only),2.847,3.166,3.827,3.667
+2024-11-24,Wisconsin,La Crosse (WI only),2.764,3.066,3.763,3.356
+2024-12-17,Wisconsin,La Crosse (WI only),2.717,3.079,3.699,3.202
+2024-12-23,Wisconsin,La Crosse (WI only),2.820,3.076,3.811,3.264
+2024-12-24,Wisconsin,La Crosse (WI only),2.821,3.014,3.794,3.269
+2023-12-24,Wisconsin,Madison,2.748,3.255,3.644,3.701
+2024-11-24,Wisconsin,Madison,2.912,3.460,3.898,3.403
+2024-12-17,Wisconsin,Madison,2.777,3.340,3.780,3.348
+2024-12-23,Wisconsin,Madison,2.863,3.408,3.865,3.368
+2024-12-24,Wisconsin,Madison,2.836,3.382,3.842,3.353
+2023-12-24,Wisconsin,Milwaukee-Waukesha,2.609,3.105,3.512,3.698
+2024-11-24,Wisconsin,Milwaukee-Waukesha,2.834,3.363,3.816,3.391
+2024-12-17,Wisconsin,Milwaukee-Waukesha,2.757,3.289,3.751,3.283
+2024-12-23,Wisconsin,Milwaukee-Waukesha,2.778,3.313,3.767,3.318
+2024-12-24,Wisconsin,Milwaukee-Waukesha,2.762,3.302,3.760,3.310
+2023-12-24,Wisconsin,Oshkosh,2.691,3.197,3.615,3.723
+2024-11-24,Wisconsin,Oshkosh,2.891,3.369,3.886,3.366
+2024-12-17,Wisconsin,Oshkosh,2.741,3.227,3.736,3.281
+2024-12-23,Wisconsin,Oshkosh,2.771,3.260,3.753,3.298
+2024-12-24,Wisconsin,Oshkosh,2.761,3.222,3.745,3.277
+2023-12-24,Wisconsin,Pierce -St. Croix County,2.942,3.281,3.730,3.747
+2024-11-24,Wisconsin,Pierce -St. Croix County,2.906,3.388,3.857,3.447
+2024-12-17,Wisconsin,Pierce -St. Croix County,2.845,3.295,3.756,3.410
+2024-12-23,Wisconsin,Pierce -St. Croix County,2.880,3.333,3.800,3.421
+2024-12-24,Wisconsin,Pierce -St. Croix County,2.866,3.285,3.783,3.421
+2023-12-24,Wisconsin,Racine,2.655,3.105,3.509,3.753
+2024-11-24,Wisconsin,Racine,2.853,3.347,3.795,3.417
+2024-12-17,Wisconsin,Racine,2.751,3.260,3.724,3.402
+2024-12-23,Wisconsin,Racine,2.785,3.365,3.787,3.396
+2024-12-24,Wisconsin,Racine,2.769,3.288,3.772,3.405
+2023-12-24,Wisconsin,Sheboygan,2.740,3.319,3.738,3.598
+2024-11-24,Wisconsin,Sheboygan,2.859,3.470,3.927,3.359
+2024-12-17,Wisconsin,Sheboygan,2.782,3.293,3.832,3.253
+2024-12-23,Wisconsin,Sheboygan,2.782,3.420,3.813,3.244
+2024-12-24,Wisconsin,Sheboygan,2.776,3.396,3.807,3.245
+2023-12-24,Wisconsin,Superior,2.973,3.357,3.866,3.865
+2024-11-24,Wisconsin,Superior,2.856,3.326,3.724,3.369
+2024-12-17,Wisconsin,Superior,2.784,3.176,3.719,3.549
+2024-12-23,Wisconsin,Superior,2.806,3.214,3.773,3.316
+2024-12-24,Wisconsin,Superior,2.799,3.189,3.741,3.336
+2023-12-24,Wisconsin,Wausau,2.807,3.341,3.730,3.718
+2024-11-24,Wisconsin,Wausau,2.823,3.311,3.737,3.275
+2024-12-17,Wisconsin,Wausau,2.620,3.132,3.608,3.216
+2024-12-23,Wisconsin,Wausau,2.745,3.231,3.689,3.236
+2024-12-24,Wisconsin,Wausau,2.716,3.256,3.724,3.197
+2023-12-24,Wyoming,Casper,2.320,2.616,2.887,3.812
+2024-11-24,Wyoming,Casper,2.799,3.107,3.430,3.299
+2024-12-17,Wyoming,Casper,2.728,3.045,3.360,3.209
+2024-12-23,Wyoming,Casper,2.705,3.034,3.337,3.217
+2024-12-24,Wyoming,Casper,2.678,3.023,3.337,3.184
+2023-12-24,Wyoming,Cheyenne,2.775,3.047,3.339,3.891
+2024-11-24,Wyoming,Cheyenne,3.010,3.314,3.571,3.462
+2024-12-17,Wyoming,Cheyenne,2.863,3.112,3.378,3.366
+2024-12-23,Wyoming,Cheyenne,2.909,3.184,3.485,3.343
+2024-12-24,Wyoming,Cheyenne,2.901,3.183,3.467,3.336
