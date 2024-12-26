@@ -1,0 +1,3142 @@
+state,abbreviation,name,price,date
+Alabama,AL,Autauga,$2.756,2024-12-26
+Alabama,AL,Baldwin,$2.697,2024-12-26
+Alabama,AL,Barbour,$2.744,2024-12-26
+Alabama,AL,Bibb,$2.677,2024-12-26
+Alabama,AL,Blount,$2.755,2024-12-26
+Alabama,AL,Bullock,$2.899,2024-12-26
+Alabama,AL,Butler,$2.818,2024-12-26
+Alabama,AL,Calhoun,$2.772,2024-12-26
+Alabama,AL,Chambers,$2.776,2024-12-26
+Alabama,AL,Cherokee,$2.663,2024-12-26
+Alabama,AL,Chilton,$2.790,2024-12-26
+Alabama,AL,Choctaw,$2.874,2024-12-26
+Alabama,AL,Clarke,$2.860,2024-12-26
+Alabama,AL,Clay,$2.819,2024-12-26
+Alabama,AL,Cleburne,$2.800,2024-12-26
+Alabama,AL,Coffee,$2.757,2024-12-26
+Alabama,AL,Colbert,$2.730,2024-12-26
+Alabama,AL,Conecuh,$2.977,2024-12-26
+Alabama,AL,Coosa,$2.759,2024-12-26
+Alabama,AL,Covington,$2.778,2024-12-26
+Alabama,AL,Crenshaw,$2.790,2024-12-26
+Alabama,AL,Cullman,$2.781,2024-12-26
+Alabama,AL,Dale,$2.749,2024-12-26
+Alabama,AL,Dallas,$2.769,2024-12-26
+Alabama,AL,De Kalb,$2.686,2024-12-26
+Alabama,AL,Elmore,$2.698,2024-12-26
+Alabama,AL,Escambia,$2.810,2024-12-26
+Alabama,AL,Etowah,$2.702,2024-12-26
+Alabama,AL,Fayette,$2.867,2024-12-26
+Alabama,AL,Franklin,$2.696,2024-12-26
+Alabama,AL,Geneva,$2.855,2024-12-26
+Alabama,AL,Greene,$2.950,2024-12-26
+Alabama,AL,Hale,$2.789,2024-12-26
+Alabama,AL,Henry,$2.826,2024-12-26
+Alabama,AL,Houston,$2.698,2024-12-26
+Alabama,AL,Jackson,$2.730,2024-12-26
+Alabama,AL,Jefferson,$2.744,2024-12-26
+Alabama,AL,Lamar,$2.844,2024-12-26
+Alabama,AL,Lauderdale,$2.763,2024-12-26
+Alabama,AL,Lawrence,$2.709,2024-12-26
+Alabama,AL,Lee,$2.662,2024-12-26
+Alabama,AL,Limestone,$2.737,2024-12-26
+Alabama,AL,Lowndes,$2.782,2024-12-26
+Alabama,AL,Macon,$2.767,2024-12-26
+Alabama,AL,Madison,$2.738,2024-12-26
+Alabama,AL,Marengo,$2.766,2024-12-26
+Alabama,AL,Marion,$2.801,2024-12-26
+Alabama,AL,Marshall,$2.692,2024-12-26
+Alabama,AL,Mobile,$2.662,2024-12-26
+Alabama,AL,Monroe,$2.929,2024-12-26
+Alabama,AL,Montgomery,$2.708,2024-12-26
+Alabama,AL,Morgan,$2.694,2024-12-26
+Alabama,AL,Perry,$3.066,2024-12-26
+Alabama,AL,Pickens,$2.742,2024-12-26
+Alabama,AL,Pike,$2.824,2024-12-26
+Alabama,AL,Randolph,$2.754,2024-12-26
+Alabama,AL,Russell,$2.716,2024-12-26
+Alabama,AL,Shelby,$2.694,2024-12-26
+Alabama,AL,Saint Clair,$2.700,2024-12-26
+Alabama,AL,Sumter,$2.957,2024-12-26
+Alabama,AL,Talladega,$2.748,2024-12-26
+Alabama,AL,Tallapoosa,$2.748,2024-12-26
+Alabama,AL,Tuscaloosa,$2.697,2024-12-26
+Alabama,AL,Walker,$2.717,2024-12-26
+Alabama,AL,Washington,$2.824,2024-12-26
+Alabama,AL,Wilcox,$2.992,2024-12-26
+Alabama,AL,Winston,$2.770,2024-12-26
+Alaska,AK,Aleutians East,,2024-12-26
+Alaska,AK,Aleutians West,,2024-12-26
+Alaska,AK,Anchorage,$3.421,2024-12-26
+Alaska,AK,Bethel,,2024-12-26
+Alaska,AK,Bristol Bay,,2024-12-26
+Alaska,AK,Denali,$3.279,2024-12-26
+Alaska,AK,Dillingham,,2024-12-26
+Alaska,AK,Fairbanks North Star,$3.234,2024-12-26
+Alaska,AK,Haines,,2024-12-26
+Alaska,AK,Juneau,$3.274,2024-12-26
+Alaska,AK,Kenai Peninsula,$3.260,2024-12-26
+Alaska,AK,Ketchikan Gateway,$3.496,2024-12-26
+Alaska,AK,Kodiak Island,$4.369,2024-12-26
+Alaska,AK,Matanuska Susitna,$3.160,2024-12-26
+Alaska,AK,Nome,,2024-12-26
+Alaska,AK,North Slope,,2024-12-26
+Alaska,AK,Northwest Arctic,,2024-12-26
+Alaska,AK,Lake and Peninsula,,2024-12-26
+Alaska,AK,Prince Wales Ketchikan,,2024-12-26
+Alaska,AK,Sitka,$4.439,2024-12-26
+Alaska,AK,Skagway Hoonah Angoon,,2024-12-26
+Alaska,AK,Southeast Fairbanks,$3.519,2024-12-26
+Alaska,AK,Valdez Cordova,$4.089,2024-12-26
+Alaska,AK,Wade Hampton,,2024-12-26
+Alaska,AK,Wrangell Petersburg,,2024-12-26
+Alaska,AK,Yakutat,,2024-12-26
+Alaska,AK,Yukon Koyukuk,,2024-12-26
+Arizona,AZ,Apache,$3.059,2024-12-26
+Arizona,AZ,Cochise,$3.170,2024-12-26
+Arizona,AZ,Coconino,$3.088,2024-12-26
+Arizona,AZ,Gila,$3.220,2024-12-26
+Arizona,AZ,Graham,$3.166,2024-12-26
+Arizona,AZ,Greenlee,$2.932,2024-12-26
+Arizona,AZ,La Paz,$2.902,2024-12-26
+Arizona,AZ,Maricopa,$3.118,2024-12-26
+Arizona,AZ,Mohave,$3.018,2024-12-26
+Arizona,AZ,Navajo,$3.071,2024-12-26
+Arizona,AZ,Pima,$2.946,2024-12-26
+Arizona,AZ,Pinal,$2.892,2024-12-26
+Arizona,AZ,Santa Cruz,$3.143,2024-12-26
+Arizona,AZ,Yavapai,$3.202,2024-12-26
+Arizona,AZ,Yuma,$3.017,2024-12-26
+Arkansas,AR,Arkansas,$2.580,2024-12-26
+Arkansas,AR,Ashley,$2.801,2024-12-26
+Arkansas,AR,Baxter,$2.581,2024-12-26
+Arkansas,AR,Benton,$2.617,2024-12-26
+Arkansas,AR,Boone,$2.672,2024-12-26
+Arkansas,AR,Bradley,$2.772,2024-12-26
+Arkansas,AR,Calhoun,$2.799,2024-12-26
+Arkansas,AR,Carroll,$2.710,2024-12-26
+Arkansas,AR,Chicot,$2.817,2024-12-26
+Arkansas,AR,Clark,$2.683,2024-12-26
+Arkansas,AR,Clay,$2.629,2024-12-26
+Arkansas,AR,Cleburne,$2.611,2024-12-26
+Arkansas,AR,Cleveland,$2.683,2024-12-26
+Arkansas,AR,Columbia,$2.812,2024-12-26
+Arkansas,AR,Conway,$2.663,2024-12-26
+Arkansas,AR,Craighead,$2.591,2024-12-26
+Arkansas,AR,Crawford,$2.568,2024-12-26
+Arkansas,AR,Crittenden,$2.671,2024-12-26
+Arkansas,AR,Cross,$2.655,2024-12-26
+Arkansas,AR,Dallas,$2.707,2024-12-26
+Arkansas,AR,Desha,$2.832,2024-12-26
+Arkansas,AR,Drew,$2.594,2024-12-26
+Arkansas,AR,Faulkner,$2.625,2024-12-26
+Arkansas,AR,Franklin,$2.538,2024-12-26
+Arkansas,AR,Fulton,$2.704,2024-12-26
+Arkansas,AR,Garland,$2.633,2024-12-26
+Arkansas,AR,Grant,$2.587,2024-12-26
+Arkansas,AR,Greene,$2.604,2024-12-26
+Arkansas,AR,Hempstead,$2.686,2024-12-26
+Arkansas,AR,Hot Spring,$2.620,2024-12-26
+Arkansas,AR,Howard,$2.820,2024-12-26
+Arkansas,AR,Independence,$2.661,2024-12-26
+Arkansas,AR,Izard,$2.764,2024-12-26
+Arkansas,AR,Jackson,$2.737,2024-12-26
+Arkansas,AR,Jefferson,$2.599,2024-12-26
+Arkansas,AR,Johnson,$2.520,2024-12-26
+Arkansas,AR,Lafayette,$2.955,2024-12-26
+Arkansas,AR,Lawrence,$2.579,2024-12-26
+Arkansas,AR,Lee,$2.799,2024-12-26
+Arkansas,AR,Lincoln,$2.829,2024-12-26
+Arkansas,AR,Little River,$2.719,2024-12-26
+Arkansas,AR,Logan,$2.655,2024-12-26
+Arkansas,AR,Lonoke,$2.672,2024-12-26
+Arkansas,AR,Madison,$2.573,2024-12-26
+Arkansas,AR,Marion,$2.653,2024-12-26
+Arkansas,AR,Miller,$2.630,2024-12-26
+Arkansas,AR,Mississippi,$2.708,2024-12-26
+Arkansas,AR,Monroe,$2.603,2024-12-26
+Arkansas,AR,Montgomery,$2.699,2024-12-26
+Arkansas,AR,Nevada,$2.695,2024-12-26
+Arkansas,AR,Newton,$2.755,2024-12-26
+Arkansas,AR,Ouachita,$2.689,2024-12-26
+Arkansas,AR,Perry,$2.586,2024-12-26
+Arkansas,AR,Phillips,$2.780,2024-12-26
+Arkansas,AR,Pike,$2.698,2024-12-26
+Arkansas,AR,Poinsett,$2.681,2024-12-26
+Arkansas,AR,Polk,$2.687,2024-12-26
+Arkansas,AR,Pope,$2.585,2024-12-26
+Arkansas,AR,Prairie,$2.631,2024-12-26
+Arkansas,AR,Pulaski,$2.639,2024-12-26
+Arkansas,AR,Randolph,$2.559,2024-12-26
+Arkansas,AR,Saline,$2.624,2024-12-26
+Arkansas,AR,Scott,$2.583,2024-12-26
+Arkansas,AR,Searcy,$2.602,2024-12-26
+Arkansas,AR,Sebastian,$2.595,2024-12-26
+Arkansas,AR,Sevier,$2.606,2024-12-26
+Arkansas,AR,Sharp,$2.651,2024-12-26
+Arkansas,AR,Saint Francis,$2.586,2024-12-26
+Arkansas,AR,Stone,$2.629,2024-12-26
+Arkansas,AR,Union,$2.778,2024-12-26
+Arkansas,AR,Van Buren,$2.566,2024-12-26
+Arkansas,AR,Washington,$2.659,2024-12-26
+Arkansas,AR,White,$2.581,2024-12-26
+Arkansas,AR,Woodruff,$2.674,2024-12-26
+Arkansas,AR,Yell,$2.678,2024-12-26
+California,CA,Alameda,$4.344,2024-12-26
+California,CA,Alpine,,2024-12-26
+California,CA,Amador,$4.370,2024-12-26
+California,CA,Butte,$4.131,2024-12-26
+California,CA,Calaveras,$4.255,2024-12-26
+California,CA,Colusa,$4.300,2024-12-26
+California,CA,Contra Costa,$4.335,2024-12-26
+California,CA,Del Norte,$4.564,2024-12-26
+California,CA,El Dorado,$4.348,2024-12-26
+California,CA,Fresno,$4.220,2024-12-26
+California,CA,Glenn,$4.119,2024-12-26
+California,CA,Humboldt,$4.993,2024-12-26
+California,CA,Imperial,$4.216,2024-12-26
+California,CA,Inyo,$4.407,2024-12-26
+California,CA,Kern,$4.277,2024-12-26
+California,CA,Kings,$4.127,2024-12-26
+California,CA,Lake,$4.307,2024-12-26
+California,CA,Lassen,$4.837,2024-12-26
+California,CA,Los Angeles,$4.406,2024-12-26
+California,CA,Madera,$4.217,2024-12-26
+California,CA,Marin,$4.441,2024-12-26
+California,CA,Mariposa,$4.317,2024-12-26
+California,CA,Mendocino,$4.369,2024-12-26
+California,CA,Merced,$4.188,2024-12-26
+California,CA,Modoc,$4.599,2024-12-26
+California,CA,Mono,$5.410,2024-12-26
+California,CA,Monterey,$4.554,2024-12-26
+California,CA,Napa,$4.411,2024-12-26
+California,CA,Nevada,$4.541,2024-12-26
+California,CA,Orange,$4.339,2024-12-26
+California,CA,Placer,$4.291,2024-12-26
+California,CA,Plumas,$4.506,2024-12-26
+California,CA,Riverside,$4.275,2024-12-26
+California,CA,Sacramento,$4.241,2024-12-26
+California,CA,San Benito,$4.496,2024-12-26
+California,CA,San Bernardino,$4.302,2024-12-26
+California,CA,San Diego,$4.488,2024-12-26
+California,CA,San Francisco,$4.427,2024-12-26
+California,CA,San Joaquin,$4.140,2024-12-26
+California,CA,San Luis Obispo,$4.603,2024-12-26
+California,CA,San Mateo,$4.466,2024-12-26
+California,CA,Santa Barbara,$4.410,2024-12-26
+California,CA,Santa Clara,$4.291,2024-12-26
+California,CA,Santa Cruz,$4.576,2024-12-26
+California,CA,Shasta,$3.996,2024-12-26
+California,CA,Sierra,$4.866,2024-12-26
+California,CA,Siskiyou,$4.435,2024-12-26
+California,CA,Solano,$4.286,2024-12-26
+California,CA,Sonoma,$4.554,2024-12-26
+California,CA,Stanislaus,$4.068,2024-12-26
+California,CA,Sutter,$4.167,2024-12-26
+California,CA,Tehama,$3.960,2024-12-26
+California,CA,Trinity,$4.866,2024-12-26
+California,CA,Tulare,$4.257,2024-12-26
+California,CA,Tuolumne,$4.263,2024-12-26
+California,CA,Ventura,$4.461,2024-12-26
+California,CA,Yolo,$4.169,2024-12-26
+California,CA,Yuba,$4.076,2024-12-26
+Colorado,CO,Adams,$2.812,2024-12-26
+Colorado,CO,Alamosa,$3.142,2024-12-26
+Colorado,CO,Arapahoe,$2.866,2024-12-26
+Colorado,CO,Archuleta,$3.097,2024-12-26
+Colorado,CO,Baca,$2.756,2024-12-26
+Colorado,CO,Bent,$3.032,2024-12-26
+Colorado,CO,Boulder,$2.964,2024-12-26
+Colorado,CO,Broomfield,$2.867,2024-12-26
+Colorado,CO,Chaffee,$3.203,2024-12-26
+Colorado,CO,Cheyenne,$2.754,2024-12-26
+Colorado,CO,Clear Creek,$3.335,2024-12-26
+Colorado,CO,Conejos,$3.179,2024-12-26
+Colorado,CO,Costilla,$3.224,2024-12-26
+Colorado,CO,Crowley,$3.269,2024-12-26
+Colorado,CO,Custer,$2.999,2024-12-26
+Colorado,CO,Delta,$3.083,2024-12-26
+Colorado,CO,Denver,$2.872,2024-12-26
+Colorado,CO,Dolores,$3.306,2024-12-26
+Colorado,CO,Douglas,$2.926,2024-12-26
+Colorado,CO,Eagle,$3.569,2024-12-26
+Colorado,CO,El Paso,$2.821,2024-12-26
+Colorado,CO,Elbert,$2.703,2024-12-26
+Colorado,CO,Fremont,$2.676,2024-12-26
+Colorado,CO,Garfield,$3.370,2024-12-26
+Colorado,CO,Gilpin,$3.399,2024-12-26
+Colorado,CO,Grand,$3.563,2024-12-26
+Colorado,CO,Gunnison,$3.426,2024-12-26
+Colorado,CO,Hinsdale,,2024-12-26
+Colorado,CO,Huerfano,$2.876,2024-12-26
+Colorado,CO,Jackson,$3.599,2024-12-26
+Colorado,CO,Jefferson,$2.854,2024-12-26
+Colorado,CO,Kiowa,$2.574,2024-12-26
+Colorado,CO,Kit Carson,$2.706,2024-12-26
+Colorado,CO,La Plata,$2.992,2024-12-26
+Colorado,CO,Lake,$3.399,2024-12-26
+Colorado,CO,Larimer,$2.856,2024-12-26
+Colorado,CO,Las Animas,$2.801,2024-12-26
+Colorado,CO,Lincoln,$2.785,2024-12-26
+Colorado,CO,Logan,$3.120,2024-12-26
+Colorado,CO,Mesa,$2.863,2024-12-26
+Colorado,CO,Mineral,,2024-12-26
+Colorado,CO,Moffat,$3.412,2024-12-26
+Colorado,CO,Montezuma,$2.761,2024-12-26
+Colorado,CO,Montrose,$3.104,2024-12-26
+Colorado,CO,Morgan,$3.058,2024-12-26
+Colorado,CO,Otero,$3.278,2024-12-26
+Colorado,CO,Ouray,$3.349,2024-12-26
+Colorado,CO,Park,$3.367,2024-12-26
+Colorado,CO,Phillips,$3.322,2024-12-26
+Colorado,CO,Pitkin,$4.614,2024-12-26
+Colorado,CO,Prowers,$2.621,2024-12-26
+Colorado,CO,Pueblo,$2.786,2024-12-26
+Colorado,CO,Rio Blanco,$3.386,2024-12-26
+Colorado,CO,Rio Grande,$3.145,2024-12-26
+Colorado,CO,Routt,$3.728,2024-12-26
+Colorado,CO,Saguache,$3.279,2024-12-26
+Colorado,CO,San Juan,,2024-12-26
+Colorado,CO,San Miguel,$3.404,2024-12-26
+Colorado,CO,Sedgwick,$2.874,2024-12-26
+Colorado,CO,Summit,$3.495,2024-12-26
+Colorado,CO,Teller,$2.829,2024-12-26
+Colorado,CO,Washington,$2.991,2024-12-26
+Colorado,CO,Weld,$2.780,2024-12-26
+Colorado,CO,Yuma,$2.993,2024-12-26
+Connecticut,CT,Fairfield,$3.078,2024-12-26
+Connecticut,CT,Hartford,$3.019,2024-12-26
+Connecticut,CT,Litchfield,$3.007,2024-12-26
+Connecticut,CT,Middlesex,$3.036,2024-12-26
+Connecticut,CT,New Haven,$3.004,2024-12-26
+Connecticut,CT,New London,$3.013,2024-12-26
+Connecticut,CT,Tolland,$2.967,2024-12-26
+Connecticut,CT,Windham,$3.028,2024-12-26
+Delaware,DE,Kent,$2.781,2024-12-26
+Delaware,DE,New castle,$2.754,2024-12-26
+Delaware,DE,Sussex,$2.746,2024-12-26
+Florida,FL,Alachua,$3.157,2024-12-26
+Florida,FL,Baker,$3.125,2024-12-26
+Florida,FL,Bay,$2.789,2024-12-26
+Florida,FL,Bradford,$2.993,2024-12-26
+Florida,FL,Brevard,$3.121,2024-12-26
+Florida,FL,Broward,$3.124,2024-12-26
+Florida,FL,Calhoun,$2.899,2024-12-26
+Florida,FL,Charlotte,$3.099,2024-12-26
+Florida,FL,Citrus,$3.152,2024-12-26
+Florida,FL,Clay,$3.145,2024-12-26
+Florida,FL,Collier,$3.174,2024-12-26
+Florida,FL,Columbia,$3.154,2024-12-26
+Florida,FL,De Soto,$3.141,2024-12-26
+Florida,FL,Dixie,$3.098,2024-12-26
+Florida,FL,Duval,$3.102,2024-12-26
+Florida,FL,Escambia,$2.808,2024-12-26
+Florida,FL,Flagler,$3.107,2024-12-26
+Florida,FL,Franklin,$2.934,2024-12-26
+Florida,FL,Gadsden,$2.938,2024-12-26
+Florida,FL,Gilchrist,$3.119,2024-12-26
+Florida,FL,Glades,$3.161,2024-12-26
+Florida,FL,Gulf,$2.841,2024-12-26
+Florida,FL,Hamilton,$3.093,2024-12-26
+Florida,FL,Hardee,$3.201,2024-12-26
+Florida,FL,Hendry,$3.179,2024-12-26
+Florida,FL,Hernando,$3.131,2024-12-26
+Florida,FL,Highlands,$3.130,2024-12-26
+Florida,FL,Hillsborough,$3.151,2024-12-26
+Florida,FL,Holmes,$3.004,2024-12-26
+Florida,FL,Indian River,$3.113,2024-12-26
+Florida,FL,Jackson,$2.836,2024-12-26
+Florida,FL,Jefferson,$3.160,2024-12-26
+Florida,FL,Lafayette,$3.139,2024-12-26
+Florida,FL,Lake,$3.123,2024-12-26
+Florida,FL,Lee,$3.130,2024-12-26
+Florida,FL,Leon,$2.945,2024-12-26
+Florida,FL,Levy,$3.155,2024-12-26
+Florida,FL,Liberty,$2.899,2024-12-26
+Florida,FL,Madison,$3.180,2024-12-26
+Florida,FL,Manatee,$3.128,2024-12-26
+Florida,FL,Marion,$3.154,2024-12-26
+Florida,FL,Martin,$3.161,2024-12-26
+Florida,FL,Miami Dade,$3.161,2024-12-26
+Florida,FL,Monroe,$3.239,2024-12-26
+Florida,FL,Nassau,$3.143,2024-12-26
+Florida,FL,Okaloosa,$2.718,2024-12-26
+Florida,FL,Okeechobee,$3.096,2024-12-26
+Florida,FL,Orange,$3.142,2024-12-26
+Florida,FL,Osceola,$3.148,2024-12-26
+Florida,FL,Palm Beach,$3.263,2024-12-26
+Florida,FL,Pasco,$3.144,2024-12-26
+Florida,FL,Pinellas,$3.131,2024-12-26
+Florida,FL,Polk,$3.128,2024-12-26
+Florida,FL,Putnam,$3.123,2024-12-26
+Florida,FL,Santa Rosa,$2.862,2024-12-26
+Florida,FL,Sarasota,$3.141,2024-12-26
+Florida,FL,Seminole,$3.134,2024-12-26
+Florida,FL,Saint Johns,$3.105,2024-12-26
+Florida,FL,Saint Lucie,$3.102,2024-12-26
+Florida,FL,Sumter,$3.117,2024-12-26
+Florida,FL,Suwannee,$3.209,2024-12-26
+Florida,FL,Taylor,$2.976,2024-12-26
+Florida,FL,Union,$3.199,2024-12-26
+Florida,FL,Volusia,$3.123,2024-12-26
+Florida,FL,Wakulla,$3.034,2024-12-26
+Florida,FL,Walton,$2.795,2024-12-26
+Florida,FL,Washington,$2.910,2024-12-26
+Georgia,GA,Appling,$2.799,2024-12-26
+Georgia,GA,Atkinson,$2.974,2024-12-26
+Georgia,GA,Bacon,$2.935,2024-12-26
+Georgia,GA,Bibb,$2.910,2024-12-26
+Georgia,GA,Bulloch,$2.816,2024-12-26
+Georgia,GA,Baldwin,$2.797,2024-12-26
+Georgia,GA,Brantley,$2.899,2024-12-26
+Georgia,GA,Ben Hill,$2.791,2024-12-26
+Georgia,GA,Berrien,$2.858,2024-12-26
+Georgia,GA,Baker,$2.879,2024-12-26
+Georgia,GA,Bleckley,$2.799,2024-12-26
+Georgia,GA,Banks,$2.914,2024-12-26
+Georgia,GA,Brooks,$3.031,2024-12-26
+Georgia,GA,Bryan,$2.918,2024-12-26
+Georgia,GA,Butts,$2.974,2024-12-26
+Georgia,GA,Bartow,$2.891,2024-12-26
+Georgia,GA,Burke,$2.818,2024-12-26
+Georgia,GA,Barrow,$2.863,2024-12-26
+Georgia,GA,Chatham,$2.950,2024-12-26
+Georgia,GA,Cobb,$2.954,2024-12-26
+Georgia,GA,Chattahoochee,$2.899,2024-12-26
+Georgia,GA,Crawford,$3.149,2024-12-26
+Georgia,GA,Cherokee,$2.933,2024-12-26
+Georgia,GA,Coffee,$2.903,2024-12-26
+Georgia,GA,Chattooga,$2.811,2024-12-26
+Georgia,GA,Charlton,$2.873,2024-12-26
+Georgia,GA,Clinch,$2.879,2024-12-26
+Georgia,GA,Clarke,$2.929,2024-12-26
+Georgia,GA,Calhoun,$2.999,2024-12-26
+Georgia,GA,Camden,$2.815,2024-12-26
+Georgia,GA,Candler,$3.040,2024-12-26
+Georgia,GA,Cook,$3.011,2024-12-26
+Georgia,GA,Crisp,$2.793,2024-12-26
+Georgia,GA,Colquitt,$2.794,2024-12-26
+Georgia,GA,Carroll,$2.905,2024-12-26
+Georgia,GA,Catoosa,$2.669,2024-12-26
+Georgia,GA,Clayton,$2.919,2024-12-26
+Georgia,GA,Columbia,$2.792,2024-12-26
+Georgia,GA,Coweta,$2.932,2024-12-26
+Georgia,GA,Clay,$2.999,2024-12-26
+Georgia,GA,Dade,$2.725,2024-12-26
+Georgia,GA,Decatur,$2.815,2024-12-26
+Georgia,GA,Douglas,$2.919,2024-12-26
+Georgia,GA,DeKalb,$2.949,2024-12-26
+Georgia,GA,Dooly,$2.886,2024-12-26
+Georgia,GA,Dodge,$2.808,2024-12-26
+Georgia,GA,Dougherty,$2.719,2024-12-26
+Georgia,GA,Dawson,$2.898,2024-12-26
+Georgia,GA,Early,$3.013,2024-12-26
+Georgia,GA,Echols,,2024-12-26
+Georgia,GA,Effingham,$2.936,2024-12-26
+Georgia,GA,Elbert,$2.776,2024-12-26
+Georgia,GA,Emanuel,$3.081,2024-12-26
+Georgia,GA,Evans,$2.816,2024-12-26
+Georgia,GA,Fannin,$2.916,2024-12-26
+Georgia,GA,Floyd,$2.863,2024-12-26
+Georgia,GA,Forsyth,$2.960,2024-12-26
+Georgia,GA,Franklin,$2.933,2024-12-26
+Georgia,GA,Fulton,$3.055,2024-12-26
+Georgia,GA,Fayette,$2.982,2024-12-26
+Georgia,GA,Greene,$2.985,2024-12-26
+Georgia,GA,Gilmer,$2.861,2024-12-26
+Georgia,GA,Glascock,$2.794,2024-12-26
+Georgia,GA,Gordon,$2.817,2024-12-26
+Georgia,GA,Grady,$2.960,2024-12-26
+Georgia,GA,Gwinnett,$2.886,2024-12-26
+Georgia,GA,Glynn,$2.757,2024-12-26
+Georgia,GA,Habersham,$2.837,2024-12-26
+Georgia,GA,Heard,$3.009,2024-12-26
+Georgia,GA,Harris,$2.950,2024-12-26
+Georgia,GA,Hall,$2.885,2024-12-26
+Georgia,GA,Hancock,$2.999,2024-12-26
+Georgia,GA,Houston,$2.867,2024-12-26
+Georgia,GA,Haralson,$2.803,2024-12-26
+Georgia,GA,Hart,$2.800,2024-12-26
+Georgia,GA,Henry,$2.879,2024-12-26
+Georgia,GA,Irwin,$3.052,2024-12-26
+Georgia,GA,Jackson,$2.919,2024-12-26
+Georgia,GA,Jeff Davis,$2.882,2024-12-26
+Georgia,GA,Jefferson,$2.870,2024-12-26
+Georgia,GA,Jenkins,$2.866,2024-12-26
+Georgia,GA,Jones,$2.949,2024-12-26
+Georgia,GA,Johnson,$2.899,2024-12-26
+Georgia,GA,Jasper,$2.967,2024-12-26
+Georgia,GA,Lamar,$2.830,2024-12-26
+Georgia,GA,Lincoln,$2.899,2024-12-26
+Georgia,GA,Lee,$2.741,2024-12-26
+Georgia,GA,Liberty,$2.876,2024-12-26
+Georgia,GA,Lanier,$2.976,2024-12-26
+Georgia,GA,Long,$2.899,2024-12-26
+Georgia,GA,Lumpkin,$2.934,2024-12-26
+Georgia,GA,Laurens,$2.812,2024-12-26
+Georgia,GA,Lowndes,$2.867,2024-12-26
+Georgia,GA,Macon,$2.949,2024-12-26
+Georgia,GA,Mcduffie,$2.906,2024-12-26
+Georgia,GA,Madison,$2.878,2024-12-26
+Georgia,GA,Meriwether,$2.890,2024-12-26
+Georgia,GA,Montgomery,$2.969,2024-12-26
+Georgia,GA,Mcintosh,$2.868,2024-12-26
+Georgia,GA,Miller,$2.999,2024-12-26
+Georgia,GA,Morgan,$2.908,2024-12-26
+Georgia,GA,Monroe,$3.019,2024-12-26
+Georgia,GA,Marion,$2.899,2024-12-26
+Georgia,GA,Muscogee,$2.796,2024-12-26
+Georgia,GA,Mitchell,$3.039,2024-12-26
+Georgia,GA,Murray,$2.757,2024-12-26
+Georgia,GA,Newton,$2.888,2024-12-26
+Georgia,GA,Oconee,$2.927,2024-12-26
+Georgia,GA,Oglethorpe,$3.009,2024-12-26
+Georgia,GA,Peach,$2.878,2024-12-26
+Georgia,GA,Pickens,$2.940,2024-12-26
+Georgia,GA,Paulding,$2.919,2024-12-26
+Georgia,GA,Pierce,$2.912,2024-12-26
+Georgia,GA,Pike,$2.967,2024-12-26
+Georgia,GA,Pulaski,$2.969,2024-12-26
+Georgia,GA,Polk,$2.893,2024-12-26
+Georgia,GA,Putnam,$2.912,2024-12-26
+Georgia,GA,Quitman,$2.874,2024-12-26
+Georgia,GA,Randolph,$2.866,2024-12-26
+Georgia,GA,Rabun,$2.761,2024-12-26
+Georgia,GA,Richmond,$2.867,2024-12-26
+Georgia,GA,Rockdale,$2.926,2024-12-26
+Georgia,GA,Schley,$2.799,2024-12-26
+Georgia,GA,Stephens,$2.782,2024-12-26
+Georgia,GA,Seminole,$2.949,2024-12-26
+Georgia,GA,Spalding,$2.995,2024-12-26
+Georgia,GA,Screven,$2.912,2024-12-26
+Georgia,GA,Stewart,$2.924,2024-12-26
+Georgia,GA,Sumter,$2.774,2024-12-26
+Georgia,GA,Taliaferro,$3.019,2024-12-26
+Georgia,GA,Talbot,$3.044,2024-12-26
+Georgia,GA,Treutlen,$2.999,2024-12-26
+Georgia,GA,Telfair,$3.027,2024-12-26
+Georgia,GA,Thomas,$2.912,2024-12-26
+Georgia,GA,Tift,$2.867,2024-12-26
+Georgia,GA,Terrell,$2.736,2024-12-26
+Georgia,GA,Toombs,$2.883,2024-12-26
+Georgia,GA,Towns,$2.852,2024-12-26
+Georgia,GA,Troup,$2.917,2024-12-26
+Georgia,GA,Tattnall,$2.958,2024-12-26
+Georgia,GA,Turner,$2.806,2024-12-26
+Georgia,GA,Twiggs,$2.999,2024-12-26
+Georgia,GA,Taylor,$2.875,2024-12-26
+Georgia,GA,Union,$2.968,2024-12-26
+Georgia,GA,Upson,$2.931,2024-12-26
+Georgia,GA,Ware,$2.789,2024-12-26
+Georgia,GA,Wilcox,$2.899,2024-12-26
+Georgia,GA,Wheeler,$3.034,2024-12-26
+Georgia,GA,Washington,$2.725,2024-12-26
+Georgia,GA,Whitfield,$2.748,2024-12-26
+Georgia,GA,Wilkinson,$2.846,2024-12-26
+Georgia,GA,Walker,$2.741,2024-12-26
+Georgia,GA,Wilkes,$2.882,2024-12-26
+Georgia,GA,Walton,$2.873,2024-12-26
+Georgia,GA,Worth,$2.963,2024-12-26
+Georgia,GA,Warren,$2.964,2024-12-26
+Georgia,GA,Webster,$2.899,2024-12-26
+Georgia,GA,White,$2.997,2024-12-26
+Georgia,GA,Wayne,$2.786,2024-12-26
+Hawaii,HI,Hawaii,$4.640,2024-12-26
+Hawaii,HI,Honolulu,$4.465,2024-12-26
+Hawaii,HI,Kalawao,,2024-12-26
+Hawaii,HI,Kauai,$5.169,2024-12-26
+Hawaii,HI,Maui,$4.581,2024-12-26
+Idaho,ID,Ada,$3.161,2024-12-26
+Idaho,ID,Adams,$3.357,2024-12-26
+Idaho,ID,Bannock,$3.067,2024-12-26
+Idaho,ID,Bear Lake,$3.109,2024-12-26
+Idaho,ID,Benewah,$2.908,2024-12-26
+Idaho,ID,Bingham,$3.009,2024-12-26
+Idaho,ID,Blaine,$3.469,2024-12-26
+Idaho,ID,Boise,$3.219,2024-12-26
+Idaho,ID,Bonner,$2.962,2024-12-26
+Idaho,ID,Bonneville,$3.039,2024-12-26
+Idaho,ID,Boundary,$2.819,2024-12-26
+Idaho,ID,Butte,$3.016,2024-12-26
+Idaho,ID,Camas,$3.499,2024-12-26
+Idaho,ID,Canyon,$3.176,2024-12-26
+Idaho,ID,Caribou,$3.099,2024-12-26
+Idaho,ID,Cassia,$3.093,2024-12-26
+Idaho,ID,Clark,$3.299,2024-12-26
+Idaho,ID,Clearwater,$2.999,2024-12-26
+Idaho,ID,Custer,$3.155,2024-12-26
+Idaho,ID,Elmore,$3.136,2024-12-26
+Idaho,ID,Franklin,$3.096,2024-12-26
+Idaho,ID,Fremont,$3.423,2024-12-26
+Idaho,ID,Gem,$3.099,2024-12-26
+Idaho,ID,Gooding,$3.069,2024-12-26
+Idaho,ID,Idaho,$3.419,2024-12-26
+Idaho,ID,Jefferson,$3.065,2024-12-26
+Idaho,ID,Jerome,$3.086,2024-12-26
+Idaho,ID,Kootenai,$2.824,2024-12-26
+Idaho,ID,Latah,$3.207,2024-12-26
+Idaho,ID,Lemhi,$2.999,2024-12-26
+Idaho,ID,Lewis,$3.051,2024-12-26
+Idaho,ID,Lincoln,$3.099,2024-12-26
+Idaho,ID,Madison,$3.070,2024-12-26
+Idaho,ID,Minidoka,$3.051,2024-12-26
+Idaho,ID,Nez perce,$3.136,2024-12-26
+Idaho,ID,Oneida,$3.099,2024-12-26
+Idaho,ID,Owyhee,$3.132,2024-12-26
+Idaho,ID,Payette,$3.149,2024-12-26
+Idaho,ID,Power,$3.041,2024-12-26
+Idaho,ID,Shoshone,$3.292,2024-12-26
+Idaho,ID,Teton,$3.171,2024-12-26
+Idaho,ID,Twin falls,$3.095,2024-12-26
+Idaho,ID,Valley,$3.292,2024-12-26
+Idaho,ID,Washington,$3.109,2024-12-26
+Illinois,IL,Adams,$3.036,2024-12-26
+Illinois,IL,Alexander,$3.499,2024-12-26
+Illinois,IL,Bond,$2.998,2024-12-26
+Illinois,IL,Boone,$3.126,2024-12-26
+Illinois,IL,Brown,$2.999,2024-12-26
+Illinois,IL,Bureau,$3.103,2024-12-26
+Illinois,IL,Calhoun,$3.199,2024-12-26
+Illinois,IL,Carroll,$3.137,2024-12-26
+Illinois,IL,Cass,$3.028,2024-12-26
+Illinois,IL,Champaign,$3.008,2024-12-26
+Illinois,IL,Christian,$2.937,2024-12-26
+Illinois,IL,Clark,$3.094,2024-12-26
+Illinois,IL,Clay,$3.099,2024-12-26
+Illinois,IL,Clinton,$3.148,2024-12-26
+Illinois,IL,Coles,$3.015,2024-12-26
+Illinois,IL,Cook,$3.463,2024-12-26
+Illinois,IL,Crawford,$3.077,2024-12-26
+Illinois,IL,Cumberland,$3.129,2024-12-26
+Illinois,IL,Dewitt,$3.109,2024-12-26
+Illinois,IL,De Kalb,$3.160,2024-12-26
+Illinois,IL,Douglas,$2.929,2024-12-26
+Illinois,IL,Du Page,$3.369,2024-12-26
+Illinois,IL,Edgar,$3.052,2024-12-26
+Illinois,IL,Edwards,$2.972,2024-12-26
+Illinois,IL,Effingham,$2.841,2024-12-26
+Illinois,IL,Fayette,$2.999,2024-12-26
+Illinois,IL,Ford,$3.133,2024-12-26
+Illinois,IL,Franklin,$2.982,2024-12-26
+Illinois,IL,Fulton,$3.107,2024-12-26
+Illinois,IL,Gallatin,$3.049,2024-12-26
+Illinois,IL,Greene,$3.138,2024-12-26
+Illinois,IL,Grundy,$3.162,2024-12-26
+Illinois,IL,Hamilton,$2.969,2024-12-26
+Illinois,IL,Hancock,$3.319,2024-12-26
+Illinois,IL,Hardin,,2024-12-26
+Illinois,IL,Henderson,$3.176,2024-12-26
+Illinois,IL,Henry,$3.165,2024-12-26
+Illinois,IL,Iroquois,$3.018,2024-12-26
+Illinois,IL,Jackson,$3.021,2024-12-26
+Illinois,IL,Jasper,$2.999,2024-12-26
+Illinois,IL,Jefferson,$2.964,2024-12-26
+Illinois,IL,Jersey,$3.199,2024-12-26
+Illinois,IL,Jo Daviess,$3.162,2024-12-26
+Illinois,IL,Johnson,$3.079,2024-12-26
+Illinois,IL,Kane,$3.314,2024-12-26
+Illinois,IL,Kankakee,$2.979,2024-12-26
+Illinois,IL,Kendall,$3.238,2024-12-26
+Illinois,IL,Knox,$3.039,2024-12-26
+Illinois,IL,La Salle,$2.991,2024-12-26
+Illinois,IL,Lake,$3.265,2024-12-26
+Illinois,IL,Lawrence,$3.072,2024-12-26
+Illinois,IL,Lee,$3.087,2024-12-26
+Illinois,IL,Livingston,$3.121,2024-12-26
+Illinois,IL,Logan,$3.148,2024-12-26
+Illinois,IL,Macon,$2.973,2024-12-26
+Illinois,IL,Macoupin,$3.065,2024-12-26
+Illinois,IL,Madison,$3.095,2024-12-26
+Illinois,IL,Marion,$3.092,2024-12-26
+Illinois,IL,Marshall,$3.196,2024-12-26
+Illinois,IL,Mason,$3.176,2024-12-26
+Illinois,IL,Massac,$2.973,2024-12-26
+Illinois,IL,McDonough,$3.150,2024-12-26
+Illinois,IL,McHenry,$3.287,2024-12-26
+Illinois,IL,McLean,$3.051,2024-12-26
+Illinois,IL,Menard,$2.992,2024-12-26
+Illinois,IL,Mercer,$3.279,2024-12-26
+Illinois,IL,Monroe,$3.379,2024-12-26
+Illinois,IL,Montgomery,$3.017,2024-12-26
+Illinois,IL,Morgan,$2.882,2024-12-26
+Illinois,IL,Moultrie,$3.091,2024-12-26
+Illinois,IL,Ogle,$3.068,2024-12-26
+Illinois,IL,Peoria,$3.191,2024-12-26
+Illinois,IL,Perry,$3.099,2024-12-26
+Illinois,IL,Piatt,$2.960,2024-12-26
+Illinois,IL,Pike,$2.978,2024-12-26
+Illinois,IL,Pope,$3.099,2024-12-26
+Illinois,IL,Pulaski,$3.799,2024-12-26
+Illinois,IL,Putnam,$2.999,2024-12-26
+Illinois,IL,Randolph,$3.204,2024-12-26
+Illinois,IL,Richland,$2.793,2024-12-26
+Illinois,IL,Rock Island,$3.123,2024-12-26
+Illinois,IL,Saline,$3.000,2024-12-26
+Illinois,IL,Sangamon,$2.993,2024-12-26
+Illinois,IL,Schuyler,$2.976,2024-12-26
+Illinois,IL,Scott,$2.949,2024-12-26
+Illinois,IL,Shelby,$3.032,2024-12-26
+Illinois,IL,Saint Clair,$3.262,2024-12-26
+Illinois,IL,Stark,$3.159,2024-12-26
+Illinois,IL,Stephenson,$3.178,2024-12-26
+Illinois,IL,Tazewell,$3.128,2024-12-26
+Illinois,IL,Union,$2.969,2024-12-26
+Illinois,IL,Vermilion,$3.054,2024-12-26
+Illinois,IL,Wabash,$2.867,2024-12-26
+Illinois,IL,Warren,$3.185,2024-12-26
+Illinois,IL,Washington,$3.074,2024-12-26
+Illinois,IL,Wayne,$2.928,2024-12-26
+Illinois,IL,White,$3.021,2024-12-26
+Illinois,IL,Whiteside,$3.167,2024-12-26
+Illinois,IL,Will,$3.297,2024-12-26
+Illinois,IL,Williamson,$2.914,2024-12-26
+Illinois,IL,Winnebago,$3.120,2024-12-26
+Illinois,IL,Woodford,$3.096,2024-12-26
+Indiana,IN,Adams,$3.000,2024-12-26
+Indiana,IN,Allen,$3.112,2024-12-26
+Indiana,IN,Bartholomew,$3.115,2024-12-26
+Indiana,IN,Benton,$3.079,2024-12-26
+Indiana,IN,Blackford,$3.093,2024-12-26
+Indiana,IN,Boone,$3.085,2024-12-26
+Indiana,IN,Brown,$3.285,2024-12-26
+Indiana,IN,Carroll,$3.208,2024-12-26
+Indiana,IN,Cass,$3.171,2024-12-26
+Indiana,IN,Clark,$2.902,2024-12-26
+Indiana,IN,Clay,$3.134,2024-12-26
+Indiana,IN,Clinton,$3.175,2024-12-26
+Indiana,IN,Crawford,$2.966,2024-12-26
+Indiana,IN,Daviess,$2.800,2024-12-26
+Indiana,IN,De Kalb,$3.075,2024-12-26
+Indiana,IN,Dearborn,$3.021,2024-12-26
+Indiana,IN,Decatur,$3.074,2024-12-26
+Indiana,IN,Delaware,$3.085,2024-12-26
+Indiana,IN,Dubois,$2.830,2024-12-26
+Indiana,IN,Elkhart,$2.968,2024-12-26
+Indiana,IN,Fayette,$3.049,2024-12-26
+Indiana,IN,Floyd,$2.948,2024-12-26
+Indiana,IN,Fountain,$3.049,2024-12-26
+Indiana,IN,Franklin,$3.012,2024-12-26
+Indiana,IN,Fulton,$3.083,2024-12-26
+Indiana,IN,Gibson,$2.818,2024-12-26
+Indiana,IN,Grant,$3.121,2024-12-26
+Indiana,IN,Greene,$2.943,2024-12-26
+Indiana,IN,Hamilton,$3.188,2024-12-26
+Indiana,IN,Hancock,$3.076,2024-12-26
+Indiana,IN,Harrison,$2.958,2024-12-26
+Indiana,IN,Hendricks,$3.148,2024-12-26
+Indiana,IN,Henry,$2.980,2024-12-26
+Indiana,IN,Howard,$3.080,2024-12-26
+Indiana,IN,Huntington,$3.097,2024-12-26
+Indiana,IN,Jackson,$2.968,2024-12-26
+Indiana,IN,Jasper,$3.045,2024-12-26
+Indiana,IN,Jay,$2.996,2024-12-26
+Indiana,IN,Jefferson,$3.111,2024-12-26
+Indiana,IN,Jennings,$2.961,2024-12-26
+Indiana,IN,Johnson,$3.082,2024-12-26
+Indiana,IN,Knox,$2.828,2024-12-26
+Indiana,IN,Kosciusko,$3.110,2024-12-26
+Indiana,IN,La Porte,$3.117,2024-12-26
+Indiana,IN,Lagrange,$3.080,2024-12-26
+Indiana,IN,Lake,$3.020,2024-12-26
+Indiana,IN,Lawrence,$2.917,2024-12-26
+Indiana,IN,Madison,$3.071,2024-12-26
+Indiana,IN,Marion,$3.064,2024-12-26
+Indiana,IN,Marshall,$3.065,2024-12-26
+Indiana,IN,Martin,$2.862,2024-12-26
+Indiana,IN,Miami,$3.008,2024-12-26
+Indiana,IN,Monroe,$3.090,2024-12-26
+Indiana,IN,Montgomery,$3.089,2024-12-26
+Indiana,IN,Morgan,$3.015,2024-12-26
+Indiana,IN,Newton,$2.895,2024-12-26
+Indiana,IN,Noble,$3.096,2024-12-26
+Indiana,IN,Ohio,$2.999,2024-12-26
+Indiana,IN,Orange,$2.792,2024-12-26
+Indiana,IN,Owen,$3.182,2024-12-26
+Indiana,IN,Parke,$3.012,2024-12-26
+Indiana,IN,Perry,$2.868,2024-12-26
+Indiana,IN,Pike,$2.879,2024-12-26
+Indiana,IN,Porter,$3.111,2024-12-26
+Indiana,IN,Posey,$2.759,2024-12-26
+Indiana,IN,Pulaski,$3.147,2024-12-26
+Indiana,IN,Putnam,$3.229,2024-12-26
+Indiana,IN,Randolph,$2.978,2024-12-26
+Indiana,IN,Ripley,$3.014,2024-12-26
+Indiana,IN,Rush,$3.145,2024-12-26
+Indiana,IN,Scott,$3.010,2024-12-26
+Indiana,IN,Shelby,$3.103,2024-12-26
+Indiana,IN,Spencer,$2.937,2024-12-26
+Indiana,IN,Saint Joseph,,2024-12-26
+Indiana,IN,Starke,$3.042,2024-12-26
+Indiana,IN,Steuben,$3.073,2024-12-26
+Indiana,IN,Sullivan,$3.082,2024-12-26
+Indiana,IN,Switzerland,$2.937,2024-12-26
+Indiana,IN,Tippecanoe,$3.185,2024-12-26
+Indiana,IN,Tipton,$3.152,2024-12-26
+Indiana,IN,Union,$2.924,2024-12-26
+Indiana,IN,Vanderburgh,$2.761,2024-12-26
+Indiana,IN,Vermillion,$2.992,2024-12-26
+Indiana,IN,Vigo,$3.060,2024-12-26
+Indiana,IN,Wabash,$3.044,2024-12-26
+Indiana,IN,Warren,$3.232,2024-12-26
+Indiana,IN,Warrick,$2.680,2024-12-26
+Indiana,IN,Washington,$2.793,2024-12-26
+Indiana,IN,Wayne,$3.079,2024-12-26
+Indiana,IN,Wells,$3.030,2024-12-26
+Indiana,IN,White,$3.050,2024-12-26
+Indiana,IN,Whitley,$3.133,2024-12-26
+Iowa,IA,Adair,$2.679,2024-12-26
+Iowa,IA,Adams,$2.699,2024-12-26
+Iowa,IA,Allamakee,$2.959,2024-12-26
+Iowa,IA,Appanoose,$2.712,2024-12-26
+Iowa,IA,Audubon,$2.716,2024-12-26
+Iowa,IA,Benton,$2.671,2024-12-26
+Iowa,IA,Black Hawk,$2.901,2024-12-26
+Iowa,IA,Boone,$2.749,2024-12-26
+Iowa,IA,Bremer,$2.999,2024-12-26
+Iowa,IA,Buchanan,$2.870,2024-12-26
+Iowa,IA,Buena Vista,$2.575,2024-12-26
+Iowa,IA,Butler,$2.955,2024-12-26
+Iowa,IA,Calhoun,$2.763,2024-12-26
+Iowa,IA,Carroll,$2.750,2024-12-26
+Iowa,IA,Cass,$2.691,2024-12-26
+Iowa,IA,Cedar,$2.830,2024-12-26
+Iowa,IA,Cerro Gordo,$2.790,2024-12-26
+Iowa,IA,Cherokee,$2.583,2024-12-26
+Iowa,IA,Chickasaw,$2.970,2024-12-26
+Iowa,IA,Clarke,$2.639,2024-12-26
+Iowa,IA,Clay,$2.849,2024-12-26
+Iowa,IA,Clayton,$2.943,2024-12-26
+Iowa,IA,Clinton,$2.901,2024-12-26
+Iowa,IA,Crawford,$2.574,2024-12-26
+Iowa,IA,Dallas,$2.683,2024-12-26
+Iowa,IA,Davis,$2.659,2024-12-26
+Iowa,IA,Decatur,$2.646,2024-12-26
+Iowa,IA,Delaware,$2.903,2024-12-26
+Iowa,IA,Des Moines,$2.741,2024-12-26
+Iowa,IA,Dickinson,$2.599,2024-12-26
+Iowa,IA,Dubuque,$2.976,2024-12-26
+Iowa,IA,Emmet,$2.647,2024-12-26
+Iowa,IA,Fayette,$2.728,2024-12-26
+Iowa,IA,Floyd,$2.905,2024-12-26
+Iowa,IA,Franklin,$2.932,2024-12-26
+Iowa,IA,Fremont,$2.626,2024-12-26
+Iowa,IA,Greene,$2.699,2024-12-26
+Iowa,IA,Grundy,$2.898,2024-12-26
+Iowa,IA,Guthrie,$2.676,2024-12-26
+Iowa,IA,Hamilton,$2.796,2024-12-26
+Iowa,IA,Hancock,$2.874,2024-12-26
+Iowa,IA,Hardin,$2.979,2024-12-26
+Iowa,IA,Harrison,$2.735,2024-12-26
+Iowa,IA,Henry,$2.540,2024-12-26
+Iowa,IA,Howard,$2.930,2024-12-26
+Iowa,IA,Humboldt,$2.859,2024-12-26
+Iowa,IA,Ida,$2.635,2024-12-26
+Iowa,IA,Iowa,$2.673,2024-12-26
+Iowa,IA,Jackson,$2.970,2024-12-26
+Iowa,IA,Jasper,$2.743,2024-12-26
+Iowa,IA,Jefferson,$2.763,2024-12-26
+Iowa,IA,Johnson,$2.794,2024-12-26
+Iowa,IA,Jones,$2.879,2024-12-26
+Iowa,IA,Keokuk,$2.691,2024-12-26
+Iowa,IA,Kossuth,$2.792,2024-12-26
+Iowa,IA,Lee,$2.759,2024-12-26
+Iowa,IA,Linn,$2.761,2024-12-26
+Iowa,IA,Louisa,$2.799,2024-12-26
+Iowa,IA,Lucas,$2.659,2024-12-26
+Iowa,IA,Lyon,$2.625,2024-12-26
+Iowa,IA,Madison,$2.665,2024-12-26
+Iowa,IA,Mahaska,$2.709,2024-12-26
+Iowa,IA,Marion,$2.675,2024-12-26
+Iowa,IA,Marshall,$2.811,2024-12-26
+Iowa,IA,Mills,$2.711,2024-12-26
+Iowa,IA,Mitchell,$2.999,2024-12-26
+Iowa,IA,Monona,$2.641,2024-12-26
+Iowa,IA,Monroe,$2.649,2024-12-26
+Iowa,IA,Montgomery,$2.649,2024-12-26
+Iowa,IA,Muscatine,$2.744,2024-12-26
+Iowa,IA,O'Brien,,2024-12-26
+Iowa,IA,Osceola,$2.689,2024-12-26
+Iowa,IA,Page,$2.593,2024-12-26
+Iowa,IA,Palo Alto,$2.714,2024-12-26
+Iowa,IA,Plymouth,$2.735,2024-12-26
+Iowa,IA,Pocahontas,$2.787,2024-12-26
+Iowa,IA,Polk,$2.680,2024-12-26
+Iowa,IA,Pottawattamie,$2.713,2024-12-26
+Iowa,IA,Poweshiek,$2.808,2024-12-26
+Iowa,IA,Ringgold,$2.689,2024-12-26
+Iowa,IA,Sac,$2.763,2024-12-26
+Iowa,IA,Scott,$2.742,2024-12-26
+Iowa,IA,Shelby,$2.695,2024-12-26
+Iowa,IA,Sioux,$2.716,2024-12-26
+Iowa,IA,Story,$2.726,2024-12-26
+Iowa,IA,Tama,$2.844,2024-12-26
+Iowa,IA,Taylor,$2.702,2024-12-26
+Iowa,IA,Union,$2.699,2024-12-26
+Iowa,IA,Van Buren,$2.755,2024-12-26
+Iowa,IA,Wapello,$2.594,2024-12-26
+Iowa,IA,Warren,$2.677,2024-12-26
+Iowa,IA,Washington,$2.792,2024-12-26
+Iowa,IA,Wayne,$2.712,2024-12-26
+Iowa,IA,Webster,$2.906,2024-12-26
+Iowa,IA,Winnebago,$2.855,2024-12-26
+Iowa,IA,Winneshiek,$3.010,2024-12-26
+Iowa,IA,Woodbury,$2.726,2024-12-26
+Iowa,IA,Worth,$2.787,2024-12-26
+Iowa,IA,Wright,$2.704,2024-12-26
+Kansas,KS,Allen,$2.793,2024-12-26
+Kansas,KS,Anderson,$2.561,2024-12-26
+Kansas,KS,Atchison,$2.649,2024-12-26
+Kansas,KS,Barber,$2.796,2024-12-26
+Kansas,KS,Barton,$2.776,2024-12-26
+Kansas,KS,Bourbon,$2.713,2024-12-26
+Kansas,KS,Brown,$2.635,2024-12-26
+Kansas,KS,Butler,$2.698,2024-12-26
+Kansas,KS,Chase,$2.626,2024-12-26
+Kansas,KS,Chautauqua,$2.709,2024-12-26
+Kansas,KS,Cherokee,$2.578,2024-12-26
+Kansas,KS,Cheyenne,$2.999,2024-12-26
+Kansas,KS,Clark,$2.599,2024-12-26
+Kansas,KS,Clay,$2.702,2024-12-26
+Kansas,KS,Cloud,$2.767,2024-12-26
+Kansas,KS,Coffey,$2.688,2024-12-26
+Kansas,KS,Comanche,$2.599,2024-12-26
+Kansas,KS,Cowley,$2.684,2024-12-26
+Kansas,KS,Crawford,$2.589,2024-12-26
+Kansas,KS,Decatur,$2.559,2024-12-26
+Kansas,KS,Dickinson,$2.612,2024-12-26
+Kansas,KS,Doniphan,$2.825,2024-12-26
+Kansas,KS,Douglas,$2.710,2024-12-26
+Kansas,KS,Edwards,$2.599,2024-12-26
+Kansas,KS,Elk,$2.729,2024-12-26
+Kansas,KS,Ellis,$2.775,2024-12-26
+Kansas,KS,Ellsworth,$2.732,2024-12-26
+Kansas,KS,Finney,$2.482,2024-12-26
+Kansas,KS,Ford,$2.508,2024-12-26
+Kansas,KS,Franklin,$2.665,2024-12-26
+Kansas,KS,Geary,$2.595,2024-12-26
+Kansas,KS,Gove,$2.679,2024-12-26
+Kansas,KS,Graham,$2.699,2024-12-26
+Kansas,KS,Grant,$2.579,2024-12-26
+Kansas,KS,Gray,$2.582,2024-12-26
+Kansas,KS,Greeley,$2.899,2024-12-26
+Kansas,KS,Greenwood,$2.603,2024-12-26
+Kansas,KS,Hamilton,$2.579,2024-12-26
+Kansas,KS,Harper,$2.726,2024-12-26
+Kansas,KS,Harvey,$2.508,2024-12-26
+Kansas,KS,Haskell,$2.592,2024-12-26
+Kansas,KS,Hodgeman,$2.524,2024-12-26
+Kansas,KS,Jackson,$2.697,2024-12-26
+Kansas,KS,Jefferson,$2.724,2024-12-26
+Kansas,KS,Jewell,$2.759,2024-12-26
+Kansas,KS,Johnson,$2.744,2024-12-26
+Kansas,KS,Kearny,$2.546,2024-12-26
+Kansas,KS,Kingman,$2.775,2024-12-26
+Kansas,KS,Kiowa,$2.599,2024-12-26
+Kansas,KS,Labette,$2.736,2024-12-26
+Kansas,KS,Lane,,2024-12-26
+Kansas,KS,Leavenworth,$2.654,2024-12-26
+Kansas,KS,Lincoln,$3.039,2024-12-26
+Kansas,KS,Linn,$2.747,2024-12-26
+Kansas,KS,Logan,$2.699,2024-12-26
+Kansas,KS,Lyon,$2.561,2024-12-26
+Kansas,KS,Marion,$2.704,2024-12-26
+Kansas,KS,Marshall,$2.799,2024-12-26
+Kansas,KS,Mcpherson,$2.558,2024-12-26
+Kansas,KS,Meade,$2.559,2024-12-26
+Kansas,KS,Miami,$2.709,2024-12-26
+Kansas,KS,Mitchell,$2.699,2024-12-26
+Kansas,KS,Montgomery,$2.702,2024-12-26
+Kansas,KS,Morris,$2.509,2024-12-26
+Kansas,KS,Morton,$2.589,2024-12-26
+Kansas,KS,Nemaha,$2.699,2024-12-26
+Kansas,KS,Neosho,$2.766,2024-12-26
+Kansas,KS,Ness,$2.699,2024-12-26
+Kansas,KS,Norton,$2.699,2024-12-26
+Kansas,KS,Osage,$2.679,2024-12-26
+Kansas,KS,Osborne,$2.686,2024-12-26
+Kansas,KS,Ottawa,$2.639,2024-12-26
+Kansas,KS,Pawnee,$2.839,2024-12-26
+Kansas,KS,Phillips,$2.739,2024-12-26
+Kansas,KS,Pottawatomie,$2.616,2024-12-26
+Kansas,KS,Pratt,$2.687,2024-12-26
+Kansas,KS,Rawlins,$2.799,2024-12-26
+Kansas,KS,Reno,$2.413,2024-12-26
+Kansas,KS,Republic,$2.799,2024-12-26
+Kansas,KS,Rice,$2.744,2024-12-26
+Kansas,KS,Riley,$2.682,2024-12-26
+Kansas,KS,Rooks,$2.699,2024-12-26
+Kansas,KS,Rush,$2.829,2024-12-26
+Kansas,KS,Russell,$2.725,2024-12-26
+Kansas,KS,Saline,$2.738,2024-12-26
+Kansas,KS,Scott,$2.579,2024-12-26
+Kansas,KS,Sedgwick,$2.671,2024-12-26
+Kansas,KS,Seward,$2.476,2024-12-26
+Kansas,KS,Shawnee,$2.623,2024-12-26
+Kansas,KS,Sheridan,$2.659,2024-12-26
+Kansas,KS,Sherman,$2.717,2024-12-26
+Kansas,KS,Smith,$2.739,2024-12-26
+Kansas,KS,Stafford,$2.679,2024-12-26
+Kansas,KS,Stanton,$2.799,2024-12-26
+Kansas,KS,Stevens,$2.604,2024-12-26
+Kansas,KS,Sumner,$2.698,2024-12-26
+Kansas,KS,Thomas,$2.602,2024-12-26
+Kansas,KS,Trego,$2.629,2024-12-26
+Kansas,KS,Wabaunsee,$2.589,2024-12-26
+Kansas,KS,Wallace,$2.844,2024-12-26
+Kansas,KS,Washington,$2.722,2024-12-26
+Kansas,KS,Wichita,$2.546,2024-12-26
+Kansas,KS,Wilson,$2.767,2024-12-26
+Kansas,KS,Woodson,$2.766,2024-12-26
+Kansas,KS,Wyandotte,$2.738,2024-12-26
+Kentucky,KY,Adair,$2.613,2024-12-26
+Kentucky,KY,Allen,$2.683,2024-12-26
+Kentucky,KY,Anderson,$2.754,2024-12-26
+Kentucky,KY,Ballard,$2.704,2024-12-26
+Kentucky,KY,Barren,$2.662,2024-12-26
+Kentucky,KY,Bath,$2.856,2024-12-26
+Kentucky,KY,Bell,$2.462,2024-12-26
+Kentucky,KY,Boone,$2.910,2024-12-26
+Kentucky,KY,Bourbon,$2.826,2024-12-26
+Kentucky,KY,Boyd,$2.862,2024-12-26
+Kentucky,KY,Boyle,$2.671,2024-12-26
+Kentucky,KY,Bracken,$2.789,2024-12-26
+Kentucky,KY,Breathitt,$2.787,2024-12-26
+Kentucky,KY,Breckinridge,$2.670,2024-12-26
+Kentucky,KY,Bullitt,$2.692,2024-12-26
+Kentucky,KY,Butler,$2.712,2024-12-26
+Kentucky,KY,Caldwell,$2.716,2024-12-26
+Kentucky,KY,Calloway,$2.604,2024-12-26
+Kentucky,KY,Campbell,$2.994,2024-12-26
+Kentucky,KY,Carlisle,$2.674,2024-12-26
+Kentucky,KY,Carroll,$2.900,2024-12-26
+Kentucky,KY,Carter,$2.565,2024-12-26
+Kentucky,KY,Casey,$2.729,2024-12-26
+Kentucky,KY,Christian,$2.650,2024-12-26
+Kentucky,KY,Clark,$2.848,2024-12-26
+Kentucky,KY,Clay,$2.975,2024-12-26
+Kentucky,KY,Clinton,$2.899,2024-12-26
+Kentucky,KY,Crittenden,$2.659,2024-12-26
+Kentucky,KY,Cumberland,$2.701,2024-12-26
+Kentucky,KY,Daviess,$2.567,2024-12-26
+Kentucky,KY,Edmonson,$2.696,2024-12-26
+Kentucky,KY,Elliott,$2.799,2024-12-26
+Kentucky,KY,Estill,$2.879,2024-12-26
+Kentucky,KY,Fayette,$2.786,2024-12-26
+Kentucky,KY,Fleming,$2.688,2024-12-26
+Kentucky,KY,Floyd,$2.703,2024-12-26
+Kentucky,KY,Franklin,$2.631,2024-12-26
+Kentucky,KY,Fulton,$2.679,2024-12-26
+Kentucky,KY,Gallatin,$2.890,2024-12-26
+Kentucky,KY,Garrard,$2.674,2024-12-26
+Kentucky,KY,Grant,$2.906,2024-12-26
+Kentucky,KY,Graves,$2.582,2024-12-26
+Kentucky,KY,Grayson,$2.721,2024-12-26
+Kentucky,KY,Green,$2.659,2024-12-26
+Kentucky,KY,Greenup,$2.810,2024-12-26
+Kentucky,KY,Hancock,$2.669,2024-12-26
+Kentucky,KY,Hardin,$2.675,2024-12-26
+Kentucky,KY,Harlan,$2.907,2024-12-26
+Kentucky,KY,Harrison,$2.785,2024-12-26
+Kentucky,KY,Hart,$2.696,2024-12-26
+Kentucky,KY,Henderson,$2.640,2024-12-26
+Kentucky,KY,Henry,$2.872,2024-12-26
+Kentucky,KY,Hickman,$2.699,2024-12-26
+Kentucky,KY,Hopkins,$2.569,2024-12-26
+Kentucky,KY,Jackson,$2.735,2024-12-26
+Kentucky,KY,Jefferson,$2.834,2024-12-26
+Kentucky,KY,Jessamine,$2.674,2024-12-26
+Kentucky,KY,Johnson,$2.755,2024-12-26
+Kentucky,KY,Kenton,$2.973,2024-12-26
+Kentucky,KY,Knott,$2.824,2024-12-26
+Kentucky,KY,Knox,$2.723,2024-12-26
+Kentucky,KY,Larue,$2.756,2024-12-26
+Kentucky,KY,Laurel,$2.685,2024-12-26
+Kentucky,KY,Lawrence,$2.765,2024-12-26
+Kentucky,KY,Lee,$2.879,2024-12-26
+Kentucky,KY,Leslie,$2.932,2024-12-26
+Kentucky,KY,Letcher,$2.859,2024-12-26
+Kentucky,KY,Lewis,$2.811,2024-12-26
+Kentucky,KY,Lincoln,$2.744,2024-12-26
+Kentucky,KY,Livingston,$2.747,2024-12-26
+Kentucky,KY,Logan,$2.556,2024-12-26
+Kentucky,KY,Lyon,$2.724,2024-12-26
+Kentucky,KY,Madison,$2.750,2024-12-26
+Kentucky,KY,Magoffin,$2.799,2024-12-26
+Kentucky,KY,Marion,$2.606,2024-12-26
+Kentucky,KY,Marshall,$2.664,2024-12-26
+Kentucky,KY,Martin,$2.799,2024-12-26
+Kentucky,KY,Mason,$2.811,2024-12-26
+Kentucky,KY,McCracken,$2.622,2024-12-26
+Kentucky,KY,McCreary,$2.893,2024-12-26
+Kentucky,KY,McLean,$2.666,2024-12-26
+Kentucky,KY,Meade,$2.677,2024-12-26
+Kentucky,KY,Menifee,$2.904,2024-12-26
+Kentucky,KY,Mercer,$2.700,2024-12-26
+Kentucky,KY,Metcalfe,$2.619,2024-12-26
+Kentucky,KY,Monroe,$2.599,2024-12-26
+Kentucky,KY,Montgomery,$2.713,2024-12-26
+Kentucky,KY,Morgan,$2.799,2024-12-26
+Kentucky,KY,Muhlenberg,$2.727,2024-12-26
+Kentucky,KY,Nelson,$2.704,2024-12-26
+Kentucky,KY,Nicholas,$2.812,2024-12-26
+Kentucky,KY,Ohio,$2.669,2024-12-26
+Kentucky,KY,Oldham,$2.923,2024-12-26
+Kentucky,KY,Owen,$2.869,2024-12-26
+Kentucky,KY,Owsley,$2.859,2024-12-26
+Kentucky,KY,Pendleton,$2.979,2024-12-26
+Kentucky,KY,Perry,$2.790,2024-12-26
+Kentucky,KY,Pike,$2.834,2024-12-26
+Kentucky,KY,Powell,$2.812,2024-12-26
+Kentucky,KY,Pulaski,$2.870,2024-12-26
+Kentucky,KY,Robertson,,2024-12-26
+Kentucky,KY,Rockcastle,$2.987,2024-12-26
+Kentucky,KY,Rowan,$2.683,2024-12-26
+Kentucky,KY,Russell,$2.654,2024-12-26
+Kentucky,KY,Scott,$2.830,2024-12-26
+Kentucky,KY,Shelby,$2.687,2024-12-26
+Kentucky,KY,Simpson,$2.451,2024-12-26
+Kentucky,KY,Spencer,$2.747,2024-12-26
+Kentucky,KY,Taylor,$2.608,2024-12-26
+Kentucky,KY,Todd,$2.647,2024-12-26
+Kentucky,KY,Trigg,$2.775,2024-12-26
+Kentucky,KY,Trimble,$2.831,2024-12-26
+Kentucky,KY,Union,$2.696,2024-12-26
+Kentucky,KY,Warren,$2.643,2024-12-26
+Kentucky,KY,Washington,$2.793,2024-12-26
+Kentucky,KY,Wayne,$2.822,2024-12-26
+Kentucky,KY,Webster,$2.577,2024-12-26
+Kentucky,KY,Whitley,$2.677,2024-12-26
+Kentucky,KY,Wolfe,$2.949,2024-12-26
+Kentucky,KY,Woodford,$2.903,2024-12-26
+Louisiana,LA,Acadia,$2.713,2024-12-26
+Louisiana,LA,Allen,$2.801,2024-12-26
+Louisiana,LA,Ascension,$2.726,2024-12-26
+Louisiana,LA,Assumption,$2.919,2024-12-26
+Louisiana,LA,Avoyelles,$2.653,2024-12-26
+Louisiana,LA,Beauregard,$2.667,2024-12-26
+Louisiana,LA,Bienville,$2.698,2024-12-26
+Louisiana,LA,Bossier,$2.558,2024-12-26
+Louisiana,LA,Caddo,$2.615,2024-12-26
+Louisiana,LA,Calcasieu,$2.689,2024-12-26
+Louisiana,LA,Caldwell,$2.819,2024-12-26
+Louisiana,LA,Cameron,$3.179,2024-12-26
+Louisiana,LA,Catahoula,$2.732,2024-12-26
+Louisiana,LA,Claiborne,$2.747,2024-12-26
+Louisiana,LA,Concordia,$2.563,2024-12-26
+Louisiana,LA,De Soto,$2.611,2024-12-26
+Louisiana,LA,East Baton Rouge,$2.673,2024-12-26
+Louisiana,LA,East Carroll,$2.759,2024-12-26
+Louisiana,LA,East Feliciana,$2.850,2024-12-26
+Louisiana,LA,Evangeline,$2.700,2024-12-26
+Louisiana,LA,Franklin,$2.709,2024-12-26
+Louisiana,LA,Grant,$2.786,2024-12-26
+Louisiana,LA,Iberia,$2.673,2024-12-26
+Louisiana,LA,Iberville,$2.802,2024-12-26
+Louisiana,LA,Jackson,$2.605,2024-12-26
+Louisiana,LA,Jefferson,$2.716,2024-12-26
+Louisiana,LA,Jefferson Davis,$2.799,2024-12-26
+Louisiana,LA,La Salle,$2.797,2024-12-26
+Louisiana,LA,Lafayette,$2.734,2024-12-26
+Louisiana,LA,Lafourche,$2.808,2024-12-26
+Louisiana,LA,Lincoln,$2.584,2024-12-26
+Louisiana,LA,Livingston,$2.638,2024-12-26
+Louisiana,LA,Madison,$2.720,2024-12-26
+Louisiana,LA,Morehouse,$2.589,2024-12-26
+Louisiana,LA,Natchitoches,$2.619,2024-12-26
+Louisiana,LA,Orleans,$2.683,2024-12-26
+Louisiana,LA,Ouachita,$2.516,2024-12-26
+Louisiana,LA,Plaquemines,$3.068,2024-12-26
+Louisiana,LA,Pointe Coupee,$2.805,2024-12-26
+Louisiana,LA,Rapides,$2.650,2024-12-26
+Louisiana,LA,Red River,$2.576,2024-12-26
+Louisiana,LA,Richland,$2.598,2024-12-26
+Louisiana,LA,Sabine,$2.776,2024-12-26
+Louisiana,LA,Saint Bernard,$2.587,2024-12-26
+Louisiana,LA,Saint Charles,$2.830,2024-12-26
+Louisiana,LA,Saint Helena,$2.699,2024-12-26
+Louisiana,LA,Saint James,$2.838,2024-12-26
+Louisiana,LA,St John the Baptist,$2.768,2024-12-26
+Louisiana,LA,Saint Landry,$2.692,2024-12-26
+Louisiana,LA,Saint Martin,$2.638,2024-12-26
+Louisiana,LA,Saint Mary,$2.867,2024-12-26
+Louisiana,LA,Saint Tammany,$2.701,2024-12-26
+Louisiana,LA,Tangipahoa,$2.653,2024-12-26
+Louisiana,LA,Tensas,$2.899,2024-12-26
+Louisiana,LA,Terrebonne,$2.689,2024-12-26
+Louisiana,LA,Union,$2.675,2024-12-26
+Louisiana,LA,Vermilion,$2.780,2024-12-26
+Louisiana,LA,Vernon,$2.727,2024-12-26
+Louisiana,LA,Washington,$2.688,2024-12-26
+Louisiana,LA,Webster,$2.616,2024-12-26
+Louisiana,LA,West Baton Rouge,$2.692,2024-12-26
+Louisiana,LA,West Carroll,$2.604,2024-12-26
+Louisiana,LA,West Feliciana,$2.920,2024-12-26
+Louisiana,LA,Winn,$2.661,2024-12-26
+Maine,ME,Androscoggin,$3.075,2024-12-26
+Maine,ME,Aroostook,$3.051,2024-12-26
+Maine,ME,Cumberland,$3.028,2024-12-26
+Maine,ME,Franklin,$3.096,2024-12-26
+Maine,ME,Hancock,$3.049,2024-12-26
+Maine,ME,Kennebec,$3.051,2024-12-26
+Maine,ME,Knox,$2.902,2024-12-26
+Maine,ME,Lincoln,$3.020,2024-12-26
+Maine,ME,Oxford,$3.100,2024-12-26
+Maine,ME,Penobscot,$3.028,2024-12-26
+Maine,ME,Piscataquis,$2.990,2024-12-26
+Maine,ME,Sagadahoc,$3.148,2024-12-26
+Maine,ME,Somerset,$3.008,2024-12-26
+Maine,ME,Waldo,$2.983,2024-12-26
+Maine,ME,Washington,$3.085,2024-12-26
+Maine,ME,York,$2.989,2024-12-26
+Montana,MT,Beaverhead,$2.938,2024-12-26
+Montana,MT,Big Horn,$2.807,2024-12-26
+Montana,MT,Blaine,$2.812,2024-12-26
+Montana,MT,Broadwater,$2.739,2024-12-26
+Montana,MT,Carbon,$2.719,2024-12-26
+Montana,MT,Carter,$2.899,2024-12-26
+Montana,MT,Cascade,$2.694,2024-12-26
+Montana,MT,Chouteau,$2.847,2024-12-26
+Montana,MT,Custer,$2.779,2024-12-26
+Montana,MT,Daniels,$3.112,2024-12-26
+Montana,MT,Dawson,$2.768,2024-12-26
+Montana,MT,Deer Lodge,$2.747,2024-12-26
+Montana,MT,Fallon,$2.819,2024-12-26
+Montana,MT,Fergus,$2.871,2024-12-26
+Montana,MT,Flathead,$2.744,2024-12-26
+Montana,MT,Gallatin,$2.787,2024-12-26
+Montana,MT,Garfield,$2.779,2024-12-26
+Montana,MT,Glacier,$2.928,2024-12-26
+Montana,MT,Golden Valley,$3.099,2024-12-26
+Montana,MT,Granite,$2.879,2024-12-26
+Montana,MT,Hill,$2.800,2024-12-26
+Montana,MT,Jefferson,$2.759,2024-12-26
+Montana,MT,Judith Basin,$2.899,2024-12-26
+Montana,MT,Lake,$2.739,2024-12-26
+Montana,MT,Lewis and Clark,$2.774,2024-12-26
+Montana,MT,Liberty,$2.899,2024-12-26
+Montana,MT,Lincoln,$2.797,2024-12-26
+Montana,MT,Madison,$2.754,2024-12-26
+Montana,MT,McCone,$2.859,2024-12-26
+Montana,MT,Meagher,$2.884,2024-12-26
+Montana,MT,Mineral,$2.877,2024-12-26
+Montana,MT,Missoula,$2.736,2024-12-26
+Montana,MT,Musselshell,$2.932,2024-12-26
+Montana,MT,Park,$2.727,2024-12-26
+Montana,MT,Petroleum,,2024-12-26
+Montana,MT,Phillips,$2.876,2024-12-26
+Montana,MT,Pondera,$2.811,2024-12-26
+Montana,MT,Powder River,$2.999,2024-12-26
+Montana,MT,Powell,$2.736,2024-12-26
+Montana,MT,Prairie,$2.749,2024-12-26
+Montana,MT,Ravalli,$2.721,2024-12-26
+Montana,MT,Richland,$2.793,2024-12-26
+Montana,MT,Roosevelt,$2.900,2024-12-26
+Montana,MT,Rosebud,$2.897,2024-12-26
+Montana,MT,Sanders,$2.808,2024-12-26
+Montana,MT,Sheridan,$2.935,2024-12-26
+Montana,MT,Silver Bow,$2.748,2024-12-26
+Montana,MT,Stillwater,$2.769,2024-12-26
+Montana,MT,Sweet Grass,$2.692,2024-12-26
+Montana,MT,Teton,$2.906,2024-12-26
+Montana,MT,Toole,$2.858,2024-12-26
+Montana,MT,Treasure,$2.829,2024-12-26
+Montana,MT,Valley,$2.889,2024-12-26
+Montana,MT,Wheatland,$2.989,2024-12-26
+Montana,MT,Wibaux,$2.919,2024-12-26
+Montana,MT,Yellowstone,$2.704,2024-12-26
+Nebraska,NE,Adams,$2.748,2024-12-26
+Nebraska,NE,Antelope,$2.682,2024-12-26
+Nebraska,NE,Arthur,,2024-12-26
+Nebraska,NE,Banner,,2024-12-26
+Nebraska,NE,Blaine,,2024-12-26
+Nebraska,NE,Boone,$2.624,2024-12-26
+Nebraska,NE,Box Butte,$2.760,2024-12-26
+Nebraska,NE,Boyd,$2.749,2024-12-26
+Nebraska,NE,Brown,$2.829,2024-12-26
+Nebraska,NE,Buffalo,$2.740,2024-12-26
+Nebraska,NE,Burt,$2.849,2024-12-26
+Nebraska,NE,Butler,$2.662,2024-12-26
+Nebraska,NE,Cass,$2.744,2024-12-26
+Nebraska,NE,Cedar,$2.694,2024-12-26
+Nebraska,NE,Chase,$2.819,2024-12-26
+Nebraska,NE,Cherry,$2.901,2024-12-26
+Nebraska,NE,Cheyenne,$2.662,2024-12-26
+Nebraska,NE,Clay,$2.959,2024-12-26
+Nebraska,NE,Colfax,$2.606,2024-12-26
+Nebraska,NE,Cuming,$2.699,2024-12-26
+Nebraska,NE,Custer,$2.878,2024-12-26
+Nebraska,NE,Dakota,$2.749,2024-12-26
+Nebraska,NE,Dawes,$2.847,2024-12-26
+Nebraska,NE,Dawson,$2.719,2024-12-26
+Nebraska,NE,Deuel,$2.676,2024-12-26
+Nebraska,NE,Dixon,$2.749,2024-12-26
+Nebraska,NE,Dodge,$2.746,2024-12-26
+Nebraska,NE,Douglas,$2.760,2024-12-26
+Nebraska,NE,Dundy,,2024-12-26
+Nebraska,NE,Fillmore,$2.812,2024-12-26
+Nebraska,NE,Franklin,$2.879,2024-12-26
+Nebraska,NE,Frontier,$2.649,2024-12-26
+Nebraska,NE,Furnas,$2.804,2024-12-26
+Nebraska,NE,Gage,$2.664,2024-12-26
+Nebraska,NE,Garden,,2024-12-26
+Nebraska,NE,Garfield,,2024-12-26
+Nebraska,NE,Gosper,,2024-12-26
+Nebraska,NE,Grant,$2.949,2024-12-26
+Nebraska,NE,Greeley,,2024-12-26
+Nebraska,NE,Hall,$2.812,2024-12-26
+Nebraska,NE,Hamilton,$2.706,2024-12-26
+Nebraska,NE,Harlan,$2.869,2024-12-26
+Nebraska,NE,Hayes,,2024-12-26
+Nebraska,NE,Hitchcock,,2024-12-26
+Nebraska,NE,Holt,$2.693,2024-12-26
+Nebraska,NE,Hooker,$2.879,2024-12-26
+Nebraska,NE,Howard,$2.799,2024-12-26
+Nebraska,NE,Jefferson,$2.649,2024-12-26
+Nebraska,NE,Johnson,$2.599,2024-12-26
+Nebraska,NE,Kearney,$2.786,2024-12-26
+Nebraska,NE,Keith,$2.830,2024-12-26
+Nebraska,NE,Keya Paha,$2.999,2024-12-26
+Nebraska,NE,Kimball,$2.981,2024-12-26
+Nebraska,NE,Knox,$2.779,2024-12-26
+Nebraska,NE,Lancaster,$2.779,2024-12-26
+Nebraska,NE,Lincoln,$3.008,2024-12-26
+Nebraska,NE,Logan,$2.729,2024-12-26
+Nebraska,NE,Loup,$2.659,2024-12-26
+Nebraska,NE,Madison,$2.685,2024-12-26
+Nebraska,NE,McPherson,,2024-12-26
+Nebraska,NE,Merrick,$2.787,2024-12-26
+Nebraska,NE,Morrill,$3.019,2024-12-26
+Nebraska,NE,Nance,$2.669,2024-12-26
+Nebraska,NE,Nemaha,$2.689,2024-12-26
+Nebraska,NE,Nuckolls,$2.782,2024-12-26
+Nebraska,NE,Otoe,$2.633,2024-12-26
+Nebraska,NE,Pawnee,$2.689,2024-12-26
+Nebraska,NE,Perkins,$3.349,2024-12-26
+Nebraska,NE,Phelps,$2.689,2024-12-26
+Nebraska,NE,Pierce,$2.633,2024-12-26
+Nebraska,NE,Platte,$2.579,2024-12-26
+Nebraska,NE,Polk,$2.659,2024-12-26
+Nebraska,NE,Red Willow,$2.855,2024-12-26
+Nebraska,NE,Richardson,$2.729,2024-12-26
+Nebraska,NE,Rock,$2.799,2024-12-26
+Nebraska,NE,Saline,$2.720,2024-12-26
+Nebraska,NE,Sarpy,$2.757,2024-12-26
+Nebraska,NE,Saunders,$2.748,2024-12-26
+Nebraska,NE,Scotts Bluff,$2.979,2024-12-26
+Nebraska,NE,Seward,$2.788,2024-12-26
+Nebraska,NE,Sheridan,$2.899,2024-12-26
+Nebraska,NE,Sherman,$3.149,2024-12-26
+Nebraska,NE,Sioux,,2024-12-26
+Nebraska,NE,Stanton,$2.659,2024-12-26
+Nebraska,NE,Thayer,$2.782,2024-12-26
+Nebraska,NE,Thomas,$2.949,2024-12-26
+Nebraska,NE,Thurston,$2.709,2024-12-26
+Nebraska,NE,Valley,$2.599,2024-12-26
+Nebraska,NE,Washington,$2.779,2024-12-26
+Nebraska,NE,Wayne,$2.699,2024-12-26
+Nebraska,NE,Webster,$2.769,2024-12-26
+Nebraska,NE,Wheeler,$2.699,2024-12-26
+Nebraska,NE,York,$2.693,2024-12-26
+Nevada,NV,Carson City,$3.221,2024-12-26
+Nevada,NV,Churchill,$3.568,2024-12-26
+Nevada,NV,Clark,$3.628,2024-12-26
+Nevada,NV,Douglas,$3.250,2024-12-26
+Nevada,NV,Elko,$3.239,2024-12-26
+Nevada,NV,Esmeralda,,2024-12-26
+Nevada,NV,Eureka,$3.599,2024-12-26
+Nevada,NV,Humboldt,$3.392,2024-12-26
+Nevada,NV,Lander,$3.024,2024-12-26
+Nevada,NV,Lincoln,$3.289,2024-12-26
+Nevada,NV,Lyon,$3.396,2024-12-26
+Nevada,NV,Mineral,$3.894,2024-12-26
+Nevada,NV,Nye,$3.196,2024-12-26
+Nevada,NV,Pershing,$3.586,2024-12-26
+Nevada,NV,Storey,$3.499,2024-12-26
+Nevada,NV,Washoe,$3.984,2024-12-26
+Nevada,NV,White Pine,$2.832,2024-12-26
+New Hampshire,NH,Belknap,$2.863,2024-12-26
+New Hampshire,NH,Carroll,$2.990,2024-12-26
+New Hampshire,NH,Cheshire,$2.854,2024-12-26
+New Hampshire,NH,Coos,$3.083,2024-12-26
+New Hampshire,NH,Grafton,$3.044,2024-12-26
+New Hampshire,NH,Hillsborough,$2.952,2024-12-26
+New Hampshire,NH,Merrimack,$2.961,2024-12-26
+New Hampshire,NH,Rockingham,$2.841,2024-12-26
+New Hampshire,NH,Strafford,$2.875,2024-12-26
+New Hampshire,NH,Sullivan,$2.988,2024-12-26
+New Jersey,NJ,Atlantic,$2.869,2024-12-26
+New Jersey,NJ,Bergen,$2.911,2024-12-26
+New Jersey,NJ,Burlington,$2.871,2024-12-26
+New Jersey,NJ,Camden,$2.822,2024-12-26
+New Jersey,NJ,Cape May,$2.944,2024-12-26
+New Jersey,NJ,Cumberland,$2.872,2024-12-26
+New Jersey,NJ,Essex,$3.015,2024-12-26
+New Jersey,NJ,Gloucester,$2.863,2024-12-26
+New Jersey,NJ,Hudson,$2.967,2024-12-26
+New Jersey,NJ,Hunterdon,$2.937,2024-12-26
+New Jersey,NJ,Mercer,$2.924,2024-12-26
+New Jersey,NJ,Middlesex,$2.911,2024-12-26
+New Jersey,NJ,Monmouth,$2.939,2024-12-26
+New Jersey,NJ,Morris,$2.927,2024-12-26
+New Jersey,NJ,Ocean,$2.936,2024-12-26
+New Jersey,NJ,Passaic,$2.961,2024-12-26
+New Jersey,NJ,Salem,$2.882,2024-12-26
+New Jersey,NJ,Somerset,$3.001,2024-12-26
+New Jersey,NJ,Sussex,$2.892,2024-12-26
+New Jersey,NJ,Union,$2.941,2024-12-26
+New Jersey,NJ,Warren,$2.852,2024-12-26
+New Mexico,NM,Bernalillo,$2.765,2024-12-26
+New Mexico,NM,Catron,$3.299,2024-12-26
+New Mexico,NM,Chaves,$2.467,2024-12-26
+New Mexico,NM,Cibola,$2.927,2024-12-26
+New Mexico,NM,Colfax,$3.011,2024-12-26
+New Mexico,NM,Curry,$2.543,2024-12-26
+New Mexico,NM,De Baca,$2.644,2024-12-26
+New Mexico,NM,Dona Ana,$2.880,2024-12-26
+New Mexico,NM,Eddy,$2.919,2024-12-26
+New Mexico,NM,Grant,$2.829,2024-12-26
+New Mexico,NM,Guadalupe,$2.645,2024-12-26
+New Mexico,NM,Harding,,2024-12-26
+New Mexico,NM,Hidalgo,$3.022,2024-12-26
+New Mexico,NM,Lea,$2.875,2024-12-26
+New Mexico,NM,Lincoln,$2.925,2024-12-26
+New Mexico,NM,Los Alamos,$2.859,2024-12-26
+New Mexico,NM,Luna,$2.911,2024-12-26
+New Mexico,NM,McKinley,$2.787,2024-12-26
+New Mexico,NM,Mora,$2.839,2024-12-26
+New Mexico,NM,Otero,$2.742,2024-12-26
+New Mexico,NM,Quay,$2.756,2024-12-26
+New Mexico,NM,Rio Arriba,$2.602,2024-12-26
+New Mexico,NM,Roosevelt,$2.725,2024-12-26
+New Mexico,NM,San Juan,$2.923,2024-12-26
+New Mexico,NM,San Miguel,$2.864,2024-12-26
+New Mexico,NM,Sandoval,$2.713,2024-12-26
+New Mexico,NM,Santa Fe,$2.694,2024-12-26
+New Mexico,NM,Sierra,$2.801,2024-12-26
+New Mexico,NM,Socorro,$2.817,2024-12-26
+New Mexico,NM,Taos,$2.614,2024-12-26
+New Mexico,NM,Torrance,$2.818,2024-12-26
+New Mexico,NM,Union,$2.674,2024-12-26
+New Mexico,NM,Valencia,$2.804,2024-12-26
+New York,NY,Albany,$3.121,2024-12-26
+New York,NY,Allegany,$3.239,2024-12-26
+New York,NY,Bronx,$3.128,2024-12-26
+New York,NY,Broome,$3.091,2024-12-26
+New York,NY,Cattaraugus,$3.204,2024-12-26
+New York,NY,Cayuga,$3.232,2024-12-26
+New York,NY,Chautauqua,$3.250,2024-12-26
+New York,NY,Chemung,$3.080,2024-12-26
+New York,NY,Chenango,$3.176,2024-12-26
+New York,NY,Clinton,$3.032,2024-12-26
+New York,NY,Columbia,$3.129,2024-12-26
+New York,NY,Cortland,$3.207,2024-12-26
+New York,NY,Delaware,$3.387,2024-12-26
+New York,NY,Dutchess,$3.097,2024-12-26
+New York,NY,Erie,$3.147,2024-12-26
+New York,NY,Essex,$3.381,2024-12-26
+New York,NY,Franklin,$3.260,2024-12-26
+New York,NY,Fulton,$3.236,2024-12-26
+New York,NY,Genesee,$3.222,2024-12-26
+New York,NY,Greene,$3.118,2024-12-26
+New York,NY,Hamilton,$3.574,2024-12-26
+New York,NY,Herkimer,$3.258,2024-12-26
+New York,NY,Jefferson,$3.115,2024-12-26
+New York,NY,Kings,$3.052,2024-12-26
+New York,NY,Lewis,$3.357,2024-12-26
+New York,NY,Livingston,$3.289,2024-12-26
+New York,NY,Madison,$3.206,2024-12-26
+New York,NY,Monroe,$3.194,2024-12-26
+New York,NY,Montgomery,$3.186,2024-12-26
+New York,NY,Nassau,$2.973,2024-12-26
+New York,NY,New York,$3.244,2024-12-26
+New York,NY,Niagara,$3.121,2024-12-26
+New York,NY,Oneida,$3.312,2024-12-26
+New York,NY,Onondaga,$3.112,2024-12-26
+New York,NY,Ontario,$3.249,2024-12-26
+New York,NY,Orange,$3.033,2024-12-26
+New York,NY,Orleans,$3.255,2024-12-26
+New York,NY,Oswego,$3.181,2024-12-26
+New York,NY,Otsego,$3.331,2024-12-26
+New York,NY,Putnam,$3.105,2024-12-26
+New York,NY,Queens,$3.079,2024-12-26
+New York,NY,Rensselaer,$3.107,2024-12-26
+New York,NY,Richmond,$3.136,2024-12-26
+New York,NY,Rockland,$3.327,2024-12-26
+New York,NY,Saratoga,$3.073,2024-12-26
+New York,NY,Schenectady,$3.028,2024-12-26
+New York,NY,Schoharie,$3.068,2024-12-26
+New York,NY,Schuyler,$3.188,2024-12-26
+New York,NY,Seneca,$2.964,2024-12-26
+New York,NY,Saint Lawrence,$3.469,2024-12-26
+New York,NY,Steuben,$3.207,2024-12-26
+New York,NY,Suffolk,$2.999,2024-12-26
+New York,NY,Sullivan,$3.097,2024-12-26
+New York,NY,Tioga,$3.121,2024-12-26
+New York,NY,Tompkins,$3.339,2024-12-26
+New York,NY,Ulster,$3.036,2024-12-26
+New York,NY,Warren,$3.238,2024-12-26
+New York,NY,Washington,$3.190,2024-12-26
+New York,NY,Wayne,$3.323,2024-12-26
+New York,NY,Westchester,$3.306,2024-12-26
+New York,NY,Wyoming,$3.202,2024-12-26
+New York,NY,Yates,$3.316,2024-12-26
+North Carolina,NC,Alamance,$2.883,2024-12-26
+North Carolina,NC,Alexander,$2.804,2024-12-26
+North Carolina,NC,Alleghany,$2.876,2024-12-26
+North Carolina,NC,Anson,$2.901,2024-12-26
+North Carolina,NC,Ashe,$2.549,2024-12-26
+North Carolina,NC,Avery,$2.747,2024-12-26
+North Carolina,NC,Beaufort,$2.909,2024-12-26
+North Carolina,NC,Bertie,$2.761,2024-12-26
+North Carolina,NC,Bladen,$2.751,2024-12-26
+North Carolina,NC,Brunswick,$2.811,2024-12-26
+North Carolina,NC,Buncombe,$2.864,2024-12-26
+North Carolina,NC,Burke,$2.769,2024-12-26
+North Carolina,NC,Cabarrus,$2.892,2024-12-26
+North Carolina,NC,Caldwell,$2.743,2024-12-26
+North Carolina,NC,Camden,$2.789,2024-12-26
+North Carolina,NC,Carteret,$2.812,2024-12-26
+North Carolina,NC,Caswell,$2.895,2024-12-26
+North Carolina,NC,Catawba,$2.771,2024-12-26
+North Carolina,NC,Chatham,$2.907,2024-12-26
+North Carolina,NC,Cherokee,$2.883,2024-12-26
+North Carolina,NC,Chowan,$2.881,2024-12-26
+North Carolina,NC,Clay,$2.814,2024-12-26
+North Carolina,NC,Cleveland,$2.799,2024-12-26
+North Carolina,NC,Columbus,$2.781,2024-12-26
+North Carolina,NC,Craven,$2.771,2024-12-26
+North Carolina,NC,Cumberland,$2.862,2024-12-26
+North Carolina,NC,Currituck,$2.848,2024-12-26
+North Carolina,NC,Dare,$2.831,2024-12-26
+North Carolina,NC,Davidson,$2.856,2024-12-26
+North Carolina,NC,Davie,$2.923,2024-12-26
+North Carolina,NC,Duplin,$2.867,2024-12-26
+North Carolina,NC,Durham,$3.005,2024-12-26
+North Carolina,NC,Edgecombe,$2.814,2024-12-26
+North Carolina,NC,Forsyth,$2.901,2024-12-26
+North Carolina,NC,Franklin,$2.908,2024-12-26
+North Carolina,NC,Gaston,$2.844,2024-12-26
+North Carolina,NC,Gates,$2.919,2024-12-26
+North Carolina,NC,Graham,$2.899,2024-12-26
+North Carolina,NC,Granville,$2.850,2024-12-26
+North Carolina,NC,Greene,$2.798,2024-12-26
+North Carolina,NC,Guilford,$2.915,2024-12-26
+North Carolina,NC,Halifax,$2.934,2024-12-26
+North Carolina,NC,Harnett,$2.890,2024-12-26
+North Carolina,NC,Haywood,$2.845,2024-12-26
+North Carolina,NC,Henderson,$2.795,2024-12-26
+North Carolina,NC,Hertford,$2.886,2024-12-26
+North Carolina,NC,Hoke,$2.845,2024-12-26
+North Carolina,NC,Hyde,,2024-12-26
+North Carolina,NC,Iredell,$2.843,2024-12-26
+North Carolina,NC,Jackson,$2.954,2024-12-26
+North Carolina,NC,Johnston,$2.879,2024-12-26
+North Carolina,NC,Jones,$2.879,2024-12-26
+North Carolina,NC,Lee,$2.872,2024-12-26
+North Carolina,NC,Lenoir,$2.705,2024-12-26
+North Carolina,NC,Lincoln,$2.870,2024-12-26
+North Carolina,NC,Macon,$2.954,2024-12-26
+North Carolina,NC,Madison,$3.004,2024-12-26
+North Carolina,NC,Martin,$2.881,2024-12-26
+North Carolina,NC,McDowell,$2.768,2024-12-26
+North Carolina,NC,Mecklenburg,$2.895,2024-12-26
+North Carolina,NC,Mitchell,$2.789,2024-12-26
+North Carolina,NC,Montgomery,$2.775,2024-12-26
+North Carolina,NC,Moore,$2.845,2024-12-26
+North Carolina,NC,Nash,$2.887,2024-12-26
+North Carolina,NC,New Hanover,$2.834,2024-12-26
+North Carolina,NC,Northampton,$2.900,2024-12-26
+North Carolina,NC,Onslow,$2.783,2024-12-26
+North Carolina,NC,Orange,$2.926,2024-12-26
+North Carolina,NC,Pamlico,$2.912,2024-12-26
+North Carolina,NC,Pasquotank,$2.756,2024-12-26
+North Carolina,NC,Pender,$2.853,2024-12-26
+North Carolina,NC,Perquimans,$2.861,2024-12-26
+North Carolina,NC,Person,$2.995,2024-12-26
+North Carolina,NC,Pitt,$2.732,2024-12-26
+North Carolina,NC,Polk,$2.897,2024-12-26
+North Carolina,NC,Randolph,$2.845,2024-12-26
+North Carolina,NC,Richmond,$2.878,2024-12-26
+North Carolina,NC,Robeson,$2.747,2024-12-26
+North Carolina,NC,Rockingham,$2.784,2024-12-26
+North Carolina,NC,Rowan,$2.864,2024-12-26
+North Carolina,NC,Rutherford,$2.767,2024-12-26
+North Carolina,NC,Sampson,$2.778,2024-12-26
+North Carolina,NC,Scotland,$2.898,2024-12-26
+North Carolina,NC,Stanly,$2.822,2024-12-26
+North Carolina,NC,Stokes,$2.866,2024-12-26
+North Carolina,NC,Surry,$2.879,2024-12-26
+North Carolina,NC,Swain,$2.900,2024-12-26
+North Carolina,NC,Transylvania,$2.912,2024-12-26
+North Carolina,NC,Tyrrell,$2.719,2024-12-26
+North Carolina,NC,Union,$2.906,2024-12-26
+North Carolina,NC,Vance,$2.907,2024-12-26
+North Carolina,NC,Wake,$2.902,2024-12-26
+North Carolina,NC,Warren,$2.849,2024-12-26
+North Carolina,NC,Washington,$2.707,2024-12-26
+North Carolina,NC,Watauga,$2.555,2024-12-26
+North Carolina,NC,Wayne,$2.863,2024-12-26
+North Carolina,NC,Wilkes,$2.852,2024-12-26
+North Carolina,NC,Wilson,$2.769,2024-12-26
+North Carolina,NC,Yadkin,$2.845,2024-12-26
+North Carolina,NC,Yancey,$2.792,2024-12-26
+North Dakota,ND,Adams,$2.799,2024-12-26
+North Dakota,ND,Barnes,$2.836,2024-12-26
+North Dakota,ND,Benson,$2.864,2024-12-26
+North Dakota,ND,Billings,$3.209,2024-12-26
+North Dakota,ND,Bottineau,$2.857,2024-12-26
+North Dakota,ND,Bowman,$2.854,2024-12-26
+North Dakota,ND,Burke,$2.834,2024-12-26
+North Dakota,ND,Burleigh,$2.832,2024-12-26
+North Dakota,ND,Cass,$2.750,2024-12-26
+North Dakota,ND,Cavalier,$2.799,2024-12-26
+North Dakota,ND,Dickey,$2.819,2024-12-26
+North Dakota,ND,Divide,$2.849,2024-12-26
+North Dakota,ND,Dunn,$3.024,2024-12-26
+North Dakota,ND,Eddy,$2.879,2024-12-26
+North Dakota,ND,Emmons,$2.799,2024-12-26
+North Dakota,ND,Foster,$2.792,2024-12-26
+North Dakota,ND,Golden Valley,$2.844,2024-12-26
+North Dakota,ND,Grand Forks,$2.670,2024-12-26
+North Dakota,ND,Grant,,2024-12-26
+North Dakota,ND,Griggs,$2.704,2024-12-26
+North Dakota,ND,Hettinger,$2.849,2024-12-26
+North Dakota,ND,Kidder,$2.854,2024-12-26
+North Dakota,ND,LaMoure,$2.799,2024-12-26
+North Dakota,ND,Logan,$2.799,2024-12-26
+North Dakota,ND,McHenry,$2.832,2024-12-26
+North Dakota,ND,McIntosh,,2024-12-26
+North Dakota,ND,McKenzie,$3.004,2024-12-26
+North Dakota,ND,McLean,$2.820,2024-12-26
+North Dakota,ND,Mercer,$2.775,2024-12-26
+North Dakota,ND,Morton,$2.879,2024-12-26
+North Dakota,ND,Mountrail,$2.887,2024-12-26
+North Dakota,ND,Nelson,$2.839,2024-12-26
+North Dakota,ND,Oliver,$2.799,2024-12-26
+North Dakota,ND,Pembina,$2.751,2024-12-26
+North Dakota,ND,Pierce,$2.799,2024-12-26
+North Dakota,ND,Ramsey,$2.881,2024-12-26
+North Dakota,ND,Ransom,$2.642,2024-12-26
+North Dakota,ND,Renville,$2.836,2024-12-26
+North Dakota,ND,Richland,$2.721,2024-12-26
+North Dakota,ND,Rolette,$2.932,2024-12-26
+North Dakota,ND,Sargent,$2.579,2024-12-26
+North Dakota,ND,Sheridan,$2.899,2024-12-26
+North Dakota,ND,Sioux,,2024-12-26
+North Dakota,ND,Slope,,2024-12-26
+North Dakota,ND,Stark,$2.862,2024-12-26
+North Dakota,ND,Steele,$2.869,2024-12-26
+North Dakota,ND,Stutsman,$2.663,2024-12-26
+North Dakota,ND,Towner,$2.819,2024-12-26
+North Dakota,ND,Traill,$2.741,2024-12-26
+North Dakota,ND,Walsh,$2.785,2024-12-26
+North Dakota,ND,Ward,$2.866,2024-12-26
+North Dakota,ND,Wells,$2.799,2024-12-26
+North Dakota,ND,Williams,$2.922,2024-12-26
+Ohio,OH,Adams,$2.940,2024-12-26
+Ohio,OH,Allen,$2.999,2024-12-26
+Ohio,OH,Ashland,$3.009,2024-12-26
+Ohio,OH,Ashtabula,$2.926,2024-12-26
+Ohio,OH,Athens,$3.150,2024-12-26
+Ohio,OH,Auglaize,$2.795,2024-12-26
+Ohio,OH,Belmont,$2.973,2024-12-26
+Ohio,OH,Brown,$2.909,2024-12-26
+Ohio,OH,Butler,$3.026,2024-12-26
+Ohio,OH,Carroll,$3.129,2024-12-26
+Ohio,OH,Champaign,$3.034,2024-12-26
+Ohio,OH,Clark,$3.082,2024-12-26
+Ohio,OH,Clermont,$2.952,2024-12-26
+Ohio,OH,Clinton,$3.024,2024-12-26
+Ohio,OH,Columbiana,$2.929,2024-12-26
+Ohio,OH,Coshocton,$3.001,2024-12-26
+Ohio,OH,Crawford,$2.983,2024-12-26
+Ohio,OH,Cuyahoga,$3.052,2024-12-26
+Ohio,OH,Darke,$2.910,2024-12-26
+Ohio,OH,Defiance,$2.977,2024-12-26
+Ohio,OH,Delaware,$3.127,2024-12-26
+Ohio,OH,Erie,$3.173,2024-12-26
+Ohio,OH,Fairfield,$3.136,2024-12-26
+Ohio,OH,Fayette,$3.132,2024-12-26
+Ohio,OH,Franklin,$3.136,2024-12-26
+Ohio,OH,Fulton,$2.955,2024-12-26
+Ohio,OH,Gallia,$2.921,2024-12-26
+Ohio,OH,Geauga,$3.106,2024-12-26
+Ohio,OH,Greene,$3.023,2024-12-26
+Ohio,OH,Guernsey,$3.040,2024-12-26
+Ohio,OH,Hamilton,$3.093,2024-12-26
+Ohio,OH,Hancock,$2.840,2024-12-26
+Ohio,OH,Hardin,$2.883,2024-12-26
+Ohio,OH,Harrison,$3.113,2024-12-26
+Ohio,OH,Henry,$2.834,2024-12-26
+Ohio,OH,Highland,$2.984,2024-12-26
+Ohio,OH,Hocking,$2.969,2024-12-26
+Ohio,OH,Holmes,$3.067,2024-12-26
+Ohio,OH,Huron,$3.245,2024-12-26
+Ohio,OH,Jackson,$2.932,2024-12-26
+Ohio,OH,Jefferson,$3.097,2024-12-26
+Ohio,OH,Knox,$3.125,2024-12-26
+Ohio,OH,Lake,$3.018,2024-12-26
+Ohio,OH,Lawrence,$3.049,2024-12-26
+Ohio,OH,Licking,$3.165,2024-12-26
+Ohio,OH,Logan,$3.017,2024-12-26
+Ohio,OH,Lorain,$3.050,2024-12-26
+Ohio,OH,Lucas,$2.994,2024-12-26
+Ohio,OH,Madison,$3.077,2024-12-26
+Ohio,OH,Mahoning,$2.952,2024-12-26
+Ohio,OH,Marion,$3.112,2024-12-26
+Ohio,OH,Medina,$3.087,2024-12-26
+Ohio,OH,Meigs,$2.790,2024-12-26
+Ohio,OH,Mercer,$2.901,2024-12-26
+Ohio,OH,Miami,$3.073,2024-12-26
+Ohio,OH,Monroe,$2.942,2024-12-26
+Ohio,OH,Montgomery,$3.027,2024-12-26
+Ohio,OH,Morgan,$3.184,2024-12-26
+Ohio,OH,Morrow,$3.130,2024-12-26
+Ohio,OH,Muskingum,$3.134,2024-12-26
+Ohio,OH,Noble,$3.039,2024-12-26
+Ohio,OH,Ottawa,$3.219,2024-12-26
+Ohio,OH,Paulding,$2.867,2024-12-26
+Ohio,OH,Perry,$3.132,2024-12-26
+Ohio,OH,Pickaway,$2.998,2024-12-26
+Ohio,OH,Pike,$2.956,2024-12-26
+Ohio,OH,Portage,$3.052,2024-12-26
+Ohio,OH,Preble,$2.971,2024-12-26
+Ohio,OH,Putnam,$2.891,2024-12-26
+Ohio,OH,Richland,$3.090,2024-12-26
+Ohio,OH,Ross,$3.040,2024-12-26
+Ohio,OH,Sandusky,$3.073,2024-12-26
+Ohio,OH,Scioto,$2.836,2024-12-26
+Ohio,OH,Seneca,$3.101,2024-12-26
+Ohio,OH,Shelby,$2.956,2024-12-26
+Ohio,OH,Stark,$3.031,2024-12-26
+Ohio,OH,Summit,$3.029,2024-12-26
+Ohio,OH,Trumbull,$2.989,2024-12-26
+Ohio,OH,Tuscarawas,$3.153,2024-12-26
+Ohio,OH,Union,$3.152,2024-12-26
+Ohio,OH,Van Wert,$2.998,2024-12-26
+Ohio,OH,Vinton,$2.899,2024-12-26
+Ohio,OH,Warren,$2.994,2024-12-26
+Ohio,OH,Washington,$3.080,2024-12-26
+Ohio,OH,Wayne,$3.034,2024-12-26
+Ohio,OH,Williams,$2.968,2024-12-26
+Ohio,OH,Wood,$2.976,2024-12-26
+Ohio,OH,Wyandot,$2.832,2024-12-26
+Oklahoma,OK,Adair,$2.503,2024-12-26
+Oklahoma,OK,Alfalfa,$2.762,2024-12-26
+Oklahoma,OK,Atoka,$2.690,2024-12-26
+Oklahoma,OK,Beaver,$2.635,2024-12-26
+Oklahoma,OK,Beckham,$2.513,2024-12-26
+Oklahoma,OK,Blaine,$2.549,2024-12-26
+Oklahoma,OK,Bryan,$2.465,2024-12-26
+Oklahoma,OK,Caddo,$2.612,2024-12-26
+Oklahoma,OK,Canadian,$2.469,2024-12-26
+Oklahoma,OK,Carter,$2.528,2024-12-26
+Oklahoma,OK,Cherokee,$2.529,2024-12-26
+Oklahoma,OK,Choctaw,$2.645,2024-12-26
+Oklahoma,OK,Cimarron,$2.869,2024-12-26
+Oklahoma,OK,Cleveland,$2.449,2024-12-26
+Oklahoma,OK,Coal,$2.932,2024-12-26
+Oklahoma,OK,Comanche,$2.471,2024-12-26
+Oklahoma,OK,Cotton,$2.544,2024-12-26
+Oklahoma,OK,Craig,$2.582,2024-12-26
+Oklahoma,OK,Creek,$2.736,2024-12-26
+Oklahoma,OK,Custer,$2.654,2024-12-26
+Oklahoma,OK,Delaware,$2.598,2024-12-26
+Oklahoma,OK,Dewey,$2.659,2024-12-26
+Oklahoma,OK,Ellis,$2.866,2024-12-26
+Oklahoma,OK,Garfield,$2.601,2024-12-26
+Oklahoma,OK,Garvin,$2.519,2024-12-26
+Oklahoma,OK,Grady,$2.522,2024-12-26
+Oklahoma,OK,Grant,$2.532,2024-12-26
+Oklahoma,OK,Greer,$2.379,2024-12-26
+Oklahoma,OK,Harmon,$2.599,2024-12-26
+Oklahoma,OK,Harper,$2.624,2024-12-26
+Oklahoma,OK,Haskell,$2.713,2024-12-26
+Oklahoma,OK,Hughes,$2.845,2024-12-26
+Oklahoma,OK,Jackson,$2.551,2024-12-26
+Oklahoma,OK,Jefferson,$2.614,2024-12-26
+Oklahoma,OK,Johnston,$2.486,2024-12-26
+Oklahoma,OK,Kay,$2.556,2024-12-26
+Oklahoma,OK,Kingfisher,$2.552,2024-12-26
+Oklahoma,OK,Kiowa,$2.655,2024-12-26
+Oklahoma,OK,Latimer,$2.674,2024-12-26
+Oklahoma,OK,Le Flore,$2.695,2024-12-26
+Oklahoma,OK,Lincoln,$2.690,2024-12-26
+Oklahoma,OK,Logan,$2.577,2024-12-26
+Oklahoma,OK,Love,$2.619,2024-12-26
+Oklahoma,OK,Major,$2.466,2024-12-26
+Oklahoma,OK,Marshall,$2.476,2024-12-26
+Oklahoma,OK,Mayes,$2.512,2024-12-26
+Oklahoma,OK,McClain,$2.602,2024-12-26
+Oklahoma,OK,McCurtain,$2.622,2024-12-26
+Oklahoma,OK,McIntosh,$2.629,2024-12-26
+Oklahoma,OK,Murray,$2.591,2024-12-26
+Oklahoma,OK,Muskogee,$2.603,2024-12-26
+Oklahoma,OK,Noble,$2.644,2024-12-26
+Oklahoma,OK,Nowata,$2.610,2024-12-26
+Oklahoma,OK,Okfuskee,$2.592,2024-12-26
+Oklahoma,OK,Oklahoma,$2.486,2024-12-26
+Oklahoma,OK,Okmulgee,$2.548,2024-12-26
+Oklahoma,OK,Osage,$2.762,2024-12-26
+Oklahoma,OK,Ottawa,$2.475,2024-12-26
+Oklahoma,OK,Pawnee,$2.563,2024-12-26
+Oklahoma,OK,Payne,$2.598,2024-12-26
+Oklahoma,OK,Pittsburg,$2.621,2024-12-26
+Oklahoma,OK,Pontotoc,$2.472,2024-12-26
+Oklahoma,OK,Pottawatomie,$2.437,2024-12-26
+Oklahoma,OK,Pushmataha,$2.810,2024-12-26
+Oklahoma,OK,Roger Mills,$2.567,2024-12-26
+Oklahoma,OK,Rogers,$2.691,2024-12-26
+Oklahoma,OK,Seminole,$2.479,2024-12-26
+Oklahoma,OK,Sequoyah,$2.689,2024-12-26
+Oklahoma,OK,Stephens,$2.544,2024-12-26
+Oklahoma,OK,Texas,$2.600,2024-12-26
+Oklahoma,OK,Tillman,$2.519,2024-12-26
+Oklahoma,OK,Tulsa,$2.671,2024-12-26
+Oklahoma,OK,Wagoner,$2.652,2024-12-26
+Oklahoma,OK,Washington,$2.629,2024-12-26
+Oklahoma,OK,Washita,$2.611,2024-12-26
+Oklahoma,OK,Woods,$2.818,2024-12-26
+Oklahoma,OK,Woodward,$2.624,2024-12-26
+Oregon,OR,Baker,$3.600,2024-12-26
+Oregon,OR,Benton,$3.130,2024-12-26
+Oregon,OR,Clackamas,$3.545,2024-12-26
+Oregon,OR,Clatsop,$3.823,2024-12-26
+Oregon,OR,Columbia,$3.699,2024-12-26
+Oregon,OR,Coos,$3.310,2024-12-26
+Oregon,OR,Crook,$3.479,2024-12-26
+Oregon,OR,Curry,$3.665,2024-12-26
+Oregon,OR,Deschutes,$3.201,2024-12-26
+Oregon,OR,Douglas,$3.232,2024-12-26
+Oregon,OR,Gilliam,$3.199,2024-12-26
+Oregon,OR,Grant,$3.664,2024-12-26
+Oregon,OR,Harney,$3.716,2024-12-26
+Oregon,OR,Hood River,$3.353,2024-12-26
+Oregon,OR,Jackson,$3.483,2024-12-26
+Oregon,OR,Jefferson,$3.225,2024-12-26
+Oregon,OR,Josephine,$3.606,2024-12-26
+Oregon,OR,Klamath,$3.371,2024-12-26
+Oregon,OR,Lake,$3.389,2024-12-26
+Oregon,OR,Lane,$3.322,2024-12-26
+Oregon,OR,Lincoln,$3.050,2024-12-26
+Oregon,OR,Linn,$3.231,2024-12-26
+Oregon,OR,Malheur,$3.259,2024-12-26
+Oregon,OR,Marion,$3.306,2024-12-26
+Oregon,OR,Morrow,$3.194,2024-12-26
+Oregon,OR,Multnomah,$3.660,2024-12-26
+Oregon,OR,Polk,$3.279,2024-12-26
+Oregon,OR,Sherman,$3.163,2024-12-26
+Oregon,OR,Tillamook,$3.539,2024-12-26
+Oregon,OR,Umatilla,$3.245,2024-12-26
+Oregon,OR,Union,$3.651,2024-12-26
+Oregon,OR,Wallowa,$3.799,2024-12-26
+Oregon,OR,Wasco,$3.328,2024-12-26
+Oregon,OR,Washington,$3.692,2024-12-26
+Oregon,OR,Wheeler,,2024-12-26
+Oregon,OR,Yamhill,$3.478,2024-12-26
+Maryland,MD,Allegany,$3.146,2024-12-26
+Maryland,MD,Anne Arundel,$2.859,2024-12-26
+Maryland,MD,Baltimore City,$2.858,2024-12-26
+Maryland,MD,Baltimore,$2.845,2024-12-26
+Maryland,MD,Calvert,$3.004,2024-12-26
+Maryland,MD,Cecil,$2.837,2024-12-26
+Maryland,MD,Charles,$2.807,2024-12-26
+Maryland,MD,Carroll,$2.834,2024-12-26
+Maryland,MD,Caroline,$2.818,2024-12-26
+Maryland,MD,Dorchester,$2.820,2024-12-26
+Maryland,MD,Frederick,$2.981,2024-12-26
+Maryland,MD,Garrett,$3.251,2024-12-26
+Maryland,MD,Harford,$2.815,2024-12-26
+Maryland,MD,Howard,$2.948,2024-12-26
+Maryland,MD,Kent,$2.850,2024-12-26
+Maryland,MD,Montgomery,$3.059,2024-12-26
+Maryland,MD,Prince Georges,$2.912,2024-12-26
+Maryland,MD,Queen Annes,$2.803,2024-12-26
+Maryland,MD,Saint Marys,$3.050,2024-12-26
+Maryland,MD,Somerset,$2.835,2024-12-26
+Maryland,MD,Talbot,$2.786,2024-12-26
+Maryland,MD,Washington,$2.980,2024-12-26
+Maryland,MD,Wicomico,$2.782,2024-12-26
+Maryland,MD,Worcester,$2.848,2024-12-26
+Massachusetts,MA,Barnstable,$3.076,2024-12-26
+Massachusetts,MA,Berkshire,$3.060,2024-12-26
+Massachusetts,MA,Bristol,$2.899,2024-12-26
+Massachusetts,MA,Dukes,$4.156,2024-12-26
+Massachusetts,MA,Essex,$3.044,2024-12-26
+Massachusetts,MA,Franklin,$2.964,2024-12-26
+Massachusetts,MA,Hampden,$2.942,2024-12-26
+Massachusetts,MA,Hampshire,$3.035,2024-12-26
+Massachusetts,MA,Middlesex,$3.071,2024-12-26
+Massachusetts,MA,Nantucket,$4.139,2024-12-26
+Massachusetts,MA,Norfolk,$2.992,2024-12-26
+Massachusetts,MA,Plymouth,$2.964,2024-12-26
+Massachusetts,MA,Suffolk,$3.186,2024-12-26
+Massachusetts,MA,Worcester,$3.011,2024-12-26
+Michigan,MI,Alcona,$3.139,2024-12-26
+Michigan,MI,Alger,$2.999,2024-12-26
+Michigan,MI,Allegan,$3.124,2024-12-26
+Michigan,MI,Alpena,$3.162,2024-12-26
+Michigan,MI,Antrim,$3.065,2024-12-26
+Michigan,MI,Arenac,$3.221,2024-12-26
+Michigan,MI,Baraga,$2.924,2024-12-26
+Michigan,MI,Barry,$3.203,2024-12-26
+Michigan,MI,Bay,$3.187,2024-12-26
+Michigan,MI,Benzie,$3.159,2024-12-26
+Michigan,MI,Berrien,$3.013,2024-12-26
+Michigan,MI,Branch,$3.137,2024-12-26
+Michigan,MI,Calhoun,$3.024,2024-12-26
+Michigan,MI,Cass,$2.987,2024-12-26
+Michigan,MI,Charlevoix,$3.120,2024-12-26
+Michigan,MI,Cheboygan,$3.167,2024-12-26
+Michigan,MI,Chippewa,$3.054,2024-12-26
+Michigan,MI,Clare,$2.954,2024-12-26
+Michigan,MI,Clinton,$3.047,2024-12-26
+Michigan,MI,Crawford,$3.216,2024-12-26
+Michigan,MI,Delta,$2.899,2024-12-26
+Michigan,MI,Dickinson,$2.821,2024-12-26
+Michigan,MI,Eaton,$3.091,2024-12-26
+Michigan,MI,Emmet,$3.177,2024-12-26
+Michigan,MI,Genesee,$3.049,2024-12-26
+Michigan,MI,Gladwin,$2.868,2024-12-26
+Michigan,MI,Gogebic,$3.009,2024-12-26
+Michigan,MI,Grand Traverse,$3.008,2024-12-26
+Michigan,MI,Gratiot,$3.111,2024-12-26
+Michigan,MI,Hillsdale,$2.972,2024-12-26
+Michigan,MI,Houghton,$2.839,2024-12-26
+Michigan,MI,Huron,$3.198,2024-12-26
+Michigan,MI,Ingham,$3.085,2024-12-26
+Michigan,MI,Ionia,$2.991,2024-12-26
+Michigan,MI,Iosco,$3.046,2024-12-26
+Michigan,MI,Iron,$3.026,2024-12-26
+Michigan,MI,Isabella,$3.118,2024-12-26
+Michigan,MI,Jackson,$3.098,2024-12-26
+Michigan,MI,Kalamazoo,$3.056,2024-12-26
+Michigan,MI,Kalkaska,$3.068,2024-12-26
+Michigan,MI,Kent,$3.155,2024-12-26
+Michigan,MI,Keweenaw,$2.999,2024-12-26
+Michigan,MI,Lake,$3.033,2024-12-26
+Michigan,MI,Lapeer,$3.069,2024-12-26
+Michigan,MI,Leelanau,$3.151,2024-12-26
+Michigan,MI,Lenawee,$2.954,2024-12-26
+Michigan,MI,Livingston,$3.177,2024-12-26
+Michigan,MI,Luce,$3.108,2024-12-26
+Michigan,MI,Mackinac,$3.180,2024-12-26
+Michigan,MI,Macomb,$3.063,2024-12-26
+Michigan,MI,Manistee,$3.173,2024-12-26
+Michigan,MI,Marquette,$2.959,2024-12-26
+Michigan,MI,Mason,$2.940,2024-12-26
+Michigan,MI,Mecosta,$3.121,2024-12-26
+Michigan,MI,Menominee,$2.777,2024-12-26
+Michigan,MI,Midland,$3.060,2024-12-26
+Michigan,MI,Missaukee,$2.947,2024-12-26
+Michigan,MI,Monroe,$3.032,2024-12-26
+Michigan,MI,Montcalm,$2.969,2024-12-26
+Michigan,MI,Montmorency,$2.989,2024-12-26
+Michigan,MI,Muskegon,$3.041,2024-12-26
+Michigan,MI,Newaygo,$3.058,2024-12-26
+Michigan,MI,Oakland,$3.114,2024-12-26
+Michigan,MI,Oceana,$3.109,2024-12-26
+Michigan,MI,Ogemaw,$3.068,2024-12-26
+Michigan,MI,Ontonagon,$3.042,2024-12-26
+Michigan,MI,Osceola,$3.092,2024-12-26
+Michigan,MI,Oscoda,$3.039,2024-12-26
+Michigan,MI,Otsego,$3.149,2024-12-26
+Michigan,MI,Ottawa,$3.075,2024-12-26
+Michigan,MI,Presque Isle,$3.116,2024-12-26
+Michigan,MI,Roscommon,$2.896,2024-12-26
+Michigan,MI,Saginaw,$3.037,2024-12-26
+Michigan,MI,Sanilac,$3.083,2024-12-26
+Michigan,MI,Schoolcraft,$3.042,2024-12-26
+Michigan,MI,Shiawassee,$3.130,2024-12-26
+Michigan,MI,Saint Clair,$3.115,2024-12-26
+Michigan,MI,Saint Joseph,$3.070,2024-12-26
+Michigan,MI,Tuscola,$3.100,2024-12-26
+Michigan,MI,Van Buren,$3.026,2024-12-26
+Michigan,MI,Washtenaw,$3.066,2024-12-26
+Michigan,MI,Wayne,$2.980,2024-12-26
+Michigan,MI,Wexford,$3.048,2024-12-26
+Minnesota,MN,Aitkin,$2.788,2024-12-26
+Minnesota,MN,Anoka,$2.896,2024-12-26
+Minnesota,MN,Becker,$2.939,2024-12-26
+Minnesota,MN,Beltrami,$2.716,2024-12-26
+Minnesota,MN,Benton,$2.778,2024-12-26
+Minnesota,MN,Big Stone,$2.739,2024-12-26
+Minnesota,MN,Blue Earth,$2.894,2024-12-26
+Minnesota,MN,Brown,$2.825,2024-12-26
+Minnesota,MN,Carlton,$2.705,2024-12-26
+Minnesota,MN,Carver,$2.940,2024-12-26
+Minnesota,MN,Cass,$2.713,2024-12-26
+Minnesota,MN,Chippewa,$2.857,2024-12-26
+Minnesota,MN,Chisago,$2.907,2024-12-26
+Minnesota,MN,Clay,$2.827,2024-12-26
+Minnesota,MN,Clearwater,$2.751,2024-12-26
+Minnesota,MN,Cook,$2.809,2024-12-26
+Minnesota,MN,Cottonwood,$2.866,2024-12-26
+Minnesota,MN,Crow Wing,$2.666,2024-12-26
+Minnesota,MN,Dakota,$2.915,2024-12-26
+Minnesota,MN,Dodge,$2.944,2024-12-26
+Minnesota,MN,Douglas,$2.935,2024-12-26
+Minnesota,MN,Faribault,$2.849,2024-12-26
+Minnesota,MN,Fillmore,$2.936,2024-12-26
+Minnesota,MN,Freeborn,$2.727,2024-12-26
+Minnesota,MN,Goodhue,$2.913,2024-12-26
+Minnesota,MN,Grant,$2.840,2024-12-26
+Minnesota,MN,Hennepin,$2.962,2024-12-26
+Minnesota,MN,Houston,$2.893,2024-12-26
+Minnesota,MN,Hubbard,$2.879,2024-12-26
+Minnesota,MN,Isanti,$2.822,2024-12-26
+Minnesota,MN,Itasca,$2.619,2024-12-26
+Minnesota,MN,Jackson,$2.821,2024-12-26
+Minnesota,MN,Kanabec,$2.919,2024-12-26
+Minnesota,MN,Kandiyohi,$2.878,2024-12-26
+Minnesota,MN,Kittson,$2.666,2024-12-26
+Minnesota,MN,Koochiching,$2.631,2024-12-26
+Minnesota,MN,Lac Qui Parle,$2.779,2024-12-26
+Minnesota,MN,Lake,$2.874,2024-12-26
+Minnesota,MN,Lake of the Woods,$2.749,2024-12-26
+Minnesota,MN,Le Sueur,$2.829,2024-12-26
+Minnesota,MN,Lincoln,$2.681,2024-12-26
+Minnesota,MN,Lyon,$2.828,2024-12-26
+Minnesota,MN,Mahnomen,$2.799,2024-12-26
+Minnesota,MN,Marshall,$2.681,2024-12-26
+Minnesota,MN,Martin,$2.997,2024-12-26
+Minnesota,MN,McLeod,$2.821,2024-12-26
+Minnesota,MN,Meeker,$2.885,2024-12-26
+Minnesota,MN,Mille Lacs,$2.899,2024-12-26
+Minnesota,MN,Morrison,$2.725,2024-12-26
+Minnesota,MN,Mower,$2.751,2024-12-26
+Minnesota,MN,Murray,$2.718,2024-12-26
+Minnesota,MN,Nicollet,$2.912,2024-12-26
+Minnesota,MN,Nobles,$2.753,2024-12-26
+Minnesota,MN,Norman,$2.819,2024-12-26
+Minnesota,MN,Olmsted,$2.973,2024-12-26
+Minnesota,MN,Otter Tail,$2.850,2024-12-26
+Minnesota,MN,Pennington,$2.491,2024-12-26
+Minnesota,MN,Pine,$2.893,2024-12-26
+Minnesota,MN,Pipestone,$2.632,2024-12-26
+Minnesota,MN,Polk,$2.720,2024-12-26
+Minnesota,MN,Pope,$2.929,2024-12-26
+Minnesota,MN,Ramsey,$2.953,2024-12-26
+Minnesota,MN,Red Lake,$2.699,2024-12-26
+Minnesota,MN,Redwood,$2.778,2024-12-26
+Minnesota,MN,Renville,$2.893,2024-12-26
+Minnesota,MN,Rice,$2.930,2024-12-26
+Minnesota,MN,Rock,$2.729,2024-12-26
+Minnesota,MN,Roseau,$2.691,2024-12-26
+Minnesota,MN,Scott,$2.930,2024-12-26
+Minnesota,MN,Sherburne,$2.767,2024-12-26
+Minnesota,MN,Sibley,$2.739,2024-12-26
+Minnesota,MN,Saint Louis,$2.758,2024-12-26
+Minnesota,MN,Stearns,$2.716,2024-12-26
+Minnesota,MN,Steele,$2.838,2024-12-26
+Minnesota,MN,Stevens,$2.816,2024-12-26
+Minnesota,MN,Swift,$2.877,2024-12-26
+Minnesota,MN,Todd,$2.815,2024-12-26
+Minnesota,MN,Traverse,$2.779,2024-12-26
+Minnesota,MN,Wabasha,$2.810,2024-12-26
+Minnesota,MN,Wadena,$2.928,2024-12-26
+Minnesota,MN,Waseca,$2.802,2024-12-26
+Minnesota,MN,Washington,$2.878,2024-12-26
+Minnesota,MN,Watonwan,$2.767,2024-12-26
+Minnesota,MN,Wilkin,$2.712,2024-12-26
+Minnesota,MN,Winona,$2.789,2024-12-26
+Minnesota,MN,Wright,$2.818,2024-12-26
+Minnesota,MN,Yellow Medicine,$2.864,2024-12-26
+Mississippi,MS,Adams,$2.776,2024-12-26
+Mississippi,MS,Alcorn,$2.482,2024-12-26
+Mississippi,MS,Amite,$2.819,2024-12-26
+Mississippi,MS,Attala,$2.667,2024-12-26
+Mississippi,MS,Benton,$2.592,2024-12-26
+Mississippi,MS,Bolivar,$2.494,2024-12-26
+Mississippi,MS,Calhoun,$2.699,2024-12-26
+Mississippi,MS,Carroll,$2.786,2024-12-26
+Mississippi,MS,Chickasaw,$2.690,2024-12-26
+Mississippi,MS,Choctaw,$2.609,2024-12-26
+Mississippi,MS,Claiborne,$3.032,2024-12-26
+Mississippi,MS,Clarke,$2.749,2024-12-26
+Mississippi,MS,Clay,$2.577,2024-12-26
+Mississippi,MS,Coahoma,$2.620,2024-12-26
+Mississippi,MS,Copiah,$2.657,2024-12-26
+Mississippi,MS,Covington,$2.584,2024-12-26
+Mississippi,MS,De Soto,$2.556,2024-12-26
+Mississippi,MS,Forrest,$2.482,2024-12-26
+Mississippi,MS,Franklin,$2.655,2024-12-26
+Mississippi,MS,George,$2.639,2024-12-26
+Mississippi,MS,Greene,$2.749,2024-12-26
+Mississippi,MS,Grenada,$2.465,2024-12-26
+Mississippi,MS,Hancock,$2.640,2024-12-26
+Mississippi,MS,Harrison,$2.506,2024-12-26
+Mississippi,MS,Hinds,$2.609,2024-12-26
+Mississippi,MS,Holmes,$2.750,2024-12-26
+Mississippi,MS,Humphreys,$2.899,2024-12-26
+Mississippi,MS,Issaquena,,2024-12-26
+Mississippi,MS,Itawamba,$2.516,2024-12-26
+Mississippi,MS,Jackson,$2.541,2024-12-26
+Mississippi,MS,Jasper,$2.479,2024-12-26
+Mississippi,MS,Jefferson,,2024-12-26
+Mississippi,MS,Jefferson Davis,$2.649,2024-12-26
+Mississippi,MS,Jones,$2.481,2024-12-26
+Mississippi,MS,Kemper,$2.699,2024-12-26
+Mississippi,MS,Lafayette,$2.746,2024-12-26
+Mississippi,MS,Lamar,$2.461,2024-12-26
+Mississippi,MS,Lauderdale,$2.621,2024-12-26
+Mississippi,MS,Lawrence,$2.766,2024-12-26
+Mississippi,MS,Leake,$2.509,2024-12-26
+Mississippi,MS,Lee,$2.565,2024-12-26
+Mississippi,MS,Leflore,$2.463,2024-12-26
+Mississippi,MS,Lincoln,$2.689,2024-12-26
+Mississippi,MS,Lowndes,$2.583,2024-12-26
+Mississippi,MS,Madison,$2.676,2024-12-26
+Mississippi,MS,Marion,$2.614,2024-12-26
+Mississippi,MS,Marshall,$2.581,2024-12-26
+Mississippi,MS,Monroe,$2.562,2024-12-26
+Mississippi,MS,Montgomery,$2.768,2024-12-26
+Mississippi,MS,Neshoba,$2.692,2024-12-26
+Mississippi,MS,Newton,$2.710,2024-12-26
+Mississippi,MS,Noxubee,$2.839,2024-12-26
+Mississippi,MS,Oktibbeha,$2.527,2024-12-26
+Mississippi,MS,Panola,$2.476,2024-12-26
+Mississippi,MS,Pearl River,$2.447,2024-12-26
+Mississippi,MS,Perry,$2.856,2024-12-26
+Mississippi,MS,Pike,$2.613,2024-12-26
+Mississippi,MS,Pontotoc,$2.577,2024-12-26
+Mississippi,MS,Prentiss,$2.490,2024-12-26
+Mississippi,MS,Quitman,$2.689,2024-12-26
+Mississippi,MS,Rankin,$2.597,2024-12-26
+Mississippi,MS,Scott,$2.670,2024-12-26
+Mississippi,MS,Sharkey,$2.989,2024-12-26
+Mississippi,MS,Simpson,$2.626,2024-12-26
+Mississippi,MS,Smith,$2.695,2024-12-26
+Mississippi,MS,Stone,$2.584,2024-12-26
+Mississippi,MS,Sunflower,$2.494,2024-12-26
+Mississippi,MS,Tallahatchie,$2.562,2024-12-26
+Mississippi,MS,Tate,$2.571,2024-12-26
+Mississippi,MS,Tippah,$2.518,2024-12-26
+Mississippi,MS,Tishomingo,$2.547,2024-12-26
+Mississippi,MS,Tunica,$2.598,2024-12-26
+Mississippi,MS,Union,$2.570,2024-12-26
+Mississippi,MS,Walthall,$2.692,2024-12-26
+Mississippi,MS,Warren,$2.771,2024-12-26
+Mississippi,MS,Washington,$2.634,2024-12-26
+Mississippi,MS,Wayne,$2.627,2024-12-26
+Mississippi,MS,Webster,$2.657,2024-12-26
+Mississippi,MS,Wilkinson,$2.939,2024-12-26
+Mississippi,MS,Winston,$2.575,2024-12-26
+Mississippi,MS,Yalobusha,$2.498,2024-12-26
+Mississippi,MS,Yazoo,$2.662,2024-12-26
+Missouri,MO,Adair,$2.771,2024-12-26
+Missouri,MO,Andrew,$2.623,2024-12-26
+Missouri,MO,Atchison,$2.909,2024-12-26
+Missouri,MO,Audrain,$2.707,2024-12-26
+Missouri,MO,Barry,$2.584,2024-12-26
+Missouri,MO,Barton,$2.551,2024-12-26
+Missouri,MO,Bates,$2.761,2024-12-26
+Missouri,MO,Benton,$2.626,2024-12-26
+Missouri,MO,Bollinger,$2.656,2024-12-26
+Missouri,MO,Boone,$2.937,2024-12-26
+Missouri,MO,Buchanan,$2.692,2024-12-26
+Missouri,MO,Butler,$2.673,2024-12-26
+Missouri,MO,Caldwell,$2.747,2024-12-26
+Missouri,MO,Callaway,$2.792,2024-12-26
+Missouri,MO,Camden,$2.591,2024-12-26
+Missouri,MO,Cape Girardeau,$2.687,2024-12-26
+Missouri,MO,Carroll,$2.769,2024-12-26
+Missouri,MO,Carter,$2.777,2024-12-26
+Missouri,MO,Cass,$2.737,2024-12-26
+Missouri,MO,Cedar,$2.644,2024-12-26
+Missouri,MO,Chariton,$2.793,2024-12-26
+Missouri,MO,Christian,$2.658,2024-12-26
+Missouri,MO,Clark,$2.611,2024-12-26
+Missouri,MO,Clay,$2.745,2024-12-26
+Missouri,MO,Clinton,$2.643,2024-12-26
+Missouri,MO,Cole,$2.877,2024-12-26
+Missouri,MO,Cooper,$2.601,2024-12-26
+Missouri,MO,Crawford,$2.849,2024-12-26
+Missouri,MO,Dade,$2.616,2024-12-26
+Missouri,MO,Dallas,$2.416,2024-12-26
+Missouri,MO,Daviess,$2.627,2024-12-26
+Missouri,MO,DeKalb,$2.627,2024-12-26
+Missouri,MO,Dent,$2.741,2024-12-26
+Missouri,MO,Douglas,$2.609,2024-12-26
+Missouri,MO,Dunklin,$2.578,2024-12-26
+Missouri,MO,Franklin,$2.852,2024-12-26
+Missouri,MO,Gasconade,$2.624,2024-12-26
+Missouri,MO,Gentry,$2.699,2024-12-26
+Missouri,MO,Greene,$2.650,2024-12-26
+Missouri,MO,Grundy,$2.659,2024-12-26
+Missouri,MO,Harrison,$2.644,2024-12-26
+Missouri,MO,Henry,$2.805,2024-12-26
+Missouri,MO,Hickory,$2.596,2024-12-26
+Missouri,MO,Holt,$2.746,2024-12-26
+Missouri,MO,Howard,$2.801,2024-12-26
+Missouri,MO,Howell,$2.623,2024-12-26
+Missouri,MO,Iron,$2.785,2024-12-26
+Missouri,MO,Jackson,$2.730,2024-12-26
+Missouri,MO,Jasper,$2.505,2024-12-26
+Missouri,MO,Jefferson,$2.852,2024-12-26
+Missouri,MO,Johnson,$2.757,2024-12-26
+Missouri,MO,Knox,$2.592,2024-12-26
+Missouri,MO,Laclede,$2.631,2024-12-26
+Missouri,MO,Lafayette,$2.794,2024-12-26
+Missouri,MO,Lawrence,$2.654,2024-12-26
+Missouri,MO,Lewis,$2.597,2024-12-26
+Missouri,MO,Lincoln,$2.771,2024-12-26
+Missouri,MO,Linn,$2.766,2024-12-26
+Missouri,MO,Livingston,$2.739,2024-12-26
+Missouri,MO,Macon,$2.798,2024-12-26
+Missouri,MO,Madison,$2.579,2024-12-26
+Missouri,MO,Maries,$2.781,2024-12-26
+Missouri,MO,Marion,$2.630,2024-12-26
+Missouri,MO,McDonald,$2.565,2024-12-26
+Missouri,MO,Mercer,$2.652,2024-12-26
+Missouri,MO,Miller,$2.725,2024-12-26
+Missouri,MO,Mississippi,$2.663,2024-12-26
+Missouri,MO,Moniteau,$2.770,2024-12-26
+Missouri,MO,Monroe,$2.756,2024-12-26
+Missouri,MO,Montgomery,$2.669,2024-12-26
+Missouri,MO,Morgan,$2.661,2024-12-26
+Missouri,MO,New Madrid,$2.638,2024-12-26
+Missouri,MO,Newton,$2.545,2024-12-26
+Missouri,MO,Nodaway,$2.680,2024-12-26
+Missouri,MO,Oregon,$2.701,2024-12-26
+Missouri,MO,Osage,$2.798,2024-12-26
+Missouri,MO,Ozark,$2.687,2024-12-26
+Missouri,MO,Pemiscot,$2.689,2024-12-26
+Missouri,MO,Perry,$2.724,2024-12-26
+Missouri,MO,Pettis,$2.722,2024-12-26
+Missouri,MO,Phelps,$2.719,2024-12-26
+Missouri,MO,Pike,$2.682,2024-12-26
+Missouri,MO,Platte,$2.742,2024-12-26
+Missouri,MO,Polk,$2.625,2024-12-26
+Missouri,MO,Pulaski,$2.685,2024-12-26
+Missouri,MO,Putnam,$2.779,2024-12-26
+Missouri,MO,Ralls,$2.664,2024-12-26
+Missouri,MO,Randolph,$2.793,2024-12-26
+Missouri,MO,Ray,$2.749,2024-12-26
+Missouri,MO,Reynolds,$2.794,2024-12-26
+Missouri,MO,Ripley,$2.593,2024-12-26
+Missouri,MO,Saline,$2.786,2024-12-26
+Missouri,MO,Schuyler,$2.755,2024-12-26
+Missouri,MO,Scotland,$2.759,2024-12-26
+Missouri,MO,Scott,$2.827,2024-12-26
+Missouri,MO,Shannon,$2.819,2024-12-26
+Missouri,MO,Shelby,$2.716,2024-12-26
+Missouri,MO,Saint Charles,$2.884,2024-12-26
+Missouri,MO,Saint Clair,$2.782,2024-12-26
+Missouri,MO,Saint Francois,$2.747,2024-12-26
+Missouri,MO,Saint Louis,$2.908,2024-12-26
+Missouri,MO,Saint Louis City,$2.892,2024-12-26
+Missouri,MO,Sainte Genevieve,$2.632,2024-12-26
+Missouri,MO,Stoddard,$2.687,2024-12-26
+Missouri,MO,Stone,$2.614,2024-12-26
+Missouri,MO,Sullivan,$2.819,2024-12-26
+Missouri,MO,Taney,$2.628,2024-12-26
+Missouri,MO,Texas,$2.673,2024-12-26
+Missouri,MO,Vernon,$2.597,2024-12-26
+Missouri,MO,Warren,$2.802,2024-12-26
+Missouri,MO,Washington,$2.640,2024-12-26
+Missouri,MO,Wayne,$2.747,2024-12-26
+Missouri,MO,Webster,$2.568,2024-12-26
+Missouri,MO,Worth,$2.709,2024-12-26
+Missouri,MO,Wright,$2.625,2024-12-26
+Pennsylvania,PA,Adams,$3.250,2024-12-26
+Pennsylvania,PA,Allegheny,$3.340,2024-12-26
+Pennsylvania,PA,Armstrong,$3.399,2024-12-26
+Pennsylvania,PA,Beaver,$3.372,2024-12-26
+Pennsylvania,PA,Bedford,$3.322,2024-12-26
+Pennsylvania,PA,Berks,$3.199,2024-12-26
+Pennsylvania,PA,Blair,$3.302,2024-12-26
+Pennsylvania,PA,Bradford,$3.282,2024-12-26
+Pennsylvania,PA,Bucks,$3.075,2024-12-26
+Pennsylvania,PA,Butler,$3.314,2024-12-26
+Pennsylvania,PA,Cambria,$3.362,2024-12-26
+Pennsylvania,PA,Cameron,$3.219,2024-12-26
+Pennsylvania,PA,Carbon,$3.102,2024-12-26
+Pennsylvania,PA,Centre,$3.300,2024-12-26
+Pennsylvania,PA,Chester,$3.039,2024-12-26
+Pennsylvania,PA,Clarion,$3.368,2024-12-26
+Pennsylvania,PA,Clearfield,$3.405,2024-12-26
+Pennsylvania,PA,Clinton,$3.234,2024-12-26
+Pennsylvania,PA,Columbia,$3.151,2024-12-26
+Pennsylvania,PA,Crawford,$3.379,2024-12-26
+Pennsylvania,PA,Cumberland,$3.227,2024-12-26
+Pennsylvania,PA,Dauphin,$3.184,2024-12-26
+Pennsylvania,PA,Delaware,$3.043,2024-12-26
+Pennsylvania,PA,Elk,$3.266,2024-12-26
+Pennsylvania,PA,Erie,$3.340,2024-12-26
+Pennsylvania,PA,Fayette,$3.345,2024-12-26
+Pennsylvania,PA,Forest,$3.449,2024-12-26
+Pennsylvania,PA,Franklin,$3.282,2024-12-26
+Pennsylvania,PA,Fulton,$3.275,2024-12-26
+Pennsylvania,PA,Greene,$3.324,2024-12-26
+Pennsylvania,PA,Huntingdon,$3.379,2024-12-26
+Pennsylvania,PA,Indiana,$3.413,2024-12-26
+Pennsylvania,PA,Jefferson,$3.344,2024-12-26
+Pennsylvania,PA,Juniata,$3.081,2024-12-26
+Pennsylvania,PA,Lackawanna,$3.219,2024-12-26
+Pennsylvania,PA,Lancaster,$3.210,2024-12-26
+Pennsylvania,PA,Lawrence,$3.212,2024-12-26
+Pennsylvania,PA,Lebanon,$3.261,2024-12-26
+Pennsylvania,PA,Lehigh,$3.102,2024-12-26
+Pennsylvania,PA,Luzerne,$3.171,2024-12-26
+Pennsylvania,PA,Lycoming,$3.189,2024-12-26
+Pennsylvania,PA,McKean,$3.525,2024-12-26
+Pennsylvania,PA,Mercer,$3.307,2024-12-26
+Pennsylvania,PA,Mifflin,$3.440,2024-12-26
+Pennsylvania,PA,Monroe,$3.098,2024-12-26
+Pennsylvania,PA,Montgomery,$3.044,2024-12-26
+Pennsylvania,PA,Montour,$3.100,2024-12-26
+Pennsylvania,PA,Northampton,$3.089,2024-12-26
+Pennsylvania,PA,Northumberland,$3.198,2024-12-26
+Pennsylvania,PA,Perry,$3.229,2024-12-26
+Pennsylvania,PA,Philadelphia,$3.089,2024-12-26
+Pennsylvania,PA,Pike,$3.268,2024-12-26
+Pennsylvania,PA,Potter,$3.453,2024-12-26
+Pennsylvania,PA,Schuylkill,$3.166,2024-12-26
+Pennsylvania,PA,Snyder,$3.240,2024-12-26
+Pennsylvania,PA,Somerset,$3.306,2024-12-26
+Pennsylvania,PA,Sullivan,$3.259,2024-12-26
+Pennsylvania,PA,Susquehanna,$3.309,2024-12-26
+Pennsylvania,PA,Tioga,$3.275,2024-12-26
+Pennsylvania,PA,Union,$3.123,2024-12-26
+Pennsylvania,PA,Venango,$3.388,2024-12-26
+Pennsylvania,PA,Warren,$3.493,2024-12-26
+Pennsylvania,PA,Washington,$3.322,2024-12-26
+Pennsylvania,PA,Wayne,$3.292,2024-12-26
+Pennsylvania,PA,Westmoreland,$3.366,2024-12-26
+Pennsylvania,PA,Wyoming,$3.119,2024-12-26
+Pennsylvania,PA,York,$3.195,2024-12-26
+Rhode Island,RI,Bristol,$2.949,2024-12-26
+Rhode Island,RI,Kent,$2.954,2024-12-26
+Rhode Island,RI,Newport,$2.995,2024-12-26
+Rhode Island,RI,Providence,$2.931,2024-12-26
+Rhode Island,RI,Washington,$2.987,2024-12-26
+South Carolina,SC,Abbeville,$2.732,2024-12-26
+South Carolina,SC,Aiken,$2.788,2024-12-26
+South Carolina,SC,Allendale,$2.974,2024-12-26
+South Carolina,SC,Anderson,$2.734,2024-12-26
+South Carolina,SC,Bamberg,$3.006,2024-12-26
+South Carolina,SC,Barnwell,$2.821,2024-12-26
+South Carolina,SC,Beaufort,$2.751,2024-12-26
+South Carolina,SC,Berkeley,$2.761,2024-12-26
+South Carolina,SC,Calhoun,$2.792,2024-12-26
+South Carolina,SC,Charleston,$2.807,2024-12-26
+South Carolina,SC,Cherokee,$2.699,2024-12-26
+South Carolina,SC,Chester,$2.817,2024-12-26
+South Carolina,SC,Chesterfield,$2.747,2024-12-26
+South Carolina,SC,Clarendon,$2.884,2024-12-26
+South Carolina,SC,Colleton,$2.867,2024-12-26
+South Carolina,SC,Darlington,$2.735,2024-12-26
+South Carolina,SC,Dillon,$2.751,2024-12-26
+South Carolina,SC,Dorchester,$2.752,2024-12-26
+South Carolina,SC,Edgefield,$2.739,2024-12-26
+South Carolina,SC,Fairfield,$2.891,2024-12-26
+South Carolina,SC,Florence,$2.709,2024-12-26
+South Carolina,SC,Georgetown,$2.751,2024-12-26
+South Carolina,SC,Greenville,$2.761,2024-12-26
+South Carolina,SC,Greenwood,$2.739,2024-12-26
+South Carolina,SC,Hampton,$2.885,2024-12-26
+South Carolina,SC,Horry,$2.710,2024-12-26
+South Carolina,SC,Jasper,$2.819,2024-12-26
+South Carolina,SC,Kershaw,$2.752,2024-12-26
+South Carolina,SC,Lancaster,$2.767,2024-12-26
+South Carolina,SC,Laurens,$2.717,2024-12-26
+South Carolina,SC,Lee,$2.831,2024-12-26
+South Carolina,SC,Lexington,$2.710,2024-12-26
+South Carolina,SC,Marion,$2.733,2024-12-26
+South Carolina,SC,Marlboro,$2.720,2024-12-26
+South Carolina,SC,McCormick,$2.809,2024-12-26
+South Carolina,SC,Newberry,$2.735,2024-12-26
+South Carolina,SC,Oconee,$2.754,2024-12-26
+South Carolina,SC,Orangeburg,$2.808,2024-12-26
+South Carolina,SC,Pickens,$2.678,2024-12-26
+South Carolina,SC,Richland,$2.808,2024-12-26
+South Carolina,SC,Saluda,$2.806,2024-12-26
+South Carolina,SC,Spartanburg,$2.727,2024-12-26
+South Carolina,SC,Sumter,$2.766,2024-12-26
+South Carolina,SC,Union,$2.689,2024-12-26
+South Carolina,SC,Williamsburg,$2.814,2024-12-26
+South Carolina,SC,York,$2.765,2024-12-26
+South Dakota,SD,Aurora,$2.689,2024-12-26
+South Dakota,SD,Beadle,$2.695,2024-12-26
+South Dakota,SD,Bennett,$2.899,2024-12-26
+South Dakota,SD,Bon Homme,$2.744,2024-12-26
+South Dakota,SD,Brookings,$2.541,2024-12-26
+South Dakota,SD,Brown,$2.854,2024-12-26
+South Dakota,SD,Brule,$3.062,2024-12-26
+South Dakota,SD,Buffalo,,2024-12-26
+South Dakota,SD,Butte,$3.089,2024-12-26
+South Dakota,SD,Campbell,$2.639,2024-12-26
+South Dakota,SD,Charles Mix,$2.689,2024-12-26
+South Dakota,SD,Clark,$2.939,2024-12-26
+South Dakota,SD,Clay,$2.737,2024-12-26
+South Dakota,SD,Codington,$2.796,2024-12-26
+South Dakota,SD,Corson,$2.749,2024-12-26
+South Dakota,SD,Custer,$2.954,2024-12-26
+South Dakota,SD,Davison,$2.614,2024-12-26
+South Dakota,SD,Day,$2.749,2024-12-26
+South Dakota,SD,Deuel,$2.799,2024-12-26
+South Dakota,SD,Dewey,$3.119,2024-12-26
+South Dakota,SD,Douglas,,2024-12-26
+South Dakota,SD,Edmunds,$2.859,2024-12-26
+South Dakota,SD,Fall River,$2.933,2024-12-26
+South Dakota,SD,Faulk,$3.319,2024-12-26
+South Dakota,SD,Grant,$2.762,2024-12-26
+South Dakota,SD,Gregory,$2.769,2024-12-26
+South Dakota,SD,Haakon,$2.769,2024-12-26
+South Dakota,SD,Hamlin,$2.699,2024-12-26
+South Dakota,SD,Hand,,2024-12-26
+South Dakota,SD,Hanson,$2.529,2024-12-26
+South Dakota,SD,Harding,$2.999,2024-12-26
+South Dakota,SD,Hughes,$2.908,2024-12-26
+South Dakota,SD,Hutchinson,$2.571,2024-12-26
+South Dakota,SD,Hyde,$2.999,2024-12-26
+South Dakota,SD,Jackson,$2.899,2024-12-26
+South Dakota,SD,Jerauld,$2.684,2024-12-26
+South Dakota,SD,Jones,$2.699,2024-12-26
+South Dakota,SD,Kingsbury,$2.662,2024-12-26
+South Dakota,SD,Lake,$2.637,2024-12-26
+South Dakota,SD,Lawrence,$3.111,2024-12-26
+South Dakota,SD,Lincoln,$2.615,2024-12-26
+South Dakota,SD,Lyman,$3.037,2024-12-26
+South Dakota,SD,Marshall,,2024-12-26
+South Dakota,SD,McCook,$2.599,2024-12-26
+South Dakota,SD,McPherson,,2024-12-26
+South Dakota,SD,Meade,$3.101,2024-12-26
+South Dakota,SD,Mellette,$2.849,2024-12-26
+South Dakota,SD,Miner,$2.919,2024-12-26
+South Dakota,SD,Minnehaha,$2.569,2024-12-26
+South Dakota,SD,Moody,$2.619,2024-12-26
+South Dakota,SD,Pennington,$3.001,2024-12-26
+South Dakota,SD,Perkins,$2.999,2024-12-26
+South Dakota,SD,Potter,$2.849,2024-12-26
+South Dakota,SD,Roberts,$2.832,2024-12-26
+South Dakota,SD,Sanborn,$2.699,2024-12-26
+South Dakota,SD,Shannon,$2.932,2024-12-26
+South Dakota,SD,Spink,$2.843,2024-12-26
+South Dakota,SD,Stanley,$3.087,2024-12-26
+South Dakota,SD,Sully,,2024-12-26
+South Dakota,SD,Todd,$2.899,2024-12-26
+South Dakota,SD,Tripp,$2.832,2024-12-26
+South Dakota,SD,Turner,$2.707,2024-12-26
+South Dakota,SD,Union,$2.680,2024-12-26
+South Dakota,SD,Walworth,$2.942,2024-12-26
+South Dakota,SD,Yankton,$2.811,2024-12-26
+South Dakota,SD,Ziebach,$2.979,2024-12-26
+Tennessee,TN,Anderson,$2.618,2024-12-26
+Tennessee,TN,Bedford,$2.702,2024-12-26
+Tennessee,TN,Benton,$2.669,2024-12-26
+Tennessee,TN,Bledsoe,$2.729,2024-12-26
+Tennessee,TN,Blount,$2.587,2024-12-26
+Tennessee,TN,Bradley,$2.698,2024-12-26
+Tennessee,TN,Campbell,$2.577,2024-12-26
+Tennessee,TN,Cannon,$2.719,2024-12-26
+Tennessee,TN,Carroll,$2.671,2024-12-26
+Tennessee,TN,Carter,$2.651,2024-12-26
+Tennessee,TN,Cheatham,$2.846,2024-12-26
+Tennessee,TN,Chester,$2.786,2024-12-26
+Tennessee,TN,Claiborne,$2.565,2024-12-26
+Tennessee,TN,Clay,$2.799,2024-12-26
+Tennessee,TN,Cocke,$2.586,2024-12-26
+Tennessee,TN,Coffee,$2.692,2024-12-26
+Tennessee,TN,Crockett,$2.833,2024-12-26
+Tennessee,TN,Cumberland,$2.615,2024-12-26
+Tennessee,TN,Davidson,$2.801,2024-12-26
+Tennessee,TN,Decatur,$2.755,2024-12-26
+Tennessee,TN,DeKalb,$2.659,2024-12-26
+Tennessee,TN,Dickson,$2.711,2024-12-26
+Tennessee,TN,Dyer,$2.564,2024-12-26
+Tennessee,TN,Fayette,$2.813,2024-12-26
+Tennessee,TN,Fentress,$2.666,2024-12-26
+Tennessee,TN,Franklin,$2.740,2024-12-26
+Tennessee,TN,Gibson,$2.763,2024-12-26
+Tennessee,TN,Giles,$2.697,2024-12-26
+Tennessee,TN,Grainger,$2.658,2024-12-26
+Tennessee,TN,Greene,$2.500,2024-12-26
+Tennessee,TN,Grundy,$2.772,2024-12-26
+Tennessee,TN,Hamblen,$2.614,2024-12-26
+Tennessee,TN,Hamilton,$2.627,2024-12-26
+Tennessee,TN,Hancock,$2.599,2024-12-26
+Tennessee,TN,Hardeman,$2.734,2024-12-26
+Tennessee,TN,Hardin,$2.567,2024-12-26
+Tennessee,TN,Hawkins,$2.531,2024-12-26
+Tennessee,TN,Haywood,$2.878,2024-12-26
+Tennessee,TN,Henderson,$2.629,2024-12-26
+Tennessee,TN,Henry,$2.586,2024-12-26
+Tennessee,TN,Hickman,$2.758,2024-12-26
+Tennessee,TN,Houston,$2.909,2024-12-26
+Tennessee,TN,Humphreys,$2.614,2024-12-26
+Tennessee,TN,Jackson,$2.686,2024-12-26
+Tennessee,TN,Jefferson,$2.597,2024-12-26
+Tennessee,TN,Johnson,$2.651,2024-12-26
+Tennessee,TN,Knox,$2.570,2024-12-26
+Tennessee,TN,Lake,$2.699,2024-12-26
+Tennessee,TN,Lauderdale,$2.767,2024-12-26
+Tennessee,TN,Lawrence,$2.658,2024-12-26
+Tennessee,TN,Lewis,$2.659,2024-12-26
+Tennessee,TN,Lincoln,$2.725,2024-12-26
+Tennessee,TN,Loudon,$2.603,2024-12-26
+Tennessee,TN,Macon,$2.770,2024-12-26
+Tennessee,TN,Madison,$2.710,2024-12-26
+Tennessee,TN,Marion,$2.696,2024-12-26
+Tennessee,TN,Marshall,$2.722,2024-12-26
+Tennessee,TN,Maury,$2.671,2024-12-26
+Tennessee,TN,McMinn,$2.660,2024-12-26
+Tennessee,TN,McNairy,$2.654,2024-12-26
+Tennessee,TN,Meigs,$2.662,2024-12-26
+Tennessee,TN,Monroe,$2.627,2024-12-26
+Tennessee,TN,Montgomery,$2.602,2024-12-26
+Tennessee,TN,Moore,$2.629,2024-12-26
+Tennessee,TN,Morgan,$2.694,2024-12-26
+Tennessee,TN,Obion,$2.694,2024-12-26
+Tennessee,TN,Overton,$2.710,2024-12-26
+Tennessee,TN,Perry,$2.764,2024-12-26
+Tennessee,TN,Pickett,$2.749,2024-12-26
+Tennessee,TN,Polk,$2.787,2024-12-26
+Tennessee,TN,Putnam,$2.681,2024-12-26
+Tennessee,TN,Rhea,$2.698,2024-12-26
+Tennessee,TN,Roane,$2.625,2024-12-26
+Tennessee,TN,Robertson,$2.771,2024-12-26
+Tennessee,TN,Rutherford,$2.719,2024-12-26
+Tennessee,TN,Scott,$2.698,2024-12-26
+Tennessee,TN,Sequatchie,$2.675,2024-12-26
+Tennessee,TN,Sevier,$2.639,2024-12-26
+Tennessee,TN,Shelby,$2.718,2024-12-26
+Tennessee,TN,Smith,$2.664,2024-12-26
+Tennessee,TN,Stewart,$2.734,2024-12-26
+Tennessee,TN,Sullivan,$2.648,2024-12-26
+Tennessee,TN,Sumner,$2.708,2024-12-26
+Tennessee,TN,Tipton,$2.740,2024-12-26
+Tennessee,TN,Trousdale,$2.799,2024-12-26
+Tennessee,TN,Unicoi,$2.610,2024-12-26
+Tennessee,TN,Union,$2.491,2024-12-26
+Tennessee,TN,Van Buren,$2.999,2024-12-26
+Tennessee,TN,Warren,$2.717,2024-12-26
+Tennessee,TN,Washington,$2.722,2024-12-26
+Tennessee,TN,Wayne,$2.706,2024-12-26
+Tennessee,TN,Weakley,$2.632,2024-12-26
+Tennessee,TN,White,$2.739,2024-12-26
+Tennessee,TN,Williamson,$3.066,2024-12-26
+Tennessee,TN,Wilson,$2.754,2024-12-26
+Texas,TX,Anderson,$2.559,2024-12-26
+Texas,TX,Andrews,$2.802,2024-12-26
+Texas,TX,Angelina,$2.574,2024-12-26
+Texas,TX,Aransas,$2.569,2024-12-26
+Texas,TX,Archer,$2.549,2024-12-26
+Texas,TX,Armstrong,$2.469,2024-12-26
+Texas,TX,Atascosa,$2.656,2024-12-26
+Texas,TX,Austin,$2.622,2024-12-26
+Texas,TX,Bailey,$2.662,2024-12-26
+Texas,TX,Bandera,$2.726,2024-12-26
+Texas,TX,Bastrop,$2.619,2024-12-26
+Texas,TX,Baylor,$2.899,2024-12-26
+Texas,TX,Bee,$2.658,2024-12-26
+Texas,TX,Bell,$2.467,2024-12-26
+Texas,TX,Bexar,$2.642,2024-12-26
+Texas,TX,Blanco,$2.636,2024-12-26
+Texas,TX,Borden,,2024-12-26
+Texas,TX,Bosque,$2.684,2024-12-26
+Texas,TX,Bowie,$2.588,2024-12-26
+Texas,TX,Brazoria,$2.556,2024-12-26
+Texas,TX,Brazos,$2.600,2024-12-26
+Texas,TX,Brewster,$3.183,2024-12-26
+Texas,TX,Briscoe,$2.579,2024-12-26
+Texas,TX,Brooks,$2.649,2024-12-26
+Texas,TX,Brown,$2.486,2024-12-26
+Texas,TX,Burleson,$2.653,2024-12-26
+Texas,TX,Burnet,$2.665,2024-12-26
+Texas,TX,Caldwell,$2.635,2024-12-26
+Texas,TX,Calhoun,$2.617,2024-12-26
+Texas,TX,Callahan,$2.568,2024-12-26
+Texas,TX,Cameron,$2.571,2024-12-26
+Texas,TX,Camp,$2.539,2024-12-26
+Texas,TX,Carson,$2.512,2024-12-26
+Texas,TX,Cass,$2.568,2024-12-26
+Texas,TX,Castro,$2.612,2024-12-26
+Texas,TX,Chambers,$2.660,2024-12-26
+Texas,TX,Cherokee,$2.559,2024-12-26
+Texas,TX,Childress,$2.416,2024-12-26
+Texas,TX,Clay,$2.701,2024-12-26
+Texas,TX,Cochran,$2.649,2024-12-26
+Texas,TX,Coke,$2.699,2024-12-26
+Texas,TX,Coleman,$2.692,2024-12-26
+Texas,TX,Collin,$2.683,2024-12-26
+Texas,TX,Collingsworth,$2.499,2024-12-26
+Texas,TX,Colorado,$2.670,2024-12-26
+Texas,TX,Comal,$2.606,2024-12-26
+Texas,TX,Comanche,$2.611,2024-12-26
+Texas,TX,Concho,$2.749,2024-12-26
+Texas,TX,Cooke,$2.716,2024-12-26
+Texas,TX,Coryell,$2.430,2024-12-26
+Texas,TX,Cottle,$2.859,2024-12-26
+Texas,TX,Crane,$2.692,2024-12-26
+Texas,TX,Crockett,$2.832,2024-12-26
+Texas,TX,Crosby,$2.522,2024-12-26
+Texas,TX,Culberson,$3.266,2024-12-26
+Texas,TX,Dallam,$2.665,2024-12-26
+Texas,TX,Dallas,$2.724,2024-12-26
+Texas,TX,Dawson,$2.609,2024-12-26
+Texas,TX,Deaf Smith,$2.434,2024-12-26
+Texas,TX,Delta,$2.799,2024-12-26
+Texas,TX,Denton,$2.704,2024-12-26
+Texas,TX,De Witt,$2.687,2024-12-26
+Texas,TX,Dickens,$2.699,2024-12-26
+Texas,TX,Dimmit,$2.664,2024-12-26
+Texas,TX,Donley,$2.399,2024-12-26
+Texas,TX,Duval,$2.704,2024-12-26
+Texas,TX,Eastland,$2.612,2024-12-26
+Texas,TX,Ector,$2.641,2024-12-26
+Texas,TX,Edwards,$2.999,2024-12-26
+Texas,TX,El Paso,$2.809,2024-12-26
+Texas,TX,Ellis,$2.709,2024-12-26
+Texas,TX,Erath,$2.691,2024-12-26
+Texas,TX,Falls,$2.640,2024-12-26
+Texas,TX,Fannin,$2.430,2024-12-26
+Texas,TX,Fayette,$2.697,2024-12-26
+Texas,TX,Fisher,$2.619,2024-12-26
+Texas,TX,Floyd,$2.584,2024-12-26
+Texas,TX,Foard,$2.699,2024-12-26
+Texas,TX,Fort Bend,$2.574,2024-12-26
+Texas,TX,Franklin,$2.700,2024-12-26
+Texas,TX,Freestone,$2.582,2024-12-26
+Texas,TX,Frio,$2.698,2024-12-26
+Texas,TX,Gaines,$2.668,2024-12-26
+Texas,TX,Galveston,$2.606,2024-12-26
+Texas,TX,Garza,$2.539,2024-12-26
+Texas,TX,Gillespie,$2.776,2024-12-26
+Texas,TX,Glasscock,$2.949,2024-12-26
+Texas,TX,Goliad,$2.732,2024-12-26
+Texas,TX,Gonzales,$2.628,2024-12-26
+Texas,TX,Gray,$2.433,2024-12-26
+Texas,TX,Grayson,$2.640,2024-12-26
+Texas,TX,Gregg,$2.577,2024-12-26
+Texas,TX,Grimes,$2.699,2024-12-26
+Texas,TX,Guadalupe,$2.629,2024-12-26
+Texas,TX,Hale,$2.440,2024-12-26
+Texas,TX,Hall,$2.406,2024-12-26
+Texas,TX,Hamilton,$2.693,2024-12-26
+Texas,TX,Hansford,$2.642,2024-12-26
+Texas,TX,Hardeman,$2.727,2024-12-26
+Texas,TX,Hardin,$2.610,2024-12-26
+Texas,TX,Harris,$2.584,2024-12-26
+Texas,TX,Harrison,$2.675,2024-12-26
+Texas,TX,Hartley,,2024-12-26
+Texas,TX,Haskell,$2.699,2024-12-26
+Texas,TX,Hays,$2.649,2024-12-26
+Texas,TX,Hemphill,$2.699,2024-12-26
+Texas,TX,Henderson,$2.659,2024-12-26
+Texas,TX,Hidalgo,$2.564,2024-12-26
+Texas,TX,Hill,$2.510,2024-12-26
+Texas,TX,Hockley,$2.486,2024-12-26
+Texas,TX,Hood,$2.672,2024-12-26
+Texas,TX,Hopkins,$2.661,2024-12-26
+Texas,TX,Houston,$2.668,2024-12-26
+Texas,TX,Howard,$2.436,2024-12-26
+Texas,TX,Hudspeth,$2.901,2024-12-26
+Texas,TX,Hunt,$2.668,2024-12-26
+Texas,TX,Hutchinson,$2.440,2024-12-26
+Texas,TX,Irion,$2.906,2024-12-26
+Texas,TX,Jack,$2.759,2024-12-26
+Texas,TX,Jackson,$2.763,2024-12-26
+Texas,TX,Jasper,$2.699,2024-12-26
+Texas,TX,Jeff Davis,$3.099,2024-12-26
+Texas,TX,Jefferson,$2.573,2024-12-26
+Texas,TX,Jim Hogg,$2.744,2024-12-26
+Texas,TX,Jim Wells,$2.631,2024-12-26
+Texas,TX,Johnson,$2.678,2024-12-26
+Texas,TX,Jones,$2.620,2024-12-26
+Texas,TX,Karnes,$2.639,2024-12-26
+Texas,TX,Kaufman,$2.685,2024-12-26
+Texas,TX,Kendall,$2.701,2024-12-26
+Texas,TX,Kenedy,,2024-12-26
+Texas,TX,Kent,,2024-12-26
+Texas,TX,Kerr,$2.703,2024-12-26
+Texas,TX,Kimble,$2.676,2024-12-26
+Texas,TX,King,$2.899,2024-12-26
+Texas,TX,Kinney,$2.599,2024-12-26
+Texas,TX,Kleberg,$2.708,2024-12-26
+Texas,TX,Knox,$2.899,2024-12-26
+Texas,TX,La Salle,$2.729,2024-12-26
+Texas,TX,Lamar,$2.618,2024-12-26
+Texas,TX,Lamb,$2.556,2024-12-26
+Texas,TX,Lampasas,$2.528,2024-12-26
+Texas,TX,Lavaca,$2.665,2024-12-26
+Texas,TX,Lee,$2.675,2024-12-26
+Texas,TX,Leon,$2.696,2024-12-26
+Texas,TX,Liberty,$2.606,2024-12-26
+Texas,TX,Limestone,$2.663,2024-12-26
+Texas,TX,Lipscomb,$2.619,2024-12-26
+Texas,TX,Live Oak,$2.704,2024-12-26
+Texas,TX,Llano,$2.647,2024-12-26
+Texas,TX,Loving,$2.899,2024-12-26
+Texas,TX,Lubbock,$2.417,2024-12-26
+Texas,TX,Lynn,$2.734,2024-12-26
+Texas,TX,Madison,$2.712,2024-12-26
+Texas,TX,Marion,$2.459,2024-12-26
+Texas,TX,Martin,$2.879,2024-12-26
+Texas,TX,Mason,$2.837,2024-12-26
+Texas,TX,Matagorda,$2.600,2024-12-26
+Texas,TX,Maverick,$2.717,2024-12-26
+Texas,TX,McCulloch,$2.720,2024-12-26
+Texas,TX,McLennan,$2.480,2024-12-26
+Texas,TX,McMullen,$2.899,2024-12-26
+Texas,TX,Medina,$2.619,2024-12-26
+Texas,TX,Menard,$2.789,2024-12-26
+Texas,TX,Midland,$2.673,2024-12-26
+Texas,TX,Milam,$2.563,2024-12-26
+Texas,TX,Mills,$2.609,2024-12-26
+Texas,TX,Mitchell,$2.622,2024-12-26
+Texas,TX,Montague,$2.716,2024-12-26
+Texas,TX,Montgomery,$2.586,2024-12-26
+Texas,TX,Moore,$2.553,2024-12-26
+Texas,TX,Morris,$2.660,2024-12-26
+Texas,TX,Motley,$3.099,2024-12-26
+Texas,TX,Nacogdoches,$2.641,2024-12-26
+Texas,TX,Navarro,$2.771,2024-12-26
+Texas,TX,Newton,$2.744,2024-12-26
+Texas,TX,Nolan,$2.493,2024-12-26
+Texas,TX,Nueces,$2.617,2024-12-26
+Texas,TX,Ochiltree,$2.579,2024-12-26
+Texas,TX,Oldham,$2.532,2024-12-26
+Texas,TX,Orange,$2.551,2024-12-26
+Texas,TX,Palo Pinto,$2.666,2024-12-26
+Texas,TX,Panola,$2.536,2024-12-26
+Texas,TX,Parker,$2.723,2024-12-26
+Texas,TX,Parmer,$2.589,2024-12-26
+Texas,TX,Pecos,$2.798,2024-12-26
+Texas,TX,Polk,$2.587,2024-12-26
+Texas,TX,Potter,$2.570,2024-12-26
+Texas,TX,Presidio,$3.136,2024-12-26
+Texas,TX,Rains,$2.542,2024-12-26
+Texas,TX,Randall,$2.539,2024-12-26
+Texas,TX,Reagan,$2.659,2024-12-26
+Texas,TX,Real,$2.809,2024-12-26
+Texas,TX,Red River,$2.741,2024-12-26
+Texas,TX,Reeves,$2.797,2024-12-26
+Texas,TX,Refugio,$2.707,2024-12-26
+Texas,TX,Roberts,$2.999,2024-12-26
+Texas,TX,Robertson,$2.546,2024-12-26
+Texas,TX,Rockwall,$2.720,2024-12-26
+Texas,TX,Runnels,$2.664,2024-12-26
+Texas,TX,Rusk,$2.639,2024-12-26
+Texas,TX,Sabine,$2.695,2024-12-26
+Texas,TX,San Augustine,$2.618,2024-12-26
+Texas,TX,San Jacinto,$2.688,2024-12-26
+Texas,TX,San Patricio,$2.655,2024-12-26
+Texas,TX,San Saba,$2.799,2024-12-26
+Texas,TX,Schleicher,$2.699,2024-12-26
+Texas,TX,Scurry,$2.483,2024-12-26
+Texas,TX,Shackelford,$2.589,2024-12-26
+Texas,TX,Shelby,$2.588,2024-12-26
+Texas,TX,Sherman,$2.599,2024-12-26
+Texas,TX,Smith,$2.536,2024-12-26
+Texas,TX,Somervell,$2.594,2024-12-26
+Texas,TX,Starr,$2.607,2024-12-26
+Texas,TX,Stephens,$2.500,2024-12-26
+Texas,TX,Sterling,$2.714,2024-12-26
+Texas,TX,Stonewall,$2.699,2024-12-26
+Texas,TX,Sutton,$2.714,2024-12-26
+Texas,TX,Swisher,$2.499,2024-12-26
+Texas,TX,Tarrant,$2.719,2024-12-26
+Texas,TX,Taylor,$2.500,2024-12-26
+Texas,TX,Terrell,$3.099,2024-12-26
+Texas,TX,Terry,$2.513,2024-12-26
+Texas,TX,Throckmorton,$2.899,2024-12-26
+Texas,TX,Titus,$2.698,2024-12-26
+Texas,TX,Tom Green,$2.668,2024-12-26
+Texas,TX,Travis,$2.660,2024-12-26
+Texas,TX,Trinity,$2.543,2024-12-26
+Texas,TX,Tyler,$2.697,2024-12-26
+Texas,TX,Upshur,$2.577,2024-12-26
+Texas,TX,Upton,$2.713,2024-12-26
+Texas,TX,Uvalde,$2.693,2024-12-26
+Texas,TX,Val Verde,$2.638,2024-12-26
+Texas,TX,Van Zandt,$2.631,2024-12-26
+Texas,TX,Victoria,$2.578,2024-12-26
+Texas,TX,Walker,$2.607,2024-12-26
+Texas,TX,Waller,$2.682,2024-12-26
+Texas,TX,Ward,$2.537,2024-12-26
+Texas,TX,Washington,$2.657,2024-12-26
+Texas,TX,Webb,$2.621,2024-12-26
+Texas,TX,Wharton,$2.598,2024-12-26
+Texas,TX,Wheeler,$2.592,2024-12-26
+Texas,TX,Wichita,$2.496,2024-12-26
+Texas,TX,Wilbarger,$2.400,2024-12-26
+Texas,TX,Willacy,$2.567,2024-12-26
+Texas,TX,Williamson,$2.631,2024-12-26
+Texas,TX,Wilson,$2.674,2024-12-26
+Texas,TX,Winkler,$3.082,2024-12-26
+Texas,TX,Wise,$2.715,2024-12-26
+Texas,TX,Wood,$2.565,2024-12-26
+Texas,TX,Yoakum,$2.775,2024-12-26
+Texas,TX,Young,$2.695,2024-12-26
+Texas,TX,Zapata,$2.635,2024-12-26
+Texas,TX,Zavala,$2.761,2024-12-26
+Utah,UT,Beaver,$3.312,2024-12-26
+Utah,UT,Box Elder,$2.889,2024-12-26
+Utah,UT,Cache,$3.005,2024-12-26
+Utah,UT,Carbon,$3.014,2024-12-26
+Utah,UT,Daggett,$3.299,2024-12-26
+Utah,UT,Davis,$3.055,2024-12-26
+Utah,UT,Duchesne,$3.033,2024-12-26
+Utah,UT,Emery,$2.977,2024-12-26
+Utah,UT,Garfield,$3.099,2024-12-26
+Utah,UT,Grand,$3.395,2024-12-26
+Utah,UT,Iron,$3.049,2024-12-26
+Utah,UT,Juab,$2.884,2024-12-26
+Utah,UT,Kane,$3.230,2024-12-26
+Utah,UT,Millard,$3.000,2024-12-26
+Utah,UT,Morgan,$3.124,2024-12-26
+Utah,UT,Piute,$3.254,2024-12-26
+Utah,UT,Rich,$3.166,2024-12-26
+Utah,UT,Salt Lake,$3.061,2024-12-26
+Utah,UT,San Juan,$3.384,2024-12-26
+Utah,UT,Sanpete,$3.103,2024-12-26
+Utah,UT,Sevier,$3.040,2024-12-26
+Utah,UT,Summit,$3.139,2024-12-26
+Utah,UT,Tooele,$3.022,2024-12-26
+Utah,UT,Uintah,$3.056,2024-12-26
+Utah,UT,Utah,$3.043,2024-12-26
+Utah,UT,Wasatch,$2.974,2024-12-26
+Utah,UT,Washington,$3.104,2024-12-26
+Utah,UT,Wayne,$3.149,2024-12-26
+Utah,UT,Weber,$3.042,2024-12-26
+Vermont,VT,Addison,$3.058,2024-12-26
+Vermont,VT,Bennington,$2.967,2024-12-26
+Vermont,VT,Caledonia,$3.113,2024-12-26
+Vermont,VT,Chittenden,$3.175,2024-12-26
+Vermont,VT,Essex,$2.999,2024-12-26
+Vermont,VT,Franklin,$3.192,2024-12-26
+Vermont,VT,Grand Isle,$3.179,2024-12-26
+Vermont,VT,Lamoille,$3.199,2024-12-26
+Vermont,VT,Orange,$3.145,2024-12-26
+Vermont,VT,Orleans,$3.209,2024-12-26
+Vermont,VT,Rutland,$2.987,2024-12-26
+Vermont,VT,Washington,$3.187,2024-12-26
+Vermont,VT,Windham,$2.971,2024-12-26
+Vermont,VT,Windsor,$3.023,2024-12-26
+Virginia,VA,Accomack,$2.835,2024-12-26
+Virginia,VA,Albemarle,$2.916,2024-12-26
+Virginia,VA,Alexandria City,$3.067,2024-12-26
+Virginia,VA,Alleghany,$2.859,2024-12-26
+Virginia,VA,Amelia,$2.846,2024-12-26
+Virginia,VA,Amherst,$2.926,2024-12-26
+Virginia,VA,Appomattox,$2.794,2024-12-26
+Virginia,VA,Arlington,$3.034,2024-12-26
+Virginia,VA,Augusta,$2.951,2024-12-26
+Virginia,VA,Bath,$2.999,2024-12-26
+Virginia,VA,Bedford,$2.869,2024-12-26
+Virginia,VA,Bedford City,$2.778,2024-12-26
+Virginia,VA,Bland,$2.799,2024-12-26
+Virginia,VA,Botetourt,$2.968,2024-12-26
+Virginia,VA,Bristol,$2.768,2024-12-26
+Virginia,VA,Brunswick,$2.788,2024-12-26
+Virginia,VA,Buchanan,$3.026,2024-12-26
+Virginia,VA,Buckingham,$2.927,2024-12-26
+Virginia,VA,Buena Vista City,$2.974,2024-12-26
+Virginia,VA,Campbell,$2.791,2024-12-26
+Virginia,VA,Caroline,$2.855,2024-12-26
+Virginia,VA,Carroll,$2.786,2024-12-26
+Virginia,VA,Charles City,$3.026,2024-12-26
+Virginia,VA,Charlotte,$2.950,2024-12-26
+Virginia,VA,Charlottesville City,$2.955,2024-12-26
+Virginia,VA,Chesapeake City,$2.780,2024-12-26
+Virginia,VA,Chesterfield,$2.921,2024-12-26
+Virginia,VA,Clarke,$2.975,2024-12-26
+Virginia,VA,Clifton Forge City,$2.939,2024-12-26
+Virginia,VA,Colonial Heights City,$2.836,2024-12-26
+Virginia,VA,Covington City,$2.921,2024-12-26
+Virginia,VA,Craig,$2.919,2024-12-26
+Virginia,VA,Culpeper,$2.909,2024-12-26
+Virginia,VA,Cumberland,$2.717,2024-12-26
+Virginia,VA,Danville City,$2.803,2024-12-26
+Virginia,VA,Dickenson,$2.845,2024-12-26
+Virginia,VA,Dinwiddie,$2.891,2024-12-26
+Virginia,VA,Emporia City,$3.022,2024-12-26
+Virginia,VA,Essex,$2.933,2024-12-26
+Virginia,VA,Fairfax,$3.076,2024-12-26
+Virginia,VA,Fairfax City,$2.941,2024-12-26
+Virginia,VA,Falls Church City,$3.019,2024-12-26
+Virginia,VA,Fauquier,$2.997,2024-12-26
+Virginia,VA,Floyd,$2.899,2024-12-26
+Virginia,VA,Fluvanna,$2.993,2024-12-26
+Virginia,VA,Franklin,$2.862,2024-12-26
+Virginia,VA,Franklin City,$2.713,2024-12-26
+Virginia,VA,Frederick,$2.902,2024-12-26
+Virginia,VA,Fredericksburg City,$2.887,2024-12-26
+Virginia,VA,Galax City,$2.745,2024-12-26
+Virginia,VA,Giles,$2.908,2024-12-26
+Virginia,VA,Gloucester,$2.807,2024-12-26
+Virginia,VA,Goochland,$2.930,2024-12-26
+Virginia,VA,Grayson,$2.759,2024-12-26
+Virginia,VA,Greene,$2.939,2024-12-26
+Virginia,VA,Greensville,$2.799,2024-12-26
+Virginia,VA,Halifax,$2.982,2024-12-26
+Virginia,VA,Hampton City,$2.741,2024-12-26
+Virginia,VA,Hanover,$2.921,2024-12-26
+Virginia,VA,Harrisonburg City,$3.011,2024-12-26
+Virginia,VA,Henrico,$2.940,2024-12-26
+Virginia,VA,Henry,$2.819,2024-12-26
+Virginia,VA,Highland,$2.999,2024-12-26
+Virginia,VA,Hopewell City,$2.843,2024-12-26
+Virginia,VA,Isle of Wight,$2.813,2024-12-26
+Virginia,VA,James City,$2.941,2024-12-26
+Virginia,VA,King and Queen,$2.849,2024-12-26
+Virginia,VA,King George,$2.956,2024-12-26
+Virginia,VA,King William,$2.864,2024-12-26
+Virginia,VA,Lancaster,$2.888,2024-12-26
+Virginia,VA,Lee,$2.796,2024-12-26
+Virginia,VA,Lexington City,$2.995,2024-12-26
+Virginia,VA,Loudoun,$2.975,2024-12-26
+Virginia,VA,Louisa,$2.992,2024-12-26
+Virginia,VA,Lunenburg,$2.851,2024-12-26
+Virginia,VA,Lynchburg City,$2.917,2024-12-26
+Virginia,VA,Madison,$2.992,2024-12-26
+Virginia,VA,Manassas City,$2.927,2024-12-26
+Virginia,VA,Manassas Park City,,2024-12-26
+Virginia,VA,Martinsville City,$2.754,2024-12-26
+Virginia,VA,Mathews,$2.857,2024-12-26
+Virginia,VA,Mecklenburg,$2.838,2024-12-26
+Virginia,VA,Middlesex,$2.846,2024-12-26
+Virginia,VA,Montgomery,$2.976,2024-12-26
+Virginia,VA,Nelson,$2.949,2024-12-26
+Virginia,VA,New Kent,$2.929,2024-12-26
+Virginia,VA,Newport News City,$2.792,2024-12-26
+Virginia,VA,Norfolk City,$2.776,2024-12-26
+Virginia,VA,Northampton,$2.991,2024-12-26
+Virginia,VA,Northumberland,$2.862,2024-12-26
+Virginia,VA,Norton City,$2.781,2024-12-26
+Virginia,VA,Nottoway,$2.957,2024-12-26
+Virginia,VA,Orange,$2.985,2024-12-26
+Virginia,VA,Page,$2.917,2024-12-26
+Virginia,VA,Patrick,$2.793,2024-12-26
+Virginia,VA,Petersburg City,$2.801,2024-12-26
+Virginia,VA,Pittsylvania,$2.788,2024-12-26
+Virginia,VA,Poquoson City,$2.899,2024-12-26
+Virginia,VA,Portsmouth City,$2.802,2024-12-26
+Virginia,VA,Powhatan,$2.883,2024-12-26
+Virginia,VA,Prince Edward,$2.954,2024-12-26
+Virginia,VA,Prince George,$2.836,2024-12-26
+Virginia,VA,Prince William,$2.942,2024-12-26
+Virginia,VA,Pulaski,$2.925,2024-12-26
+Virginia,VA,Radford City,$2.913,2024-12-26
+Virginia,VA,Rappahannock,$2.966,2024-12-26
+Virginia,VA,Richmond,$2.929,2024-12-26
+Virginia,VA,Richmond City,$2.935,2024-12-26
+Virginia,VA,Roanoke,$2.858,2024-12-26
+Virginia,VA,Roanoke City,$2.837,2024-12-26
+Virginia,VA,Rockbridge,$2.986,2024-12-26
+Virginia,VA,Rockingham,$2.975,2024-12-26
+Virginia,VA,Russell,$2.837,2024-12-26
+Virginia,VA,Salem,$2.934,2024-12-26
+Virginia,VA,Scott,$2.741,2024-12-26
+Virginia,VA,Shenandoah,$2.977,2024-12-26
+Virginia,VA,Smyth,$2.825,2024-12-26
+Virginia,VA,Southampton,$2.752,2024-12-26
+Virginia,VA,Spotsylvania,$2.856,2024-12-26
+Virginia,VA,Stafford,$2.905,2024-12-26
+Virginia,VA,Staunton City,$2.965,2024-12-26
+Virginia,VA,Suffolk City,$2.694,2024-12-26
+Virginia,VA,Surry,$2.789,2024-12-26
+Virginia,VA,Sussex,$2.823,2024-12-26
+Virginia,VA,Tazewell,$2.871,2024-12-26
+Virginia,VA,Virginia Beach City,$2.761,2024-12-26
+Virginia,VA,Warren,$2.782,2024-12-26
+Virginia,VA,Washington,$2.820,2024-12-26
+Virginia,VA,Waynesboro City,$2.903,2024-12-26
+Virginia,VA,Westmoreland,$2.906,2024-12-26
+Virginia,VA,Williamsburg City,,2024-12-26
+Virginia,VA,Winchester City,$2.936,2024-12-26
+Virginia,VA,Wise,$2.849,2024-12-26
+Virginia,VA,Wythe,$2.799,2024-12-26
+Virginia,VA,York,$2.717,2024-12-26
+Washington,WA,Adams,$3.880,2024-12-26
+Washington,WA,Asotin,$3.349,2024-12-26
+Washington,WA,Benton,$3.552,2024-12-26
+Washington,WA,Chelan,$3.627,2024-12-26
+Washington,WA,Clallam,$3.870,2024-12-26
+Washington,WA,Clark,$3.834,2024-12-26
+Washington,WA,Columbia,$3.997,2024-12-26
+Washington,WA,Cowlitz,$3.895,2024-12-26
+Washington,WA,Douglas,$3.575,2024-12-26
+Washington,WA,Ferry,$3.619,2024-12-26
+Washington,WA,Franklin,$3.585,2024-12-26
+Washington,WA,Garfield,$3.869,2024-12-26
+Washington,WA,Grant,$3.813,2024-12-26
+Washington,WA,Grays Harbor,$3.936,2024-12-26
+Washington,WA,Island,$3.844,2024-12-26
+Washington,WA,Jefferson,$4.237,2024-12-26
+Washington,WA,King,$4.252,2024-12-26
+Washington,WA,Kitsap,$4.052,2024-12-26
+Washington,WA,Kittitas,$3.698,2024-12-26
+Washington,WA,Klickitat,$3.810,2024-12-26
+Washington,WA,Lewis,$3.912,2024-12-26
+Washington,WA,Lincoln,$3.734,2024-12-26
+Washington,WA,Mason,$4.021,2024-12-26
+Washington,WA,Okanogan,$3.786,2024-12-26
+Washington,WA,Pacific,$4.335,2024-12-26
+Washington,WA,Pend Oreille,$3.619,2024-12-26
+Washington,WA,Pierce,$3.934,2024-12-26
+Washington,WA,San Juan,$4.752,2024-12-26
+Washington,WA,Skagit,$3.658,2024-12-26
+Washington,WA,Skamania,$3.932,2024-12-26
+Washington,WA,Snohomish,$3.936,2024-12-26
+Washington,WA,Spokane,$3.483,2024-12-26
+Washington,WA,Stevens,$3.517,2024-12-26
+Washington,WA,Thurston,$3.836,2024-12-26
+Washington,WA,Wahkiakum,$4.349,2024-12-26
+Washington,WA,Walla Walla,$3.946,2024-12-26
+Washington,WA,Whatcom,$3.784,2024-12-26
+Washington,WA,Whitman,$3.907,2024-12-26
+Washington,WA,Yakima,$3.581,2024-12-26
+West Virginia,WV,Barbour,$2.912,2024-12-26
+West Virginia,WV,Berkeley,$3.045,2024-12-26
+West Virginia,WV,Boone,$2.882,2024-12-26
+West Virginia,WV,Braxton,$2.638,2024-12-26
+West Virginia,WV,Brooke,$2.949,2024-12-26
+West Virginia,WV,Cabell,$2.860,2024-12-26
+West Virginia,WV,Calhoun,$2.996,2024-12-26
+West Virginia,WV,Clay,$2.899,2024-12-26
+West Virginia,WV,Doddridge,$3.049,2024-12-26
+West Virginia,WV,Fayette,$2.808,2024-12-26
+West Virginia,WV,Gilmer,$3.074,2024-12-26
+West Virginia,WV,Grant,$3.199,2024-12-26
+West Virginia,WV,Greenbrier,$2.706,2024-12-26
+West Virginia,WV,Hampshire,$3.056,2024-12-26
+West Virginia,WV,Hancock,$2.945,2024-12-26
+West Virginia,WV,Hardy,$3.199,2024-12-26
+West Virginia,WV,Harrison,$2.977,2024-12-26
+West Virginia,WV,Jackson,$2.935,2024-12-26
+West Virginia,WV,Jefferson,$2.955,2024-12-26
+West Virginia,WV,Kanawha,$2.892,2024-12-26
+West Virginia,WV,Lewis,$2.881,2024-12-26
+West Virginia,WV,Lincoln,$2.966,2024-12-26
+West Virginia,WV,Logan,$2.934,2024-12-26
+West Virginia,WV,Marion,$2.934,2024-12-26
+West Virginia,WV,Marshall,$2.703,2024-12-26
+West Virginia,WV,Mason,$2.926,2024-12-26
+West Virginia,WV,McDowell,$2.887,2024-12-26
+West Virginia,WV,Mercer,$2.942,2024-12-26
+West Virginia,WV,Mineral,$2.897,2024-12-26
+West Virginia,WV,Mingo,$3.004,2024-12-26
+West Virginia,WV,Monongalia,$2.980,2024-12-26
+West Virginia,WV,Monroe,$3.266,2024-12-26
+West Virginia,WV,Morgan,$3.035,2024-12-26
+West Virginia,WV,Nicholas,$2.974,2024-12-26
+West Virginia,WV,Ohio,$2.962,2024-12-26
+West Virginia,WV,Pendleton,$3.199,2024-12-26
+West Virginia,WV,Pleasants,$2.949,2024-12-26
+West Virginia,WV,Pocahontas,$2.959,2024-12-26
+West Virginia,WV,Preston,$3.008,2024-12-26
+West Virginia,WV,Putnam,$2.951,2024-12-26
+West Virginia,WV,Raleigh,$2.987,2024-12-26
+West Virginia,WV,Randolph,$2.867,2024-12-26
+West Virginia,WV,Ritchie,$3.011,2024-12-26
+West Virginia,WV,Roane,$2.989,2024-12-26
+West Virginia,WV,Summers,$3.014,2024-12-26
+West Virginia,WV,Taylor,$2.871,2024-12-26
+West Virginia,WV,Tucker,$3.049,2024-12-26
+West Virginia,WV,Tyler,$2.924,2024-12-26
+West Virginia,WV,Upshur,$2.987,2024-12-26
+West Virginia,WV,Wayne,$2.898,2024-12-26
+West Virginia,WV,Webster,$2.999,2024-12-26
+West Virginia,WV,Wetzel,$2.971,2024-12-26
+West Virginia,WV,Wirt,$2.659,2024-12-26
+West Virginia,WV,Wood,$2.781,2024-12-26
+West Virginia,WV,Wyoming,$2.899,2024-12-26
+Wisconsin,WI,Adams,$2.792,2024-12-26
+Wisconsin,WI,Ashland,$2.800,2024-12-26
+Wisconsin,WI,Barron,$2.815,2024-12-26
+Wisconsin,WI,Bayfield,$2.820,2024-12-26
+Wisconsin,WI,Brown,$2.708,2024-12-26
+Wisconsin,WI,Buffalo,$2.629,2024-12-26
+Wisconsin,WI,Burnett,$2.835,2024-12-26
+Wisconsin,WI,Calumet,$2.725,2024-12-26
+Wisconsin,WI,Chippewa,$2.656,2024-12-26
+Wisconsin,WI,Clark,$2.741,2024-12-26
+Wisconsin,WI,Columbia,$2.775,2024-12-26
+Wisconsin,WI,Crawford,$2.966,2024-12-26
+Wisconsin,WI,Dane,$2.796,2024-12-26
+Wisconsin,WI,Dodge,$2.753,2024-12-26
+Wisconsin,WI,Door,$2.856,2024-12-26
+Wisconsin,WI,Douglas,$2.783,2024-12-26
+Wisconsin,WI,Dunn,$2.858,2024-12-26
+Wisconsin,WI,Eau Claire,$2.659,2024-12-26
+Wisconsin,WI,Florence,$2.839,2024-12-26
+Wisconsin,WI,Fond du Lac,$2.714,2024-12-26
+Wisconsin,WI,Forest,$2.796,2024-12-26
+Wisconsin,WI,Grant,$2.950,2024-12-26
+Wisconsin,WI,Green,$2.872,2024-12-26
+Wisconsin,WI,Green Lake,$2.777,2024-12-26
+Wisconsin,WI,Iowa,$2.956,2024-12-26
+Wisconsin,WI,Iron,$2.895,2024-12-26
+Wisconsin,WI,Jackson,$2.709,2024-12-26
+Wisconsin,WI,Jefferson,$2.866,2024-12-26
+Wisconsin,WI,Juneau,$2.812,2024-12-26
+Wisconsin,WI,Kenosha,$2.771,2024-12-26
+Wisconsin,WI,Kewaunee,$2.769,2024-12-26
+Wisconsin,WI,La Crosse,$2.810,2024-12-26
+Wisconsin,WI,Lafayette,$2.957,2024-12-26
+Wisconsin,WI,Langlade,$2.742,2024-12-26
+Wisconsin,WI,Lincoln,$2.836,2024-12-26
+Wisconsin,WI,Manitowoc,$2.747,2024-12-26
+Wisconsin,WI,Marathon,$2.680,2024-12-26
+Wisconsin,WI,Marinette,$2.741,2024-12-26
+Wisconsin,WI,Marquette,$2.789,2024-12-26
+Wisconsin,WI,Menominee,$2.799,2024-12-26
+Wisconsin,WI,Milwaukee,$2.759,2024-12-26
+Wisconsin,WI,Monroe,$2.829,2024-12-26
+Wisconsin,WI,Oconto,$2.798,2024-12-26
+Wisconsin,WI,Oneida,$2.775,2024-12-26
+Wisconsin,WI,Outagamie,$2.795,2024-12-26
+Wisconsin,WI,Ozaukee,$2.881,2024-12-26
+Wisconsin,WI,Pepin,$2.587,2024-12-26
+Wisconsin,WI,Pierce,$2.805,2024-12-26
+Wisconsin,WI,Polk,$2.853,2024-12-26
+Wisconsin,WI,Portage,$2.887,2024-12-26
+Wisconsin,WI,Price,$2.841,2024-12-26
+Wisconsin,WI,Racine,$2.766,2024-12-26
+Wisconsin,WI,Richland,$2.802,2024-12-26
+Wisconsin,WI,Rock,$2.760,2024-12-26
+Wisconsin,WI,Rusk,$2.766,2024-12-26
+Wisconsin,WI,Sauk,$2.748,2024-12-26
+Wisconsin,WI,Sawyer,$2.935,2024-12-26
+Wisconsin,WI,Shawano,$2.791,2024-12-26
+Wisconsin,WI,Sheboygan,$2.760,2024-12-26
+Wisconsin,WI,Saint Croix,$2.899,2024-12-26
+Wisconsin,WI,Taylor,$2.784,2024-12-26
+Wisconsin,WI,Trempealeau,$2.711,2024-12-26
+Wisconsin,WI,Vernon,$2.802,2024-12-26
+Wisconsin,WI,Vilas,$2.907,2024-12-26
+Wisconsin,WI,Walworth,$2.748,2024-12-26
+Wisconsin,WI,Washburn,$2.799,2024-12-26
+Wisconsin,WI,Washington,$2.737,2024-12-26
+Wisconsin,WI,Waukesha,$2.698,2024-12-26
+Wisconsin,WI,Waupaca,$2.812,2024-12-26
+Wisconsin,WI,Waushara,$2.828,2024-12-26
+Wisconsin,WI,Winnebago,$2.739,2024-12-26
+Wisconsin,WI,Wood,$2.827,2024-12-26
+Wyoming,WY,Albany,$2.486,2024-12-26
+Wyoming,WY,Big Horn,$3.051,2024-12-26
+Wyoming,WY,Campbell,$2.847,2024-12-26
+Wyoming,WY,Carbon,$2.869,2024-12-26
+Wyoming,WY,Converse,$2.895,2024-12-26
+Wyoming,WY,Crook,$2.896,2024-12-26
+Wyoming,WY,Fremont,$3.161,2024-12-26
+Wyoming,WY,Goshen,$2.789,2024-12-26
+Wyoming,WY,Hot Springs,$3.042,2024-12-26
+Wyoming,WY,Johnson,$2.718,2024-12-26
+Wyoming,WY,Laramie,$2.878,2024-12-26
+Wyoming,WY,Lincoln,$3.106,2024-12-26
+Wyoming,WY,Natrona,$2.686,2024-12-26
+Wyoming,WY,Niobrara,$3.079,2024-12-26
+Wyoming,WY,Park,$2.968,2024-12-26
+Wyoming,WY,Platte,$3.185,2024-12-26
+Wyoming,WY,Sheridan,$2.912,2024-12-26
+Wyoming,WY,Sublette,$2.986,2024-12-26
+Wyoming,WY,Sweetwater,$2.822,2024-12-26
+Wyoming,WY,Teton,$3.171,2024-12-26
+Wyoming,WY,Uinta,$2.742,2024-12-26
+Wyoming,WY,Washakie,$3.017,2024-12-26
+Wyoming,WY,Weston,$2.801,2024-12-26
