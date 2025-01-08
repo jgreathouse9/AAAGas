@@ -5,6 +5,10 @@ on:
     branches:
       - main
 
+permissions:
+  actions: write
+  workflows: write
+
 jobs:
   delete_workflows:
     runs-on: ubuntu-latest
