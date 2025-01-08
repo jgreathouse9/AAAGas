@@ -1,12 +1,13 @@
----
 name: Bulk Delete Workflow Runs
 description: A GitHub Action to delete all workflow runs for a repository.
+
 inputs:
   repo:
-    description: The repository to delete workflow runs from (owner/repo).
+    description: 'The repository to delete workflow runs from (owner/repo).'
     required: true
+
 runs:
-  using: composite
+  using: "composite"
   steps:
     - name: Checkout repository
       uses: actions/checkout@v2
