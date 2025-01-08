@@ -9,6 +9,14 @@ jobs:
   delete_workflows:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Debug directory structure
+        run: |
+          echo "Listing files in the .github/actions/deleteworkflows directory:"
+          ls -R .github/actions/deleteworkflows
+
       - name: Delete Workflow Runs
         uses: ./.github/actions/deleteworkflows
         with:
