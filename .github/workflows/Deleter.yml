@@ -1,0 +1,15 @@
+name: Delete Workflow Runs Example
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  delete_workflows:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete Workflow Runs
+        uses: ./.github/actions/delete-workflows
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
