@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Delete Workflow Runs
-        uses: ./.github/actions/delete-workflows
+        uses: ./.github/actions/deleteworkflows
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
