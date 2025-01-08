@@ -25,3 +25,7 @@ jobs:
         uses: ./.github/actions/deleteworkflows
         with:
           token: ${{ secrets.GH_PAT }}
+
+      - name: Debug token
+        run: |
+          echo "Token: ${{ secrets.GH_PAT }}"  # You can remove this after checking
