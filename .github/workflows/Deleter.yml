@@ -8,8 +8,6 @@ on:
 permissions:
   actions: write
   contents: read
-  # The correct permission for deleting workflow runs is `workflows: write`
-  workflows: write
 
 jobs:
   delete_workflows:
