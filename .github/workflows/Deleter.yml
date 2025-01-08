@@ -24,4 +24,4 @@ jobs:
       - name: Delete Workflow Runs
         uses: ./.github/actions/deleteworkflows
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_PAT }}
