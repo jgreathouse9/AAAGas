@@ -7,7 +7,7 @@ on:
 
 permissions:
   actions: write
-  workflows: write
+  workflow: write  # Corrected the permission scope to `workflow`
 
 jobs:
   delete_workflows:
