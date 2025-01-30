@@ -1,0 +1,3142 @@
+state,abbreviation,name,price,date
+Alabama,AL,Autauga,$2.813,2025-01-30
+Alabama,AL,Baldwin,$2.792,2025-01-30
+Alabama,AL,Barbour,$2.861,2025-01-30
+Alabama,AL,Bibb,$2.776,2025-01-30
+Alabama,AL,Blount,$2.851,2025-01-30
+Alabama,AL,Bullock,$2.899,2025-01-30
+Alabama,AL,Butler,$2.833,2025-01-30
+Alabama,AL,Calhoun,$2.847,2025-01-30
+Alabama,AL,Chambers,$2.840,2025-01-30
+Alabama,AL,Cherokee,$2.795,2025-01-30
+Alabama,AL,Chilton,$2.854,2025-01-30
+Alabama,AL,Choctaw,$3.000,2025-01-30
+Alabama,AL,Clarke,$2.893,2025-01-30
+Alabama,AL,Clay,$2.856,2025-01-30
+Alabama,AL,Cleburne,$2.859,2025-01-30
+Alabama,AL,Coffee,$2.821,2025-01-30
+Alabama,AL,Colbert,$2.820,2025-01-30
+Alabama,AL,Conecuh,$2.972,2025-01-30
+Alabama,AL,Coosa,$2.839,2025-01-30
+Alabama,AL,Covington,$2.849,2025-01-30
+Alabama,AL,Crenshaw,$2.848,2025-01-30
+Alabama,AL,Cullman,$2.783,2025-01-30
+Alabama,AL,Dale,$2.831,2025-01-30
+Alabama,AL,Dallas,$2.859,2025-01-30
+Alabama,AL,De Kalb,$2.770,2025-01-30
+Alabama,AL,Elmore,$2.818,2025-01-30
+Alabama,AL,Escambia,$2.829,2025-01-30
+Alabama,AL,Etowah,$2.758,2025-01-30
+Alabama,AL,Fayette,$2.919,2025-01-30
+Alabama,AL,Franklin,$2.818,2025-01-30
+Alabama,AL,Geneva,$2.889,2025-01-30
+Alabama,AL,Greene,$2.986,2025-01-30
+Alabama,AL,Hale,$2.870,2025-01-30
+Alabama,AL,Henry,$2.879,2025-01-30
+Alabama,AL,Houston,$2.848,2025-01-30
+Alabama,AL,Jackson,$2.865,2025-01-30
+Alabama,AL,Jefferson,$2.825,2025-01-30
+Alabama,AL,Lamar,$2.916,2025-01-30
+Alabama,AL,Lauderdale,$2.865,2025-01-30
+Alabama,AL,Lawrence,$2.793,2025-01-30
+Alabama,AL,Lee,$2.761,2025-01-30
+Alabama,AL,Limestone,$2.850,2025-01-30
+Alabama,AL,Lowndes,$2.846,2025-01-30
+Alabama,AL,Macon,$2.867,2025-01-30
+Alabama,AL,Madison,$2.826,2025-01-30
+Alabama,AL,Marengo,$2.914,2025-01-30
+Alabama,AL,Marion,$2.903,2025-01-30
+Alabama,AL,Marshall,$2.780,2025-01-30
+Alabama,AL,Mobile,$2.768,2025-01-30
+Alabama,AL,Monroe,$2.925,2025-01-30
+Alabama,AL,Montgomery,$2.825,2025-01-30
+Alabama,AL,Morgan,$2.779,2025-01-30
+Alabama,AL,Perry,$3.032,2025-01-30
+Alabama,AL,Pickens,$2.810,2025-01-30
+Alabama,AL,Pike,$2.884,2025-01-30
+Alabama,AL,Randolph,$2.819,2025-01-30
+Alabama,AL,Russell,$2.803,2025-01-30
+Alabama,AL,Shelby,$2.846,2025-01-30
+Alabama,AL,Saint Clair,$2.787,2025-01-30
+Alabama,AL,Sumter,$3.005,2025-01-30
+Alabama,AL,Talladega,$2.861,2025-01-30
+Alabama,AL,Tallapoosa,$2.789,2025-01-30
+Alabama,AL,Tuscaloosa,$2.798,2025-01-30
+Alabama,AL,Walker,$2.819,2025-01-30
+Alabama,AL,Washington,$2.939,2025-01-30
+Alabama,AL,Wilcox,$3.047,2025-01-30
+Alabama,AL,Winston,$2.861,2025-01-30
+Alaska,AK,Aleutians East,,2025-01-30
+Alaska,AK,Aleutians West,,2025-01-30
+Alaska,AK,Anchorage,$3.371,2025-01-30
+Alaska,AK,Bethel,,2025-01-30
+Alaska,AK,Bristol Bay,,2025-01-30
+Alaska,AK,Denali,$3.246,2025-01-30
+Alaska,AK,Dillingham,,2025-01-30
+Alaska,AK,Fairbanks North Star,$3.222,2025-01-30
+Alaska,AK,Haines,,2025-01-30
+Alaska,AK,Juneau,$3.259,2025-01-30
+Alaska,AK,Kenai Peninsula,$3.261,2025-01-30
+Alaska,AK,Ketchikan Gateway,$3.579,2025-01-30
+Alaska,AK,Kodiak Island,$4.369,2025-01-30
+Alaska,AK,Matanuska Susitna,$3.125,2025-01-30
+Alaska,AK,Nome,,2025-01-30
+Alaska,AK,North Slope,,2025-01-30
+Alaska,AK,Northwest Arctic,,2025-01-30
+Alaska,AK,Lake and Peninsula,,2025-01-30
+Alaska,AK,Prince Wales Ketchikan,,2025-01-30
+Alaska,AK,Sitka,$3.939,2025-01-30
+Alaska,AK,Skagway Hoonah Angoon,,2025-01-30
+Alaska,AK,Southeast Fairbanks,$3.476,2025-01-30
+Alaska,AK,Valdez Cordova,$4.038,2025-01-30
+Alaska,AK,Wade Hampton,,2025-01-30
+Alaska,AK,Wrangell Petersburg,$3.539,2025-01-30
+Alaska,AK,Yakutat,,2025-01-30
+Alaska,AK,Yukon Koyukuk,,2025-01-30
+Arizona,AZ,Apache,$3.134,2025-01-30
+Arizona,AZ,Cochise,$3.182,2025-01-30
+Arizona,AZ,Coconino,$3.209,2025-01-30
+Arizona,AZ,Gila,$3.218,2025-01-30
+Arizona,AZ,Graham,$3.197,2025-01-30
+Arizona,AZ,Greenlee,$2.996,2025-01-30
+Arizona,AZ,La Paz,$3.044,2025-01-30
+Arizona,AZ,Maricopa,$3.354,2025-01-30
+Arizona,AZ,Mohave,$3.137,2025-01-30
+Arizona,AZ,Navajo,$3.140,2025-01-30
+Arizona,AZ,Pima,$3.063,2025-01-30
+Arizona,AZ,Pinal,$3.092,2025-01-30
+Arizona,AZ,Santa Cruz,$3.212,2025-01-30
+Arizona,AZ,Yavapai,$3.245,2025-01-30
+Arizona,AZ,Yuma,$3.059,2025-01-30
+Arkansas,AR,Arkansas,$2.747,2025-01-30
+Arkansas,AR,Ashley,$2.856,2025-01-30
+Arkansas,AR,Baxter,$2.794,2025-01-30
+Arkansas,AR,Benton,$2.786,2025-01-30
+Arkansas,AR,Boone,$2.857,2025-01-30
+Arkansas,AR,Bradley,$2.862,2025-01-30
+Arkansas,AR,Calhoun,$2.899,2025-01-30
+Arkansas,AR,Carroll,$2.842,2025-01-30
+Arkansas,AR,Chicot,$2.910,2025-01-30
+Arkansas,AR,Clark,$2.729,2025-01-30
+Arkansas,AR,Clay,$2.794,2025-01-30
+Arkansas,AR,Cleburne,$2.772,2025-01-30
+Arkansas,AR,Cleveland,$2.724,2025-01-30
+Arkansas,AR,Columbia,$2.897,2025-01-30
+Arkansas,AR,Conway,$2.750,2025-01-30
+Arkansas,AR,Craighead,$2.711,2025-01-30
+Arkansas,AR,Crawford,$2.661,2025-01-30
+Arkansas,AR,Crittenden,$2.840,2025-01-30
+Arkansas,AR,Cross,$2.753,2025-01-30
+Arkansas,AR,Dallas,$2.815,2025-01-30
+Arkansas,AR,Desha,$3.016,2025-01-30
+Arkansas,AR,Drew,$2.802,2025-01-30
+Arkansas,AR,Faulkner,$2.716,2025-01-30
+Arkansas,AR,Franklin,$2.698,2025-01-30
+Arkansas,AR,Fulton,$2.794,2025-01-30
+Arkansas,AR,Garland,$2.707,2025-01-30
+Arkansas,AR,Grant,$2.711,2025-01-30
+Arkansas,AR,Greene,$2.690,2025-01-30
+Arkansas,AR,Hempstead,$2.833,2025-01-30
+Arkansas,AR,Hot Spring,$2.631,2025-01-30
+Arkansas,AR,Howard,$2.899,2025-01-30
+Arkansas,AR,Independence,$2.722,2025-01-30
+Arkansas,AR,Izard,$2.906,2025-01-30
+Arkansas,AR,Jackson,$2.782,2025-01-30
+Arkansas,AR,Jefferson,$2.686,2025-01-30
+Arkansas,AR,Johnson,$2.694,2025-01-30
+Arkansas,AR,Lafayette,$2.975,2025-01-30
+Arkansas,AR,Lawrence,$2.724,2025-01-30
+Arkansas,AR,Lee,$2.874,2025-01-30
+Arkansas,AR,Lincoln,$2.924,2025-01-30
+Arkansas,AR,Little River,$2.904,2025-01-30
+Arkansas,AR,Logan,$2.773,2025-01-30
+Arkansas,AR,Lonoke,$2.715,2025-01-30
+Arkansas,AR,Madison,$2.901,2025-01-30
+Arkansas,AR,Marion,$2.831,2025-01-30
+Arkansas,AR,Miller,$2.831,2025-01-30
+Arkansas,AR,Mississippi,$2.833,2025-01-30
+Arkansas,AR,Monroe,$2.746,2025-01-30
+Arkansas,AR,Montgomery,$2.927,2025-01-30
+Arkansas,AR,Nevada,$2.776,2025-01-30
+Arkansas,AR,Newton,$2.851,2025-01-30
+Arkansas,AR,Ouachita,$2.808,2025-01-30
+Arkansas,AR,Perry,$2.729,2025-01-30
+Arkansas,AR,Phillips,$2.891,2025-01-30
+Arkansas,AR,Pike,$2.782,2025-01-30
+Arkansas,AR,Poinsett,$2.795,2025-01-30
+Arkansas,AR,Polk,$2.793,2025-01-30
+Arkansas,AR,Pope,$2.755,2025-01-30
+Arkansas,AR,Prairie,$2.786,2025-01-30
+Arkansas,AR,Pulaski,$2.735,2025-01-30
+Arkansas,AR,Randolph,$2.650,2025-01-30
+Arkansas,AR,Saline,$2.732,2025-01-30
+Arkansas,AR,Scott,$2.745,2025-01-30
+Arkansas,AR,Searcy,$2.757,2025-01-30
+Arkansas,AR,Sebastian,$2.714,2025-01-30
+Arkansas,AR,Sevier,$2.806,2025-01-30
+Arkansas,AR,Sharp,$2.765,2025-01-30
+Arkansas,AR,Saint Francis,$2.766,2025-01-30
+Arkansas,AR,Stone,$3.007,2025-01-30
+Arkansas,AR,Union,$2.876,2025-01-30
+Arkansas,AR,Van Buren,$2.714,2025-01-30
+Arkansas,AR,Washington,$2.834,2025-01-30
+Arkansas,AR,White,$2.712,2025-01-30
+Arkansas,AR,Woodruff,$2.799,2025-01-30
+Arkansas,AR,Yell,$2.812,2025-01-30
+California,CA,Alameda,$4.475,2025-01-30
+California,CA,Alpine,,2025-01-30
+California,CA,Amador,$4.510,2025-01-30
+California,CA,Butte,$4.239,2025-01-30
+California,CA,Calaveras,$4.467,2025-01-30
+California,CA,Colusa,$4.401,2025-01-30
+California,CA,Contra Costa,$4.498,2025-01-30
+California,CA,Del Norte,$4.458,2025-01-30
+California,CA,El Dorado,$4.531,2025-01-30
+California,CA,Fresno,$4.395,2025-01-30
+California,CA,Glenn,$4.388,2025-01-30
+California,CA,Humboldt,$4.916,2025-01-30
+California,CA,Imperial,$4.278,2025-01-30
+California,CA,Inyo,$4.609,2025-01-30
+California,CA,Kern,$4.329,2025-01-30
+California,CA,Kings,$4.295,2025-01-30
+California,CA,Lake,$4.330,2025-01-30
+California,CA,Lassen,$4.734,2025-01-30
+California,CA,Los Angeles,$4.503,2025-01-30
+California,CA,Madera,$4.397,2025-01-30
+California,CA,Marin,$4.612,2025-01-30
+California,CA,Mariposa,$4.477,2025-01-30
+California,CA,Mendocino,$4.422,2025-01-30
+California,CA,Merced,$4.346,2025-01-30
+California,CA,Modoc,$4.458,2025-01-30
+California,CA,Mono,$5.503,2025-01-30
+California,CA,Monterey,$4.634,2025-01-30
+California,CA,Napa,$4.541,2025-01-30
+California,CA,Nevada,$4.719,2025-01-30
+California,CA,Orange,$4.453,2025-01-30
+California,CA,Placer,$4.533,2025-01-30
+California,CA,Plumas,$4.534,2025-01-30
+California,CA,Riverside,$4.366,2025-01-30
+California,CA,Sacramento,$4.390,2025-01-30
+California,CA,San Benito,$4.608,2025-01-30
+California,CA,San Bernardino,$4.381,2025-01-30
+California,CA,San Diego,$4.539,2025-01-30
+California,CA,San Francisco,$4.559,2025-01-30
+California,CA,San Joaquin,$4.325,2025-01-30
+California,CA,San Luis Obispo,$4.673,2025-01-30
+California,CA,San Mateo,$4.631,2025-01-30
+California,CA,Santa Barbara,$4.468,2025-01-30
+California,CA,Santa Clara,$4.427,2025-01-30
+California,CA,Santa Cruz,$4.656,2025-01-30
+California,CA,Shasta,$4.284,2025-01-30
+California,CA,Sierra,$4.899,2025-01-30
+California,CA,Siskiyou,$4.584,2025-01-30
+California,CA,Solano,$4.390,2025-01-30
+California,CA,Sonoma,$4.675,2025-01-30
+California,CA,Stanislaus,$4.254,2025-01-30
+California,CA,Sutter,$4.228,2025-01-30
+California,CA,Tehama,$4.191,2025-01-30
+California,CA,Trinity,$4.987,2025-01-30
+California,CA,Tulare,$4.331,2025-01-30
+California,CA,Tuolumne,$4.348,2025-01-30
+California,CA,Ventura,$4.566,2025-01-30
+California,CA,Yolo,$4.365,2025-01-30
+California,CA,Yuba,$4.166,2025-01-30
+Colorado,CO,Adams,$2.859,2025-01-30
+Colorado,CO,Alamosa,$3.194,2025-01-30
+Colorado,CO,Arapahoe,$2.893,2025-01-30
+Colorado,CO,Archuleta,$3.179,2025-01-30
+Colorado,CO,Baca,$2.877,2025-01-30
+Colorado,CO,Bent,$2.966,2025-01-30
+Colorado,CO,Boulder,$3.012,2025-01-30
+Colorado,CO,Broomfield,$2.885,2025-01-30
+Colorado,CO,Chaffee,$3.146,2025-01-30
+Colorado,CO,Cheyenne,$2.802,2025-01-30
+Colorado,CO,Clear Creek,$3.295,2025-01-30
+Colorado,CO,Conejos,$3.179,2025-01-30
+Colorado,CO,Costilla,$3.199,2025-01-30
+Colorado,CO,Crowley,$2.999,2025-01-30
+Colorado,CO,Custer,$3.049,2025-01-30
+Colorado,CO,Delta,$3.138,2025-01-30
+Colorado,CO,Denver,$2.901,2025-01-30
+Colorado,CO,Dolores,$3.372,2025-01-30
+Colorado,CO,Douglas,$2.942,2025-01-30
+Colorado,CO,Eagle,$3.487,2025-01-30
+Colorado,CO,El Paso,$2.833,2025-01-30
+Colorado,CO,Elbert,$2.892,2025-01-30
+Colorado,CO,Fremont,$2.767,2025-01-30
+Colorado,CO,Garfield,$3.402,2025-01-30
+Colorado,CO,Gilpin,$3.249,2025-01-30
+Colorado,CO,Grand,$3.577,2025-01-30
+Colorado,CO,Gunnison,$3.416,2025-01-30
+Colorado,CO,Hinsdale,,2025-01-30
+Colorado,CO,Huerfano,$2.899,2025-01-30
+Colorado,CO,Jackson,$3.599,2025-01-30
+Colorado,CO,Jefferson,$2.898,2025-01-30
+Colorado,CO,Kiowa,$2.801,2025-01-30
+Colorado,CO,Kit Carson,$2.840,2025-01-30
+Colorado,CO,La Plata,$3.136,2025-01-30
+Colorado,CO,Lake,$3.341,2025-01-30
+Colorado,CO,Larimer,$2.851,2025-01-30
+Colorado,CO,Las Animas,$2.968,2025-01-30
+Colorado,CO,Lincoln,$2.796,2025-01-30
+Colorado,CO,Logan,$3.140,2025-01-30
+Colorado,CO,Mesa,$3.061,2025-01-30
+Colorado,CO,Mineral,$3.449,2025-01-30
+Colorado,CO,Moffat,$3.367,2025-01-30
+Colorado,CO,Montezuma,$3.241,2025-01-30
+Colorado,CO,Montrose,$3.207,2025-01-30
+Colorado,CO,Morgan,$3.075,2025-01-30
+Colorado,CO,Otero,$3.081,2025-01-30
+Colorado,CO,Ouray,$3.419,2025-01-30
+Colorado,CO,Park,$3.369,2025-01-30
+Colorado,CO,Phillips,$3.359,2025-01-30
+Colorado,CO,Pitkin,$4.481,2025-01-30
+Colorado,CO,Prowers,$2.816,2025-01-30
+Colorado,CO,Pueblo,$2.840,2025-01-30
+Colorado,CO,Rio Blanco,$3.362,2025-01-30
+Colorado,CO,Rio Grande,$3.164,2025-01-30
+Colorado,CO,Routt,$3.684,2025-01-30
+Colorado,CO,Saguache,$3.252,2025-01-30
+Colorado,CO,San Juan,$3.499,2025-01-30
+Colorado,CO,San Miguel,$3.502,2025-01-30
+Colorado,CO,Sedgwick,$2.982,2025-01-30
+Colorado,CO,Summit,$3.521,2025-01-30
+Colorado,CO,Teller,$2.897,2025-01-30
+Colorado,CO,Washington,$2.991,2025-01-30
+Colorado,CO,Weld,$2.833,2025-01-30
+Colorado,CO,Yuma,$3.112,2025-01-30
+Connecticut,CT,Fairfield,$3.150,2025-01-30
+Connecticut,CT,Hartford,$3.071,2025-01-30
+Connecticut,CT,Litchfield,$3.071,2025-01-30
+Connecticut,CT,Middlesex,$3.075,2025-01-30
+Connecticut,CT,New Haven,$3.070,2025-01-30
+Connecticut,CT,New London,$3.109,2025-01-30
+Connecticut,CT,Tolland,$3.034,2025-01-30
+Connecticut,CT,Windham,$3.095,2025-01-30
+Delaware,DE,Kent,$3.186,2025-01-30
+Delaware,DE,New castle,$3.127,2025-01-30
+Delaware,DE,Sussex,$3.205,2025-01-30
+Florida,FL,Alachua,$3.188,2025-01-30
+Florida,FL,Baker,$3.165,2025-01-30
+Florida,FL,Bay,$2.885,2025-01-30
+Florida,FL,Bradford,$3.016,2025-01-30
+Florida,FL,Brevard,$3.095,2025-01-30
+Florida,FL,Broward,$3.106,2025-01-30
+Florida,FL,Calhoun,$3.099,2025-01-30
+Florida,FL,Charlotte,$3.069,2025-01-30
+Florida,FL,Citrus,$3.191,2025-01-30
+Florida,FL,Clay,$3.088,2025-01-30
+Florida,FL,Collier,$3.245,2025-01-30
+Florida,FL,Columbia,$3.207,2025-01-30
+Florida,FL,De Soto,$3.188,2025-01-30
+Florida,FL,Dixie,$3.214,2025-01-30
+Florida,FL,Duval,$3.099,2025-01-30
+Florida,FL,Escambia,$2.917,2025-01-30
+Florida,FL,Flagler,$3.009,2025-01-30
+Florida,FL,Franklin,$3.054,2025-01-30
+Florida,FL,Gadsden,$2.988,2025-01-30
+Florida,FL,Gilchrist,$3.138,2025-01-30
+Florida,FL,Glades,$3.199,2025-01-30
+Florida,FL,Gulf,$2.965,2025-01-30
+Florida,FL,Hamilton,$3.148,2025-01-30
+Florida,FL,Hardee,$3.268,2025-01-30
+Florida,FL,Hendry,$3.269,2025-01-30
+Florida,FL,Hernando,$3.177,2025-01-30
+Florida,FL,Highlands,$3.167,2025-01-30
+Florida,FL,Hillsborough,$3.202,2025-01-30
+Florida,FL,Holmes,$3.027,2025-01-30
+Florida,FL,Indian River,$3.132,2025-01-30
+Florida,FL,Jackson,$3.001,2025-01-30
+Florida,FL,Jefferson,$3.167,2025-01-30
+Florida,FL,Lafayette,$3.246,2025-01-30
+Florida,FL,Lake,$3.170,2025-01-30
+Florida,FL,Lee,$3.134,2025-01-30
+Florida,FL,Leon,$2.994,2025-01-30
+Florida,FL,Levy,$3.240,2025-01-30
+Florida,FL,Liberty,$3.109,2025-01-30
+Florida,FL,Madison,$3.288,2025-01-30
+Florida,FL,Manatee,$3.100,2025-01-30
+Florida,FL,Marion,$3.178,2025-01-30
+Florida,FL,Martin,$3.076,2025-01-30
+Florida,FL,Miami Dade,$3.161,2025-01-30
+Florida,FL,Monroe,$3.303,2025-01-30
+Florida,FL,Nassau,$3.142,2025-01-30
+Florida,FL,Okaloosa,$2.860,2025-01-30
+Florida,FL,Okeechobee,$3.185,2025-01-30
+Florida,FL,Orange,$3.148,2025-01-30
+Florida,FL,Osceola,$3.182,2025-01-30
+Florida,FL,Palm Beach,$3.258,2025-01-30
+Florida,FL,Pasco,$3.169,2025-01-30
+Florida,FL,Pinellas,$3.192,2025-01-30
+Florida,FL,Polk,$3.194,2025-01-30
+Florida,FL,Putnam,$3.163,2025-01-30
+Florida,FL,Santa Rosa,$2.971,2025-01-30
+Florida,FL,Sarasota,$3.116,2025-01-30
+Florida,FL,Seminole,$3.169,2025-01-30
+Florida,FL,Saint Johns,$3.094,2025-01-30
+Florida,FL,Saint Lucie,$3.141,2025-01-30
+Florida,FL,Sumter,$3.141,2025-01-30
+Florida,FL,Suwannee,$3.289,2025-01-30
+Florida,FL,Taylor,$3.133,2025-01-30
+Florida,FL,Union,$3.069,2025-01-30
+Florida,FL,Volusia,$3.115,2025-01-30
+Florida,FL,Wakulla,$3.005,2025-01-30
+Florida,FL,Walton,$2.918,2025-01-30
+Florida,FL,Washington,$3.042,2025-01-30
+Georgia,GA,Appling,$2.959,2025-01-30
+Georgia,GA,Atkinson,$3.037,2025-01-30
+Georgia,GA,Bacon,$3.022,2025-01-30
+Georgia,GA,Bibb,$2.941,2025-01-30
+Georgia,GA,Bulloch,$2.938,2025-01-30
+Georgia,GA,Baldwin,$2.885,2025-01-30
+Georgia,GA,Brantley,$3.007,2025-01-30
+Georgia,GA,Ben Hill,$2.840,2025-01-30
+Georgia,GA,Berrien,$2.993,2025-01-30
+Georgia,GA,Baker,$3.059,2025-01-30
+Georgia,GA,Bleckley,$2.909,2025-01-30
+Georgia,GA,Banks,$2.958,2025-01-30
+Georgia,GA,Brooks,$3.034,2025-01-30
+Georgia,GA,Bryan,$2.983,2025-01-30
+Georgia,GA,Butts,$2.997,2025-01-30
+Georgia,GA,Bartow,$2.892,2025-01-30
+Georgia,GA,Burke,$2.986,2025-01-30
+Georgia,GA,Barrow,$2.944,2025-01-30
+Georgia,GA,Chatham,$3.021,2025-01-30
+Georgia,GA,Cobb,$2.952,2025-01-30
+Georgia,GA,Chattahoochee,$2.999,2025-01-30
+Georgia,GA,Crawford,$3.149,2025-01-30
+Georgia,GA,Cherokee,$2.938,2025-01-30
+Georgia,GA,Coffee,$2.965,2025-01-30
+Georgia,GA,Chattooga,$2.892,2025-01-30
+Georgia,GA,Charlton,$2.988,2025-01-30
+Georgia,GA,Clinch,$2.979,2025-01-30
+Georgia,GA,Clarke,$2.950,2025-01-30
+Georgia,GA,Calhoun,$3.132,2025-01-30
+Georgia,GA,Camden,$2.927,2025-01-30
+Georgia,GA,Candler,$3.083,2025-01-30
+Georgia,GA,Cook,$2.984,2025-01-30
+Georgia,GA,Crisp,$2.947,2025-01-30
+Georgia,GA,Colquitt,$2.970,2025-01-30
+Georgia,GA,Carroll,$2.948,2025-01-30
+Georgia,GA,Catoosa,$2.850,2025-01-30
+Georgia,GA,Clayton,$2.945,2025-01-30
+Georgia,GA,Columbia,$2.788,2025-01-30
+Georgia,GA,Coweta,$2.979,2025-01-30
+Georgia,GA,Clay,$3.199,2025-01-30
+Georgia,GA,Dade,$2.845,2025-01-30
+Georgia,GA,Decatur,$2.854,2025-01-30
+Georgia,GA,Douglas,$2.926,2025-01-30
+Georgia,GA,DeKalb,$2.961,2025-01-30
+Georgia,GA,Dooly,$3.039,2025-01-30
+Georgia,GA,Dodge,$2.832,2025-01-30
+Georgia,GA,Dougherty,$2.879,2025-01-30
+Georgia,GA,Dawson,$2.934,2025-01-30
+Georgia,GA,Early,$3.066,2025-01-30
+Georgia,GA,Echols,,2025-01-30
+Georgia,GA,Effingham,$2.987,2025-01-30
+Georgia,GA,Elbert,$2.830,2025-01-30
+Georgia,GA,Emanuel,$3.197,2025-01-30
+Georgia,GA,Evans,$3.000,2025-01-30
+Georgia,GA,Fannin,$2.930,2025-01-30
+Georgia,GA,Floyd,$2.925,2025-01-30
+Georgia,GA,Forsyth,$2.974,2025-01-30
+Georgia,GA,Franklin,$2.982,2025-01-30
+Georgia,GA,Fulton,$3.085,2025-01-30
+Georgia,GA,Fayette,$3.024,2025-01-30
+Georgia,GA,Greene,$3.085,2025-01-30
+Georgia,GA,Gilmer,$2.933,2025-01-30
+Georgia,GA,Glascock,$2.859,2025-01-30
+Georgia,GA,Gordon,$2.912,2025-01-30
+Georgia,GA,Grady,$2.913,2025-01-30
+Georgia,GA,Gwinnett,$2.911,2025-01-30
+Georgia,GA,Glynn,$2.879,2025-01-30
+Georgia,GA,Habersham,$2.921,2025-01-30
+Georgia,GA,Heard,$3.066,2025-01-30
+Georgia,GA,Harris,$3.004,2025-01-30
+Georgia,GA,Hall,$2.926,2025-01-30
+Georgia,GA,Hancock,$2.999,2025-01-30
+Georgia,GA,Houston,$2.861,2025-01-30
+Georgia,GA,Haralson,$2.892,2025-01-30
+Georgia,GA,Hart,$2.821,2025-01-30
+Georgia,GA,Henry,$2.902,2025-01-30
+Georgia,GA,Irwin,$3.099,2025-01-30
+Georgia,GA,Jackson,$2.902,2025-01-30
+Georgia,GA,Jeff Davis,$2.922,2025-01-30
+Georgia,GA,Jefferson,$2.984,2025-01-30
+Georgia,GA,Jenkins,$2.979,2025-01-30
+Georgia,GA,Jones,$2.990,2025-01-30
+Georgia,GA,Johnson,$2.949,2025-01-30
+Georgia,GA,Jasper,$2.972,2025-01-30
+Georgia,GA,Lamar,$2.949,2025-01-30
+Georgia,GA,Lincoln,$3.029,2025-01-30
+Georgia,GA,Lee,$2.857,2025-01-30
+Georgia,GA,Liberty,$2.951,2025-01-30
+Georgia,GA,Lanier,$2.986,2025-01-30
+Georgia,GA,Long,$2.991,2025-01-30
+Georgia,GA,Lumpkin,$2.953,2025-01-30
+Georgia,GA,Laurens,$2.948,2025-01-30
+Georgia,GA,Lowndes,$2.957,2025-01-30
+Georgia,GA,Macon,$2.951,2025-01-30
+Georgia,GA,Mcduffie,$2.943,2025-01-30
+Georgia,GA,Madison,$2.975,2025-01-30
+Georgia,GA,Meriwether,$2.984,2025-01-30
+Georgia,GA,Montgomery,$3.042,2025-01-30
+Georgia,GA,Mcintosh,$2.953,2025-01-30
+Georgia,GA,Miller,$3.159,2025-01-30
+Georgia,GA,Morgan,$2.948,2025-01-30
+Georgia,GA,Monroe,$3.059,2025-01-30
+Georgia,GA,Marion,$2.999,2025-01-30
+Georgia,GA,Muscogee,$2.873,2025-01-30
+Georgia,GA,Mitchell,$3.061,2025-01-30
+Georgia,GA,Murray,$2.922,2025-01-30
+Georgia,GA,Newton,$2.933,2025-01-30
+Georgia,GA,Oconee,$2.959,2025-01-30
+Georgia,GA,Oglethorpe,$3.057,2025-01-30
+Georgia,GA,Peach,$2.935,2025-01-30
+Georgia,GA,Pickens,$2.936,2025-01-30
+Georgia,GA,Paulding,$2.945,2025-01-30
+Georgia,GA,Pierce,$2.979,2025-01-30
+Georgia,GA,Pike,$2.984,2025-01-30
+Georgia,GA,Pulaski,$3.009,2025-01-30
+Georgia,GA,Polk,$2.929,2025-01-30
+Georgia,GA,Putnam,$2.978,2025-01-30
+Georgia,GA,Quitman,$2.974,2025-01-30
+Georgia,GA,Randolph,$2.891,2025-01-30
+Georgia,GA,Rabun,$2.919,2025-01-30
+Georgia,GA,Richmond,$2.912,2025-01-30
+Georgia,GA,Rockdale,$2.951,2025-01-30
+Georgia,GA,Schley,$2.829,2025-01-30
+Georgia,GA,Stephens,$2.825,2025-01-30
+Georgia,GA,Seminole,$2.907,2025-01-30
+Georgia,GA,Spalding,$3.018,2025-01-30
+Georgia,GA,Screven,$2.998,2025-01-30
+Georgia,GA,Stewart,$3.066,2025-01-30
+Georgia,GA,Sumter,$2.864,2025-01-30
+Georgia,GA,Taliaferro,$2.999,2025-01-30
+Georgia,GA,Talbot,$3.099,2025-01-30
+Georgia,GA,Treutlen,$3.049,2025-01-30
+Georgia,GA,Telfair,$3.044,2025-01-30
+Georgia,GA,Thomas,$2.941,2025-01-30
+Georgia,GA,Tift,$2.980,2025-01-30
+Georgia,GA,Terrell,$2.891,2025-01-30
+Georgia,GA,Toombs,$2.911,2025-01-30
+Georgia,GA,Towns,$2.872,2025-01-30
+Georgia,GA,Troup,$2.920,2025-01-30
+Georgia,GA,Tattnall,$3.010,2025-01-30
+Georgia,GA,Turner,$2.967,2025-01-30
+Georgia,GA,Twiggs,$2.999,2025-01-30
+Georgia,GA,Taylor,$2.893,2025-01-30
+Georgia,GA,Union,$2.950,2025-01-30
+Georgia,GA,Upson,$2.952,2025-01-30
+Georgia,GA,Ware,$2.875,2025-01-30
+Georgia,GA,Wilcox,$3.079,2025-01-30
+Georgia,GA,Wheeler,$3.044,2025-01-30
+Georgia,GA,Washington,$2.903,2025-01-30
+Georgia,GA,Whitfield,$2.942,2025-01-30
+Georgia,GA,Wilkinson,$2.988,2025-01-30
+Georgia,GA,Walker,$2.870,2025-01-30
+Georgia,GA,Wilkes,$2.918,2025-01-30
+Georgia,GA,Walton,$2.934,2025-01-30
+Georgia,GA,Worth,$3.089,2025-01-30
+Georgia,GA,Warren,$3.006,2025-01-30
+Georgia,GA,Webster,$2.999,2025-01-30
+Georgia,GA,White,$2.921,2025-01-30
+Georgia,GA,Wayne,$2.868,2025-01-30
+Hawaii,HI,Hawaii,$4.666,2025-01-30
+Hawaii,HI,Honolulu,$4.491,2025-01-30
+Hawaii,HI,Kalawao,,2025-01-30
+Hawaii,HI,Kauai,$5.201,2025-01-30
+Hawaii,HI,Maui,$4.563,2025-01-30
+Idaho,ID,Ada,$3.091,2025-01-30
+Idaho,ID,Adams,$3.246,2025-01-30
+Idaho,ID,Bannock,$3.134,2025-01-30
+Idaho,ID,Bear Lake,$3.129,2025-01-30
+Idaho,ID,Benewah,$3.074,2025-01-30
+Idaho,ID,Bingham,$3.078,2025-01-30
+Idaho,ID,Blaine,$3.518,2025-01-30
+Idaho,ID,Boise,$3.189,2025-01-30
+Idaho,ID,Bonner,$3.007,2025-01-30
+Idaho,ID,Bonneville,$3.076,2025-01-30
+Idaho,ID,Boundary,$2.929,2025-01-30
+Idaho,ID,Butte,$3.156,2025-01-30
+Idaho,ID,Camas,$3.449,2025-01-30
+Idaho,ID,Canyon,$3.119,2025-01-30
+Idaho,ID,Caribou,$3.091,2025-01-30
+Idaho,ID,Cassia,$3.092,2025-01-30
+Idaho,ID,Clark,$3.399,2025-01-30
+Idaho,ID,Clearwater,$3.059,2025-01-30
+Idaho,ID,Custer,$3.240,2025-01-30
+Idaho,ID,Elmore,$3.084,2025-01-30
+Idaho,ID,Franklin,$3.113,2025-01-30
+Idaho,ID,Fremont,$3.393,2025-01-30
+Idaho,ID,Gem,$3.066,2025-01-30
+Idaho,ID,Gooding,$3.141,2025-01-30
+Idaho,ID,Idaho,$3.265,2025-01-30
+Idaho,ID,Jefferson,$3.057,2025-01-30
+Idaho,ID,Jerome,$3.085,2025-01-30
+Idaho,ID,Kootenai,$2.971,2025-01-30
+Idaho,ID,Latah,$3.154,2025-01-30
+Idaho,ID,Lemhi,$3.163,2025-01-30
+Idaho,ID,Lewis,$3.084,2025-01-30
+Idaho,ID,Lincoln,$3.129,2025-01-30
+Idaho,ID,Madison,$3.070,2025-01-30
+Idaho,ID,Minidoka,$3.063,2025-01-30
+Idaho,ID,Nez perce,$3.095,2025-01-30
+Idaho,ID,Oneida,$3.099,2025-01-30
+Idaho,ID,Owyhee,$3.131,2025-01-30
+Idaho,ID,Payette,$3.147,2025-01-30
+Idaho,ID,Power,$3.055,2025-01-30
+Idaho,ID,Shoshone,$3.391,2025-01-30
+Idaho,ID,Teton,$3.174,2025-01-30
+Idaho,ID,Twin falls,$3.118,2025-01-30
+Idaho,ID,Valley,$3.290,2025-01-30
+Idaho,ID,Washington,$3.107,2025-01-30
+Illinois,IL,Adams,$3.190,2025-01-30
+Illinois,IL,Alexander,$3.499,2025-01-30
+Illinois,IL,Bond,$3.183,2025-01-30
+Illinois,IL,Boone,$3.241,2025-01-30
+Illinois,IL,Brown,$3.062,2025-01-30
+Illinois,IL,Bureau,$3.264,2025-01-30
+Illinois,IL,Calhoun,$3.399,2025-01-30
+Illinois,IL,Carroll,$3.237,2025-01-30
+Illinois,IL,Cass,$3.201,2025-01-30
+Illinois,IL,Champaign,$3.172,2025-01-30
+Illinois,IL,Christian,$3.153,2025-01-30
+Illinois,IL,Clark,$3.106,2025-01-30
+Illinois,IL,Clay,$2.966,2025-01-30
+Illinois,IL,Clinton,$3.179,2025-01-30
+Illinois,IL,Coles,$3.150,2025-01-30
+Illinois,IL,Cook,$3.459,2025-01-30
+Illinois,IL,Crawford,$3.132,2025-01-30
+Illinois,IL,Cumberland,$3.237,2025-01-30
+Illinois,IL,Dewitt,$3.232,2025-01-30
+Illinois,IL,De Kalb,$3.239,2025-01-30
+Illinois,IL,Douglas,$3.068,2025-01-30
+Illinois,IL,Du Page,$3.240,2025-01-30
+Illinois,IL,Edgar,$3.141,2025-01-30
+Illinois,IL,Edwards,$3.189,2025-01-30
+Illinois,IL,Effingham,$3.020,2025-01-30
+Illinois,IL,Fayette,$3.191,2025-01-30
+Illinois,IL,Ford,$3.224,2025-01-30
+Illinois,IL,Franklin,$3.195,2025-01-30
+Illinois,IL,Fulton,$3.213,2025-01-30
+Illinois,IL,Gallatin,$3.166,2025-01-30
+Illinois,IL,Greene,$3.193,2025-01-30
+Illinois,IL,Grundy,$3.248,2025-01-30
+Illinois,IL,Hamilton,$3.142,2025-01-30
+Illinois,IL,Hancock,$3.316,2025-01-30
+Illinois,IL,Hardin,$3.189,2025-01-30
+Illinois,IL,Henderson,$3.215,2025-01-30
+Illinois,IL,Henry,$3.257,2025-01-30
+Illinois,IL,Iroquois,$3.181,2025-01-30
+Illinois,IL,Jackson,$3.199,2025-01-30
+Illinois,IL,Jasper,$3.129,2025-01-30
+Illinois,IL,Jefferson,$3.190,2025-01-30
+Illinois,IL,Jersey,$3.374,2025-01-30
+Illinois,IL,Jo Daviess,$3.280,2025-01-30
+Illinois,IL,Johnson,$3.219,2025-01-30
+Illinois,IL,Kane,$3.253,2025-01-30
+Illinois,IL,Kankakee,$3.177,2025-01-30
+Illinois,IL,Kendall,$3.168,2025-01-30
+Illinois,IL,Knox,$3.221,2025-01-30
+Illinois,IL,La Salle,$3.147,2025-01-30
+Illinois,IL,Lake,$3.191,2025-01-30
+Illinois,IL,Lawrence,$3.119,2025-01-30
+Illinois,IL,Lee,$3.198,2025-01-30
+Illinois,IL,Livingston,$3.202,2025-01-30
+Illinois,IL,Logan,$3.221,2025-01-30
+Illinois,IL,Macon,$3.168,2025-01-30
+Illinois,IL,Macoupin,$3.192,2025-01-30
+Illinois,IL,Madison,$3.211,2025-01-30
+Illinois,IL,Marion,$3.228,2025-01-30
+Illinois,IL,Marshall,$3.304,2025-01-30
+Illinois,IL,Mason,$3.201,2025-01-30
+Illinois,IL,Massac,$3.179,2025-01-30
+Illinois,IL,McDonough,$3.237,2025-01-30
+Illinois,IL,McHenry,$3.221,2025-01-30
+Illinois,IL,McLean,$3.236,2025-01-30
+Illinois,IL,Menard,$3.189,2025-01-30
+Illinois,IL,Mercer,$3.342,2025-01-30
+Illinois,IL,Monroe,$3.332,2025-01-30
+Illinois,IL,Montgomery,$3.155,2025-01-30
+Illinois,IL,Morgan,$3.174,2025-01-30
+Illinois,IL,Moultrie,$3.168,2025-01-30
+Illinois,IL,Ogle,$3.237,2025-01-30
+Illinois,IL,Peoria,$3.305,2025-01-30
+Illinois,IL,Perry,$3.196,2025-01-30
+Illinois,IL,Piatt,$3.188,2025-01-30
+Illinois,IL,Pike,$3.234,2025-01-30
+Illinois,IL,Pope,$3.199,2025-01-30
+Illinois,IL,Pulaski,$3.486,2025-01-30
+Illinois,IL,Putnam,$3.149,2025-01-30
+Illinois,IL,Randolph,$3.218,2025-01-30
+Illinois,IL,Richland,$3.077,2025-01-30
+Illinois,IL,Rock Island,$3.193,2025-01-30
+Illinois,IL,Saline,$3.176,2025-01-30
+Illinois,IL,Sangamon,$3.146,2025-01-30
+Illinois,IL,Schuyler,$3.079,2025-01-30
+Illinois,IL,Scott,$3.072,2025-01-30
+Illinois,IL,Shelby,$3.114,2025-01-30
+Illinois,IL,Saint Clair,$3.312,2025-01-30
+Illinois,IL,Stark,$3.299,2025-01-30
+Illinois,IL,Stephenson,$3.187,2025-01-30
+Illinois,IL,Tazewell,$3.202,2025-01-30
+Illinois,IL,Union,$3.199,2025-01-30
+Illinois,IL,Vermilion,$3.179,2025-01-30
+Illinois,IL,Wabash,$3.084,2025-01-30
+Illinois,IL,Warren,$3.266,2025-01-30
+Illinois,IL,Washington,$3.208,2025-01-30
+Illinois,IL,Wayne,$3.176,2025-01-30
+Illinois,IL,White,$3.175,2025-01-30
+Illinois,IL,Whiteside,$3.278,2025-01-30
+Illinois,IL,Will,$3.187,2025-01-30
+Illinois,IL,Williamson,$3.175,2025-01-30
+Illinois,IL,Winnebago,$3.269,2025-01-30
+Illinois,IL,Woodford,$3.209,2025-01-30
+Indiana,IN,Adams,$2.976,2025-01-30
+Indiana,IN,Allen,$2.961,2025-01-30
+Indiana,IN,Bartholomew,$2.909,2025-01-30
+Indiana,IN,Benton,$3.082,2025-01-30
+Indiana,IN,Blackford,$2.996,2025-01-30
+Indiana,IN,Boone,$2.936,2025-01-30
+Indiana,IN,Brown,$3.139,2025-01-30
+Indiana,IN,Carroll,$3.188,2025-01-30
+Indiana,IN,Cass,$3.143,2025-01-30
+Indiana,IN,Clark,$2.964,2025-01-30
+Indiana,IN,Clay,$3.093,2025-01-30
+Indiana,IN,Clinton,$3.153,2025-01-30
+Indiana,IN,Crawford,$3.110,2025-01-30
+Indiana,IN,Daviess,$2.887,2025-01-30
+Indiana,IN,De Kalb,$2.969,2025-01-30
+Indiana,IN,Dearborn,$3.043,2025-01-30
+Indiana,IN,Decatur,$3.051,2025-01-30
+Indiana,IN,Delaware,$2.938,2025-01-30
+Indiana,IN,Dubois,$2.944,2025-01-30
+Indiana,IN,Elkhart,$2.884,2025-01-30
+Indiana,IN,Fayette,$3.157,2025-01-30
+Indiana,IN,Floyd,$2.956,2025-01-30
+Indiana,IN,Fountain,$3.058,2025-01-30
+Indiana,IN,Franklin,$3.077,2025-01-30
+Indiana,IN,Fulton,$3.054,2025-01-30
+Indiana,IN,Gibson,$2.974,2025-01-30
+Indiana,IN,Grant,$3.000,2025-01-30
+Indiana,IN,Greene,$3.014,2025-01-30
+Indiana,IN,Hamilton,$3.005,2025-01-30
+Indiana,IN,Hancock,$2.866,2025-01-30
+Indiana,IN,Harrison,$2.968,2025-01-30
+Indiana,IN,Hendricks,$2.956,2025-01-30
+Indiana,IN,Henry,$3.015,2025-01-30
+Indiana,IN,Howard,$3.039,2025-01-30
+Indiana,IN,Huntington,$3.044,2025-01-30
+Indiana,IN,Jackson,$2.852,2025-01-30
+Indiana,IN,Jasper,$3.141,2025-01-30
+Indiana,IN,Jay,$2.943,2025-01-30
+Indiana,IN,Jefferson,$2.894,2025-01-30
+Indiana,IN,Jennings,$3.035,2025-01-30
+Indiana,IN,Johnson,$2.927,2025-01-30
+Indiana,IN,Knox,$2.973,2025-01-30
+Indiana,IN,Kosciusko,$2.955,2025-01-30
+Indiana,IN,La Porte,$2.977,2025-01-30
+Indiana,IN,Lagrange,$2.948,2025-01-30
+Indiana,IN,Lake,$3.042,2025-01-30
+Indiana,IN,Lawrence,$3.004,2025-01-30
+Indiana,IN,Madison,$2.920,2025-01-30
+Indiana,IN,Marion,$2.946,2025-01-30
+Indiana,IN,Marshall,$2.972,2025-01-30
+Indiana,IN,Martin,$2.994,2025-01-30
+Indiana,IN,Miami,$3.055,2025-01-30
+Indiana,IN,Monroe,$3.025,2025-01-30
+Indiana,IN,Montgomery,$2.932,2025-01-30
+Indiana,IN,Morgan,$3.006,2025-01-30
+Indiana,IN,Newton,$2.993,2025-01-30
+Indiana,IN,Noble,$2.918,2025-01-30
+Indiana,IN,Ohio,$3.086,2025-01-30
+Indiana,IN,Orange,$2.852,2025-01-30
+Indiana,IN,Owen,$3.032,2025-01-30
+Indiana,IN,Parke,$3.073,2025-01-30
+Indiana,IN,Perry,$2.876,2025-01-30
+Indiana,IN,Pike,$2.879,2025-01-30
+Indiana,IN,Porter,$3.063,2025-01-30
+Indiana,IN,Posey,$2.788,2025-01-30
+Indiana,IN,Pulaski,$3.299,2025-01-30
+Indiana,IN,Putnam,$3.213,2025-01-30
+Indiana,IN,Randolph,$2.954,2025-01-30
+Indiana,IN,Ripley,$3.066,2025-01-30
+Indiana,IN,Rush,$3.078,2025-01-30
+Indiana,IN,Scott,$2.867,2025-01-30
+Indiana,IN,Shelby,$2.946,2025-01-30
+Indiana,IN,Spencer,$2.897,2025-01-30
+Indiana,IN,Saint Joseph,,2025-01-30
+Indiana,IN,Starke,$3.127,2025-01-30
+Indiana,IN,Steuben,$2.904,2025-01-30
+Indiana,IN,Sullivan,$3.015,2025-01-30
+Indiana,IN,Switzerland,$3.014,2025-01-30
+Indiana,IN,Tippecanoe,$3.086,2025-01-30
+Indiana,IN,Tipton,$3.026,2025-01-30
+Indiana,IN,Union,$2.899,2025-01-30
+Indiana,IN,Vanderburgh,$2.867,2025-01-30
+Indiana,IN,Vermillion,$2.991,2025-01-30
+Indiana,IN,Vigo,$2.908,2025-01-30
+Indiana,IN,Wabash,$3.113,2025-01-30
+Indiana,IN,Warren,$3.224,2025-01-30
+Indiana,IN,Warrick,$2.811,2025-01-30
+Indiana,IN,Washington,$2.813,2025-01-30
+Indiana,IN,Wayne,$2.996,2025-01-30
+Indiana,IN,Wells,$2.911,2025-01-30
+Indiana,IN,White,$3.189,2025-01-30
+Indiana,IN,Whitley,$2.960,2025-01-30
+Iowa,IA,Adair,$2.904,2025-01-30
+Iowa,IA,Adams,$2.899,2025-01-30
+Iowa,IA,Allamakee,$3.110,2025-01-30
+Iowa,IA,Appanoose,$2.796,2025-01-30
+Iowa,IA,Audubon,$2.911,2025-01-30
+Iowa,IA,Benton,$2.957,2025-01-30
+Iowa,IA,Black Hawk,$2.949,2025-01-30
+Iowa,IA,Boone,$2.854,2025-01-30
+Iowa,IA,Bremer,$3.099,2025-01-30
+Iowa,IA,Buchanan,$3.078,2025-01-30
+Iowa,IA,Buena Vista,$2.981,2025-01-30
+Iowa,IA,Butler,$3.039,2025-01-30
+Iowa,IA,Calhoun,$2.942,2025-01-30
+Iowa,IA,Carroll,$2.999,2025-01-30
+Iowa,IA,Cass,$2.912,2025-01-30
+Iowa,IA,Cedar,$2.920,2025-01-30
+Iowa,IA,Cerro Gordo,$2.970,2025-01-30
+Iowa,IA,Cherokee,$2.961,2025-01-30
+Iowa,IA,Chickasaw,$3.122,2025-01-30
+Iowa,IA,Clarke,$2.779,2025-01-30
+Iowa,IA,Clay,$3.012,2025-01-30
+Iowa,IA,Clayton,$3.024,2025-01-30
+Iowa,IA,Clinton,$2.945,2025-01-30
+Iowa,IA,Crawford,$2.987,2025-01-30
+Iowa,IA,Dallas,$2.968,2025-01-30
+Iowa,IA,Davis,$2.772,2025-01-30
+Iowa,IA,Decatur,$2.779,2025-01-30
+Iowa,IA,Delaware,$2.953,2025-01-30
+Iowa,IA,Des Moines,$2.907,2025-01-30
+Iowa,IA,Dickinson,$2.974,2025-01-30
+Iowa,IA,Dubuque,$3.076,2025-01-30
+Iowa,IA,Emmet,$2.919,2025-01-30
+Iowa,IA,Fayette,$3.093,2025-01-30
+Iowa,IA,Floyd,$3.059,2025-01-30
+Iowa,IA,Franklin,$3.039,2025-01-30
+Iowa,IA,Fremont,$2.785,2025-01-30
+Iowa,IA,Greene,$2.913,2025-01-30
+Iowa,IA,Grundy,$3.046,2025-01-30
+Iowa,IA,Guthrie,$2.957,2025-01-30
+Iowa,IA,Hamilton,$2.966,2025-01-30
+Iowa,IA,Hancock,$2.999,2025-01-30
+Iowa,IA,Hardin,$3.085,2025-01-30
+Iowa,IA,Harrison,$2.872,2025-01-30
+Iowa,IA,Henry,$2.938,2025-01-30
+Iowa,IA,Howard,$3.086,2025-01-30
+Iowa,IA,Humboldt,$3.037,2025-01-30
+Iowa,IA,Ida,$2.863,2025-01-30
+Iowa,IA,Iowa,$3.057,2025-01-30
+Iowa,IA,Jackson,$3.079,2025-01-30
+Iowa,IA,Jasper,$2.956,2025-01-30
+Iowa,IA,Jefferson,$2.811,2025-01-30
+Iowa,IA,Johnson,$2.943,2025-01-30
+Iowa,IA,Jones,$2.989,2025-01-30
+Iowa,IA,Keokuk,$2.792,2025-01-30
+Iowa,IA,Kossuth,$2.899,2025-01-30
+Iowa,IA,Lee,$2.978,2025-01-30
+Iowa,IA,Linn,$2.927,2025-01-30
+Iowa,IA,Louisa,$2.929,2025-01-30
+Iowa,IA,Lucas,$2.779,2025-01-30
+Iowa,IA,Lyon,$2.979,2025-01-30
+Iowa,IA,Madison,$2.937,2025-01-30
+Iowa,IA,Mahaska,$2.758,2025-01-30
+Iowa,IA,Marion,$2.996,2025-01-30
+Iowa,IA,Marshall,$3.034,2025-01-30
+Iowa,IA,Mills,$2.864,2025-01-30
+Iowa,IA,Mitchell,$3.047,2025-01-30
+Iowa,IA,Monona,$2.943,2025-01-30
+Iowa,IA,Monroe,$2.792,2025-01-30
+Iowa,IA,Montgomery,$2.893,2025-01-30
+Iowa,IA,Muscatine,$2.904,2025-01-30
+Iowa,IA,O'Brien,,2025-01-30
+Iowa,IA,Osceola,$2.999,2025-01-30
+Iowa,IA,Page,$2.863,2025-01-30
+Iowa,IA,Palo Alto,$2.926,2025-01-30
+Iowa,IA,Plymouth,$2.991,2025-01-30
+Iowa,IA,Pocahontas,$2.999,2025-01-30
+Iowa,IA,Polk,$2.984,2025-01-30
+Iowa,IA,Pottawattamie,$2.860,2025-01-30
+Iowa,IA,Poweshiek,$2.966,2025-01-30
+Iowa,IA,Ringgold,$2.759,2025-01-30
+Iowa,IA,Sac,$2.982,2025-01-30
+Iowa,IA,Scott,$2.878,2025-01-30
+Iowa,IA,Shelby,$2.955,2025-01-30
+Iowa,IA,Sioux,$2.975,2025-01-30
+Iowa,IA,Story,$3.011,2025-01-30
+Iowa,IA,Tama,$3.047,2025-01-30
+Iowa,IA,Taylor,$2.811,2025-01-30
+Iowa,IA,Union,$2.789,2025-01-30
+Iowa,IA,Van Buren,$2.892,2025-01-30
+Iowa,IA,Wapello,$2.714,2025-01-30
+Iowa,IA,Warren,$3.010,2025-01-30
+Iowa,IA,Washington,$2.915,2025-01-30
+Iowa,IA,Wayne,$2.812,2025-01-30
+Iowa,IA,Webster,$2.906,2025-01-30
+Iowa,IA,Winnebago,$3.015,2025-01-30
+Iowa,IA,Winneshiek,$3.162,2025-01-30
+Iowa,IA,Woodbury,$2.924,2025-01-30
+Iowa,IA,Worth,$2.893,2025-01-30
+Iowa,IA,Wright,$2.965,2025-01-30
+Kansas,KS,Allen,$2.899,2025-01-30
+Kansas,KS,Anderson,$2.765,2025-01-30
+Kansas,KS,Atchison,$2.778,2025-01-30
+Kansas,KS,Barber,$2.899,2025-01-30
+Kansas,KS,Barton,$2.745,2025-01-30
+Kansas,KS,Bourbon,$2.903,2025-01-30
+Kansas,KS,Brown,$2.767,2025-01-30
+Kansas,KS,Butler,$2.883,2025-01-30
+Kansas,KS,Chase,$2.866,2025-01-30
+Kansas,KS,Chautauqua,$2.786,2025-01-30
+Kansas,KS,Cherokee,$2.801,2025-01-30
+Kansas,KS,Cheyenne,$2.919,2025-01-30
+Kansas,KS,Clark,$2.699,2025-01-30
+Kansas,KS,Clay,$2.767,2025-01-30
+Kansas,KS,Cloud,$2.815,2025-01-30
+Kansas,KS,Coffey,$2.838,2025-01-30
+Kansas,KS,Comanche,$2.699,2025-01-30
+Kansas,KS,Cowley,$2.930,2025-01-30
+Kansas,KS,Crawford,$2.884,2025-01-30
+Kansas,KS,Decatur,$2.859,2025-01-30
+Kansas,KS,Dickinson,$2.736,2025-01-30
+Kansas,KS,Doniphan,$2.731,2025-01-30
+Kansas,KS,Douglas,$2.865,2025-01-30
+Kansas,KS,Edwards,$2.713,2025-01-30
+Kansas,KS,Elk,$2.804,2025-01-30
+Kansas,KS,Ellis,$2.787,2025-01-30
+Kansas,KS,Ellsworth,$2.864,2025-01-30
+Kansas,KS,Finney,$2.717,2025-01-30
+Kansas,KS,Ford,$2.711,2025-01-30
+Kansas,KS,Franklin,$2.758,2025-01-30
+Kansas,KS,Geary,$2.775,2025-01-30
+Kansas,KS,Gove,$2.782,2025-01-30
+Kansas,KS,Graham,$2.879,2025-01-30
+Kansas,KS,Grant,$2.779,2025-01-30
+Kansas,KS,Gray,$2.751,2025-01-30
+Kansas,KS,Greeley,$2.999,2025-01-30
+Kansas,KS,Greenwood,$2.841,2025-01-30
+Kansas,KS,Hamilton,$2.919,2025-01-30
+Kansas,KS,Harper,$2.889,2025-01-30
+Kansas,KS,Harvey,$2.753,2025-01-30
+Kansas,KS,Haskell,$2.791,2025-01-30
+Kansas,KS,Hodgeman,$2.749,2025-01-30
+Kansas,KS,Jackson,$2.831,2025-01-30
+Kansas,KS,Jefferson,$2.911,2025-01-30
+Kansas,KS,Jewell,$2.804,2025-01-30
+Kansas,KS,Johnson,$2.878,2025-01-30
+Kansas,KS,Kearny,$2.734,2025-01-30
+Kansas,KS,Kingman,$2.906,2025-01-30
+Kansas,KS,Kiowa,$2.759,2025-01-30
+Kansas,KS,Labette,$2.886,2025-01-30
+Kansas,KS,Lane,$2.674,2025-01-30
+Kansas,KS,Leavenworth,$2.754,2025-01-30
+Kansas,KS,Lincoln,$3.299,2025-01-30
+Kansas,KS,Linn,$2.812,2025-01-30
+Kansas,KS,Logan,$2.779,2025-01-30
+Kansas,KS,Lyon,$2.814,2025-01-30
+Kansas,KS,Marion,$2.797,2025-01-30
+Kansas,KS,Marshall,$2.899,2025-01-30
+Kansas,KS,Mcpherson,$2.719,2025-01-30
+Kansas,KS,Meade,$2.735,2025-01-30
+Kansas,KS,Miami,$2.848,2025-01-30
+Kansas,KS,Mitchell,$2.781,2025-01-30
+Kansas,KS,Montgomery,$2.873,2025-01-30
+Kansas,KS,Morris,$2.803,2025-01-30
+Kansas,KS,Morton,$2.789,2025-01-30
+Kansas,KS,Nemaha,$2.899,2025-01-30
+Kansas,KS,Neosho,$2.899,2025-01-30
+Kansas,KS,Ness,$2.826,2025-01-30
+Kansas,KS,Norton,$2.714,2025-01-30
+Kansas,KS,Osage,$2.940,2025-01-30
+Kansas,KS,Osborne,$2.799,2025-01-30
+Kansas,KS,Ottawa,$2.899,2025-01-30
+Kansas,KS,Pawnee,$2.899,2025-01-30
+Kansas,KS,Phillips,$2.799,2025-01-30
+Kansas,KS,Pottawatomie,$2.746,2025-01-30
+Kansas,KS,Pratt,$2.791,2025-01-30
+Kansas,KS,Rawlins,$2.874,2025-01-30
+Kansas,KS,Reno,$2.509,2025-01-30
+Kansas,KS,Republic,$2.929,2025-01-30
+Kansas,KS,Rice,$2.792,2025-01-30
+Kansas,KS,Riley,$2.841,2025-01-30
+Kansas,KS,Rooks,$2.726,2025-01-30
+Kansas,KS,Rush,$2.899,2025-01-30
+Kansas,KS,Russell,$2.799,2025-01-30
+Kansas,KS,Saline,$2.828,2025-01-30
+Kansas,KS,Scott,$2.794,2025-01-30
+Kansas,KS,Sedgwick,$2.877,2025-01-30
+Kansas,KS,Seward,$2.770,2025-01-30
+Kansas,KS,Shawnee,$2.813,2025-01-30
+Kansas,KS,Sheridan,$2.819,2025-01-30
+Kansas,KS,Sherman,$2.816,2025-01-30
+Kansas,KS,Smith,$2.879,2025-01-30
+Kansas,KS,Stafford,$2.859,2025-01-30
+Kansas,KS,Stanton,$2.849,2025-01-30
+Kansas,KS,Stevens,$2.774,2025-01-30
+Kansas,KS,Sumner,$2.864,2025-01-30
+Kansas,KS,Thomas,$2.834,2025-01-30
+Kansas,KS,Trego,$2.704,2025-01-30
+Kansas,KS,Wabaunsee,$2.736,2025-01-30
+Kansas,KS,Wallace,$3.004,2025-01-30
+Kansas,KS,Washington,$2.825,2025-01-30
+Kansas,KS,Wichita,$2.716,2025-01-30
+Kansas,KS,Wilson,$2.899,2025-01-30
+Kansas,KS,Woodson,$2.899,2025-01-30
+Kansas,KS,Wyandotte,$2.867,2025-01-30
+Kentucky,KY,Adair,$2.812,2025-01-30
+Kentucky,KY,Allen,$2.790,2025-01-30
+Kentucky,KY,Anderson,$2.756,2025-01-30
+Kentucky,KY,Ballard,$2.744,2025-01-30
+Kentucky,KY,Barren,$2.764,2025-01-30
+Kentucky,KY,Bath,$2.862,2025-01-30
+Kentucky,KY,Bell,$2.619,2025-01-30
+Kentucky,KY,Boone,$2.862,2025-01-30
+Kentucky,KY,Bourbon,$2.872,2025-01-30
+Kentucky,KY,Boyd,$2.871,2025-01-30
+Kentucky,KY,Boyle,$2.676,2025-01-30
+Kentucky,KY,Bracken,$2.975,2025-01-30
+Kentucky,KY,Breathitt,$2.880,2025-01-30
+Kentucky,KY,Breckinridge,$2.732,2025-01-30
+Kentucky,KY,Bullitt,$2.673,2025-01-30
+Kentucky,KY,Butler,$2.801,2025-01-30
+Kentucky,KY,Caldwell,$2.729,2025-01-30
+Kentucky,KY,Calloway,$2.814,2025-01-30
+Kentucky,KY,Campbell,$2.908,2025-01-30
+Kentucky,KY,Carlisle,$2.796,2025-01-30
+Kentucky,KY,Carroll,$2.884,2025-01-30
+Kentucky,KY,Carter,$2.635,2025-01-30
+Kentucky,KY,Casey,$2.768,2025-01-30
+Kentucky,KY,Christian,$2.744,2025-01-30
+Kentucky,KY,Clark,$2.892,2025-01-30
+Kentucky,KY,Clay,$2.963,2025-01-30
+Kentucky,KY,Clinton,$2.889,2025-01-30
+Kentucky,KY,Crittenden,$2.799,2025-01-30
+Kentucky,KY,Cumberland,$2.836,2025-01-30
+Kentucky,KY,Daviess,$2.620,2025-01-30
+Kentucky,KY,Edmonson,$2.822,2025-01-30
+Kentucky,KY,Elliott,$2.799,2025-01-30
+Kentucky,KY,Estill,$2.882,2025-01-30
+Kentucky,KY,Fayette,$2.867,2025-01-30
+Kentucky,KY,Fleming,$2.860,2025-01-30
+Kentucky,KY,Floyd,$2.872,2025-01-30
+Kentucky,KY,Franklin,$2.824,2025-01-30
+Kentucky,KY,Fulton,$2.811,2025-01-30
+Kentucky,KY,Gallatin,$2.926,2025-01-30
+Kentucky,KY,Garrard,$2.661,2025-01-30
+Kentucky,KY,Grant,$2.916,2025-01-30
+Kentucky,KY,Graves,$2.818,2025-01-30
+Kentucky,KY,Grayson,$2.817,2025-01-30
+Kentucky,KY,Green,$2.692,2025-01-30
+Kentucky,KY,Greenup,$2.822,2025-01-30
+Kentucky,KY,Hancock,$2.698,2025-01-30
+Kentucky,KY,Hardin,$2.715,2025-01-30
+Kentucky,KY,Harlan,$2.920,2025-01-30
+Kentucky,KY,Harrison,$2.821,2025-01-30
+Kentucky,KY,Hart,$2.814,2025-01-30
+Kentucky,KY,Henderson,$2.750,2025-01-30
+Kentucky,KY,Henry,$2.800,2025-01-30
+Kentucky,KY,Hickman,$2.799,2025-01-30
+Kentucky,KY,Hopkins,$2.755,2025-01-30
+Kentucky,KY,Jackson,$2.845,2025-01-30
+Kentucky,KY,Jefferson,$2.773,2025-01-30
+Kentucky,KY,Jessamine,$2.797,2025-01-30
+Kentucky,KY,Johnson,$2.884,2025-01-30
+Kentucky,KY,Kenton,$2.940,2025-01-30
+Kentucky,KY,Knott,$2.859,2025-01-30
+Kentucky,KY,Knox,$2.822,2025-01-30
+Kentucky,KY,Larue,$2.756,2025-01-30
+Kentucky,KY,Laurel,$2.731,2025-01-30
+Kentucky,KY,Lawrence,$2.855,2025-01-30
+Kentucky,KY,Lee,$3.135,2025-01-30
+Kentucky,KY,Leslie,$2.969,2025-01-30
+Kentucky,KY,Letcher,$2.859,2025-01-30
+Kentucky,KY,Lewis,$2.836,2025-01-30
+Kentucky,KY,Lincoln,$2.751,2025-01-30
+Kentucky,KY,Livingston,$2.849,2025-01-30
+Kentucky,KY,Logan,$2.707,2025-01-30
+Kentucky,KY,Lyon,$2.847,2025-01-30
+Kentucky,KY,Madison,$2.856,2025-01-30
+Kentucky,KY,Magoffin,$2.899,2025-01-30
+Kentucky,KY,Marion,$2.692,2025-01-30
+Kentucky,KY,Marshall,$2.775,2025-01-30
+Kentucky,KY,Martin,$2.808,2025-01-30
+Kentucky,KY,Mason,$2.929,2025-01-30
+Kentucky,KY,McCracken,$2.780,2025-01-30
+Kentucky,KY,McCreary,$2.894,2025-01-30
+Kentucky,KY,McLean,$2.782,2025-01-30
+Kentucky,KY,Meade,$2.699,2025-01-30
+Kentucky,KY,Menifee,$2.949,2025-01-30
+Kentucky,KY,Mercer,$2.799,2025-01-30
+Kentucky,KY,Metcalfe,$2.712,2025-01-30
+Kentucky,KY,Monroe,$2.739,2025-01-30
+Kentucky,KY,Montgomery,$2.789,2025-01-30
+Kentucky,KY,Morgan,$2.811,2025-01-30
+Kentucky,KY,Muhlenberg,$2.809,2025-01-30
+Kentucky,KY,Nelson,$2.619,2025-01-30
+Kentucky,KY,Nicholas,$2.899,2025-01-30
+Kentucky,KY,Ohio,$2.749,2025-01-30
+Kentucky,KY,Oldham,$2.819,2025-01-30
+Kentucky,KY,Owen,$2.877,2025-01-30
+Kentucky,KY,Owsley,$2.929,2025-01-30
+Kentucky,KY,Pendleton,$2.936,2025-01-30
+Kentucky,KY,Perry,$2.924,2025-01-30
+Kentucky,KY,Pike,$2.855,2025-01-30
+Kentucky,KY,Powell,$2.846,2025-01-30
+Kentucky,KY,Pulaski,$2.869,2025-01-30
+Kentucky,KY,Robertson,$2.899,2025-01-30
+Kentucky,KY,Rockcastle,$2.971,2025-01-30
+Kentucky,KY,Rowan,$2.716,2025-01-30
+Kentucky,KY,Russell,$2.810,2025-01-30
+Kentucky,KY,Scott,$2.880,2025-01-30
+Kentucky,KY,Shelby,$2.724,2025-01-30
+Kentucky,KY,Simpson,$2.671,2025-01-30
+Kentucky,KY,Spencer,$2.738,2025-01-30
+Kentucky,KY,Taylor,$2.680,2025-01-30
+Kentucky,KY,Todd,$2.793,2025-01-30
+Kentucky,KY,Trigg,$2.902,2025-01-30
+Kentucky,KY,Trimble,$2.823,2025-01-30
+Kentucky,KY,Union,$2.804,2025-01-30
+Kentucky,KY,Warren,$2.794,2025-01-30
+Kentucky,KY,Washington,$2.809,2025-01-30
+Kentucky,KY,Wayne,$2.866,2025-01-30
+Kentucky,KY,Webster,$2.716,2025-01-30
+Kentucky,KY,Whitley,$2.806,2025-01-30
+Kentucky,KY,Wolfe,$3.046,2025-01-30
+Kentucky,KY,Woodford,$2.855,2025-01-30
+Louisiana,LA,Acadia,$2.844,2025-01-30
+Louisiana,LA,Allen,$2.991,2025-01-30
+Louisiana,LA,Ascension,$2.772,2025-01-30
+Louisiana,LA,Assumption,$2.829,2025-01-30
+Louisiana,LA,Avoyelles,$2.800,2025-01-30
+Louisiana,LA,Beauregard,$2.740,2025-01-30
+Louisiana,LA,Bienville,$2.860,2025-01-30
+Louisiana,LA,Bossier,$2.683,2025-01-30
+Louisiana,LA,Caddo,$2.737,2025-01-30
+Louisiana,LA,Calcasieu,$2.806,2025-01-30
+Louisiana,LA,Caldwell,$2.849,2025-01-30
+Louisiana,LA,Cameron,$3.299,2025-01-30
+Louisiana,LA,Catahoula,$2.870,2025-01-30
+Louisiana,LA,Claiborne,$2.939,2025-01-30
+Louisiana,LA,Concordia,$2.677,2025-01-30
+Louisiana,LA,De Soto,$2.777,2025-01-30
+Louisiana,LA,East Baton Rouge,$2.777,2025-01-30
+Louisiana,LA,East Carroll,$2.899,2025-01-30
+Louisiana,LA,East Feliciana,$2.912,2025-01-30
+Louisiana,LA,Evangeline,$2.815,2025-01-30
+Louisiana,LA,Franklin,$2.791,2025-01-30
+Louisiana,LA,Grant,$2.955,2025-01-30
+Louisiana,LA,Iberia,$2.796,2025-01-30
+Louisiana,LA,Iberville,$2.834,2025-01-30
+Louisiana,LA,Jackson,$2.721,2025-01-30
+Louisiana,LA,Jefferson,$2.783,2025-01-30
+Louisiana,LA,Jefferson Davis,$2.910,2025-01-30
+Louisiana,LA,La Salle,$2.881,2025-01-30
+Louisiana,LA,Lafayette,$2.823,2025-01-30
+Louisiana,LA,Lafourche,$2.849,2025-01-30
+Louisiana,LA,Lincoln,$2.655,2025-01-30
+Louisiana,LA,Livingston,$2.757,2025-01-30
+Louisiana,LA,Madison,$2.787,2025-01-30
+Louisiana,LA,Morehouse,$2.682,2025-01-30
+Louisiana,LA,Natchitoches,$2.748,2025-01-30
+Louisiana,LA,Orleans,$2.774,2025-01-30
+Louisiana,LA,Ouachita,$2.656,2025-01-30
+Louisiana,LA,Plaquemines,$3.151,2025-01-30
+Louisiana,LA,Pointe Coupee,$2.808,2025-01-30
+Louisiana,LA,Rapides,$2.769,2025-01-30
+Louisiana,LA,Red River,$2.739,2025-01-30
+Louisiana,LA,Richland,$2.728,2025-01-30
+Louisiana,LA,Sabine,$2.852,2025-01-30
+Louisiana,LA,Saint Bernard,$2.729,2025-01-30
+Louisiana,LA,Saint Charles,$2.854,2025-01-30
+Louisiana,LA,Saint Helena,$2.792,2025-01-30
+Louisiana,LA,Saint James,$2.886,2025-01-30
+Louisiana,LA,St John the Baptist,$2.861,2025-01-30
+Louisiana,LA,Saint Landry,$2.779,2025-01-30
+Louisiana,LA,Saint Martin,$2.751,2025-01-30
+Louisiana,LA,Saint Mary,$2.887,2025-01-30
+Louisiana,LA,Saint Tammany,$2.798,2025-01-30
+Louisiana,LA,Tangipahoa,$2.814,2025-01-30
+Louisiana,LA,Tensas,$3.399,2025-01-30
+Louisiana,LA,Terrebonne,$2.756,2025-01-30
+Louisiana,LA,Union,$2.774,2025-01-30
+Louisiana,LA,Vermilion,$2.916,2025-01-30
+Louisiana,LA,Vernon,$2.890,2025-01-30
+Louisiana,LA,Washington,$2.796,2025-01-30
+Louisiana,LA,Webster,$2.764,2025-01-30
+Louisiana,LA,West Baton Rouge,$2.762,2025-01-30
+Louisiana,LA,West Carroll,$2.641,2025-01-30
+Louisiana,LA,West Feliciana,$2.956,2025-01-30
+Louisiana,LA,Winn,$2.757,2025-01-30
+Maine,ME,Androscoggin,$3.071,2025-01-30
+Maine,ME,Aroostook,$3.110,2025-01-30
+Maine,ME,Cumberland,$3.054,2025-01-30
+Maine,ME,Franklin,$3.121,2025-01-30
+Maine,ME,Hancock,$3.067,2025-01-30
+Maine,ME,Kennebec,$3.075,2025-01-30
+Maine,ME,Knox,$3.044,2025-01-30
+Maine,ME,Lincoln,$3.080,2025-01-30
+Maine,ME,Oxford,$3.110,2025-01-30
+Maine,ME,Penobscot,$3.078,2025-01-30
+Maine,ME,Piscataquis,$3.067,2025-01-30
+Maine,ME,Sagadahoc,$3.166,2025-01-30
+Maine,ME,Somerset,$3.047,2025-01-30
+Maine,ME,Waldo,$3.055,2025-01-30
+Maine,ME,Washington,$3.099,2025-01-30
+Maine,ME,York,$3.032,2025-01-30
+Montana,MT,Beaverhead,$3.108,2025-01-30
+Montana,MT,Big Horn,$3.023,2025-01-30
+Montana,MT,Blaine,$2.927,2025-01-30
+Montana,MT,Broadwater,$2.894,2025-01-30
+Montana,MT,Carbon,$2.959,2025-01-30
+Montana,MT,Carter,$3.354,2025-01-30
+Montana,MT,Cascade,$2.961,2025-01-30
+Montana,MT,Chouteau,$2.967,2025-01-30
+Montana,MT,Custer,$2.913,2025-01-30
+Montana,MT,Daniels,$3.166,2025-01-30
+Montana,MT,Dawson,$2.898,2025-01-30
+Montana,MT,Deer Lodge,$2.997,2025-01-30
+Montana,MT,Fallon,$3.019,2025-01-30
+Montana,MT,Fergus,$3.037,2025-01-30
+Montana,MT,Flathead,$2.982,2025-01-30
+Montana,MT,Gallatin,$2.985,2025-01-30
+Montana,MT,Garfield,$3.099,2025-01-30
+Montana,MT,Glacier,$2.999,2025-01-30
+Montana,MT,Golden Valley,$3.099,2025-01-30
+Montana,MT,Granite,$2.997,2025-01-30
+Montana,MT,Hill,$2.962,2025-01-30
+Montana,MT,Jefferson,$2.989,2025-01-30
+Montana,MT,Judith Basin,$3.079,2025-01-30
+Montana,MT,Lake,$2.944,2025-01-30
+Montana,MT,Lewis and Clark,$2.992,2025-01-30
+Montana,MT,Liberty,$2.859,2025-01-30
+Montana,MT,Lincoln,$3.004,2025-01-30
+Montana,MT,Madison,$2.931,2025-01-30
+Montana,MT,McCone,$3.019,2025-01-30
+Montana,MT,Meagher,$3.049,2025-01-30
+Montana,MT,Mineral,$3.039,2025-01-30
+Montana,MT,Missoula,$2.972,2025-01-30
+Montana,MT,Musselshell,$3.166,2025-01-30
+Montana,MT,Park,$3.024,2025-01-30
+Montana,MT,Petroleum,$3.139,2025-01-30
+Montana,MT,Phillips,$2.974,2025-01-30
+Montana,MT,Pondera,$2.947,2025-01-30
+Montana,MT,Powder River,$3.399,2025-01-30
+Montana,MT,Powell,$3.019,2025-01-30
+Montana,MT,Prairie,$3.029,2025-01-30
+Montana,MT,Ravalli,$2.963,2025-01-30
+Montana,MT,Richland,$2.976,2025-01-30
+Montana,MT,Roosevelt,$2.986,2025-01-30
+Montana,MT,Rosebud,$3.043,2025-01-30
+Montana,MT,Sanders,$3.014,2025-01-30
+Montana,MT,Sheridan,$2.997,2025-01-30
+Montana,MT,Silver Bow,$2.973,2025-01-30
+Montana,MT,Stillwater,$2.949,2025-01-30
+Montana,MT,Sweet Grass,$2.952,2025-01-30
+Montana,MT,Teton,$2.957,2025-01-30
+Montana,MT,Toole,$2.939,2025-01-30
+Montana,MT,Treasure,$2.999,2025-01-30
+Montana,MT,Valley,$2.975,2025-01-30
+Montana,MT,Wheatland,$3.226,2025-01-30
+Montana,MT,Wibaux,$2.934,2025-01-30
+Montana,MT,Yellowstone,$2.952,2025-01-30
+Nebraska,NE,Adams,$2.853,2025-01-30
+Nebraska,NE,Antelope,$3.106,2025-01-30
+Nebraska,NE,Arthur,,2025-01-30
+Nebraska,NE,Banner,,2025-01-30
+Nebraska,NE,Blaine,$3.209,2025-01-30
+Nebraska,NE,Boone,$2.899,2025-01-30
+Nebraska,NE,Box Butte,$3.033,2025-01-30
+Nebraska,NE,Boyd,$2.899,2025-01-30
+Nebraska,NE,Brown,$2.999,2025-01-30
+Nebraska,NE,Buffalo,$3.014,2025-01-30
+Nebraska,NE,Burt,$3.149,2025-01-30
+Nebraska,NE,Butler,$2.926,2025-01-30
+Nebraska,NE,Cass,$2.931,2025-01-30
+Nebraska,NE,Cedar,$2.981,2025-01-30
+Nebraska,NE,Chase,$3.256,2025-01-30
+Nebraska,NE,Cherry,$3.102,2025-01-30
+Nebraska,NE,Cheyenne,$2.915,2025-01-30
+Nebraska,NE,Clay,$2.977,2025-01-30
+Nebraska,NE,Colfax,$2.852,2025-01-30
+Nebraska,NE,Cuming,$2.919,2025-01-30
+Nebraska,NE,Custer,$3.149,2025-01-30
+Nebraska,NE,Dakota,$2.952,2025-01-30
+Nebraska,NE,Dawes,$3.029,2025-01-30
+Nebraska,NE,Dawson,$3.080,2025-01-30
+Nebraska,NE,Deuel,$2.879,2025-01-30
+Nebraska,NE,Dixon,$2.919,2025-01-30
+Nebraska,NE,Dodge,$2.892,2025-01-30
+Nebraska,NE,Douglas,$2.954,2025-01-30
+Nebraska,NE,Dundy,$3.329,2025-01-30
+Nebraska,NE,Fillmore,$2.943,2025-01-30
+Nebraska,NE,Franklin,$3.024,2025-01-30
+Nebraska,NE,Frontier,$2.799,2025-01-30
+Nebraska,NE,Furnas,$3.126,2025-01-30
+Nebraska,NE,Gage,$3.034,2025-01-30
+Nebraska,NE,Garden,,2025-01-30
+Nebraska,NE,Garfield,$2.849,2025-01-30
+Nebraska,NE,Gosper,$2.899,2025-01-30
+Nebraska,NE,Grant,$3.099,2025-01-30
+Nebraska,NE,Greeley,$2.919,2025-01-30
+Nebraska,NE,Hall,$2.905,2025-01-30
+Nebraska,NE,Hamilton,$2.899,2025-01-30
+Nebraska,NE,Harlan,$2.929,2025-01-30
+Nebraska,NE,Hayes,$3.089,2025-01-30
+Nebraska,NE,Hitchcock,$3.079,2025-01-30
+Nebraska,NE,Holt,$2.949,2025-01-30
+Nebraska,NE,Hooker,$2.949,2025-01-30
+Nebraska,NE,Howard,$2.899,2025-01-30
+Nebraska,NE,Jefferson,$3.074,2025-01-30
+Nebraska,NE,Johnson,$2.796,2025-01-30
+Nebraska,NE,Kearney,$3.069,2025-01-30
+Nebraska,NE,Keith,$2.960,2025-01-30
+Nebraska,NE,Keya Paha,$3.399,2025-01-30
+Nebraska,NE,Kimball,$3.123,2025-01-30
+Nebraska,NE,Knox,$2.901,2025-01-30
+Nebraska,NE,Lancaster,$2.986,2025-01-30
+Nebraska,NE,Lincoln,$3.076,2025-01-30
+Nebraska,NE,Logan,$3.049,2025-01-30
+Nebraska,NE,Loup,$2.899,2025-01-30
+Nebraska,NE,Madison,$2.925,2025-01-30
+Nebraska,NE,McPherson,,2025-01-30
+Nebraska,NE,Merrick,$3.059,2025-01-30
+Nebraska,NE,Morrill,$2.976,2025-01-30
+Nebraska,NE,Nance,$2.924,2025-01-30
+Nebraska,NE,Nemaha,$3.011,2025-01-30
+Nebraska,NE,Nuckolls,$2.999,2025-01-30
+Nebraska,NE,Otoe,$2.923,2025-01-30
+Nebraska,NE,Pawnee,$2.949,2025-01-30
+Nebraska,NE,Perkins,$3.169,2025-01-30
+Nebraska,NE,Phelps,$3.019,2025-01-30
+Nebraska,NE,Pierce,$2.875,2025-01-30
+Nebraska,NE,Platte,$2.886,2025-01-30
+Nebraska,NE,Polk,$2.899,2025-01-30
+Nebraska,NE,Red Willow,$3.111,2025-01-30
+Nebraska,NE,Richardson,$2.889,2025-01-30
+Nebraska,NE,Rock,$2.949,2025-01-30
+Nebraska,NE,Saline,$2.966,2025-01-30
+Nebraska,NE,Sarpy,$2.937,2025-01-30
+Nebraska,NE,Saunders,$3.012,2025-01-30
+Nebraska,NE,Scotts Bluff,$2.920,2025-01-30
+Nebraska,NE,Seward,$2.947,2025-01-30
+Nebraska,NE,Sheridan,$3.099,2025-01-30
+Nebraska,NE,Sherman,$3.199,2025-01-30
+Nebraska,NE,Sioux,,2025-01-30
+Nebraska,NE,Stanton,$2.949,2025-01-30
+Nebraska,NE,Thayer,$2.949,2025-01-30
+Nebraska,NE,Thomas,$3.499,2025-01-30
+Nebraska,NE,Thurston,$2.866,2025-01-30
+Nebraska,NE,Valley,$2.899,2025-01-30
+Nebraska,NE,Washington,$2.991,2025-01-30
+Nebraska,NE,Wayne,$2.909,2025-01-30
+Nebraska,NE,Webster,$2.899,2025-01-30
+Nebraska,NE,Wheeler,$3.249,2025-01-30
+Nebraska,NE,York,$2.833,2025-01-30
+Nevada,NV,Carson City,$3.476,2025-01-30
+Nevada,NV,Churchill,$3.576,2025-01-30
+Nevada,NV,Clark,$3.697,2025-01-30
+Nevada,NV,Douglas,$3.483,2025-01-30
+Nevada,NV,Elko,$3.254,2025-01-30
+Nevada,NV,Esmeralda,,2025-01-30
+Nevada,NV,Eureka,$3.599,2025-01-30
+Nevada,NV,Humboldt,$3.497,2025-01-30
+Nevada,NV,Lander,$3.222,2025-01-30
+Nevada,NV,Lincoln,$3.367,2025-01-30
+Nevada,NV,Lyon,$3.466,2025-01-30
+Nevada,NV,Mineral,$3.867,2025-01-30
+Nevada,NV,Nye,$3.447,2025-01-30
+Nevada,NV,Pershing,$3.355,2025-01-30
+Nevada,NV,Storey,$3.349,2025-01-30
+Nevada,NV,Washoe,$3.944,2025-01-30
+Nevada,NV,White Pine,$2.767,2025-01-30
+New Hampshire,NH,Belknap,$2.945,2025-01-30
+New Hampshire,NH,Carroll,$3.017,2025-01-30
+New Hampshire,NH,Cheshire,$2.991,2025-01-30
+New Hampshire,NH,Coos,$3.092,2025-01-30
+New Hampshire,NH,Grafton,$3.064,2025-01-30
+New Hampshire,NH,Hillsborough,$2.964,2025-01-30
+New Hampshire,NH,Merrimack,$2.967,2025-01-30
+New Hampshire,NH,Rockingham,$2.923,2025-01-30
+New Hampshire,NH,Strafford,$2.952,2025-01-30
+New Hampshire,NH,Sullivan,$2.929,2025-01-30
+New Jersey,NJ,Atlantic,$3.075,2025-01-30
+New Jersey,NJ,Bergen,$3.051,2025-01-30
+New Jersey,NJ,Burlington,$3.046,2025-01-30
+New Jersey,NJ,Camden,$3.027,2025-01-30
+New Jersey,NJ,Cape May,$3.170,2025-01-30
+New Jersey,NJ,Cumberland,$3.062,2025-01-30
+New Jersey,NJ,Essex,$3.138,2025-01-30
+New Jersey,NJ,Gloucester,$3.075,2025-01-30
+New Jersey,NJ,Hudson,$3.103,2025-01-30
+New Jersey,NJ,Hunterdon,$3.096,2025-01-30
+New Jersey,NJ,Mercer,$3.044,2025-01-30
+New Jersey,NJ,Middlesex,$3.074,2025-01-30
+New Jersey,NJ,Monmouth,$3.114,2025-01-30
+New Jersey,NJ,Morris,$3.097,2025-01-30
+New Jersey,NJ,Ocean,$3.121,2025-01-30
+New Jersey,NJ,Passaic,$3.095,2025-01-30
+New Jersey,NJ,Salem,$3.089,2025-01-30
+New Jersey,NJ,Somerset,$3.126,2025-01-30
+New Jersey,NJ,Sussex,$3.053,2025-01-30
+New Jersey,NJ,Union,$3.085,2025-01-30
+New Jersey,NJ,Warren,$3.057,2025-01-30
+New Mexico,NM,Bernalillo,$2.901,2025-01-30
+New Mexico,NM,Catron,$3.345,2025-01-30
+New Mexico,NM,Chaves,$2.803,2025-01-30
+New Mexico,NM,Cibola,$3.171,2025-01-30
+New Mexico,NM,Colfax,$3.010,2025-01-30
+New Mexico,NM,Curry,$2.898,2025-01-30
+New Mexico,NM,De Baca,$2.799,2025-01-30
+New Mexico,NM,Dona Ana,$2.914,2025-01-30
+New Mexico,NM,Eddy,$3.048,2025-01-30
+New Mexico,NM,Grant,$2.972,2025-01-30
+New Mexico,NM,Guadalupe,$2.937,2025-01-30
+New Mexico,NM,Harding,$3.689,2025-01-30
+New Mexico,NM,Hidalgo,$3.009,2025-01-30
+New Mexico,NM,Lea,$2.944,2025-01-30
+New Mexico,NM,Lincoln,$2.942,2025-01-30
+New Mexico,NM,Los Alamos,$2.909,2025-01-30
+New Mexico,NM,Luna,$2.962,2025-01-30
+New Mexico,NM,McKinley,$2.943,2025-01-30
+New Mexico,NM,Mora,$2.924,2025-01-30
+New Mexico,NM,Otero,$2.772,2025-01-30
+New Mexico,NM,Quay,$2.954,2025-01-30
+New Mexico,NM,Rio Arriba,$2.742,2025-01-30
+New Mexico,NM,Roosevelt,$2.878,2025-01-30
+New Mexico,NM,San Juan,$3.055,2025-01-30
+New Mexico,NM,San Miguel,$2.930,2025-01-30
+New Mexico,NM,Sandoval,$2.837,2025-01-30
+New Mexico,NM,Santa Fe,$2.829,2025-01-30
+New Mexico,NM,Sierra,$2.924,2025-01-30
+New Mexico,NM,Socorro,$3.034,2025-01-30
+New Mexico,NM,Taos,$2.874,2025-01-30
+New Mexico,NM,Torrance,$3.021,2025-01-30
+New Mexico,NM,Union,$2.799,2025-01-30
+New Mexico,NM,Valencia,$2.923,2025-01-30
+New York,NY,Albany,$3.173,2025-01-30
+New York,NY,Allegany,$3.215,2025-01-30
+New York,NY,Bronx,$3.168,2025-01-30
+New York,NY,Broome,$3.113,2025-01-30
+New York,NY,Cattaraugus,$3.129,2025-01-30
+New York,NY,Cayuga,$3.284,2025-01-30
+New York,NY,Chautauqua,$3.275,2025-01-30
+New York,NY,Chemung,$3.034,2025-01-30
+New York,NY,Chenango,$3.215,2025-01-30
+New York,NY,Clinton,$3.073,2025-01-30
+New York,NY,Columbia,$3.195,2025-01-30
+New York,NY,Cortland,$3.199,2025-01-30
+New York,NY,Delaware,$3.370,2025-01-30
+New York,NY,Dutchess,$3.164,2025-01-30
+New York,NY,Erie,$3.127,2025-01-30
+New York,NY,Essex,$3.411,2025-01-30
+New York,NY,Franklin,$3.307,2025-01-30
+New York,NY,Fulton,$3.206,2025-01-30
+New York,NY,Genesee,$3.195,2025-01-30
+New York,NY,Greene,$3.169,2025-01-30
+New York,NY,Hamilton,$3.559,2025-01-30
+New York,NY,Herkimer,$3.243,2025-01-30
+New York,NY,Jefferson,$3.186,2025-01-30
+New York,NY,Kings,$3.165,2025-01-30
+New York,NY,Lewis,$3.374,2025-01-30
+New York,NY,Livingston,$3.223,2025-01-30
+New York,NY,Madison,$3.218,2025-01-30
+New York,NY,Monroe,$3.184,2025-01-30
+New York,NY,Montgomery,$3.217,2025-01-30
+New York,NY,Nassau,$3.056,2025-01-30
+New York,NY,New York,$3.318,2025-01-30
+New York,NY,Niagara,$3.107,2025-01-30
+New York,NY,Oneida,$3.328,2025-01-30
+New York,NY,Onondaga,$3.138,2025-01-30
+New York,NY,Ontario,$3.233,2025-01-30
+New York,NY,Orange,$3.117,2025-01-30
+New York,NY,Orleans,$3.255,2025-01-30
+New York,NY,Oswego,$3.180,2025-01-30
+New York,NY,Otsego,$3.349,2025-01-30
+New York,NY,Putnam,$3.179,2025-01-30
+New York,NY,Queens,$3.177,2025-01-30
+New York,NY,Rensselaer,$3.176,2025-01-30
+New York,NY,Richmond,$3.210,2025-01-30
+New York,NY,Rockland,$3.371,2025-01-30
+New York,NY,Saratoga,$3.170,2025-01-30
+New York,NY,Schenectady,$3.089,2025-01-30
+New York,NY,Schoharie,$3.162,2025-01-30
+New York,NY,Schuyler,$3.159,2025-01-30
+New York,NY,Seneca,$3.025,2025-01-30
+New York,NY,Saint Lawrence,$3.472,2025-01-30
+New York,NY,Steuben,$3.219,2025-01-30
+New York,NY,Suffolk,$3.071,2025-01-30
+New York,NY,Sullivan,$3.178,2025-01-30
+New York,NY,Tioga,$3.179,2025-01-30
+New York,NY,Tompkins,$3.312,2025-01-30
+New York,NY,Ulster,$3.144,2025-01-30
+New York,NY,Warren,$3.252,2025-01-30
+New York,NY,Washington,$3.179,2025-01-30
+New York,NY,Wayne,$3.297,2025-01-30
+New York,NY,Westchester,$3.344,2025-01-30
+New York,NY,Wyoming,$3.186,2025-01-30
+New York,NY,Yates,$3.362,2025-01-30
+North Carolina,NC,Alamance,$2.867,2025-01-30
+North Carolina,NC,Alexander,$2.891,2025-01-30
+North Carolina,NC,Alleghany,$2.915,2025-01-30
+North Carolina,NC,Anson,$2.923,2025-01-30
+North Carolina,NC,Ashe,$2.673,2025-01-30
+North Carolina,NC,Avery,$2.919,2025-01-30
+North Carolina,NC,Beaufort,$2.742,2025-01-30
+North Carolina,NC,Bertie,$2.739,2025-01-30
+North Carolina,NC,Bladen,$2.816,2025-01-30
+North Carolina,NC,Brunswick,$2.804,2025-01-30
+North Carolina,NC,Buncombe,$2.907,2025-01-30
+North Carolina,NC,Burke,$2.811,2025-01-30
+North Carolina,NC,Cabarrus,$2.932,2025-01-30
+North Carolina,NC,Caldwell,$2.771,2025-01-30
+North Carolina,NC,Camden,$2.799,2025-01-30
+North Carolina,NC,Carteret,$2.887,2025-01-30
+North Carolina,NC,Caswell,$2.979,2025-01-30
+North Carolina,NC,Catawba,$2.844,2025-01-30
+North Carolina,NC,Chatham,$2.959,2025-01-30
+North Carolina,NC,Cherokee,$3.000,2025-01-30
+North Carolina,NC,Chowan,$2.774,2025-01-30
+North Carolina,NC,Clay,$2.809,2025-01-30
+North Carolina,NC,Cleveland,$2.902,2025-01-30
+North Carolina,NC,Columbus,$2.872,2025-01-30
+North Carolina,NC,Craven,$2.790,2025-01-30
+North Carolina,NC,Cumberland,$2.853,2025-01-30
+North Carolina,NC,Currituck,$2.905,2025-01-30
+North Carolina,NC,Dare,$2.897,2025-01-30
+North Carolina,NC,Davidson,$2.779,2025-01-30
+North Carolina,NC,Davie,$2.784,2025-01-30
+North Carolina,NC,Duplin,$2.861,2025-01-30
+North Carolina,NC,Durham,$3.025,2025-01-30
+North Carolina,NC,Edgecombe,$2.834,2025-01-30
+North Carolina,NC,Forsyth,$2.819,2025-01-30
+North Carolina,NC,Franklin,$2.862,2025-01-30
+North Carolina,NC,Gaston,$2.874,2025-01-30
+North Carolina,NC,Gates,$2.937,2025-01-30
+North Carolina,NC,Graham,$3.024,2025-01-30
+North Carolina,NC,Granville,$2.905,2025-01-30
+North Carolina,NC,Greene,$2.829,2025-01-30
+North Carolina,NC,Guilford,$2.882,2025-01-30
+North Carolina,NC,Halifax,$2.944,2025-01-30
+North Carolina,NC,Harnett,$2.824,2025-01-30
+North Carolina,NC,Haywood,$2.936,2025-01-30
+North Carolina,NC,Henderson,$2.894,2025-01-30
+North Carolina,NC,Hertford,$2.778,2025-01-30
+North Carolina,NC,Hoke,$2.921,2025-01-30
+North Carolina,NC,Hyde,$3.286,2025-01-30
+North Carolina,NC,Iredell,$2.901,2025-01-30
+North Carolina,NC,Jackson,$3.014,2025-01-30
+North Carolina,NC,Johnston,$2.893,2025-01-30
+North Carolina,NC,Jones,$2.879,2025-01-30
+North Carolina,NC,Lee,$2.888,2025-01-30
+North Carolina,NC,Lenoir,$2.777,2025-01-30
+North Carolina,NC,Lincoln,$2.879,2025-01-30
+North Carolina,NC,Macon,$2.947,2025-01-30
+North Carolina,NC,Madison,$2.959,2025-01-30
+North Carolina,NC,Martin,$2.741,2025-01-30
+North Carolina,NC,McDowell,$2.832,2025-01-30
+North Carolina,NC,Mecklenburg,$2.907,2025-01-30
+North Carolina,NC,Mitchell,$2.856,2025-01-30
+North Carolina,NC,Montgomery,$2.892,2025-01-30
+North Carolina,NC,Moore,$2.954,2025-01-30
+North Carolina,NC,Nash,$2.828,2025-01-30
+North Carolina,NC,New Hanover,$2.809,2025-01-30
+North Carolina,NC,Northampton,$2.888,2025-01-30
+North Carolina,NC,Onslow,$2.818,2025-01-30
+North Carolina,NC,Orange,$2.951,2025-01-30
+North Carolina,NC,Pamlico,$2.822,2025-01-30
+North Carolina,NC,Pasquotank,$2.785,2025-01-30
+North Carolina,NC,Pender,$2.856,2025-01-30
+North Carolina,NC,Perquimans,$2.857,2025-01-30
+North Carolina,NC,Person,$2.986,2025-01-30
+North Carolina,NC,Pitt,$2.705,2025-01-30
+North Carolina,NC,Polk,$3.030,2025-01-30
+North Carolina,NC,Randolph,$2.871,2025-01-30
+North Carolina,NC,Richmond,$2.846,2025-01-30
+North Carolina,NC,Robeson,$2.842,2025-01-30
+North Carolina,NC,Rockingham,$2.818,2025-01-30
+North Carolina,NC,Rowan,$2.849,2025-01-30
+North Carolina,NC,Rutherford,$2.844,2025-01-30
+North Carolina,NC,Sampson,$2.856,2025-01-30
+North Carolina,NC,Scotland,$2.843,2025-01-30
+North Carolina,NC,Stanly,$2.793,2025-01-30
+North Carolina,NC,Stokes,$2.884,2025-01-30
+North Carolina,NC,Surry,$2.845,2025-01-30
+North Carolina,NC,Swain,$2.963,2025-01-30
+North Carolina,NC,Transylvania,$2.967,2025-01-30
+North Carolina,NC,Tyrrell,$2.747,2025-01-30
+North Carolina,NC,Union,$2.956,2025-01-30
+North Carolina,NC,Vance,$2.953,2025-01-30
+North Carolina,NC,Wake,$2.926,2025-01-30
+North Carolina,NC,Warren,$2.913,2025-01-30
+North Carolina,NC,Washington,$2.661,2025-01-30
+North Carolina,NC,Watauga,$2.859,2025-01-30
+North Carolina,NC,Wayne,$2.817,2025-01-30
+North Carolina,NC,Wilkes,$2.846,2025-01-30
+North Carolina,NC,Wilson,$2.728,2025-01-30
+North Carolina,NC,Yadkin,$2.854,2025-01-30
+North Carolina,NC,Yancey,$2.772,2025-01-30
+North Dakota,ND,Adams,$2.944,2025-01-30
+North Dakota,ND,Barnes,$2.833,2025-01-30
+North Dakota,ND,Benson,$2.797,2025-01-30
+North Dakota,ND,Billings,$3.209,2025-01-30
+North Dakota,ND,Bottineau,$3.001,2025-01-30
+North Dakota,ND,Bowman,$3.074,2025-01-30
+North Dakota,ND,Burke,$2.949,2025-01-30
+North Dakota,ND,Burleigh,$2.973,2025-01-30
+North Dakota,ND,Cass,$2.931,2025-01-30
+North Dakota,ND,Cavalier,$2.899,2025-01-30
+North Dakota,ND,Dickey,$2.879,2025-01-30
+North Dakota,ND,Divide,$3.049,2025-01-30
+North Dakota,ND,Dunn,$3.087,2025-01-30
+North Dakota,ND,Eddy,$2.799,2025-01-30
+North Dakota,ND,Emmons,$2.906,2025-01-30
+North Dakota,ND,Foster,$2.939,2025-01-30
+North Dakota,ND,Golden Valley,$2.894,2025-01-30
+North Dakota,ND,Grand Forks,$2.700,2025-01-30
+North Dakota,ND,Grant,$3.189,2025-01-30
+North Dakota,ND,Griggs,$2.899,2025-01-30
+North Dakota,ND,Hettinger,$2.959,2025-01-30
+North Dakota,ND,Kidder,$2.904,2025-01-30
+North Dakota,ND,LaMoure,$2.932,2025-01-30
+North Dakota,ND,Logan,$2.949,2025-01-30
+North Dakota,ND,McHenry,$2.989,2025-01-30
+North Dakota,ND,McIntosh,$2.949,2025-01-30
+North Dakota,ND,McKenzie,$3.059,2025-01-30
+North Dakota,ND,McLean,$2.965,2025-01-30
+North Dakota,ND,Mercer,$2.883,2025-01-30
+North Dakota,ND,Morton,$2.988,2025-01-30
+North Dakota,ND,Mountrail,$2.961,2025-01-30
+North Dakota,ND,Nelson,$2.779,2025-01-30
+North Dakota,ND,Oliver,$2.779,2025-01-30
+North Dakota,ND,Pembina,$2.836,2025-01-30
+North Dakota,ND,Pierce,$2.999,2025-01-30
+North Dakota,ND,Ramsey,$2.783,2025-01-30
+North Dakota,ND,Ransom,$2.844,2025-01-30
+North Dakota,ND,Renville,$3.012,2025-01-30
+North Dakota,ND,Richland,$2.899,2025-01-30
+North Dakota,ND,Rolette,$3.109,2025-01-30
+North Dakota,ND,Sargent,$3.023,2025-01-30
+North Dakota,ND,Sheridan,$2.949,2025-01-30
+North Dakota,ND,Sioux,$2.974,2025-01-30
+North Dakota,ND,Slope,,2025-01-30
+North Dakota,ND,Stark,$3.006,2025-01-30
+North Dakota,ND,Steele,$2.869,2025-01-30
+North Dakota,ND,Stutsman,$2.751,2025-01-30
+North Dakota,ND,Towner,$2.909,2025-01-30
+North Dakota,ND,Traill,$2.906,2025-01-30
+North Dakota,ND,Walsh,$2.880,2025-01-30
+North Dakota,ND,Ward,$2.978,2025-01-30
+North Dakota,ND,Wells,$2.999,2025-01-30
+North Dakota,ND,Williams,$2.994,2025-01-30
+Ohio,OH,Adams,$2.978,2025-01-30
+Ohio,OH,Allen,$2.799,2025-01-30
+Ohio,OH,Ashland,$2.952,2025-01-30
+Ohio,OH,Ashtabula,$2.950,2025-01-30
+Ohio,OH,Athens,$3.089,2025-01-30
+Ohio,OH,Auglaize,$2.784,2025-01-30
+Ohio,OH,Belmont,$2.957,2025-01-30
+Ohio,OH,Brown,$2.946,2025-01-30
+Ohio,OH,Butler,$2.853,2025-01-30
+Ohio,OH,Carroll,$3.135,2025-01-30
+Ohio,OH,Champaign,$2.908,2025-01-30
+Ohio,OH,Clark,$2.839,2025-01-30
+Ohio,OH,Clermont,$2.844,2025-01-30
+Ohio,OH,Clinton,$2.938,2025-01-30
+Ohio,OH,Columbiana,$2.940,2025-01-30
+Ohio,OH,Coshocton,$3.004,2025-01-30
+Ohio,OH,Crawford,$2.903,2025-01-30
+Ohio,OH,Cuyahoga,$3.000,2025-01-30
+Ohio,OH,Darke,$2.887,2025-01-30
+Ohio,OH,Defiance,$2.817,2025-01-30
+Ohio,OH,Delaware,$2.853,2025-01-30
+Ohio,OH,Erie,$2.987,2025-01-30
+Ohio,OH,Fairfield,$2.970,2025-01-30
+Ohio,OH,Fayette,$2.969,2025-01-30
+Ohio,OH,Franklin,$3.003,2025-01-30
+Ohio,OH,Fulton,$2.903,2025-01-30
+Ohio,OH,Gallia,$2.978,2025-01-30
+Ohio,OH,Geauga,$3.047,2025-01-30
+Ohio,OH,Greene,$2.790,2025-01-30
+Ohio,OH,Guernsey,$2.888,2025-01-30
+Ohio,OH,Hamilton,$2.869,2025-01-30
+Ohio,OH,Hancock,$2.653,2025-01-30
+Ohio,OH,Hardin,$2.917,2025-01-30
+Ohio,OH,Harrison,$3.082,2025-01-30
+Ohio,OH,Henry,$2.900,2025-01-30
+Ohio,OH,Highland,$2.918,2025-01-30
+Ohio,OH,Hocking,$2.816,2025-01-30
+Ohio,OH,Holmes,$3.055,2025-01-30
+Ohio,OH,Huron,$3.010,2025-01-30
+Ohio,OH,Jackson,$3.002,2025-01-30
+Ohio,OH,Jefferson,$3.002,2025-01-30
+Ohio,OH,Knox,$2.944,2025-01-30
+Ohio,OH,Lake,$2.986,2025-01-30
+Ohio,OH,Lawrence,$2.805,2025-01-30
+Ohio,OH,Licking,$3.039,2025-01-30
+Ohio,OH,Logan,$2.966,2025-01-30
+Ohio,OH,Lorain,$2.951,2025-01-30
+Ohio,OH,Lucas,$2.806,2025-01-30
+Ohio,OH,Madison,$2.991,2025-01-30
+Ohio,OH,Mahoning,$2.930,2025-01-30
+Ohio,OH,Marion,$3.019,2025-01-30
+Ohio,OH,Medina,$3.038,2025-01-30
+Ohio,OH,Meigs,$2.892,2025-01-30
+Ohio,OH,Mercer,$2.891,2025-01-30
+Ohio,OH,Miami,$2.797,2025-01-30
+Ohio,OH,Monroe,$3.188,2025-01-30
+Ohio,OH,Montgomery,$2.810,2025-01-30
+Ohio,OH,Morgan,$3.079,2025-01-30
+Ohio,OH,Morrow,$3.050,2025-01-30
+Ohio,OH,Muskingum,$2.939,2025-01-30
+Ohio,OH,Noble,$3.055,2025-01-30
+Ohio,OH,Ottawa,$3.143,2025-01-30
+Ohio,OH,Paulding,$3.037,2025-01-30
+Ohio,OH,Perry,$3.008,2025-01-30
+Ohio,OH,Pickaway,$3.022,2025-01-30
+Ohio,OH,Pike,$2.976,2025-01-30
+Ohio,OH,Portage,$2.857,2025-01-30
+Ohio,OH,Preble,$3.013,2025-01-30
+Ohio,OH,Putnam,$2.896,2025-01-30
+Ohio,OH,Richland,$2.938,2025-01-30
+Ohio,OH,Ross,$2.901,2025-01-30
+Ohio,OH,Sandusky,$2.855,2025-01-30
+Ohio,OH,Scioto,$2.858,2025-01-30
+Ohio,OH,Seneca,$2.873,2025-01-30
+Ohio,OH,Shelby,$2.767,2025-01-30
+Ohio,OH,Stark,$2.838,2025-01-30
+Ohio,OH,Summit,$2.898,2025-01-30
+Ohio,OH,Trumbull,$2.955,2025-01-30
+Ohio,OH,Tuscarawas,$3.025,2025-01-30
+Ohio,OH,Union,$3.050,2025-01-30
+Ohio,OH,Van Wert,$2.963,2025-01-30
+Ohio,OH,Vinton,$2.992,2025-01-30
+Ohio,OH,Warren,$2.840,2025-01-30
+Ohio,OH,Washington,$2.994,2025-01-30
+Ohio,OH,Wayne,$2.962,2025-01-30
+Ohio,OH,Williams,$2.993,2025-01-30
+Ohio,OH,Wood,$2.868,2025-01-30
+Ohio,OH,Wyandot,$2.891,2025-01-30
+Oklahoma,OK,Adair,$2.611,2025-01-30
+Oklahoma,OK,Alfalfa,$2.923,2025-01-30
+Oklahoma,OK,Atoka,$2.885,2025-01-30
+Oklahoma,OK,Beaver,$2.783,2025-01-30
+Oklahoma,OK,Beckham,$2.800,2025-01-30
+Oklahoma,OK,Blaine,$2.880,2025-01-30
+Oklahoma,OK,Bryan,$2.618,2025-01-30
+Oklahoma,OK,Caddo,$2.822,2025-01-30
+Oklahoma,OK,Canadian,$2.694,2025-01-30
+Oklahoma,OK,Carter,$2.688,2025-01-30
+Oklahoma,OK,Cherokee,$2.729,2025-01-30
+Oklahoma,OK,Choctaw,$2.709,2025-01-30
+Oklahoma,OK,Cimarron,$2.849,2025-01-30
+Oklahoma,OK,Cleveland,$2.698,2025-01-30
+Oklahoma,OK,Coal,$3.191,2025-01-30
+Oklahoma,OK,Comanche,$2.602,2025-01-30
+Oklahoma,OK,Cotton,$2.716,2025-01-30
+Oklahoma,OK,Craig,$2.626,2025-01-30
+Oklahoma,OK,Creek,$2.731,2025-01-30
+Oklahoma,OK,Custer,$2.815,2025-01-30
+Oklahoma,OK,Delaware,$2.721,2025-01-30
+Oklahoma,OK,Dewey,$2.905,2025-01-30
+Oklahoma,OK,Ellis,$3.057,2025-01-30
+Oklahoma,OK,Garfield,$2.728,2025-01-30
+Oklahoma,OK,Garvin,$2.727,2025-01-30
+Oklahoma,OK,Grady,$2.726,2025-01-30
+Oklahoma,OK,Grant,$2.699,2025-01-30
+Oklahoma,OK,Greer,$2.779,2025-01-30
+Oklahoma,OK,Harmon,$2.879,2025-01-30
+Oklahoma,OK,Harper,$2.819,2025-01-30
+Oklahoma,OK,Haskell,$2.733,2025-01-30
+Oklahoma,OK,Hughes,$2.961,2025-01-30
+Oklahoma,OK,Jackson,$2.635,2025-01-30
+Oklahoma,OK,Jefferson,$2.772,2025-01-30
+Oklahoma,OK,Johnston,$2.744,2025-01-30
+Oklahoma,OK,Kay,$2.719,2025-01-30
+Oklahoma,OK,Kingfisher,$2.767,2025-01-30
+Oklahoma,OK,Kiowa,$2.839,2025-01-30
+Oklahoma,OK,Latimer,$2.810,2025-01-30
+Oklahoma,OK,Le Flore,$2.815,2025-01-30
+Oklahoma,OK,Lincoln,$2.825,2025-01-30
+Oklahoma,OK,Logan,$2.929,2025-01-30
+Oklahoma,OK,Love,$2.796,2025-01-30
+Oklahoma,OK,Major,$2.759,2025-01-30
+Oklahoma,OK,Marshall,$2.692,2025-01-30
+Oklahoma,OK,Mayes,$2.721,2025-01-30
+Oklahoma,OK,McClain,$2.796,2025-01-30
+Oklahoma,OK,McCurtain,$2.778,2025-01-30
+Oklahoma,OK,McIntosh,$2.739,2025-01-30
+Oklahoma,OK,Murray,$2.713,2025-01-30
+Oklahoma,OK,Muskogee,$2.648,2025-01-30
+Oklahoma,OK,Noble,$2.777,2025-01-30
+Oklahoma,OK,Nowata,$2.723,2025-01-30
+Oklahoma,OK,Okfuskee,$2.783,2025-01-30
+Oklahoma,OK,Oklahoma,$2.697,2025-01-30
+Oklahoma,OK,Okmulgee,$2.661,2025-01-30
+Oklahoma,OK,Osage,$2.801,2025-01-30
+Oklahoma,OK,Ottawa,$2.701,2025-01-30
+Oklahoma,OK,Pawnee,$2.776,2025-01-30
+Oklahoma,OK,Payne,$2.737,2025-01-30
+Oklahoma,OK,Pittsburg,$2.747,2025-01-30
+Oklahoma,OK,Pontotoc,$2.714,2025-01-30
+Oklahoma,OK,Pottawatomie,$2.710,2025-01-30
+Oklahoma,OK,Pushmataha,$2.840,2025-01-30
+Oklahoma,OK,Roger Mills,$2.772,2025-01-30
+Oklahoma,OK,Rogers,$2.723,2025-01-30
+Oklahoma,OK,Seminole,$2.724,2025-01-30
+Oklahoma,OK,Sequoyah,$2.712,2025-01-30
+Oklahoma,OK,Stephens,$2.795,2025-01-30
+Oklahoma,OK,Texas,$2.733,2025-01-30
+Oklahoma,OK,Tillman,$2.674,2025-01-30
+Oklahoma,OK,Tulsa,$2.679,2025-01-30
+Oklahoma,OK,Wagoner,$2.637,2025-01-30
+Oklahoma,OK,Washington,$2.702,2025-01-30
+Oklahoma,OK,Washita,$2.783,2025-01-30
+Oklahoma,OK,Woods,$2.931,2025-01-30
+Oklahoma,OK,Woodward,$2.731,2025-01-30
+Oregon,OR,Baker,$3.585,2025-01-30
+Oregon,OR,Benton,$3.350,2025-01-30
+Oregon,OR,Clackamas,$3.649,2025-01-30
+Oregon,OR,Clatsop,$3.854,2025-01-30
+Oregon,OR,Columbia,$3.758,2025-01-30
+Oregon,OR,Coos,$3.409,2025-01-30
+Oregon,OR,Crook,$3.582,2025-01-30
+Oregon,OR,Curry,$3.660,2025-01-30
+Oregon,OR,Deschutes,$3.470,2025-01-30
+Oregon,OR,Douglas,$3.418,2025-01-30
+Oregon,OR,Gilliam,$3.299,2025-01-30
+Oregon,OR,Grant,$3.597,2025-01-30
+Oregon,OR,Harney,$3.666,2025-01-30
+Oregon,OR,Hood River,$3.517,2025-01-30
+Oregon,OR,Jackson,$3.643,2025-01-30
+Oregon,OR,Jefferson,$3.424,2025-01-30
+Oregon,OR,Josephine,$3.763,2025-01-30
+Oregon,OR,Klamath,$3.466,2025-01-30
+Oregon,OR,Lake,$3.559,2025-01-30
+Oregon,OR,Lane,$3.447,2025-01-30
+Oregon,OR,Lincoln,$3.310,2025-01-30
+Oregon,OR,Linn,$3.403,2025-01-30
+Oregon,OR,Malheur,$3.283,2025-01-30
+Oregon,OR,Marion,$3.427,2025-01-30
+Oregon,OR,Morrow,$3.316,2025-01-30
+Oregon,OR,Multnomah,$3.707,2025-01-30
+Oregon,OR,Polk,$3.320,2025-01-30
+Oregon,OR,Sherman,$3.163,2025-01-30
+Oregon,OR,Tillamook,$3.727,2025-01-30
+Oregon,OR,Umatilla,$3.255,2025-01-30
+Oregon,OR,Union,$3.625,2025-01-30
+Oregon,OR,Wallowa,$3.766,2025-01-30
+Oregon,OR,Wasco,$3.539,2025-01-30
+Oregon,OR,Washington,$3.682,2025-01-30
+Oregon,OR,Wheeler,,2025-01-30
+Oregon,OR,Yamhill,$3.602,2025-01-30
+Maryland,MD,Allegany,$3.310,2025-01-30
+Maryland,MD,Anne Arundel,$3.253,2025-01-30
+Maryland,MD,Baltimore City,$3.253,2025-01-30
+Maryland,MD,Baltimore,$3.242,2025-01-30
+Maryland,MD,Calvert,$3.314,2025-01-30
+Maryland,MD,Cecil,$3.207,2025-01-30
+Maryland,MD,Charles,$3.184,2025-01-30
+Maryland,MD,Carroll,$3.247,2025-01-30
+Maryland,MD,Caroline,$3.213,2025-01-30
+Maryland,MD,Dorchester,$3.231,2025-01-30
+Maryland,MD,Frederick,$3.237,2025-01-30
+Maryland,MD,Garrett,$3.294,2025-01-30
+Maryland,MD,Harford,$3.239,2025-01-30
+Maryland,MD,Howard,$3.274,2025-01-30
+Maryland,MD,Kent,$3.268,2025-01-30
+Maryland,MD,Montgomery,$3.282,2025-01-30
+Maryland,MD,Prince Georges,$3.253,2025-01-30
+Maryland,MD,Queen Annes,$3.190,2025-01-30
+Maryland,MD,Saint Marys,$3.274,2025-01-30
+Maryland,MD,Somerset,$3.293,2025-01-30
+Maryland,MD,Talbot,$3.268,2025-01-30
+Maryland,MD,Washington,$3.229,2025-01-30
+Maryland,MD,Wicomico,$3.240,2025-01-30
+Maryland,MD,Worcester,$3.247,2025-01-30
+Massachusetts,MA,Barnstable,$3.047,2025-01-30
+Massachusetts,MA,Berkshire,$3.118,2025-01-30
+Massachusetts,MA,Bristol,$2.914,2025-01-30
+Massachusetts,MA,Dukes,$4.199,2025-01-30
+Massachusetts,MA,Essex,$3.053,2025-01-30
+Massachusetts,MA,Franklin,$2.970,2025-01-30
+Massachusetts,MA,Hampden,$2.981,2025-01-30
+Massachusetts,MA,Hampshire,$3.019,2025-01-30
+Massachusetts,MA,Middlesex,$3.095,2025-01-30
+Massachusetts,MA,Nantucket,$4.214,2025-01-30
+Massachusetts,MA,Norfolk,$3.037,2025-01-30
+Massachusetts,MA,Plymouth,$2.957,2025-01-30
+Massachusetts,MA,Suffolk,$3.253,2025-01-30
+Massachusetts,MA,Worcester,$3.000,2025-01-30
+Michigan,MI,Alcona,$3.132,2025-01-30
+Michigan,MI,Alger,$3.106,2025-01-30
+Michigan,MI,Allegan,$2.950,2025-01-30
+Michigan,MI,Alpena,$3.058,2025-01-30
+Michigan,MI,Antrim,$3.042,2025-01-30
+Michigan,MI,Arenac,$3.167,2025-01-30
+Michigan,MI,Baraga,$3.199,2025-01-30
+Michigan,MI,Barry,$3.016,2025-01-30
+Michigan,MI,Bay,$3.094,2025-01-30
+Michigan,MI,Benzie,$3.081,2025-01-30
+Michigan,MI,Berrien,$2.933,2025-01-30
+Michigan,MI,Branch,$3.112,2025-01-30
+Michigan,MI,Calhoun,$3.030,2025-01-30
+Michigan,MI,Cass,$2.979,2025-01-30
+Michigan,MI,Charlevoix,$3.099,2025-01-30
+Michigan,MI,Cheboygan,$3.206,2025-01-30
+Michigan,MI,Chippewa,$3.299,2025-01-30
+Michigan,MI,Clare,$2.981,2025-01-30
+Michigan,MI,Clinton,$2.854,2025-01-30
+Michigan,MI,Crawford,$3.116,2025-01-30
+Michigan,MI,Delta,$3.071,2025-01-30
+Michigan,MI,Dickinson,$2.972,2025-01-30
+Michigan,MI,Eaton,$3.015,2025-01-30
+Michigan,MI,Emmet,$3.023,2025-01-30
+Michigan,MI,Genesee,$3.025,2025-01-30
+Michigan,MI,Gladwin,$2.864,2025-01-30
+Michigan,MI,Gogebic,$3.200,2025-01-30
+Michigan,MI,Grand Traverse,$2.968,2025-01-30
+Michigan,MI,Gratiot,$3.108,2025-01-30
+Michigan,MI,Hillsdale,$3.023,2025-01-30
+Michigan,MI,Houghton,$3.007,2025-01-30
+Michigan,MI,Huron,$3.244,2025-01-30
+Michigan,MI,Ingham,$3.016,2025-01-30
+Michigan,MI,Ionia,$2.960,2025-01-30
+Michigan,MI,Iosco,$3.040,2025-01-30
+Michigan,MI,Iron,$3.199,2025-01-30
+Michigan,MI,Isabella,$3.060,2025-01-30
+Michigan,MI,Jackson,$3.060,2025-01-30
+Michigan,MI,Kalamazoo,$2.936,2025-01-30
+Michigan,MI,Kalkaska,$2.995,2025-01-30
+Michigan,MI,Kent,$2.959,2025-01-30
+Michigan,MI,Keweenaw,$3.199,2025-01-30
+Michigan,MI,Lake,$3.059,2025-01-30
+Michigan,MI,Lapeer,$3.024,2025-01-30
+Michigan,MI,Leelanau,$3.175,2025-01-30
+Michigan,MI,Lenawee,$3.052,2025-01-30
+Michigan,MI,Livingston,$3.191,2025-01-30
+Michigan,MI,Luce,$3.126,2025-01-30
+Michigan,MI,Mackinac,$3.346,2025-01-30
+Michigan,MI,Macomb,$3.132,2025-01-30
+Michigan,MI,Manistee,$3.011,2025-01-30
+Michigan,MI,Marquette,$3.085,2025-01-30
+Michigan,MI,Mason,$2.894,2025-01-30
+Michigan,MI,Mecosta,$3.066,2025-01-30
+Michigan,MI,Menominee,$2.981,2025-01-30
+Michigan,MI,Midland,$2.903,2025-01-30
+Michigan,MI,Missaukee,$3.024,2025-01-30
+Michigan,MI,Monroe,$3.091,2025-01-30
+Michigan,MI,Montcalm,$2.947,2025-01-30
+Michigan,MI,Montmorency,$3.022,2025-01-30
+Michigan,MI,Muskegon,$2.963,2025-01-30
+Michigan,MI,Newaygo,$2.938,2025-01-30
+Michigan,MI,Oakland,$3.198,2025-01-30
+Michigan,MI,Oceana,$2.944,2025-01-30
+Michigan,MI,Ogemaw,$3.012,2025-01-30
+Michigan,MI,Ontonagon,$3.113,2025-01-30
+Michigan,MI,Osceola,$3.007,2025-01-30
+Michigan,MI,Oscoda,$3.186,2025-01-30
+Michigan,MI,Otsego,$2.872,2025-01-30
+Michigan,MI,Ottawa,$2.928,2025-01-30
+Michigan,MI,Presque Isle,$3.224,2025-01-30
+Michigan,MI,Roscommon,$2.991,2025-01-30
+Michigan,MI,Saginaw,$3.055,2025-01-30
+Michigan,MI,Sanilac,$3.086,2025-01-30
+Michigan,MI,Schoolcraft,$3.308,2025-01-30
+Michigan,MI,Shiawassee,$2.974,2025-01-30
+Michigan,MI,Saint Clair,$3.069,2025-01-30
+Michigan,MI,Saint Joseph,$2.952,2025-01-30
+Michigan,MI,Tuscola,$3.060,2025-01-30
+Michigan,MI,Van Buren,$2.934,2025-01-30
+Michigan,MI,Washtenaw,$3.157,2025-01-30
+Michigan,MI,Wayne,$3.146,2025-01-30
+Michigan,MI,Wexford,$2.899,2025-01-30
+Minnesota,MN,Aitkin,$2.869,2025-01-30
+Minnesota,MN,Anoka,$2.967,2025-01-30
+Minnesota,MN,Becker,$2.997,2025-01-30
+Minnesota,MN,Beltrami,$2.919,2025-01-30
+Minnesota,MN,Benton,$3.049,2025-01-30
+Minnesota,MN,Big Stone,$2.739,2025-01-30
+Minnesota,MN,Blue Earth,$2.972,2025-01-30
+Minnesota,MN,Brown,$2.981,2025-01-30
+Minnesota,MN,Carlton,$2.892,2025-01-30
+Minnesota,MN,Carver,$3.039,2025-01-30
+Minnesota,MN,Cass,$2.845,2025-01-30
+Minnesota,MN,Chippewa,$2.989,2025-01-30
+Minnesota,MN,Chisago,$3.053,2025-01-30
+Minnesota,MN,Clay,$2.939,2025-01-30
+Minnesota,MN,Clearwater,$2.985,2025-01-30
+Minnesota,MN,Cook,$2.971,2025-01-30
+Minnesota,MN,Cottonwood,$2.885,2025-01-30
+Minnesota,MN,Crow Wing,$2.812,2025-01-30
+Minnesota,MN,Dakota,$2.991,2025-01-30
+Minnesota,MN,Dodge,$3.099,2025-01-30
+Minnesota,MN,Douglas,$2.887,2025-01-30
+Minnesota,MN,Faribault,$3.006,2025-01-30
+Minnesota,MN,Fillmore,$3.017,2025-01-30
+Minnesota,MN,Freeborn,$2.954,2025-01-30
+Minnesota,MN,Goodhue,$2.964,2025-01-30
+Minnesota,MN,Grant,$2.967,2025-01-30
+Minnesota,MN,Hennepin,$3.046,2025-01-30
+Minnesota,MN,Houston,$2.990,2025-01-30
+Minnesota,MN,Hubbard,$2.909,2025-01-30
+Minnesota,MN,Isanti,$2.978,2025-01-30
+Minnesota,MN,Itasca,$2.780,2025-01-30
+Minnesota,MN,Jackson,$2.900,2025-01-30
+Minnesota,MN,Kanabec,$3.058,2025-01-30
+Minnesota,MN,Kandiyohi,$3.000,2025-01-30
+Minnesota,MN,Kittson,$2.819,2025-01-30
+Minnesota,MN,Koochiching,$2.770,2025-01-30
+Minnesota,MN,Lac Qui Parle,$3.067,2025-01-30
+Minnesota,MN,Lake,$2.804,2025-01-30
+Minnesota,MN,Lake of the Woods,$2.939,2025-01-30
+Minnesota,MN,Le Sueur,$3.011,2025-01-30
+Minnesota,MN,Lincoln,$2.866,2025-01-30
+Minnesota,MN,Lyon,$2.976,2025-01-30
+Minnesota,MN,Mahnomen,$3.099,2025-01-30
+Minnesota,MN,Marshall,$2.817,2025-01-30
+Minnesota,MN,Martin,$3.153,2025-01-30
+Minnesota,MN,McLeod,$3.037,2025-01-30
+Minnesota,MN,Meeker,$3.008,2025-01-30
+Minnesota,MN,Mille Lacs,$2.981,2025-01-30
+Minnesota,MN,Morrison,$2.865,2025-01-30
+Minnesota,MN,Mower,$3.035,2025-01-30
+Minnesota,MN,Murray,$2.899,2025-01-30
+Minnesota,MN,Nicollet,$2.961,2025-01-30
+Minnesota,MN,Nobles,$2.997,2025-01-30
+Minnesota,MN,Norman,$2.939,2025-01-30
+Minnesota,MN,Olmsted,$3.010,2025-01-30
+Minnesota,MN,Otter Tail,$2.954,2025-01-30
+Minnesota,MN,Pennington,$2.889,2025-01-30
+Minnesota,MN,Pine,$3.035,2025-01-30
+Minnesota,MN,Pipestone,$2.828,2025-01-30
+Minnesota,MN,Polk,$2.819,2025-01-30
+Minnesota,MN,Pope,$2.899,2025-01-30
+Minnesota,MN,Ramsey,$3.005,2025-01-30
+Minnesota,MN,Red Lake,$2.889,2025-01-30
+Minnesota,MN,Redwood,$3.057,2025-01-30
+Minnesota,MN,Renville,$3.038,2025-01-30
+Minnesota,MN,Rice,$3.041,2025-01-30
+Minnesota,MN,Rock,$2.828,2025-01-30
+Minnesota,MN,Roseau,$2.864,2025-01-30
+Minnesota,MN,Scott,$3.040,2025-01-30
+Minnesota,MN,Sherburne,$3.035,2025-01-30
+Minnesota,MN,Sibley,$2.986,2025-01-30
+Minnesota,MN,Saint Louis,$2.912,2025-01-30
+Minnesota,MN,Stearns,$2.952,2025-01-30
+Minnesota,MN,Steele,$2.973,2025-01-30
+Minnesota,MN,Stevens,$3.056,2025-01-30
+Minnesota,MN,Swift,$3.033,2025-01-30
+Minnesota,MN,Todd,$2.865,2025-01-30
+Minnesota,MN,Traverse,$2.979,2025-01-30
+Minnesota,MN,Wabasha,$2.904,2025-01-30
+Minnesota,MN,Wadena,$2.971,2025-01-30
+Minnesota,MN,Waseca,$2.953,2025-01-30
+Minnesota,MN,Washington,$2.963,2025-01-30
+Minnesota,MN,Watonwan,$2.984,2025-01-30
+Minnesota,MN,Wilkin,$2.877,2025-01-30
+Minnesota,MN,Winona,$2.946,2025-01-30
+Minnesota,MN,Wright,$2.967,2025-01-30
+Minnesota,MN,Yellow Medicine,$3.005,2025-01-30
+Mississippi,MS,Adams,$2.825,2025-01-30
+Mississippi,MS,Alcorn,$2.619,2025-01-30
+Mississippi,MS,Amite,$2.824,2025-01-30
+Mississippi,MS,Attala,$2.808,2025-01-30
+Mississippi,MS,Benton,$2.711,2025-01-30
+Mississippi,MS,Bolivar,$2.680,2025-01-30
+Mississippi,MS,Calhoun,$2.768,2025-01-30
+Mississippi,MS,Carroll,$2.813,2025-01-30
+Mississippi,MS,Chickasaw,$2.684,2025-01-30
+Mississippi,MS,Choctaw,$2.704,2025-01-30
+Mississippi,MS,Claiborne,$3.031,2025-01-30
+Mississippi,MS,Clarke,$2.769,2025-01-30
+Mississippi,MS,Clay,$2.620,2025-01-30
+Mississippi,MS,Coahoma,$2.724,2025-01-30
+Mississippi,MS,Copiah,$2.704,2025-01-30
+Mississippi,MS,Covington,$2.600,2025-01-30
+Mississippi,MS,De Soto,$2.667,2025-01-30
+Mississippi,MS,Forrest,$2.620,2025-01-30
+Mississippi,MS,Franklin,$2.726,2025-01-30
+Mississippi,MS,George,$2.671,2025-01-30
+Mississippi,MS,Greene,$2.712,2025-01-30
+Mississippi,MS,Grenada,$2.656,2025-01-30
+Mississippi,MS,Hancock,$2.698,2025-01-30
+Mississippi,MS,Harrison,$2.645,2025-01-30
+Mississippi,MS,Hinds,$2.670,2025-01-30
+Mississippi,MS,Holmes,$2.828,2025-01-30
+Mississippi,MS,Humphreys,$2.866,2025-01-30
+Mississippi,MS,Issaquena,,2025-01-30
+Mississippi,MS,Itawamba,$2.655,2025-01-30
+Mississippi,MS,Jackson,$2.655,2025-01-30
+Mississippi,MS,Jasper,$2.675,2025-01-30
+Mississippi,MS,Jefferson,$2.889,2025-01-30
+Mississippi,MS,Jefferson Davis,$2.693,2025-01-30
+Mississippi,MS,Jones,$2.556,2025-01-30
+Mississippi,MS,Kemper,$2.785,2025-01-30
+Mississippi,MS,Lafayette,$2.824,2025-01-30
+Mississippi,MS,Lamar,$2.606,2025-01-30
+Mississippi,MS,Lauderdale,$2.706,2025-01-30
+Mississippi,MS,Lawrence,$2.766,2025-01-30
+Mississippi,MS,Leake,$2.754,2025-01-30
+Mississippi,MS,Lee,$2.666,2025-01-30
+Mississippi,MS,Leflore,$2.588,2025-01-30
+Mississippi,MS,Lincoln,$2.747,2025-01-30
+Mississippi,MS,Lowndes,$2.629,2025-01-30
+Mississippi,MS,Madison,$2.773,2025-01-30
+Mississippi,MS,Marion,$2.679,2025-01-30
+Mississippi,MS,Marshall,$2.656,2025-01-30
+Mississippi,MS,Monroe,$2.666,2025-01-30
+Mississippi,MS,Montgomery,$2.784,2025-01-30
+Mississippi,MS,Neshoba,$2.714,2025-01-30
+Mississippi,MS,Newton,$2.791,2025-01-30
+Mississippi,MS,Noxubee,$2.866,2025-01-30
+Mississippi,MS,Oktibbeha,$2.670,2025-01-30
+Mississippi,MS,Panola,$2.634,2025-01-30
+Mississippi,MS,Pearl River,$2.654,2025-01-30
+Mississippi,MS,Perry,$2.856,2025-01-30
+Mississippi,MS,Pike,$2.680,2025-01-30
+Mississippi,MS,Pontotoc,$2.730,2025-01-30
+Mississippi,MS,Prentiss,$2.680,2025-01-30
+Mississippi,MS,Quitman,$2.889,2025-01-30
+Mississippi,MS,Rankin,$2.643,2025-01-30
+Mississippi,MS,Scott,$2.742,2025-01-30
+Mississippi,MS,Sharkey,$2.849,2025-01-30
+Mississippi,MS,Simpson,$2.594,2025-01-30
+Mississippi,MS,Smith,$2.693,2025-01-30
+Mississippi,MS,Stone,$2.615,2025-01-30
+Mississippi,MS,Sunflower,$2.627,2025-01-30
+Mississippi,MS,Tallahatchie,$2.779,2025-01-30
+Mississippi,MS,Tate,$2.743,2025-01-30
+Mississippi,MS,Tippah,$2.741,2025-01-30
+Mississippi,MS,Tishomingo,$2.666,2025-01-30
+Mississippi,MS,Tunica,$2.818,2025-01-30
+Mississippi,MS,Union,$2.651,2025-01-30
+Mississippi,MS,Walthall,$2.759,2025-01-30
+Mississippi,MS,Warren,$2.678,2025-01-30
+Mississippi,MS,Washington,$2.699,2025-01-30
+Mississippi,MS,Wayne,$2.709,2025-01-30
+Mississippi,MS,Webster,$2.756,2025-01-30
+Mississippi,MS,Wilkinson,$2.919,2025-01-30
+Mississippi,MS,Winston,$2.693,2025-01-30
+Mississippi,MS,Yalobusha,$2.645,2025-01-30
+Mississippi,MS,Yazoo,$2.721,2025-01-30
+Missouri,MO,Adair,$2.883,2025-01-30
+Missouri,MO,Andrew,$2.740,2025-01-30
+Missouri,MO,Atchison,$2.942,2025-01-30
+Missouri,MO,Audrain,$2.850,2025-01-30
+Missouri,MO,Barry,$2.801,2025-01-30
+Missouri,MO,Barton,$2.729,2025-01-30
+Missouri,MO,Bates,$2.879,2025-01-30
+Missouri,MO,Benton,$2.834,2025-01-30
+Missouri,MO,Bollinger,$2.833,2025-01-30
+Missouri,MO,Boone,$2.933,2025-01-30
+Missouri,MO,Buchanan,$2.704,2025-01-30
+Missouri,MO,Butler,$2.769,2025-01-30
+Missouri,MO,Caldwell,$2.938,2025-01-30
+Missouri,MO,Callaway,$2.847,2025-01-30
+Missouri,MO,Camden,$2.823,2025-01-30
+Missouri,MO,Cape Girardeau,$2.858,2025-01-30
+Missouri,MO,Carroll,$2.868,2025-01-30
+Missouri,MO,Carter,$2.916,2025-01-30
+Missouri,MO,Cass,$2.837,2025-01-30
+Missouri,MO,Cedar,$2.826,2025-01-30
+Missouri,MO,Chariton,$2.899,2025-01-30
+Missouri,MO,Christian,$2.836,2025-01-30
+Missouri,MO,Clark,$2.856,2025-01-30
+Missouri,MO,Clay,$2.874,2025-01-30
+Missouri,MO,Clinton,$2.914,2025-01-30
+Missouri,MO,Cole,$2.869,2025-01-30
+Missouri,MO,Cooper,$2.876,2025-01-30
+Missouri,MO,Crawford,$2.895,2025-01-30
+Missouri,MO,Dade,$2.744,2025-01-30
+Missouri,MO,Dallas,$2.722,2025-01-30
+Missouri,MO,Daviess,$2.919,2025-01-30
+Missouri,MO,DeKalb,$2.793,2025-01-30
+Missouri,MO,Dent,$2.953,2025-01-30
+Missouri,MO,Douglas,$2.791,2025-01-30
+Missouri,MO,Dunklin,$2.844,2025-01-30
+Missouri,MO,Franklin,$2.916,2025-01-30
+Missouri,MO,Gasconade,$2.841,2025-01-30
+Missouri,MO,Gentry,$2.911,2025-01-30
+Missouri,MO,Greene,$2.826,2025-01-30
+Missouri,MO,Grundy,$2.899,2025-01-30
+Missouri,MO,Harrison,$2.834,2025-01-30
+Missouri,MO,Henry,$2.877,2025-01-30
+Missouri,MO,Hickory,$2.840,2025-01-30
+Missouri,MO,Holt,$2.859,2025-01-30
+Missouri,MO,Howard,$2.899,2025-01-30
+Missouri,MO,Howell,$2.846,2025-01-30
+Missouri,MO,Iron,$2.859,2025-01-30
+Missouri,MO,Jackson,$2.862,2025-01-30
+Missouri,MO,Jasper,$2.756,2025-01-30
+Missouri,MO,Jefferson,$2.967,2025-01-30
+Missouri,MO,Johnson,$2.829,2025-01-30
+Missouri,MO,Knox,$2.699,2025-01-30
+Missouri,MO,Laclede,$2.875,2025-01-30
+Missouri,MO,Lafayette,$2.889,2025-01-30
+Missouri,MO,Lawrence,$2.832,2025-01-30
+Missouri,MO,Lewis,$2.871,2025-01-30
+Missouri,MO,Lincoln,$2.865,2025-01-30
+Missouri,MO,Linn,$2.849,2025-01-30
+Missouri,MO,Livingston,$2.899,2025-01-30
+Missouri,MO,Macon,$2.875,2025-01-30
+Missouri,MO,Madison,$2.793,2025-01-30
+Missouri,MO,Maries,$2.819,2025-01-30
+Missouri,MO,Marion,$2.843,2025-01-30
+Missouri,MO,McDonald,$2.782,2025-01-30
+Missouri,MO,Mercer,$2.899,2025-01-30
+Missouri,MO,Miller,$2.858,2025-01-30
+Missouri,MO,Mississippi,$2.774,2025-01-30
+Missouri,MO,Moniteau,$2.881,2025-01-30
+Missouri,MO,Monroe,$2.866,2025-01-30
+Missouri,MO,Montgomery,$2.933,2025-01-30
+Missouri,MO,Morgan,$2.773,2025-01-30
+Missouri,MO,New Madrid,$2.755,2025-01-30
+Missouri,MO,Newton,$2.790,2025-01-30
+Missouri,MO,Nodaway,$2.901,2025-01-30
+Missouri,MO,Oregon,$2.815,2025-01-30
+Missouri,MO,Osage,$2.892,2025-01-30
+Missouri,MO,Ozark,$2.886,2025-01-30
+Missouri,MO,Pemiscot,$2.840,2025-01-30
+Missouri,MO,Perry,$2.833,2025-01-30
+Missouri,MO,Pettis,$2.865,2025-01-30
+Missouri,MO,Phelps,$2.849,2025-01-30
+Missouri,MO,Pike,$2.861,2025-01-30
+Missouri,MO,Platte,$2.855,2025-01-30
+Missouri,MO,Polk,$2.863,2025-01-30
+Missouri,MO,Pulaski,$2.855,2025-01-30
+Missouri,MO,Putnam,$2.849,2025-01-30
+Missouri,MO,Ralls,$2.875,2025-01-30
+Missouri,MO,Randolph,$2.883,2025-01-30
+Missouri,MO,Ray,$2.884,2025-01-30
+Missouri,MO,Reynolds,$3.032,2025-01-30
+Missouri,MO,Ripley,$2.663,2025-01-30
+Missouri,MO,Saline,$2.862,2025-01-30
+Missouri,MO,Schuyler,$2.895,2025-01-30
+Missouri,MO,Scotland,$2.899,2025-01-30
+Missouri,MO,Scott,$2.895,2025-01-30
+Missouri,MO,Shannon,$2.839,2025-01-30
+Missouri,MO,Shelby,$2.899,2025-01-30
+Missouri,MO,Saint Charles,$2.919,2025-01-30
+Missouri,MO,Saint Clair,$2.899,2025-01-30
+Missouri,MO,Saint Francois,$2.931,2025-01-30
+Missouri,MO,Saint Louis,$2.920,2025-01-30
+Missouri,MO,Saint Louis City,$2.906,2025-01-30
+Missouri,MO,Sainte Genevieve,$2.765,2025-01-30
+Missouri,MO,Stoddard,$2.799,2025-01-30
+Missouri,MO,Stone,$2.876,2025-01-30
+Missouri,MO,Sullivan,$2.899,2025-01-30
+Missouri,MO,Taney,$2.833,2025-01-30
+Missouri,MO,Texas,$2.870,2025-01-30
+Missouri,MO,Vernon,$2.737,2025-01-30
+Missouri,MO,Warren,$2.912,2025-01-30
+Missouri,MO,Washington,$2.770,2025-01-30
+Missouri,MO,Wayne,$2.821,2025-01-30
+Missouri,MO,Webster,$2.821,2025-01-30
+Missouri,MO,Worth,$2.969,2025-01-30
+Missouri,MO,Wright,$2.854,2025-01-30
+Pennsylvania,PA,Adams,$3.386,2025-01-30
+Pennsylvania,PA,Allegheny,$3.519,2025-01-30
+Pennsylvania,PA,Armstrong,$3.476,2025-01-30
+Pennsylvania,PA,Beaver,$3.526,2025-01-30
+Pennsylvania,PA,Bedford,$3.518,2025-01-30
+Pennsylvania,PA,Berks,$3.299,2025-01-30
+Pennsylvania,PA,Blair,$3.517,2025-01-30
+Pennsylvania,PA,Bradford,$3.348,2025-01-30
+Pennsylvania,PA,Bucks,$3.239,2025-01-30
+Pennsylvania,PA,Butler,$3.480,2025-01-30
+Pennsylvania,PA,Cambria,$3.532,2025-01-30
+Pennsylvania,PA,Cameron,$3.499,2025-01-30
+Pennsylvania,PA,Carbon,$3.240,2025-01-30
+Pennsylvania,PA,Centre,$3.414,2025-01-30
+Pennsylvania,PA,Chester,$3.217,2025-01-30
+Pennsylvania,PA,Clarion,$3.379,2025-01-30
+Pennsylvania,PA,Clearfield,$3.505,2025-01-30
+Pennsylvania,PA,Clinton,$3.316,2025-01-30
+Pennsylvania,PA,Columbia,$3.259,2025-01-30
+Pennsylvania,PA,Crawford,$3.549,2025-01-30
+Pennsylvania,PA,Cumberland,$3.330,2025-01-30
+Pennsylvania,PA,Dauphin,$3.284,2025-01-30
+Pennsylvania,PA,Delaware,$3.232,2025-01-30
+Pennsylvania,PA,Elk,$3.497,2025-01-30
+Pennsylvania,PA,Erie,$3.534,2025-01-30
+Pennsylvania,PA,Fayette,$3.561,2025-01-30
+Pennsylvania,PA,Forest,$3.464,2025-01-30
+Pennsylvania,PA,Franklin,$3.277,2025-01-30
+Pennsylvania,PA,Fulton,$3.383,2025-01-30
+Pennsylvania,PA,Greene,$3.557,2025-01-30
+Pennsylvania,PA,Huntingdon,$3.474,2025-01-30
+Pennsylvania,PA,Indiana,$3.561,2025-01-30
+Pennsylvania,PA,Jefferson,$3.494,2025-01-30
+Pennsylvania,PA,Juniata,$3.368,2025-01-30
+Pennsylvania,PA,Lackawanna,$3.346,2025-01-30
+Pennsylvania,PA,Lancaster,$3.322,2025-01-30
+Pennsylvania,PA,Lawrence,$3.446,2025-01-30
+Pennsylvania,PA,Lebanon,$3.305,2025-01-30
+Pennsylvania,PA,Lehigh,$3.242,2025-01-30
+Pennsylvania,PA,Luzerne,$3.305,2025-01-30
+Pennsylvania,PA,Lycoming,$3.286,2025-01-30
+Pennsylvania,PA,McKean,$3.568,2025-01-30
+Pennsylvania,PA,Mercer,$3.472,2025-01-30
+Pennsylvania,PA,Mifflin,$3.543,2025-01-30
+Pennsylvania,PA,Monroe,$3.203,2025-01-30
+Pennsylvania,PA,Montgomery,$3.244,2025-01-30
+Pennsylvania,PA,Montour,$3.249,2025-01-30
+Pennsylvania,PA,Northampton,$3.212,2025-01-30
+Pennsylvania,PA,Northumberland,$3.260,2025-01-30
+Pennsylvania,PA,Perry,$3.311,2025-01-30
+Pennsylvania,PA,Philadelphia,$3.248,2025-01-30
+Pennsylvania,PA,Pike,$3.329,2025-01-30
+Pennsylvania,PA,Potter,$3.522,2025-01-30
+Pennsylvania,PA,Schuylkill,$3.266,2025-01-30
+Pennsylvania,PA,Snyder,$3.304,2025-01-30
+Pennsylvania,PA,Somerset,$3.449,2025-01-30
+Pennsylvania,PA,Sullivan,$3.429,2025-01-30
+Pennsylvania,PA,Susquehanna,$3.349,2025-01-30
+Pennsylvania,PA,Tioga,$3.395,2025-01-30
+Pennsylvania,PA,Union,$3.200,2025-01-30
+Pennsylvania,PA,Venango,$3.528,2025-01-30
+Pennsylvania,PA,Warren,$3.592,2025-01-30
+Pennsylvania,PA,Washington,$3.517,2025-01-30
+Pennsylvania,PA,Wayne,$3.301,2025-01-30
+Pennsylvania,PA,Westmoreland,$3.524,2025-01-30
+Pennsylvania,PA,Wyoming,$3.282,2025-01-30
+Pennsylvania,PA,York,$3.382,2025-01-30
+Rhode Island,RI,Bristol,$3.003,2025-01-30
+Rhode Island,RI,Kent,$2.991,2025-01-30
+Rhode Island,RI,Newport,$3.023,2025-01-30
+Rhode Island,RI,Providence,$2.998,2025-01-30
+Rhode Island,RI,Washington,$3.051,2025-01-30
+South Carolina,SC,Abbeville,$2.759,2025-01-30
+South Carolina,SC,Aiken,$2.781,2025-01-30
+South Carolina,SC,Allendale,$2.999,2025-01-30
+South Carolina,SC,Anderson,$2.723,2025-01-30
+South Carolina,SC,Bamberg,$2.956,2025-01-30
+South Carolina,SC,Barnwell,$2.896,2025-01-30
+South Carolina,SC,Beaufort,$2.888,2025-01-30
+South Carolina,SC,Berkeley,$2.802,2025-01-30
+South Carolina,SC,Calhoun,$2.953,2025-01-30
+South Carolina,SC,Charleston,$2.867,2025-01-30
+South Carolina,SC,Cherokee,$2.798,2025-01-30
+South Carolina,SC,Chester,$2.862,2025-01-30
+South Carolina,SC,Chesterfield,$2.902,2025-01-30
+South Carolina,SC,Clarendon,$2.905,2025-01-30
+South Carolina,SC,Colleton,$2.966,2025-01-30
+South Carolina,SC,Darlington,$2.784,2025-01-30
+South Carolina,SC,Dillon,$2.805,2025-01-30
+South Carolina,SC,Dorchester,$2.828,2025-01-30
+South Carolina,SC,Edgefield,$2.761,2025-01-30
+South Carolina,SC,Fairfield,$2.936,2025-01-30
+South Carolina,SC,Florence,$2.797,2025-01-30
+South Carolina,SC,Georgetown,$2.847,2025-01-30
+South Carolina,SC,Greenville,$2.760,2025-01-30
+South Carolina,SC,Greenwood,$2.734,2025-01-30
+South Carolina,SC,Hampton,$2.991,2025-01-30
+South Carolina,SC,Horry,$2.745,2025-01-30
+South Carolina,SC,Jasper,$2.985,2025-01-30
+South Carolina,SC,Kershaw,$2.824,2025-01-30
+South Carolina,SC,Lancaster,$2.848,2025-01-30
+South Carolina,SC,Laurens,$2.824,2025-01-30
+South Carolina,SC,Lee,$2.892,2025-01-30
+South Carolina,SC,Lexington,$2.774,2025-01-30
+South Carolina,SC,Marion,$2.800,2025-01-30
+South Carolina,SC,Marlboro,$2.824,2025-01-30
+South Carolina,SC,McCormick,$2.806,2025-01-30
+South Carolina,SC,Newberry,$2.820,2025-01-30
+South Carolina,SC,Oconee,$2.560,2025-01-30
+South Carolina,SC,Orangeburg,$2.874,2025-01-30
+South Carolina,SC,Pickens,$2.757,2025-01-30
+South Carolina,SC,Richland,$2.832,2025-01-30
+South Carolina,SC,Saluda,$2.814,2025-01-30
+South Carolina,SC,Spartanburg,$2.835,2025-01-30
+South Carolina,SC,Sumter,$2.849,2025-01-30
+South Carolina,SC,Union,$2.788,2025-01-30
+South Carolina,SC,Williamsburg,$2.916,2025-01-30
+South Carolina,SC,York,$2.792,2025-01-30
+South Dakota,SD,Aurora,$2.899,2025-01-30
+South Dakota,SD,Beadle,$2.856,2025-01-30
+South Dakota,SD,Bennett,$3.099,2025-01-30
+South Dakota,SD,Bon Homme,$2.804,2025-01-30
+South Dakota,SD,Brookings,$2.875,2025-01-30
+South Dakota,SD,Brown,$2.942,2025-01-30
+South Dakota,SD,Brule,$3.192,2025-01-30
+South Dakota,SD,Buffalo,,2025-01-30
+South Dakota,SD,Butte,$3.329,2025-01-30
+South Dakota,SD,Campbell,,2025-01-30
+South Dakota,SD,Charles Mix,$2.851,2025-01-30
+South Dakota,SD,Clark,$3.069,2025-01-30
+South Dakota,SD,Clay,$2.965,2025-01-30
+South Dakota,SD,Codington,$2.924,2025-01-30
+South Dakota,SD,Corson,$3.189,2025-01-30
+South Dakota,SD,Custer,$3.131,2025-01-30
+South Dakota,SD,Davison,$2.960,2025-01-30
+South Dakota,SD,Day,$2.889,2025-01-30
+South Dakota,SD,Deuel,$2.899,2025-01-30
+South Dakota,SD,Dewey,$3.172,2025-01-30
+South Dakota,SD,Douglas,$3.299,2025-01-30
+South Dakota,SD,Edmunds,$2.842,2025-01-30
+South Dakota,SD,Fall River,$3.085,2025-01-30
+South Dakota,SD,Faulk,$3.274,2025-01-30
+South Dakota,SD,Grant,$2.859,2025-01-30
+South Dakota,SD,Gregory,$2.884,2025-01-30
+South Dakota,SD,Haakon,$3.012,2025-01-30
+South Dakota,SD,Hamlin,$2.899,2025-01-30
+South Dakota,SD,Hand,$2.982,2025-01-30
+South Dakota,SD,Hanson,$2.724,2025-01-30
+South Dakota,SD,Harding,$3.099,2025-01-30
+South Dakota,SD,Hughes,$2.937,2025-01-30
+South Dakota,SD,Hutchinson,$2.803,2025-01-30
+South Dakota,SD,Hyde,$2.999,2025-01-30
+South Dakota,SD,Jackson,$2.999,2025-01-30
+South Dakota,SD,Jerauld,$3.199,2025-01-30
+South Dakota,SD,Jones,$3.099,2025-01-30
+South Dakota,SD,Kingsbury,$2.826,2025-01-30
+South Dakota,SD,Lake,$2.793,2025-01-30
+South Dakota,SD,Lawrence,$3.255,2025-01-30
+South Dakota,SD,Lincoln,$2.907,2025-01-30
+South Dakota,SD,Lyman,$3.059,2025-01-30
+South Dakota,SD,Marshall,$2.964,2025-01-30
+South Dakota,SD,McCook,$2.786,2025-01-30
+South Dakota,SD,McPherson,$2.859,2025-01-30
+South Dakota,SD,Meade,$3.257,2025-01-30
+South Dakota,SD,Mellette,,2025-01-30
+South Dakota,SD,Miner,$2.879,2025-01-30
+South Dakota,SD,Minnehaha,$2.851,2025-01-30
+South Dakota,SD,Moody,$2.876,2025-01-30
+South Dakota,SD,Pennington,$3.130,2025-01-30
+South Dakota,SD,Perkins,$3.034,2025-01-30
+South Dakota,SD,Potter,$2.884,2025-01-30
+South Dakota,SD,Roberts,$2.997,2025-01-30
+South Dakota,SD,Sanborn,$2.849,2025-01-30
+South Dakota,SD,Shannon,$3.141,2025-01-30
+South Dakota,SD,Spink,$2.821,2025-01-30
+South Dakota,SD,Stanley,$3.149,2025-01-30
+South Dakota,SD,Sully,$3.149,2025-01-30
+South Dakota,SD,Todd,$3.016,2025-01-30
+South Dakota,SD,Tripp,$2.966,2025-01-30
+South Dakota,SD,Turner,$2.759,2025-01-30
+South Dakota,SD,Union,$2.987,2025-01-30
+South Dakota,SD,Walworth,$3.113,2025-01-30
+South Dakota,SD,Yankton,$2.933,2025-01-30
+South Dakota,SD,Ziebach,$3.139,2025-01-30
+Tennessee,TN,Anderson,$2.812,2025-01-30
+Tennessee,TN,Bedford,$2.877,2025-01-30
+Tennessee,TN,Benton,$2.791,2025-01-30
+Tennessee,TN,Bledsoe,$2.829,2025-01-30
+Tennessee,TN,Blount,$2.863,2025-01-30
+Tennessee,TN,Bradley,$2.819,2025-01-30
+Tennessee,TN,Campbell,$2.760,2025-01-30
+Tennessee,TN,Cannon,$2.934,2025-01-30
+Tennessee,TN,Carroll,$2.822,2025-01-30
+Tennessee,TN,Carter,$2.783,2025-01-30
+Tennessee,TN,Cheatham,$2.865,2025-01-30
+Tennessee,TN,Chester,$2.832,2025-01-30
+Tennessee,TN,Claiborne,$2.703,2025-01-30
+Tennessee,TN,Clay,$2.899,2025-01-30
+Tennessee,TN,Cocke,$2.840,2025-01-30
+Tennessee,TN,Coffee,$2.868,2025-01-30
+Tennessee,TN,Crockett,$2.880,2025-01-30
+Tennessee,TN,Cumberland,$2.817,2025-01-30
+Tennessee,TN,Davidson,$2.882,2025-01-30
+Tennessee,TN,Decatur,$2.786,2025-01-30
+Tennessee,TN,DeKalb,$2.794,2025-01-30
+Tennessee,TN,Dickson,$2.845,2025-01-30
+Tennessee,TN,Dyer,$2.734,2025-01-30
+Tennessee,TN,Fayette,$2.855,2025-01-30
+Tennessee,TN,Fentress,$2.787,2025-01-30
+Tennessee,TN,Franklin,$2.816,2025-01-30
+Tennessee,TN,Gibson,$2.928,2025-01-30
+Tennessee,TN,Giles,$2.741,2025-01-30
+Tennessee,TN,Grainger,$2.894,2025-01-30
+Tennessee,TN,Greene,$2.697,2025-01-30
+Tennessee,TN,Grundy,$2.807,2025-01-30
+Tennessee,TN,Hamblen,$2.855,2025-01-30
+Tennessee,TN,Hamilton,$2.806,2025-01-30
+Tennessee,TN,Hancock,$2.799,2025-01-30
+Tennessee,TN,Hardeman,$2.830,2025-01-30
+Tennessee,TN,Hardin,$2.690,2025-01-30
+Tennessee,TN,Hawkins,$2.726,2025-01-30
+Tennessee,TN,Haywood,$2.940,2025-01-30
+Tennessee,TN,Henderson,$2.748,2025-01-30
+Tennessee,TN,Henry,$2.655,2025-01-30
+Tennessee,TN,Hickman,$2.819,2025-01-30
+Tennessee,TN,Houston,$2.949,2025-01-30
+Tennessee,TN,Humphreys,$2.765,2025-01-30
+Tennessee,TN,Jackson,$2.686,2025-01-30
+Tennessee,TN,Jefferson,$2.805,2025-01-30
+Tennessee,TN,Johnson,$2.855,2025-01-30
+Tennessee,TN,Knox,$2.843,2025-01-30
+Tennessee,TN,Lake,$2.799,2025-01-30
+Tennessee,TN,Lauderdale,$2.846,2025-01-30
+Tennessee,TN,Lawrence,$2.796,2025-01-30
+Tennessee,TN,Lewis,$2.814,2025-01-30
+Tennessee,TN,Lincoln,$2.859,2025-01-30
+Tennessee,TN,Loudon,$2.857,2025-01-30
+Tennessee,TN,Macon,$2.867,2025-01-30
+Tennessee,TN,Madison,$2.829,2025-01-30
+Tennessee,TN,Marion,$2.789,2025-01-30
+Tennessee,TN,Marshall,$2.826,2025-01-30
+Tennessee,TN,Maury,$2.835,2025-01-30
+Tennessee,TN,McMinn,$2.784,2025-01-30
+Tennessee,TN,McNairy,$2.757,2025-01-30
+Tennessee,TN,Meigs,$2.781,2025-01-30
+Tennessee,TN,Monroe,$2.805,2025-01-30
+Tennessee,TN,Montgomery,$2.779,2025-01-30
+Tennessee,TN,Moore,$2.869,2025-01-30
+Tennessee,TN,Morgan,$2.749,2025-01-30
+Tennessee,TN,Obion,$2.868,2025-01-30
+Tennessee,TN,Overton,$2.838,2025-01-30
+Tennessee,TN,Perry,$2.799,2025-01-30
+Tennessee,TN,Pickett,$2.832,2025-01-30
+Tennessee,TN,Polk,$2.782,2025-01-30
+Tennessee,TN,Putnam,$2.800,2025-01-30
+Tennessee,TN,Rhea,$2.834,2025-01-30
+Tennessee,TN,Roane,$2.785,2025-01-30
+Tennessee,TN,Robertson,$2.855,2025-01-30
+Tennessee,TN,Rutherford,$2.846,2025-01-30
+Tennessee,TN,Scott,$2.764,2025-01-30
+Tennessee,TN,Sequatchie,$2.843,2025-01-30
+Tennessee,TN,Sevier,$2.851,2025-01-30
+Tennessee,TN,Shelby,$2.784,2025-01-30
+Tennessee,TN,Smith,$2.796,2025-01-30
+Tennessee,TN,Stewart,$2.773,2025-01-30
+Tennessee,TN,Sullivan,$2.847,2025-01-30
+Tennessee,TN,Sumner,$2.843,2025-01-30
+Tennessee,TN,Tipton,$2.790,2025-01-30
+Tennessee,TN,Trousdale,$2.899,2025-01-30
+Tennessee,TN,Unicoi,$2.865,2025-01-30
+Tennessee,TN,Union,$2.788,2025-01-30
+Tennessee,TN,Van Buren,$2.999,2025-01-30
+Tennessee,TN,Warren,$2.789,2025-01-30
+Tennessee,TN,Washington,$2.915,2025-01-30
+Tennessee,TN,Wayne,$2.781,2025-01-30
+Tennessee,TN,Weakley,$2.841,2025-01-30
+Tennessee,TN,White,$2.846,2025-01-30
+Tennessee,TN,Williamson,$3.124,2025-01-30
+Tennessee,TN,Wilson,$2.828,2025-01-30
+Texas,TX,Anderson,$2.719,2025-01-30
+Texas,TX,Andrews,$2.887,2025-01-30
+Texas,TX,Angelina,$2.754,2025-01-30
+Texas,TX,Aransas,$2.630,2025-01-30
+Texas,TX,Archer,$2.648,2025-01-30
+Texas,TX,Armstrong,$2.649,2025-01-30
+Texas,TX,Atascosa,$2.683,2025-01-30
+Texas,TX,Austin,$2.711,2025-01-30
+Texas,TX,Bailey,$2.781,2025-01-30
+Texas,TX,Bandera,$2.790,2025-01-30
+Texas,TX,Bastrop,$2.699,2025-01-30
+Texas,TX,Baylor,$2.899,2025-01-30
+Texas,TX,Bee,$2.763,2025-01-30
+Texas,TX,Bell,$2.639,2025-01-30
+Texas,TX,Bexar,$2.661,2025-01-30
+Texas,TX,Blanco,$2.728,2025-01-30
+Texas,TX,Borden,,2025-01-30
+Texas,TX,Bosque,$2.766,2025-01-30
+Texas,TX,Bowie,$2.746,2025-01-30
+Texas,TX,Brazoria,$2.636,2025-01-30
+Texas,TX,Brazos,$2.706,2025-01-30
+Texas,TX,Brewster,$3.314,2025-01-30
+Texas,TX,Briscoe,$2.759,2025-01-30
+Texas,TX,Brooks,$2.664,2025-01-30
+Texas,TX,Brown,$2.759,2025-01-30
+Texas,TX,Burleson,$2.733,2025-01-30
+Texas,TX,Burnet,$2.678,2025-01-30
+Texas,TX,Caldwell,$2.713,2025-01-30
+Texas,TX,Calhoun,$2.737,2025-01-30
+Texas,TX,Callahan,$2.761,2025-01-30
+Texas,TX,Cameron,$2.682,2025-01-30
+Texas,TX,Camp,$2.665,2025-01-30
+Texas,TX,Carson,$2.645,2025-01-30
+Texas,TX,Cass,$2.690,2025-01-30
+Texas,TX,Castro,$2.861,2025-01-30
+Texas,TX,Chambers,$2.736,2025-01-30
+Texas,TX,Cherokee,$2.655,2025-01-30
+Texas,TX,Childress,$2.549,2025-01-30
+Texas,TX,Clay,$2.793,2025-01-30
+Texas,TX,Cochran,$2.949,2025-01-30
+Texas,TX,Coke,$2.809,2025-01-30
+Texas,TX,Coleman,$2.817,2025-01-30
+Texas,TX,Collin,$2.842,2025-01-30
+Texas,TX,Collingsworth,$2.684,2025-01-30
+Texas,TX,Colorado,$2.739,2025-01-30
+Texas,TX,Comal,$2.653,2025-01-30
+Texas,TX,Comanche,$2.834,2025-01-30
+Texas,TX,Concho,$2.954,2025-01-30
+Texas,TX,Cooke,$2.854,2025-01-30
+Texas,TX,Coryell,$2.659,2025-01-30
+Texas,TX,Cottle,$2.999,2025-01-30
+Texas,TX,Crane,$2.977,2025-01-30
+Texas,TX,Crockett,$2.907,2025-01-30
+Texas,TX,Crosby,$2.799,2025-01-30
+Texas,TX,Culberson,$3.321,2025-01-30
+Texas,TX,Dallam,$2.709,2025-01-30
+Texas,TX,Dallas,$2.870,2025-01-30
+Texas,TX,Dawson,$2.713,2025-01-30
+Texas,TX,Deaf Smith,$2.678,2025-01-30
+Texas,TX,Delta,$2.849,2025-01-30
+Texas,TX,Denton,$2.851,2025-01-30
+Texas,TX,De Witt,$2.853,2025-01-30
+Texas,TX,Dickens,$2.859,2025-01-30
+Texas,TX,Dimmit,$2.921,2025-01-30
+Texas,TX,Donley,$2.582,2025-01-30
+Texas,TX,Duval,$2.791,2025-01-30
+Texas,TX,Eastland,$2.763,2025-01-30
+Texas,TX,Ector,$2.841,2025-01-30
+Texas,TX,Edwards,$2.999,2025-01-30
+Texas,TX,El Paso,$2.893,2025-01-30
+Texas,TX,Ellis,$2.825,2025-01-30
+Texas,TX,Erath,$2.817,2025-01-30
+Texas,TX,Falls,$2.731,2025-01-30
+Texas,TX,Fannin,$2.683,2025-01-30
+Texas,TX,Fayette,$2.811,2025-01-30
+Texas,TX,Fisher,$2.899,2025-01-30
+Texas,TX,Floyd,$2.739,2025-01-30
+Texas,TX,Foard,$2.789,2025-01-30
+Texas,TX,Fort Bend,$2.647,2025-01-30
+Texas,TX,Franklin,$2.722,2025-01-30
+Texas,TX,Freestone,$2.679,2025-01-30
+Texas,TX,Frio,$2.750,2025-01-30
+Texas,TX,Gaines,$2.776,2025-01-30
+Texas,TX,Galveston,$2.691,2025-01-30
+Texas,TX,Garza,$2.839,2025-01-30
+Texas,TX,Gillespie,$2.802,2025-01-30
+Texas,TX,Glasscock,$2.949,2025-01-30
+Texas,TX,Goliad,$2.832,2025-01-30
+Texas,TX,Gonzales,$2.736,2025-01-30
+Texas,TX,Gray,$2.668,2025-01-30
+Texas,TX,Grayson,$2.811,2025-01-30
+Texas,TX,Gregg,$2.656,2025-01-30
+Texas,TX,Grimes,$2.789,2025-01-30
+Texas,TX,Guadalupe,$2.617,2025-01-30
+Texas,TX,Hale,$2.571,2025-01-30
+Texas,TX,Hall,$2.719,2025-01-30
+Texas,TX,Hamilton,$2.696,2025-01-30
+Texas,TX,Hansford,$2.724,2025-01-30
+Texas,TX,Hardeman,$2.776,2025-01-30
+Texas,TX,Hardin,$2.668,2025-01-30
+Texas,TX,Harris,$2.683,2025-01-30
+Texas,TX,Harrison,$2.791,2025-01-30
+Texas,TX,Hartley,$2.679,2025-01-30
+Texas,TX,Haskell,$2.839,2025-01-30
+Texas,TX,Hays,$2.697,2025-01-30
+Texas,TX,Hemphill,$2.789,2025-01-30
+Texas,TX,Henderson,$2.730,2025-01-30
+Texas,TX,Hidalgo,$2.677,2025-01-30
+Texas,TX,Hill,$2.706,2025-01-30
+Texas,TX,Hockley,$2.710,2025-01-30
+Texas,TX,Hood,$2.807,2025-01-30
+Texas,TX,Hopkins,$2.729,2025-01-30
+Texas,TX,Houston,$2.833,2025-01-30
+Texas,TX,Howard,$2.761,2025-01-30
+Texas,TX,Hudspeth,$2.997,2025-01-30
+Texas,TX,Hunt,$2.809,2025-01-30
+Texas,TX,Hutchinson,$2.639,2025-01-30
+Texas,TX,Irion,$2.874,2025-01-30
+Texas,TX,Jack,$2.782,2025-01-30
+Texas,TX,Jackson,$2.885,2025-01-30
+Texas,TX,Jasper,$2.732,2025-01-30
+Texas,TX,Jeff Davis,$3.239,2025-01-30
+Texas,TX,Jefferson,$2.686,2025-01-30
+Texas,TX,Jim Hogg,$2.699,2025-01-30
+Texas,TX,Jim Wells,$2.696,2025-01-30
+Texas,TX,Johnson,$2.804,2025-01-30
+Texas,TX,Jones,$2.669,2025-01-30
+Texas,TX,Karnes,$2.681,2025-01-30
+Texas,TX,Kaufman,$2.788,2025-01-30
+Texas,TX,Kendall,$2.696,2025-01-30
+Texas,TX,Kenedy,,2025-01-30
+Texas,TX,Kent,,2025-01-30
+Texas,TX,Kerr,$2.720,2025-01-30
+Texas,TX,Kimble,$2.807,2025-01-30
+Texas,TX,King,$2.899,2025-01-30
+Texas,TX,Kinney,$2.699,2025-01-30
+Texas,TX,Kleberg,$2.750,2025-01-30
+Texas,TX,Knox,$2.879,2025-01-30
+Texas,TX,La Salle,$2.774,2025-01-30
+Texas,TX,Lamar,$2.693,2025-01-30
+Texas,TX,Lamb,$2.779,2025-01-30
+Texas,TX,Lampasas,$2.662,2025-01-30
+Texas,TX,Lavaca,$2.769,2025-01-30
+Texas,TX,Lee,$2.693,2025-01-30
+Texas,TX,Leon,$2.785,2025-01-30
+Texas,TX,Liberty,$2.700,2025-01-30
+Texas,TX,Limestone,$2.772,2025-01-30
+Texas,TX,Lipscomb,$2.779,2025-01-30
+Texas,TX,Live Oak,$2.793,2025-01-30
+Texas,TX,Llano,$2.678,2025-01-30
+Texas,TX,Loving,$3.059,2025-01-30
+Texas,TX,Lubbock,$2.635,2025-01-30
+Texas,TX,Lynn,$2.824,2025-01-30
+Texas,TX,Madison,$2.777,2025-01-30
+Texas,TX,Marion,$2.662,2025-01-30
+Texas,TX,Martin,$3.025,2025-01-30
+Texas,TX,Mason,$2.849,2025-01-30
+Texas,TX,Matagorda,$2.670,2025-01-30
+Texas,TX,Maverick,$2.748,2025-01-30
+Texas,TX,McCulloch,$2.983,2025-01-30
+Texas,TX,McLennan,$2.723,2025-01-30
+Texas,TX,McMullen,$2.899,2025-01-30
+Texas,TX,Medina,$2.714,2025-01-30
+Texas,TX,Menard,$2.924,2025-01-30
+Texas,TX,Midland,$2.844,2025-01-30
+Texas,TX,Milam,$2.681,2025-01-30
+Texas,TX,Mills,$2.716,2025-01-30
+Texas,TX,Mitchell,$2.815,2025-01-30
+Texas,TX,Montague,$2.812,2025-01-30
+Texas,TX,Montgomery,$2.684,2025-01-30
+Texas,TX,Moore,$2.562,2025-01-30
+Texas,TX,Morris,$2.768,2025-01-30
+Texas,TX,Motley,$2.799,2025-01-30
+Texas,TX,Nacogdoches,$2.754,2025-01-30
+Texas,TX,Navarro,$2.822,2025-01-30
+Texas,TX,Newton,$2.759,2025-01-30
+Texas,TX,Nolan,$2.854,2025-01-30
+Texas,TX,Nueces,$2.707,2025-01-30
+Texas,TX,Ochiltree,$2.693,2025-01-30
+Texas,TX,Oldham,$2.822,2025-01-30
+Texas,TX,Orange,$2.665,2025-01-30
+Texas,TX,Palo Pinto,$2.909,2025-01-30
+Texas,TX,Panola,$2.657,2025-01-30
+Texas,TX,Parker,$2.843,2025-01-30
+Texas,TX,Parmer,$2.760,2025-01-30
+Texas,TX,Pecos,$3.026,2025-01-30
+Texas,TX,Polk,$2.682,2025-01-30
+Texas,TX,Potter,$2.645,2025-01-30
+Texas,TX,Presidio,$3.281,2025-01-30
+Texas,TX,Rains,$2.724,2025-01-30
+Texas,TX,Randall,$2.611,2025-01-30
+Texas,TX,Reagan,$2.986,2025-01-30
+Texas,TX,Real,$2.842,2025-01-30
+Texas,TX,Red River,$2.814,2025-01-30
+Texas,TX,Reeves,$3.149,2025-01-30
+Texas,TX,Refugio,$2.853,2025-01-30
+Texas,TX,Roberts,$3.209,2025-01-30
+Texas,TX,Robertson,$2.695,2025-01-30
+Texas,TX,Rockwall,$2.837,2025-01-30
+Texas,TX,Runnels,$2.862,2025-01-30
+Texas,TX,Rusk,$2.708,2025-01-30
+Texas,TX,Sabine,$2.807,2025-01-30
+Texas,TX,San Augustine,$2.739,2025-01-30
+Texas,TX,San Jacinto,$2.707,2025-01-30
+Texas,TX,San Patricio,$2.751,2025-01-30
+Texas,TX,San Saba,$2.809,2025-01-30
+Texas,TX,Schleicher,$2.889,2025-01-30
+Texas,TX,Scurry,$2.853,2025-01-30
+Texas,TX,Shackelford,$2.844,2025-01-30
+Texas,TX,Shelby,$2.779,2025-01-30
+Texas,TX,Sherman,$2.559,2025-01-30
+Texas,TX,Smith,$2.614,2025-01-30
+Texas,TX,Somervell,$2.700,2025-01-30
+Texas,TX,Starr,$2.717,2025-01-30
+Texas,TX,Stephens,$2.786,2025-01-30
+Texas,TX,Sterling,$2.819,2025-01-30
+Texas,TX,Stonewall,$2.899,2025-01-30
+Texas,TX,Sutton,$2.867,2025-01-30
+Texas,TX,Swisher,$2.709,2025-01-30
+Texas,TX,Tarrant,$2.853,2025-01-30
+Texas,TX,Taylor,$2.739,2025-01-30
+Texas,TX,Terrell,$3.279,2025-01-30
+Texas,TX,Terry,$2.703,2025-01-30
+Texas,TX,Throckmorton,$2.899,2025-01-30
+Texas,TX,Titus,$2.775,2025-01-30
+Texas,TX,Tom Green,$2.723,2025-01-30
+Texas,TX,Travis,$2.692,2025-01-30
+Texas,TX,Trinity,$2.698,2025-01-30
+Texas,TX,Tyler,$2.748,2025-01-30
+Texas,TX,Upshur,$2.684,2025-01-30
+Texas,TX,Upton,$3.243,2025-01-30
+Texas,TX,Uvalde,$2.694,2025-01-30
+Texas,TX,Val Verde,$2.720,2025-01-30
+Texas,TX,Van Zandt,$2.691,2025-01-30
+Texas,TX,Victoria,$2.697,2025-01-30
+Texas,TX,Walker,$2.698,2025-01-30
+Texas,TX,Waller,$2.705,2025-01-30
+Texas,TX,Ward,$2.793,2025-01-30
+Texas,TX,Washington,$2.737,2025-01-30
+Texas,TX,Webb,$2.612,2025-01-30
+Texas,TX,Wharton,$2.703,2025-01-30
+Texas,TX,Wheeler,$2.682,2025-01-30
+Texas,TX,Wichita,$2.607,2025-01-30
+Texas,TX,Wilbarger,$2.571,2025-01-30
+Texas,TX,Willacy,$2.634,2025-01-30
+Texas,TX,Williamson,$2.674,2025-01-30
+Texas,TX,Wilson,$2.691,2025-01-30
+Texas,TX,Winkler,$3.328,2025-01-30
+Texas,TX,Wise,$2.857,2025-01-30
+Texas,TX,Wood,$2.677,2025-01-30
+Texas,TX,Yoakum,$3.015,2025-01-30
+Texas,TX,Young,$2.762,2025-01-30
+Texas,TX,Zapata,$2.834,2025-01-30
+Texas,TX,Zavala,$2.951,2025-01-30
+Utah,UT,Beaver,$3.357,2025-01-30
+Utah,UT,Box Elder,$3.011,2025-01-30
+Utah,UT,Cache,$3.021,2025-01-30
+Utah,UT,Carbon,$3.025,2025-01-30
+Utah,UT,Daggett,$3.106,2025-01-30
+Utah,UT,Davis,$3.062,2025-01-30
+Utah,UT,Duchesne,$3.063,2025-01-30
+Utah,UT,Emery,$3.127,2025-01-30
+Utah,UT,Garfield,$3.053,2025-01-30
+Utah,UT,Grand,$3.350,2025-01-30
+Utah,UT,Iron,$3.085,2025-01-30
+Utah,UT,Juab,$3.047,2025-01-30
+Utah,UT,Kane,$3.289,2025-01-30
+Utah,UT,Millard,$3.091,2025-01-30
+Utah,UT,Morgan,$3.146,2025-01-30
+Utah,UT,Piute,$3.304,2025-01-30
+Utah,UT,Rich,$3.239,2025-01-30
+Utah,UT,Salt Lake,$3.065,2025-01-30
+Utah,UT,San Juan,$3.342,2025-01-30
+Utah,UT,Sanpete,$3.045,2025-01-30
+Utah,UT,Sevier,$3.068,2025-01-30
+Utah,UT,Summit,$3.145,2025-01-30
+Utah,UT,Tooele,$3.014,2025-01-30
+Utah,UT,Uintah,$3.084,2025-01-30
+Utah,UT,Utah,$3.043,2025-01-30
+Utah,UT,Wasatch,$2.995,2025-01-30
+Utah,UT,Washington,$3.137,2025-01-30
+Utah,UT,Wayne,$3.191,2025-01-30
+Utah,UT,Weber,$3.033,2025-01-30
+Vermont,VT,Addison,$3.121,2025-01-30
+Vermont,VT,Bennington,$3.064,2025-01-30
+Vermont,VT,Caledonia,$3.151,2025-01-30
+Vermont,VT,Chittenden,$3.192,2025-01-30
+Vermont,VT,Essex,$3.129,2025-01-30
+Vermont,VT,Franklin,$3.230,2025-01-30
+Vermont,VT,Grand Isle,$3.209,2025-01-30
+Vermont,VT,Lamoille,$3.225,2025-01-30
+Vermont,VT,Orange,$3.162,2025-01-30
+Vermont,VT,Orleans,$3.213,2025-01-30
+Vermont,VT,Rutland,$3.010,2025-01-30
+Vermont,VT,Washington,$3.205,2025-01-30
+Vermont,VT,Windham,$3.072,2025-01-30
+Vermont,VT,Windsor,$3.058,2025-01-30
+Virginia,VA,Accomack,$3.051,2025-01-30
+Virginia,VA,Albemarle,$3.146,2025-01-30
+Virginia,VA,Alexandria City,$3.141,2025-01-30
+Virginia,VA,Alleghany,$2.999,2025-01-30
+Virginia,VA,Amelia,$3.067,2025-01-30
+Virginia,VA,Amherst,$3.009,2025-01-30
+Virginia,VA,Appomattox,$2.916,2025-01-30
+Virginia,VA,Arlington,$3.070,2025-01-30
+Virginia,VA,Augusta,$3.189,2025-01-30
+Virginia,VA,Bath,$3.062,2025-01-30
+Virginia,VA,Bedford,$2.932,2025-01-30
+Virginia,VA,Bedford City,$2.894,2025-01-30
+Virginia,VA,Bland,$2.849,2025-01-30
+Virginia,VA,Botetourt,$3.058,2025-01-30
+Virginia,VA,Bristol,$2.921,2025-01-30
+Virginia,VA,Brunswick,$2.790,2025-01-30
+Virginia,VA,Buchanan,$3.095,2025-01-30
+Virginia,VA,Buckingham,$3.116,2025-01-30
+Virginia,VA,Buena Vista City,$3.029,2025-01-30
+Virginia,VA,Campbell,$2.910,2025-01-30
+Virginia,VA,Caroline,$3.028,2025-01-30
+Virginia,VA,Carroll,$2.872,2025-01-30
+Virginia,VA,Charles City,$3.076,2025-01-30
+Virginia,VA,Charlotte,$3.003,2025-01-30
+Virginia,VA,Charlottesville City,$3.191,2025-01-30
+Virginia,VA,Chesapeake City,$2.989,2025-01-30
+Virginia,VA,Chesterfield,$3.117,2025-01-30
+Virginia,VA,Clarke,$3.118,2025-01-30
+Virginia,VA,Clifton Forge City,$3.019,2025-01-30
+Virginia,VA,Colonial Heights City,$3.067,2025-01-30
+Virginia,VA,Covington City,$2.980,2025-01-30
+Virginia,VA,Craig,$2.929,2025-01-30
+Virginia,VA,Culpeper,$3.109,2025-01-30
+Virginia,VA,Cumberland,$2.923,2025-01-30
+Virginia,VA,Danville City,$2.853,2025-01-30
+Virginia,VA,Dickenson,$2.981,2025-01-30
+Virginia,VA,Dinwiddie,$2.951,2025-01-30
+Virginia,VA,Emporia City,$2.934,2025-01-30
+Virginia,VA,Essex,$3.070,2025-01-30
+Virginia,VA,Fairfax,$3.188,2025-01-30
+Virginia,VA,Fairfax City,$3.126,2025-01-30
+Virginia,VA,Falls Church City,$3.061,2025-01-30
+Virginia,VA,Fauquier,$3.225,2025-01-30
+Virginia,VA,Floyd,$3.021,2025-01-30
+Virginia,VA,Fluvanna,$3.243,2025-01-30
+Virginia,VA,Franklin,$3.006,2025-01-30
+Virginia,VA,Franklin City,$2.835,2025-01-30
+Virginia,VA,Frederick,$3.133,2025-01-30
+Virginia,VA,Fredericksburg City,$3.131,2025-01-30
+Virginia,VA,Galax City,$2.960,2025-01-30
+Virginia,VA,Giles,$2.897,2025-01-30
+Virginia,VA,Gloucester,$2.940,2025-01-30
+Virginia,VA,Goochland,$3.089,2025-01-30
+Virginia,VA,Grayson,$2.886,2025-01-30
+Virginia,VA,Greene,$3.233,2025-01-30
+Virginia,VA,Greensville,$2.849,2025-01-30
+Virginia,VA,Halifax,$3.143,2025-01-30
+Virginia,VA,Hampton City,$2.975,2025-01-30
+Virginia,VA,Hanover,$3.138,2025-01-30
+Virginia,VA,Harrisonburg City,$3.177,2025-01-30
+Virginia,VA,Henrico,$3.109,2025-01-30
+Virginia,VA,Henry,$2.944,2025-01-30
+Virginia,VA,Highland,$3.099,2025-01-30
+Virginia,VA,Hopewell City,$3.064,2025-01-30
+Virginia,VA,Isle of Wight,$2.946,2025-01-30
+Virginia,VA,James City,$3.022,2025-01-30
+Virginia,VA,King and Queen,$2.956,2025-01-30
+Virginia,VA,King George,$3.091,2025-01-30
+Virginia,VA,King William,$3.057,2025-01-30
+Virginia,VA,Lancaster,$2.939,2025-01-30
+Virginia,VA,Lee,$2.925,2025-01-30
+Virginia,VA,Lexington City,$3.195,2025-01-30
+Virginia,VA,Loudoun,$3.210,2025-01-30
+Virginia,VA,Louisa,$3.188,2025-01-30
+Virginia,VA,Lunenburg,$2.922,2025-01-30
+Virginia,VA,Lynchburg City,$3.007,2025-01-30
+Virginia,VA,Madison,$3.219,2025-01-30
+Virginia,VA,Manassas City,$3.154,2025-01-30
+Virginia,VA,Manassas Park City,,2025-01-30
+Virginia,VA,Martinsville City,$2.971,2025-01-30
+Virginia,VA,Mathews,$2.954,2025-01-30
+Virginia,VA,Mecklenburg,$2.873,2025-01-30
+Virginia,VA,Middlesex,$2.993,2025-01-30
+Virginia,VA,Montgomery,$3.159,2025-01-30
+Virginia,VA,Nelson,$3.052,2025-01-30
+Virginia,VA,New Kent,$3.005,2025-01-30
+Virginia,VA,Newport News City,$2.997,2025-01-30
+Virginia,VA,Norfolk City,$2.988,2025-01-30
+Virginia,VA,Northampton,$3.133,2025-01-30
+Virginia,VA,Northumberland,$3.023,2025-01-30
+Virginia,VA,Norton City,$2.946,2025-01-30
+Virginia,VA,Nottoway,$3.084,2025-01-30
+Virginia,VA,Orange,$3.221,2025-01-30
+Virginia,VA,Page,$3.186,2025-01-30
+Virginia,VA,Patrick,$2.899,2025-01-30
+Virginia,VA,Petersburg City,$2.968,2025-01-30
+Virginia,VA,Pittsylvania,$2.907,2025-01-30
+Virginia,VA,Poquoson City,$3.079,2025-01-30
+Virginia,VA,Portsmouth City,$2.993,2025-01-30
+Virginia,VA,Powhatan,$2.996,2025-01-30
+Virginia,VA,Prince Edward,$2.964,2025-01-30
+Virginia,VA,Prince George,$2.990,2025-01-30
+Virginia,VA,Prince William,$3.166,2025-01-30
+Virginia,VA,Pulaski,$2.951,2025-01-30
+Virginia,VA,Radford City,$3.048,2025-01-30
+Virginia,VA,Rappahannock,$3.199,2025-01-30
+Virginia,VA,Richmond,$3.219,2025-01-30
+Virginia,VA,Richmond City,$3.139,2025-01-30
+Virginia,VA,Roanoke,$2.950,2025-01-30
+Virginia,VA,Roanoke City,$2.929,2025-01-30
+Virginia,VA,Rockbridge,$3.058,2025-01-30
+Virginia,VA,Rockingham,$3.217,2025-01-30
+Virginia,VA,Russell,$2.979,2025-01-30
+Virginia,VA,Salem,$2.984,2025-01-30
+Virginia,VA,Scott,$2.920,2025-01-30
+Virginia,VA,Shenandoah,$3.264,2025-01-30
+Virginia,VA,Smyth,$2.945,2025-01-30
+Virginia,VA,Southampton,$2.833,2025-01-30
+Virginia,VA,Spotsylvania,$3.113,2025-01-30
+Virginia,VA,Stafford,$3.121,2025-01-30
+Virginia,VA,Staunton City,$3.122,2025-01-30
+Virginia,VA,Suffolk City,$2.951,2025-01-30
+Virginia,VA,Surry,$2.986,2025-01-30
+Virginia,VA,Sussex,$3.008,2025-01-30
+Virginia,VA,Tazewell,$2.966,2025-01-30
+Virginia,VA,Virginia Beach City,$3.014,2025-01-30
+Virginia,VA,Warren,$2.995,2025-01-30
+Virginia,VA,Washington,$2.948,2025-01-30
+Virginia,VA,Waynesboro City,$3.179,2025-01-30
+Virginia,VA,Westmoreland,$3.129,2025-01-30
+Virginia,VA,Williamsburg City,,2025-01-30
+Virginia,VA,Winchester City,$3.097,2025-01-30
+Virginia,VA,Wise,$2.993,2025-01-30
+Virginia,VA,Wythe,$2.883,2025-01-30
+Virginia,VA,York,$2.900,2025-01-30
+Washington,WA,Adams,$3.960,2025-01-30
+Washington,WA,Asotin,$3.224,2025-01-30
+Washington,WA,Benton,$3.638,2025-01-30
+Washington,WA,Chelan,$3.777,2025-01-30
+Washington,WA,Clallam,$3.939,2025-01-30
+Washington,WA,Clark,$3.879,2025-01-30
+Washington,WA,Columbia,$3.897,2025-01-30
+Washington,WA,Cowlitz,$3.977,2025-01-30
+Washington,WA,Douglas,$3.683,2025-01-30
+Washington,WA,Ferry,$3.629,2025-01-30
+Washington,WA,Franklin,$3.650,2025-01-30
+Washington,WA,Garfield,$4.029,2025-01-30
+Washington,WA,Grant,$3.860,2025-01-30
+Washington,WA,Grays Harbor,$4.043,2025-01-30
+Washington,WA,Island,$3.952,2025-01-30
+Washington,WA,Jefferson,$4.278,2025-01-30
+Washington,WA,King,$4.259,2025-01-30
+Washington,WA,Kitsap,$4.078,2025-01-30
+Washington,WA,Kittitas,$3.803,2025-01-30
+Washington,WA,Klickitat,$3.915,2025-01-30
+Washington,WA,Lewis,$3.994,2025-01-30
+Washington,WA,Lincoln,$3.715,2025-01-30
+Washington,WA,Mason,$4.012,2025-01-30
+Washington,WA,Okanogan,$3.800,2025-01-30
+Washington,WA,Pacific,$4.365,2025-01-30
+Washington,WA,Pend Oreille,$3.669,2025-01-30
+Washington,WA,Pierce,$4.012,2025-01-30
+Washington,WA,San Juan,$4.702,2025-01-30
+Washington,WA,Skagit,$3.781,2025-01-30
+Washington,WA,Skamania,$3.999,2025-01-30
+Washington,WA,Snohomish,$3.967,2025-01-30
+Washington,WA,Spokane,$3.565,2025-01-30
+Washington,WA,Stevens,$3.722,2025-01-30
+Washington,WA,Thurston,$3.943,2025-01-30
+Washington,WA,Wahkiakum,$4.399,2025-01-30
+Washington,WA,Walla Walla,$3.827,2025-01-30
+Washington,WA,Whatcom,$3.908,2025-01-30
+Washington,WA,Whitman,$3.810,2025-01-30
+Washington,WA,Yakima,$3.660,2025-01-30
+West Virginia,WV,Barbour,$2.696,2025-01-30
+West Virginia,WV,Berkeley,$3.165,2025-01-30
+West Virginia,WV,Boone,$2.853,2025-01-30
+West Virginia,WV,Braxton,$2.809,2025-01-30
+West Virginia,WV,Brooke,$2.999,2025-01-30
+West Virginia,WV,Cabell,$2.832,2025-01-30
+West Virginia,WV,Calhoun,$3.081,2025-01-30
+West Virginia,WV,Clay,$2.885,2025-01-30
+West Virginia,WV,Doddridge,$3.079,2025-01-30
+West Virginia,WV,Fayette,$2.998,2025-01-30
+West Virginia,WV,Gilmer,$2.999,2025-01-30
+West Virginia,WV,Grant,$3.162,2025-01-30
+West Virginia,WV,Greenbrier,$2.827,2025-01-30
+West Virginia,WV,Hampshire,$3.077,2025-01-30
+West Virginia,WV,Hancock,$2.962,2025-01-30
+West Virginia,WV,Hardy,$3.169,2025-01-30
+West Virginia,WV,Harrison,$3.052,2025-01-30
+West Virginia,WV,Jackson,$3.017,2025-01-30
+West Virginia,WV,Jefferson,$3.013,2025-01-30
+West Virginia,WV,Kanawha,$2.899,2025-01-30
+West Virginia,WV,Lewis,$2.862,2025-01-30
+West Virginia,WV,Lincoln,$2.928,2025-01-30
+West Virginia,WV,Logan,$2.947,2025-01-30
+West Virginia,WV,Marion,$2.986,2025-01-30
+West Virginia,WV,Marshall,$2.774,2025-01-30
+West Virginia,WV,Mason,$2.921,2025-01-30
+West Virginia,WV,McDowell,$2.988,2025-01-30
+West Virginia,WV,Mercer,$3.023,2025-01-30
+West Virginia,WV,Mineral,$3.018,2025-01-30
+West Virginia,WV,Mingo,$2.918,2025-01-30
+West Virginia,WV,Monongalia,$3.007,2025-01-30
+West Virginia,WV,Monroe,$3.099,2025-01-30
+West Virginia,WV,Morgan,$3.179,2025-01-30
+West Virginia,WV,Nicholas,$2.978,2025-01-30
+West Virginia,WV,Ohio,$2.970,2025-01-30
+West Virginia,WV,Pendleton,$3.191,2025-01-30
+West Virginia,WV,Pleasants,$2.992,2025-01-30
+West Virginia,WV,Pocahontas,$2.951,2025-01-30
+West Virginia,WV,Preston,$3.173,2025-01-30
+West Virginia,WV,Putnam,$2.943,2025-01-30
+West Virginia,WV,Raleigh,$3.146,2025-01-30
+West Virginia,WV,Randolph,$2.764,2025-01-30
+West Virginia,WV,Ritchie,$3.009,2025-01-30
+West Virginia,WV,Roane,$3.019,2025-01-30
+West Virginia,WV,Summers,$3.031,2025-01-30
+West Virginia,WV,Taylor,$2.799,2025-01-30
+West Virginia,WV,Tucker,$3.174,2025-01-30
+West Virginia,WV,Tyler,$2.999,2025-01-30
+West Virginia,WV,Upshur,$2.812,2025-01-30
+West Virginia,WV,Wayne,$2.843,2025-01-30
+West Virginia,WV,Webster,$2.999,2025-01-30
+West Virginia,WV,Wetzel,$2.864,2025-01-30
+West Virginia,WV,Wirt,$2.799,2025-01-30
+West Virginia,WV,Wood,$2.805,2025-01-30
+West Virginia,WV,Wyoming,$3.092,2025-01-30
+Wisconsin,WI,Adams,$3.139,2025-01-30
+Wisconsin,WI,Ashland,$2.977,2025-01-30
+Wisconsin,WI,Barron,$2.983,2025-01-30
+Wisconsin,WI,Bayfield,$3.018,2025-01-30
+Wisconsin,WI,Brown,$2.896,2025-01-30
+Wisconsin,WI,Buffalo,$2.856,2025-01-30
+Wisconsin,WI,Burnett,$2.945,2025-01-30
+Wisconsin,WI,Calumet,$2.914,2025-01-30
+Wisconsin,WI,Chippewa,$2.919,2025-01-30
+Wisconsin,WI,Clark,$2.949,2025-01-30
+Wisconsin,WI,Columbia,$2.942,2025-01-30
+Wisconsin,WI,Crawford,$2.982,2025-01-30
+Wisconsin,WI,Dane,$2.933,2025-01-30
+Wisconsin,WI,Dodge,$2.908,2025-01-30
+Wisconsin,WI,Door,$2.982,2025-01-30
+Wisconsin,WI,Douglas,$2.933,2025-01-30
+Wisconsin,WI,Dunn,$2.901,2025-01-30
+Wisconsin,WI,Eau Claire,$2.903,2025-01-30
+Wisconsin,WI,Florence,$3.012,2025-01-30
+Wisconsin,WI,Fond du Lac,$2.923,2025-01-30
+Wisconsin,WI,Forest,$2.982,2025-01-30
+Wisconsin,WI,Grant,$3.034,2025-01-30
+Wisconsin,WI,Green,$3.006,2025-01-30
+Wisconsin,WI,Green Lake,$2.983,2025-01-30
+Wisconsin,WI,Iowa,$3.059,2025-01-30
+Wisconsin,WI,Iron,$3.076,2025-01-30
+Wisconsin,WI,Jackson,$2.914,2025-01-30
+Wisconsin,WI,Jefferson,$2.979,2025-01-30
+Wisconsin,WI,Juneau,$2.937,2025-01-30
+Wisconsin,WI,Kenosha,$2.900,2025-01-30
+Wisconsin,WI,Kewaunee,$2.963,2025-01-30
+Wisconsin,WI,La Crosse,$2.963,2025-01-30
+Wisconsin,WI,Lafayette,$3.006,2025-01-30
+Wisconsin,WI,Langlade,$3.089,2025-01-30
+Wisconsin,WI,Lincoln,$3.011,2025-01-30
+Wisconsin,WI,Manitowoc,$2.957,2025-01-30
+Wisconsin,WI,Marathon,$2.887,2025-01-30
+Wisconsin,WI,Marinette,$2.985,2025-01-30
+Wisconsin,WI,Marquette,$2.990,2025-01-30
+Wisconsin,WI,Menominee,$2.999,2025-01-30
+Wisconsin,WI,Milwaukee,$2.856,2025-01-30
+Wisconsin,WI,Monroe,$2.939,2025-01-30
+Wisconsin,WI,Oconto,$3.012,2025-01-30
+Wisconsin,WI,Oneida,$2.942,2025-01-30
+Wisconsin,WI,Outagamie,$2.912,2025-01-30
+Wisconsin,WI,Ozaukee,$2.995,2025-01-30
+Wisconsin,WI,Pepin,$2.832,2025-01-30
+Wisconsin,WI,Pierce,$2.979,2025-01-30
+Wisconsin,WI,Polk,$2.892,2025-01-30
+Wisconsin,WI,Portage,$3.027,2025-01-30
+Wisconsin,WI,Price,$2.947,2025-01-30
+Wisconsin,WI,Racine,$2.907,2025-01-30
+Wisconsin,WI,Richland,$2.828,2025-01-30
+Wisconsin,WI,Rock,$2.861,2025-01-30
+Wisconsin,WI,Rusk,$2.989,2025-01-30
+Wisconsin,WI,Sauk,$2.927,2025-01-30
+Wisconsin,WI,Sawyer,$3.085,2025-01-30
+Wisconsin,WI,Shawano,$2.966,2025-01-30
+Wisconsin,WI,Sheboygan,$2.893,2025-01-30
+Wisconsin,WI,Saint Croix,$3.011,2025-01-30
+Wisconsin,WI,Taylor,$2.942,2025-01-30
+Wisconsin,WI,Trempealeau,$2.862,2025-01-30
+Wisconsin,WI,Vernon,$2.966,2025-01-30
+Wisconsin,WI,Vilas,$3.077,2025-01-30
+Wisconsin,WI,Walworth,$2.906,2025-01-30
+Wisconsin,WI,Washburn,$2.979,2025-01-30
+Wisconsin,WI,Washington,$2.831,2025-01-30
+Wisconsin,WI,Waukesha,$2.852,2025-01-30
+Wisconsin,WI,Waupaca,$2.990,2025-01-30
+Wisconsin,WI,Waushara,$2.998,2025-01-30
+Wisconsin,WI,Winnebago,$2.857,2025-01-30
+Wisconsin,WI,Wood,$2.876,2025-01-30
+Wyoming,WY,Albany,$2.751,2025-01-30
+Wyoming,WY,Big Horn,$3.086,2025-01-30
+Wyoming,WY,Campbell,$2.999,2025-01-30
+Wyoming,WY,Carbon,$2.924,2025-01-30
+Wyoming,WY,Converse,$2.901,2025-01-30
+Wyoming,WY,Crook,$3.185,2025-01-30
+Wyoming,WY,Fremont,$3.081,2025-01-30
+Wyoming,WY,Goshen,$2.909,2025-01-30
+Wyoming,WY,Hot Springs,$3.042,2025-01-30
+Wyoming,WY,Johnson,$2.833,2025-01-30
+Wyoming,WY,Laramie,$2.918,2025-01-30
+Wyoming,WY,Lincoln,$3.085,2025-01-30
+Wyoming,WY,Natrona,$2.654,2025-01-30
+Wyoming,WY,Niobrara,$3.194,2025-01-30
+Wyoming,WY,Park,$3.189,2025-01-30
+Wyoming,WY,Platte,$3.121,2025-01-30
+Wyoming,WY,Sheridan,$3.011,2025-01-30
+Wyoming,WY,Sublette,$2.962,2025-01-30
+Wyoming,WY,Sweetwater,$3.004,2025-01-30
+Wyoming,WY,Teton,$3.214,2025-01-30
+Wyoming,WY,Uinta,$2.981,2025-01-30
+Wyoming,WY,Washakie,$2.989,2025-01-30
+Wyoming,WY,Weston,$2.988,2025-01-30
