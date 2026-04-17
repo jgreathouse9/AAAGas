@@ -1,0 +1,3142 @@
+state,abbreviation,name,price,date
+Alabama,AL,Autauga,$3.790,2026-04-17
+Alabama,AL,Baldwin,$3.746,2026-04-17
+Alabama,AL,Barbour,$3.894,2026-04-17
+Alabama,AL,Bibb,$3.854,2026-04-17
+Alabama,AL,Blount,$3.848,2026-04-17
+Alabama,AL,Bullock,$3.902,2026-04-17
+Alabama,AL,Butler,$3.904,2026-04-17
+Alabama,AL,Calhoun,$3.803,2026-04-17
+Alabama,AL,Chambers,$3.681,2026-04-17
+Alabama,AL,Cherokee,$3.741,2026-04-17
+Alabama,AL,Chilton,$3.863,2026-04-17
+Alabama,AL,Choctaw,$3.895,2026-04-17
+Alabama,AL,Clarke,$3.966,2026-04-17
+Alabama,AL,Clay,$3.932,2026-04-17
+Alabama,AL,Cleburne,$3.868,2026-04-17
+Alabama,AL,Coffee,$3.783,2026-04-17
+Alabama,AL,Colbert,$3.879,2026-04-17
+Alabama,AL,Conecuh,$3.986,2026-04-17
+Alabama,AL,Coosa,$3.855,2026-04-17
+Alabama,AL,Covington,$3.824,2026-04-17
+Alabama,AL,Crenshaw,$3.941,2026-04-17
+Alabama,AL,Cullman,$3.797,2026-04-17
+Alabama,AL,Dale,$3.814,2026-04-17
+Alabama,AL,Dallas,$3.806,2026-04-17
+Alabama,AL,De Kalb,$3.813,2026-04-17
+Alabama,AL,Elmore,$3.801,2026-04-17
+Alabama,AL,Escambia,$3.861,2026-04-17
+Alabama,AL,Etowah,$3.782,2026-04-17
+Alabama,AL,Fayette,$3.817,2026-04-17
+Alabama,AL,Franklin,$3.837,2026-04-17
+Alabama,AL,Geneva,$3.902,2026-04-17
+Alabama,AL,Greene,$3.952,2026-04-17
+Alabama,AL,Hale,$3.857,2026-04-17
+Alabama,AL,Henry,$3.804,2026-04-17
+Alabama,AL,Houston,$3.771,2026-04-17
+Alabama,AL,Jackson,$3.904,2026-04-17
+Alabama,AL,Jefferson,$3.735,2026-04-17
+Alabama,AL,Lamar,$3.896,2026-04-17
+Alabama,AL,Lauderdale,$3.869,2026-04-17
+Alabama,AL,Lawrence,$3.908,2026-04-17
+Alabama,AL,Lee,$3.750,2026-04-17
+Alabama,AL,Limestone,$3.902,2026-04-17
+Alabama,AL,Lowndes,$3.883,2026-04-17
+Alabama,AL,Macon,$3.870,2026-04-17
+Alabama,AL,Madison,$3.863,2026-04-17
+Alabama,AL,Marengo,$3.944,2026-04-17
+Alabama,AL,Marion,$3.825,2026-04-17
+Alabama,AL,Marshall,$3.854,2026-04-17
+Alabama,AL,Mobile,$3.745,2026-04-17
+Alabama,AL,Monroe,$3.877,2026-04-17
+Alabama,AL,Montgomery,$3.832,2026-04-17
+Alabama,AL,Morgan,$3.849,2026-04-17
+Alabama,AL,Perry,$4.099,2026-04-17
+Alabama,AL,Pickens,$3.889,2026-04-17
+Alabama,AL,Pike,$3.906,2026-04-17
+Alabama,AL,Randolph,$3.837,2026-04-17
+Alabama,AL,Russell,$3.841,2026-04-17
+Alabama,AL,Shelby,$3.673,2026-04-17
+Alabama,AL,Saint Clair,$3.758,2026-04-17
+Alabama,AL,Sumter,$3.858,2026-04-17
+Alabama,AL,Talladega,$3.774,2026-04-17
+Alabama,AL,Tallapoosa,$3.778,2026-04-17
+Alabama,AL,Tuscaloosa,$3.748,2026-04-17
+Alabama,AL,Walker,$3.740,2026-04-17
+Alabama,AL,Washington,$3.964,2026-04-17
+Alabama,AL,Wilcox,$4.021,2026-04-17
+Alabama,AL,Winston,$3.911,2026-04-17
+Alaska,AK,Aleutians East,,2026-04-17
+Alaska,AK,Aleutians West,,2026-04-17
+Alaska,AK,Anchorage,$4.639,2026-04-17
+Alaska,AK,Bethel,,2026-04-17
+Alaska,AK,Bristol Bay,,2026-04-17
+Alaska,AK,Denali,$4.799,2026-04-17
+Alaska,AK,Dillingham,,2026-04-17
+Alaska,AK,Fairbanks North Star,$4.614,2026-04-17
+Alaska,AK,Haines,$3.799,2026-04-17
+Alaska,AK,Juneau,$4.452,2026-04-17
+Alaska,AK,Kenai Peninsula,$4.697,2026-04-17
+Alaska,AK,Ketchikan Gateway,$4.514,2026-04-17
+Alaska,AK,Kodiak Island,$5.564,2026-04-17
+Alaska,AK,Matanuska Susitna,$4.583,2026-04-17
+Alaska,AK,Nome,,2026-04-17
+Alaska,AK,North Slope,,2026-04-17
+Alaska,AK,Northwest Arctic,,2026-04-17
+Alaska,AK,Lake and Peninsula,,2026-04-17
+Alaska,AK,Prince Wales Ketchikan,$4.759,2026-04-17
+Alaska,AK,Sitka,$4.779,2026-04-17
+Alaska,AK,Skagway Hoonah Angoon,,2026-04-17
+Alaska,AK,Southeast Fairbanks,$4.982,2026-04-17
+Alaska,AK,Valdez Cordova,$5.042,2026-04-17
+Alaska,AK,Wade Hampton,,2026-04-17
+Alaska,AK,Wrangell Petersburg,$4.999,2026-04-17
+Alaska,AK,Yakutat,,2026-04-17
+Alaska,AK,Yukon Koyukuk,$5.109,2026-04-17
+Arizona,AZ,Apache,$4.286,2026-04-17
+Arizona,AZ,Cochise,$4.381,2026-04-17
+Arizona,AZ,Coconino,$4.629,2026-04-17
+Arizona,AZ,Gila,$4.501,2026-04-17
+Arizona,AZ,Graham,$4.420,2026-04-17
+Arizona,AZ,Greenlee,$4.351,2026-04-17
+Arizona,AZ,La Paz,$4.442,2026-04-17
+Arizona,AZ,Maricopa,$4.784,2026-04-17
+Arizona,AZ,Mohave,$4.493,2026-04-17
+Arizona,AZ,Navajo,$4.502,2026-04-17
+Arizona,AZ,Pima,$4.460,2026-04-17
+Arizona,AZ,Pinal,$4.399,2026-04-17
+Arizona,AZ,Santa Cruz,$4.483,2026-04-17
+Arizona,AZ,Yavapai,$4.428,2026-04-17
+Arizona,AZ,Yuma,$4.483,2026-04-17
+Arkansas,AR,Arkansas,$3.619,2026-04-17
+Arkansas,AR,Ashley,$3.713,2026-04-17
+Arkansas,AR,Baxter,$3.505,2026-04-17
+Arkansas,AR,Benton,$3.482,2026-04-17
+Arkansas,AR,Boone,$3.524,2026-04-17
+Arkansas,AR,Bradley,$3.772,2026-04-17
+Arkansas,AR,Calhoun,$3.799,2026-04-17
+Arkansas,AR,Carroll,$3.486,2026-04-17
+Arkansas,AR,Chicot,$3.718,2026-04-17
+Arkansas,AR,Clark,$3.706,2026-04-17
+Arkansas,AR,Clay,$3.689,2026-04-17
+Arkansas,AR,Cleburne,$3.626,2026-04-17
+Arkansas,AR,Cleveland,$3.699,2026-04-17
+Arkansas,AR,Columbia,$3.907,2026-04-17
+Arkansas,AR,Conway,$3.570,2026-04-17
+Arkansas,AR,Craighead,$3.631,2026-04-17
+Arkansas,AR,Crawford,$3.465,2026-04-17
+Arkansas,AR,Crittenden,$3.774,2026-04-17
+Arkansas,AR,Cross,$3.779,2026-04-17
+Arkansas,AR,Dallas,$3.902,2026-04-17
+Arkansas,AR,Desha,$3.970,2026-04-17
+Arkansas,AR,Drew,$3.603,2026-04-17
+Arkansas,AR,Faulkner,$3.561,2026-04-17
+Arkansas,AR,Franklin,$3.551,2026-04-17
+Arkansas,AR,Fulton,$3.699,2026-04-17
+Arkansas,AR,Garland,$3.632,2026-04-17
+Arkansas,AR,Grant,$3.668,2026-04-17
+Arkansas,AR,Greene,$3.597,2026-04-17
+Arkansas,AR,Hempstead,$3.718,2026-04-17
+Arkansas,AR,Hot Spring,$3.672,2026-04-17
+Arkansas,AR,Howard,$3.778,2026-04-17
+Arkansas,AR,Independence,$3.722,2026-04-17
+Arkansas,AR,Izard,$3.849,2026-04-17
+Arkansas,AR,Jackson,$3.738,2026-04-17
+Arkansas,AR,Jefferson,$3.679,2026-04-17
+Arkansas,AR,Johnson,$3.530,2026-04-17
+Arkansas,AR,Lafayette,$4.024,2026-04-17
+Arkansas,AR,Lawrence,$3.705,2026-04-17
+Arkansas,AR,Lee,$3.874,2026-04-17
+Arkansas,AR,Lincoln,$3.774,2026-04-17
+Arkansas,AR,Little River,$3.757,2026-04-17
+Arkansas,AR,Logan,$3.561,2026-04-17
+Arkansas,AR,Lonoke,$3.591,2026-04-17
+Arkansas,AR,Madison,$3.542,2026-04-17
+Arkansas,AR,Marion,$3.514,2026-04-17
+Arkansas,AR,Miller,$3.788,2026-04-17
+Arkansas,AR,Mississippi,$3.767,2026-04-17
+Arkansas,AR,Monroe,$3.621,2026-04-17
+Arkansas,AR,Montgomery,$3.876,2026-04-17
+Arkansas,AR,Nevada,$3.615,2026-04-17
+Arkansas,AR,Newton,$3.566,2026-04-17
+Arkansas,AR,Ouachita,$3.872,2026-04-17
+Arkansas,AR,Perry,$3.674,2026-04-17
+Arkansas,AR,Phillips,$3.854,2026-04-17
+Arkansas,AR,Pike,$3.618,2026-04-17
+Arkansas,AR,Poinsett,$3.827,2026-04-17
+Arkansas,AR,Polk,$3.664,2026-04-17
+Arkansas,AR,Pope,$3.561,2026-04-17
+Arkansas,AR,Prairie,$3.570,2026-04-17
+Arkansas,AR,Pulaski,$3.637,2026-04-17
+Arkansas,AR,Randolph,$3.686,2026-04-17
+Arkansas,AR,Saline,$3.621,2026-04-17
+Arkansas,AR,Scott,$3.542,2026-04-17
+Arkansas,AR,Searcy,$3.580,2026-04-17
+Arkansas,AR,Sebastian,$3.459,2026-04-17
+Arkansas,AR,Sevier,$3.577,2026-04-17
+Arkansas,AR,Sharp,$3.714,2026-04-17
+Arkansas,AR,Saint Francis,$3.680,2026-04-17
+Arkansas,AR,Stone,$3.784,2026-04-17
+Arkansas,AR,Union,$3.885,2026-04-17
+Arkansas,AR,Van Buren,$3.510,2026-04-17
+Arkansas,AR,Washington,$3.491,2026-04-17
+Arkansas,AR,White,$3.496,2026-04-17
+Arkansas,AR,Woodruff,$3.614,2026-04-17
+Arkansas,AR,Yell,$3.550,2026-04-17
+California,CA,Alameda,$5.889,2026-04-17
+California,CA,Alpine,,2026-04-17
+California,CA,Amador,$5.785,2026-04-17
+California,CA,Butte,$5.697,2026-04-17
+California,CA,Calaveras,$5.817,2026-04-17
+California,CA,Colusa,$5.735,2026-04-17
+California,CA,Contra Costa,$5.942,2026-04-17
+California,CA,Del Norte,$5.835,2026-04-17
+California,CA,El Dorado,$5.920,2026-04-17
+California,CA,Fresno,$5.777,2026-04-17
+California,CA,Glenn,$5.773,2026-04-17
+California,CA,Humboldt,$6.343,2026-04-17
+California,CA,Imperial,$5.596,2026-04-17
+California,CA,Inyo,$6.102,2026-04-17
+California,CA,Kern,$5.844,2026-04-17
+California,CA,Kings,$5.602,2026-04-17
+California,CA,Lake,$5.885,2026-04-17
+California,CA,Lassen,$5.873,2026-04-17
+California,CA,Los Angeles,$5.954,2026-04-17
+California,CA,Madera,$5.883,2026-04-17
+California,CA,Marin,$5.995,2026-04-17
+California,CA,Mariposa,$5.947,2026-04-17
+California,CA,Mendocino,$5.834,2026-04-17
+California,CA,Merced,$5.794,2026-04-17
+California,CA,Modoc,$5.589,2026-04-17
+California,CA,Mono,$6.930,2026-04-17
+California,CA,Monterey,$6.031,2026-04-17
+California,CA,Napa,$5.988,2026-04-17
+California,CA,Nevada,$6.025,2026-04-17
+California,CA,Orange,$5.870,2026-04-17
+California,CA,Placer,$5.829,2026-04-17
+California,CA,Plumas,$5.901,2026-04-17
+California,CA,Riverside,$5.793,2026-04-17
+California,CA,Sacramento,$5.728,2026-04-17
+California,CA,San Benito,$5.926,2026-04-17
+California,CA,San Bernardino,$5.830,2026-04-17
+California,CA,San Diego,$5.890,2026-04-17
+California,CA,San Francisco,$6.007,2026-04-17
+California,CA,San Joaquin,$5.678,2026-04-17
+California,CA,San Luis Obispo,$5.988,2026-04-17
+California,CA,San Mateo,$5.975,2026-04-17
+California,CA,Santa Barbara,$5.742,2026-04-17
+California,CA,Santa Clara,$5.829,2026-04-17
+California,CA,Santa Cruz,$5.856,2026-04-17
+California,CA,Shasta,$5.681,2026-04-17
+California,CA,Sierra,$6.074,2026-04-17
+California,CA,Siskiyou,$5.862,2026-04-17
+California,CA,Solano,$5.797,2026-04-17
+California,CA,Sonoma,$6.012,2026-04-17
+California,CA,Stanislaus,$5.654,2026-04-17
+California,CA,Sutter,$5.530,2026-04-17
+California,CA,Tehama,$5.581,2026-04-17
+California,CA,Trinity,$6.025,2026-04-17
+California,CA,Tulare,$5.788,2026-04-17
+California,CA,Tuolumne,$5.664,2026-04-17
+California,CA,Ventura,$5.886,2026-04-17
+California,CA,Yolo,$5.698,2026-04-17
+California,CA,Yuba,$5.483,2026-04-17
+Colorado,CO,Adams,$3.882,2026-04-17
+Colorado,CO,Alamosa,$3.715,2026-04-17
+Colorado,CO,Arapahoe,$3.888,2026-04-17
+Colorado,CO,Archuleta,$4.198,2026-04-17
+Colorado,CO,Baca,$3.799,2026-04-17
+Colorado,CO,Bent,$3.702,2026-04-17
+Colorado,CO,Boulder,$3.927,2026-04-17
+Colorado,CO,Broomfield,$3.883,2026-04-17
+Colorado,CO,Chaffee,$4.058,2026-04-17
+Colorado,CO,Cheyenne,$3.586,2026-04-17
+Colorado,CO,Clear Creek,$4.065,2026-04-17
+Colorado,CO,Conejos,$3.882,2026-04-17
+Colorado,CO,Costilla,$3.949,2026-04-17
+Colorado,CO,Crowley,$3.929,2026-04-17
+Colorado,CO,Custer,$3.999,2026-04-17
+Colorado,CO,Delta,$4.227,2026-04-17
+Colorado,CO,Denver,$3.907,2026-04-17
+Colorado,CO,Dolores,$4.192,2026-04-17
+Colorado,CO,Douglas,$3.942,2026-04-17
+Colorado,CO,Eagle,$4.433,2026-04-17
+Colorado,CO,El Paso,$3.879,2026-04-17
+Colorado,CO,Elbert,$4.031,2026-04-17
+Colorado,CO,Fremont,$3.855,2026-04-17
+Colorado,CO,Garfield,$4.292,2026-04-17
+Colorado,CO,Gilpin,$3.999,2026-04-17
+Colorado,CO,Grand,$4.255,2026-04-17
+Colorado,CO,Gunnison,$3.989,2026-04-17
+Colorado,CO,Hinsdale,,2026-04-17
+Colorado,CO,Huerfano,$3.792,2026-04-17
+Colorado,CO,Jackson,$4.399,2026-04-17
+Colorado,CO,Jefferson,$3.886,2026-04-17
+Colorado,CO,Kiowa,$3.587,2026-04-17
+Colorado,CO,Kit Carson,$3.541,2026-04-17
+Colorado,CO,La Plata,$4.182,2026-04-17
+Colorado,CO,Lake,$4.239,2026-04-17
+Colorado,CO,Larimer,$3.928,2026-04-17
+Colorado,CO,Las Animas,$3.864,2026-04-17
+Colorado,CO,Lincoln,$3.562,2026-04-17
+Colorado,CO,Logan,$3.908,2026-04-17
+Colorado,CO,Mesa,$4.011,2026-04-17
+Colorado,CO,Mineral,$4.149,2026-04-17
+Colorado,CO,Moffat,$4.201,2026-04-17
+Colorado,CO,Montezuma,$4.203,2026-04-17
+Colorado,CO,Montrose,$4.168,2026-04-17
+Colorado,CO,Morgan,$3.834,2026-04-17
+Colorado,CO,Otero,$3.863,2026-04-17
+Colorado,CO,Ouray,$4.404,2026-04-17
+Colorado,CO,Park,$4.126,2026-04-17
+Colorado,CO,Phillips,$4.247,2026-04-17
+Colorado,CO,Pitkin,$5.447,2026-04-17
+Colorado,CO,Prowers,$3.623,2026-04-17
+Colorado,CO,Pueblo,$3.830,2026-04-17
+Colorado,CO,Rio Blanco,$4.208,2026-04-17
+Colorado,CO,Rio Grande,$3.796,2026-04-17
+Colorado,CO,Routt,$4.236,2026-04-17
+Colorado,CO,Saguache,$3.999,2026-04-17
+Colorado,CO,San Juan,$4.199,2026-04-17
+Colorado,CO,San Miguel,$4.516,2026-04-17
+Colorado,CO,Sedgwick,$4.432,2026-04-17
+Colorado,CO,Summit,$4.141,2026-04-17
+Colorado,CO,Teller,$3.944,2026-04-17
+Colorado,CO,Washington,$3.786,2026-04-17
+Colorado,CO,Weld,$3.863,2026-04-17
+Colorado,CO,Yuma,$3.794,2026-04-17
+Connecticut,CT,Fairfield,$4.135,2026-04-17
+Connecticut,CT,Hartford,$4.057,2026-04-17
+Connecticut,CT,Litchfield,$4.048,2026-04-17
+Connecticut,CT,Middlesex,$4.025,2026-04-17
+Connecticut,CT,New Haven,$4.023,2026-04-17
+Connecticut,CT,New London,$4.043,2026-04-17
+Connecticut,CT,Tolland,$4.070,2026-04-17
+Connecticut,CT,Windham,$4.106,2026-04-17
+Delaware,DE,Kent,$3.959,2026-04-17
+Delaware,DE,New castle,$3.915,2026-04-17
+Delaware,DE,Sussex,$3.979,2026-04-17
+Florida,FL,Alachua,$4.151,2026-04-17
+Florida,FL,Baker,$4.111,2026-04-17
+Florida,FL,Bay,$3.747,2026-04-17
+Florida,FL,Bradford,$4.062,2026-04-17
+Florida,FL,Brevard,$4.115,2026-04-17
+Florida,FL,Broward,$4.145,2026-04-17
+Florida,FL,Calhoun,$4.166,2026-04-17
+Florida,FL,Charlotte,$4.093,2026-04-17
+Florida,FL,Citrus,$4.151,2026-04-17
+Florida,FL,Clay,$4.113,2026-04-17
+Florida,FL,Collier,$4.181,2026-04-17
+Florida,FL,Columbia,$3.928,2026-04-17
+Florida,FL,De Soto,$4.084,2026-04-17
+Florida,FL,Dixie,$4.182,2026-04-17
+Florida,FL,Duval,$4.109,2026-04-17
+Florida,FL,Escambia,$3.778,2026-04-17
+Florida,FL,Flagler,$4.144,2026-04-17
+Florida,FL,Franklin,$4.123,2026-04-17
+Florida,FL,Gadsden,$3.992,2026-04-17
+Florida,FL,Gilchrist,$4.081,2026-04-17
+Florida,FL,Glades,$4.191,2026-04-17
+Florida,FL,Gulf,$3.881,2026-04-17
+Florida,FL,Hamilton,$3.961,2026-04-17
+Florida,FL,Hardee,$4.093,2026-04-17
+Florida,FL,Hendry,$4.063,2026-04-17
+Florida,FL,Hernando,$4.102,2026-04-17
+Florida,FL,Highlands,$4.137,2026-04-17
+Florida,FL,Hillsborough,$4.105,2026-04-17
+Florida,FL,Holmes,$4.050,2026-04-17
+Florida,FL,Indian River,$4.130,2026-04-17
+Florida,FL,Jackson,$3.951,2026-04-17
+Florida,FL,Jefferson,$4.091,2026-04-17
+Florida,FL,Lafayette,$4.124,2026-04-17
+Florida,FL,Lake,$4.092,2026-04-17
+Florida,FL,Lee,$4.125,2026-04-17
+Florida,FL,Leon,$3.988,2026-04-17
+Florida,FL,Levy,$4.230,2026-04-17
+Florida,FL,Liberty,$4.199,2026-04-17
+Florida,FL,Madison,$4.078,2026-04-17
+Florida,FL,Manatee,$4.104,2026-04-17
+Florida,FL,Marion,$4.138,2026-04-17
+Florida,FL,Martin,$4.145,2026-04-17
+Florida,FL,Miami-Dade,$4.076,2026-04-17
+Florida,FL,Monroe,$4.377,2026-04-17
+Florida,FL,Nassau,$4.200,2026-04-17
+Florida,FL,Okaloosa,$3.787,2026-04-17
+Florida,FL,Okeechobee,$4.103,2026-04-17
+Florida,FL,Orange,$4.100,2026-04-17
+Florida,FL,Osceola,$4.090,2026-04-17
+Florida,FL,Palm Beach,$4.241,2026-04-17
+Florida,FL,Pasco,$4.104,2026-04-17
+Florida,FL,Pinellas,$4.090,2026-04-17
+Florida,FL,Polk,$4.108,2026-04-17
+Florida,FL,Putnam,$4.122,2026-04-17
+Florida,FL,Santa Rosa,$3.814,2026-04-17
+Florida,FL,Sarasota,$4.119,2026-04-17
+Florida,FL,Seminole,$4.081,2026-04-17
+Florida,FL,Saint Johns,$4.110,2026-04-17
+Florida,FL,Saint Lucie,$4.134,2026-04-17
+Florida,FL,Sumter,$4.031,2026-04-17
+Florida,FL,Suwannee,$4.116,2026-04-17
+Florida,FL,Taylor,$4.038,2026-04-17
+Florida,FL,Union,$4.175,2026-04-17
+Florida,FL,Volusia,$4.111,2026-04-17
+Florida,FL,Wakulla,$4.063,2026-04-17
+Florida,FL,Walton,$3.901,2026-04-17
+Florida,FL,Washington,$4.052,2026-04-17
+Georgia,GA,Appling,$3.593,2026-04-17
+Georgia,GA,Atkinson,$3.667,2026-04-17
+Georgia,GA,Bacon,$3.639,2026-04-17
+Georgia,GA,Bibb,$3.706,2026-04-17
+Georgia,GA,Bulloch,$3.592,2026-04-17
+Georgia,GA,Baldwin,$3.530,2026-04-17
+Georgia,GA,Brantley,$3.684,2026-04-17
+Georgia,GA,Ben Hill,$3.399,2026-04-17
+Georgia,GA,Berrien,$3.627,2026-04-17
+Georgia,GA,Baker,$3.704,2026-04-17
+Georgia,GA,Bleckley,$3.657,2026-04-17
+Georgia,GA,Banks,$3.595,2026-04-17
+Georgia,GA,Brooks,$3.734,2026-04-17
+Georgia,GA,Bryan,$3.765,2026-04-17
+Georgia,GA,Butts,$3.695,2026-04-17
+Georgia,GA,Bartow,$3.548,2026-04-17
+Georgia,GA,Burke,$3.650,2026-04-17
+Georgia,GA,Barrow,$3.621,2026-04-17
+Georgia,GA,Chatham,$3.742,2026-04-17
+Georgia,GA,Cobb,$3.656,2026-04-17
+Georgia,GA,Chattahoochee,$3.732,2026-04-17
+Georgia,GA,Crawford,$3.774,2026-04-17
+Georgia,GA,Cherokee,$3.650,2026-04-17
+Georgia,GA,Coffee,$3.698,2026-04-17
+Georgia,GA,Chattooga,$3.577,2026-04-17
+Georgia,GA,Charlton,$3.820,2026-04-17
+Georgia,GA,Clinch,$3.819,2026-04-17
+Georgia,GA,Clarke,$3.568,2026-04-17
+Georgia,GA,Calhoun,$3.799,2026-04-17
+Georgia,GA,Camden,$3.722,2026-04-17
+Georgia,GA,Candler,$3.793,2026-04-17
+Georgia,GA,Cook,$3.595,2026-04-17
+Georgia,GA,Crisp,$3.591,2026-04-17
+Georgia,GA,Colquitt,$3.654,2026-04-17
+Georgia,GA,Carroll,$3.658,2026-04-17
+Georgia,GA,Catoosa,$3.539,2026-04-17
+Georgia,GA,Clayton,$3.625,2026-04-17
+Georgia,GA,Columbia,$3.516,2026-04-17
+Georgia,GA,Coweta,$3.710,2026-04-17
+Georgia,GA,Clay,$3.699,2026-04-17
+Georgia,GA,Dade,$3.487,2026-04-17
+Georgia,GA,Decatur,$3.629,2026-04-17
+Georgia,GA,Douglas,$3.660,2026-04-17
+Georgia,GA,DeKalb,$3.670,2026-04-17
+Georgia,GA,Dooly,$3.673,2026-04-17
+Georgia,GA,Dodge,$3.645,2026-04-17
+Georgia,GA,Dougherty,$3.530,2026-04-17
+Georgia,GA,Dawson,$3.655,2026-04-17
+Georgia,GA,Early,$3.793,2026-04-17
+Georgia,GA,Echols,$3.899,2026-04-17
+Georgia,GA,Effingham,$3.664,2026-04-17
+Georgia,GA,Elbert,$3.587,2026-04-17
+Georgia,GA,Emanuel,$3.766,2026-04-17
+Georgia,GA,Evans,$3.750,2026-04-17
+Georgia,GA,Fannin,$3.706,2026-04-17
+Georgia,GA,Floyd,$3.585,2026-04-17
+Georgia,GA,Forsyth,$3.671,2026-04-17
+Georgia,GA,Franklin,$3.656,2026-04-17
+Georgia,GA,Fulton,$3.804,2026-04-17
+Georgia,GA,Fayette,$3.713,2026-04-17
+Georgia,GA,Greene,$3.831,2026-04-17
+Georgia,GA,Gilmer,$3.655,2026-04-17
+Georgia,GA,Glascock,$3.649,2026-04-17
+Georgia,GA,Gordon,$3.533,2026-04-17
+Georgia,GA,Grady,$3.711,2026-04-17
+Georgia,GA,Gwinnett,$3.621,2026-04-17
+Georgia,GA,Glynn,$3.531,2026-04-17
+Georgia,GA,Habersham,$3.572,2026-04-17
+Georgia,GA,Heard,$3.816,2026-04-17
+Georgia,GA,Harris,$3.700,2026-04-17
+Georgia,GA,Hall,$3.644,2026-04-17
+Georgia,GA,Hancock,$3.776,2026-04-17
+Georgia,GA,Houston,$3.616,2026-04-17
+Georgia,GA,Haralson,$3.645,2026-04-17
+Georgia,GA,Hart,$3.609,2026-04-17
+Georgia,GA,Henry,$3.578,2026-04-17
+Georgia,GA,Irwin,$3.509,2026-04-17
+Georgia,GA,Jackson,$3.602,2026-04-17
+Georgia,GA,Jeff Davis,$3.511,2026-04-17
+Georgia,GA,Jefferson,$3.703,2026-04-17
+Georgia,GA,Jenkins,$3.609,2026-04-17
+Georgia,GA,Jones,$3.641,2026-04-17
+Georgia,GA,Johnson,$3.699,2026-04-17
+Georgia,GA,Jasper,$3.784,2026-04-17
+Georgia,GA,Lamar,$3.604,2026-04-17
+Georgia,GA,Lincoln,$3.469,2026-04-17
+Georgia,GA,Lee,$3.564,2026-04-17
+Georgia,GA,Liberty,$3.535,2026-04-17
+Georgia,GA,Lanier,$3.759,2026-04-17
+Georgia,GA,Long,$3.525,2026-04-17
+Georgia,GA,Lumpkin,$3.690,2026-04-17
+Georgia,GA,Laurens,$3.651,2026-04-17
+Georgia,GA,Lowndes,$3.703,2026-04-17
+Georgia,GA,Macon,$3.799,2026-04-17
+Georgia,GA,Mcduffie,$3.688,2026-04-17
+Georgia,GA,Madison,$3.584,2026-04-17
+Georgia,GA,Meriwether,$3.735,2026-04-17
+Georgia,GA,Montgomery,$3.723,2026-04-17
+Georgia,GA,Mcintosh,$3.718,2026-04-17
+Georgia,GA,Miller,$3.721,2026-04-17
+Georgia,GA,Morgan,$3.626,2026-04-17
+Georgia,GA,Monroe,$3.776,2026-04-17
+Georgia,GA,Marion,$3.732,2026-04-17
+Georgia,GA,Muscogee,$3.602,2026-04-17
+Georgia,GA,Mitchell,$3.727,2026-04-17
+Georgia,GA,Murray,$3.545,2026-04-17
+Georgia,GA,Newton,$3.670,2026-04-17
+Georgia,GA,Oconee,$3.573,2026-04-17
+Georgia,GA,Oglethorpe,$3.739,2026-04-17
+Georgia,GA,Peach,$3.657,2026-04-17
+Georgia,GA,Pickens,$3.584,2026-04-17
+Georgia,GA,Paulding,$3.639,2026-04-17
+Georgia,GA,Pierce,$3.709,2026-04-17
+Georgia,GA,Pike,$3.764,2026-04-17
+Georgia,GA,Pulaski,$3.761,2026-04-17
+Georgia,GA,Polk,$3.597,2026-04-17
+Georgia,GA,Putnam,$3.664,2026-04-17
+Georgia,GA,Quitman,$3.749,2026-04-17
+Georgia,GA,Randolph,$3.566,2026-04-17
+Georgia,GA,Rabun,$3.730,2026-04-17
+Georgia,GA,Richmond,$3.641,2026-04-17
+Georgia,GA,Rockdale,$3.649,2026-04-17
+Georgia,GA,Schley,$3.529,2026-04-17
+Georgia,GA,Stephens,$3.560,2026-04-17
+Georgia,GA,Seminole,$3.699,2026-04-17
+Georgia,GA,Spalding,$3.732,2026-04-17
+Georgia,GA,Screven,$3.785,2026-04-17
+Georgia,GA,Stewart,$3.772,2026-04-17
+Georgia,GA,Sumter,$3.521,2026-04-17
+Georgia,GA,Taliaferro,$3.724,2026-04-17
+Georgia,GA,Talbot,$3.864,2026-04-17
+Georgia,GA,Treutlen,$3.689,2026-04-17
+Georgia,GA,Telfair,$3.665,2026-04-17
+Georgia,GA,Thomas,$3.639,2026-04-17
+Georgia,GA,Tift,$3.695,2026-04-17
+Georgia,GA,Terrell,$3.506,2026-04-17
+Georgia,GA,Toombs,$3.673,2026-04-17
+Georgia,GA,Towns,$3.621,2026-04-17
+Georgia,GA,Troup,$3.597,2026-04-17
+Georgia,GA,Tattnall,$3.738,2026-04-17
+Georgia,GA,Turner,$3.739,2026-04-17
+Georgia,GA,Twiggs,$3.819,2026-04-17
+Georgia,GA,Taylor,$3.735,2026-04-17
+Georgia,GA,Union,$3.570,2026-04-17
+Georgia,GA,Upson,$3.616,2026-04-17
+Georgia,GA,Ware,$3.472,2026-04-17
+Georgia,GA,Wilcox,$3.746,2026-04-17
+Georgia,GA,Wheeler,$3.677,2026-04-17
+Georgia,GA,Washington,$3.615,2026-04-17
+Georgia,GA,Whitfield,$3.474,2026-04-17
+Georgia,GA,Wilkinson,$3.599,2026-04-17
+Georgia,GA,Walker,$3.635,2026-04-17
+Georgia,GA,Wilkes,$3.681,2026-04-17
+Georgia,GA,Walton,$3.609,2026-04-17
+Georgia,GA,Worth,$3.729,2026-04-17
+Georgia,GA,Warren,$3.749,2026-04-17
+Georgia,GA,Webster,$3.649,2026-04-17
+Georgia,GA,White,$3.569,2026-04-17
+Georgia,GA,Wayne,$3.489,2026-04-17
+Hawaii,HI,Hawaii,$5.728,2026-04-17
+Hawaii,HI,Honolulu,$5.643,2026-04-17
+Hawaii,HI,Kalawao,,2026-04-17
+Hawaii,HI,Kauai,$5.967,2026-04-17
+Hawaii,HI,Maui,$5.697,2026-04-17
+Idaho,ID,Ada,$4.389,2026-04-17
+Idaho,ID,Adams,$4.497,2026-04-17
+Idaho,ID,Bannock,$4.350,2026-04-17
+Idaho,ID,Bear Lake,$4.441,2026-04-17
+Idaho,ID,Benewah,$4.196,2026-04-17
+Idaho,ID,Bingham,$4.302,2026-04-17
+Idaho,ID,Blaine,$4.656,2026-04-17
+Idaho,ID,Boise,$4.766,2026-04-17
+Idaho,ID,Bonner,$4.132,2026-04-17
+Idaho,ID,Bonneville,$4.300,2026-04-17
+Idaho,ID,Boundary,$4.185,2026-04-17
+Idaho,ID,Butte,$4.319,2026-04-17
+Idaho,ID,Camas,$4.599,2026-04-17
+Idaho,ID,Canyon,$4.356,2026-04-17
+Idaho,ID,Caribou,$4.377,2026-04-17
+Idaho,ID,Cassia,$4.340,2026-04-17
+Idaho,ID,Clark,$4.559,2026-04-17
+Idaho,ID,Clearwater,$4.199,2026-04-17
+Idaho,ID,Custer,$4.386,2026-04-17
+Idaho,ID,Elmore,$4.322,2026-04-17
+Idaho,ID,Franklin,$4.172,2026-04-17
+Idaho,ID,Fremont,$4.587,2026-04-17
+Idaho,ID,Gem,$4.376,2026-04-17
+Idaho,ID,Gooding,$4.367,2026-04-17
+Idaho,ID,Idaho,$4.295,2026-04-17
+Idaho,ID,Jefferson,$4.329,2026-04-17
+Idaho,ID,Jerome,$4.376,2026-04-17
+Idaho,ID,Kootenai,$4.128,2026-04-17
+Idaho,ID,Latah,$4.419,2026-04-17
+Idaho,ID,Lemhi,$4.237,2026-04-17
+Idaho,ID,Lewis,$4.179,2026-04-17
+Idaho,ID,Lincoln,$4.416,2026-04-17
+Idaho,ID,Madison,$4.248,2026-04-17
+Idaho,ID,Minidoka,$4.248,2026-04-17
+Idaho,ID,Nez perce,$4.077,2026-04-17
+Idaho,ID,Oneida,$4.399,2026-04-17
+Idaho,ID,Owyhee,$4.459,2026-04-17
+Idaho,ID,Payette,$4.456,2026-04-17
+Idaho,ID,Power,$4.361,2026-04-17
+Idaho,ID,Shoshone,$4.439,2026-04-17
+Idaho,ID,Teton,$4.380,2026-04-17
+Idaho,ID,Twin falls,$4.356,2026-04-17
+Idaho,ID,Valley,$4.596,2026-04-17
+Idaho,ID,Washington,$4.414,2026-04-17
+Illinois,IL,Adams,$4.121,2026-04-17
+Illinois,IL,Alexander,$4.299,2026-04-17
+Illinois,IL,Bond,$4.264,2026-04-17
+Illinois,IL,Boone,$4.293,2026-04-17
+Illinois,IL,Brown,$3.989,2026-04-17
+Illinois,IL,Bureau,$4.168,2026-04-17
+Illinois,IL,Calhoun,$4.299,2026-04-17
+Illinois,IL,Carroll,$4.227,2026-04-17
+Illinois,IL,Cass,$4.182,2026-04-17
+Illinois,IL,Champaign,$4.194,2026-04-17
+Illinois,IL,Christian,$4.217,2026-04-17
+Illinois,IL,Clark,$4.155,2026-04-17
+Illinois,IL,Clay,$4.216,2026-04-17
+Illinois,IL,Clinton,$4.265,2026-04-17
+Illinois,IL,Coles,$4.112,2026-04-17
+Illinois,IL,Cook,$4.583,2026-04-17
+Illinois,IL,Crawford,$4.185,2026-04-17
+Illinois,IL,Cumberland,$4.199,2026-04-17
+Illinois,IL,Dewitt,$4.168,2026-04-17
+Illinois,IL,De Kalb,$4.243,2026-04-17
+Illinois,IL,Douglas,$4.212,2026-04-17
+Illinois,IL,Du Page,$4.400,2026-04-17
+Illinois,IL,Edgar,$4.173,2026-04-17
+Illinois,IL,Edwards,$4.299,2026-04-17
+Illinois,IL,Effingham,$3.900,2026-04-17
+Illinois,IL,Fayette,$4.194,2026-04-17
+Illinois,IL,Ford,$4.210,2026-04-17
+Illinois,IL,Franklin,$4.188,2026-04-17
+Illinois,IL,Fulton,$4.213,2026-04-17
+Illinois,IL,Gallatin,$4.099,2026-04-17
+Illinois,IL,Greene,$4.290,2026-04-17
+Illinois,IL,Grundy,$4.235,2026-04-17
+Illinois,IL,Hamilton,$4.261,2026-04-17
+Illinois,IL,Hancock,$4.205,2026-04-17
+Illinois,IL,Hardin,$4.199,2026-04-17
+Illinois,IL,Henderson,$4.274,2026-04-17
+Illinois,IL,Henry,$4.249,2026-04-17
+Illinois,IL,Iroquois,$4.036,2026-04-17
+Illinois,IL,Jackson,$4.320,2026-04-17
+Illinois,IL,Jasper,$4.199,2026-04-17
+Illinois,IL,Jefferson,$4.195,2026-04-17
+Illinois,IL,Jersey,$4.299,2026-04-17
+Illinois,IL,Jo Daviess,$4.192,2026-04-17
+Illinois,IL,Johnson,$4.282,2026-04-17
+Illinois,IL,Kane,$4.351,2026-04-17
+Illinois,IL,Kankakee,$4.074,2026-04-17
+Illinois,IL,Kendall,$4.253,2026-04-17
+Illinois,IL,Knox,$4.212,2026-04-17
+Illinois,IL,La Salle,$4.111,2026-04-17
+Illinois,IL,Lake,$4.358,2026-04-17
+Illinois,IL,Lawrence,$4.179,2026-04-17
+Illinois,IL,Lee,$4.111,2026-04-17
+Illinois,IL,Livingston,$4.152,2026-04-17
+Illinois,IL,Logan,$4.337,2026-04-17
+Illinois,IL,Macon,$4.090,2026-04-17
+Illinois,IL,Macoupin,$4.254,2026-04-17
+Illinois,IL,Madison,$4.289,2026-04-17
+Illinois,IL,Marion,$4.254,2026-04-17
+Illinois,IL,Marshall,$4.178,2026-04-17
+Illinois,IL,Mason,$4.173,2026-04-17
+Illinois,IL,Massac,$4.139,2026-04-17
+Illinois,IL,McDonough,$4.076,2026-04-17
+Illinois,IL,McHenry,$4.267,2026-04-17
+Illinois,IL,McLean,$4.094,2026-04-17
+Illinois,IL,Menard,$4.226,2026-04-17
+Illinois,IL,Mercer,$4.239,2026-04-17
+Illinois,IL,Monroe,$4.299,2026-04-17
+Illinois,IL,Montgomery,$4.187,2026-04-17
+Illinois,IL,Morgan,$4.106,2026-04-17
+Illinois,IL,Moultrie,$4.185,2026-04-17
+Illinois,IL,Ogle,$4.174,2026-04-17
+Illinois,IL,Peoria,$4.264,2026-04-17
+Illinois,IL,Perry,$4.282,2026-04-17
+Illinois,IL,Piatt,$4.113,2026-04-17
+Illinois,IL,Pike,$4.235,2026-04-17
+Illinois,IL,Pope,$4.174,2026-04-17
+Illinois,IL,Pulaski,$4.399,2026-04-17
+Illinois,IL,Putnam,$4.149,2026-04-17
+Illinois,IL,Randolph,$4.262,2026-04-17
+Illinois,IL,Richland,$4.181,2026-04-17
+Illinois,IL,Rock Island,$4.170,2026-04-17
+Illinois,IL,Saline,$4.208,2026-04-17
+Illinois,IL,Sangamon,$4.180,2026-04-17
+Illinois,IL,Schuyler,$4.009,2026-04-17
+Illinois,IL,Scott,$3.994,2026-04-17
+Illinois,IL,Shelby,$4.126,2026-04-17
+Illinois,IL,Saint Clair,$4.308,2026-04-17
+Illinois,IL,Stark,$4.299,2026-04-17
+Illinois,IL,Stephenson,$4.243,2026-04-17
+Illinois,IL,Tazewell,$4.159,2026-04-17
+Illinois,IL,Union,$4.216,2026-04-17
+Illinois,IL,Vermilion,$4.173,2026-04-17
+Illinois,IL,Wabash,$4.084,2026-04-17
+Illinois,IL,Warren,$4.195,2026-04-17
+Illinois,IL,Washington,$4.263,2026-04-17
+Illinois,IL,Wayne,$4.263,2026-04-17
+Illinois,IL,White,$4.222,2026-04-17
+Illinois,IL,Whiteside,$4.176,2026-04-17
+Illinois,IL,Will,$4.356,2026-04-17
+Illinois,IL,Williamson,$4.199,2026-04-17
+Illinois,IL,Winnebago,$4.222,2026-04-17
+Illinois,IL,Woodford,$4.210,2026-04-17
+Indiana,IN,Adams,$3.894,2026-04-17
+Indiana,IN,Allen,$3.778,2026-04-17
+Indiana,IN,Bartholomew,$3.867,2026-04-17
+Indiana,IN,Benton,$3.917,2026-04-17
+Indiana,IN,Blackford,$3.848,2026-04-17
+Indiana,IN,Boone,$3.886,2026-04-17
+Indiana,IN,Brown,$4.069,2026-04-17
+Indiana,IN,Carroll,$3.956,2026-04-17
+Indiana,IN,Cass,$3.951,2026-04-17
+Indiana,IN,Clark,$3.867,2026-04-17
+Indiana,IN,Clay,$3.795,2026-04-17
+Indiana,IN,Clinton,$3.944,2026-04-17
+Indiana,IN,Crawford,$4.085,2026-04-17
+Indiana,IN,Daviess,$3.835,2026-04-17
+Indiana,IN,De Kalb,$3.853,2026-04-17
+Indiana,IN,Dearborn,$3.800,2026-04-17
+Indiana,IN,Decatur,$3.805,2026-04-17
+Indiana,IN,Delaware,$3.751,2026-04-17
+Indiana,IN,Dubois,$3.824,2026-04-17
+Indiana,IN,Elkhart,$3.833,2026-04-17
+Indiana,IN,Fayette,$3.817,2026-04-17
+Indiana,IN,Floyd,$3.972,2026-04-17
+Indiana,IN,Fountain,$3.924,2026-04-17
+Indiana,IN,Franklin,$3.976,2026-04-17
+Indiana,IN,Fulton,$3.987,2026-04-17
+Indiana,IN,Gibson,$3.826,2026-04-17
+Indiana,IN,Grant,$3.802,2026-04-17
+Indiana,IN,Greene,$3.934,2026-04-17
+Indiana,IN,Hamilton,$3.686,2026-04-17
+Indiana,IN,Hancock,$3.738,2026-04-17
+Indiana,IN,Harrison,$3.974,2026-04-17
+Indiana,IN,Hendricks,$3.687,2026-04-17
+Indiana,IN,Henry,$3.822,2026-04-17
+Indiana,IN,Howard,$3.748,2026-04-17
+Indiana,IN,Huntington,$3.817,2026-04-17
+Indiana,IN,Jackson,$3.859,2026-04-17
+Indiana,IN,Jasper,$3.882,2026-04-17
+Indiana,IN,Jay,$3.789,2026-04-17
+Indiana,IN,Jefferson,$3.841,2026-04-17
+Indiana,IN,Jennings,$3.773,2026-04-17
+Indiana,IN,Johnson,$3.807,2026-04-17
+Indiana,IN,Knox,$3.974,2026-04-17
+Indiana,IN,Kosciusko,$3.854,2026-04-17
+Indiana,IN,La Porte,$3.872,2026-04-17
+Indiana,IN,Lagrange,$3.927,2026-04-17
+Indiana,IN,Lake,$3.827,2026-04-17
+Indiana,IN,Lawrence,$3.878,2026-04-17
+Indiana,IN,Madison,$3.786,2026-04-17
+Indiana,IN,Marion,$3.779,2026-04-17
+Indiana,IN,Marshall,$3.800,2026-04-17
+Indiana,IN,Martin,$3.829,2026-04-17
+Indiana,IN,Miami,$3.773,2026-04-17
+Indiana,IN,Monroe,$3.886,2026-04-17
+Indiana,IN,Montgomery,$3.816,2026-04-17
+Indiana,IN,Morgan,$3.812,2026-04-17
+Indiana,IN,Newton,$3.805,2026-04-17
+Indiana,IN,Noble,$3.828,2026-04-17
+Indiana,IN,Ohio,$3.829,2026-04-17
+Indiana,IN,Orange,$3.863,2026-04-17
+Indiana,IN,Owen,$4.005,2026-04-17
+Indiana,IN,Parke,$3.903,2026-04-17
+Indiana,IN,Perry,$4.037,2026-04-17
+Indiana,IN,Pike,$3.770,2026-04-17
+Indiana,IN,Porter,$3.877,2026-04-17
+Indiana,IN,Posey,$3.911,2026-04-17
+Indiana,IN,Pulaski,$4.049,2026-04-17
+Indiana,IN,Putnam,$3.949,2026-04-17
+Indiana,IN,Randolph,$3.758,2026-04-17
+Indiana,IN,Ripley,$3.968,2026-04-17
+Indiana,IN,Rush,$3.966,2026-04-17
+Indiana,IN,Scott,$3.533,2026-04-17
+Indiana,IN,Shelby,$3.803,2026-04-17
+Indiana,IN,Spencer,$3.886,2026-04-17
+Indiana,IN,St Joseph,$3.832,2026-04-17
+Indiana,IN,Starke,$3.978,2026-04-17
+Indiana,IN,Steuben,$3.791,2026-04-17
+Indiana,IN,Sullivan,$3.823,2026-04-17
+Indiana,IN,Switzerland,$3.746,2026-04-17
+Indiana,IN,Tippecanoe,$3.917,2026-04-17
+Indiana,IN,Tipton,$3.875,2026-04-17
+Indiana,IN,Union,$3.959,2026-04-17
+Indiana,IN,Vanderburgh,$3.943,2026-04-17
+Indiana,IN,Vermillion,$3.995,2026-04-17
+Indiana,IN,Vigo,$3.719,2026-04-17
+Indiana,IN,Wabash,$3.907,2026-04-17
+Indiana,IN,Warren,$3.962,2026-04-17
+Indiana,IN,Warrick,$3.970,2026-04-17
+Indiana,IN,Washington,$3.895,2026-04-17
+Indiana,IN,Wayne,$3.671,2026-04-17
+Indiana,IN,Wells,$3.747,2026-04-17
+Indiana,IN,White,$4.017,2026-04-17
+Indiana,IN,Whitley,$3.825,2026-04-17
+Iowa,IA,Adair,$3.645,2026-04-17
+Iowa,IA,Adams,$3.424,2026-04-17
+Iowa,IA,Allamakee,$3.732,2026-04-17
+Iowa,IA,Appanoose,$3.564,2026-04-17
+Iowa,IA,Audubon,$3.574,2026-04-17
+Iowa,IA,Benton,$3.754,2026-04-17
+Iowa,IA,Black Hawk,$3.603,2026-04-17
+Iowa,IA,Boone,$3.708,2026-04-17
+Iowa,IA,Bremer,$3.774,2026-04-17
+Iowa,IA,Buchanan,$3.779,2026-04-17
+Iowa,IA,Buena Vista,$3.604,2026-04-17
+Iowa,IA,Butler,$3.723,2026-04-17
+Iowa,IA,Calhoun,$3.636,2026-04-17
+Iowa,IA,Carroll,$3.549,2026-04-17
+Iowa,IA,Cass,$3.598,2026-04-17
+Iowa,IA,Cedar,$3.715,2026-04-17
+Iowa,IA,Cerro Gordo,$3.546,2026-04-17
+Iowa,IA,Cherokee,$3.697,2026-04-17
+Iowa,IA,Chickasaw,$3.742,2026-04-17
+Iowa,IA,Clarke,$3.582,2026-04-17
+Iowa,IA,Clay,$3.461,2026-04-17
+Iowa,IA,Clayton,$3.765,2026-04-17
+Iowa,IA,Clinton,$3.623,2026-04-17
+Iowa,IA,Crawford,$3.579,2026-04-17
+Iowa,IA,Dallas,$3.633,2026-04-17
+Iowa,IA,Davis,$3.566,2026-04-17
+Iowa,IA,Decatur,$3.542,2026-04-17
+Iowa,IA,Delaware,$3.773,2026-04-17
+Iowa,IA,Des Moines,$3.587,2026-04-17
+Iowa,IA,Dickinson,$3.684,2026-04-17
+Iowa,IA,Dubuque,$3.719,2026-04-17
+Iowa,IA,Emmet,$3.766,2026-04-17
+Iowa,IA,Fayette,$3.730,2026-04-17
+Iowa,IA,Floyd,$3.542,2026-04-17
+Iowa,IA,Franklin,$3.674,2026-04-17
+Iowa,IA,Fremont,$3.476,2026-04-17
+Iowa,IA,Greene,$3.502,2026-04-17
+Iowa,IA,Grundy,$3.679,2026-04-17
+Iowa,IA,Guthrie,$3.610,2026-04-17
+Iowa,IA,Hamilton,$3.685,2026-04-17
+Iowa,IA,Hancock,$3.687,2026-04-17
+Iowa,IA,Hardin,$3.799,2026-04-17
+Iowa,IA,Harrison,$3.580,2026-04-17
+Iowa,IA,Henry,$3.490,2026-04-17
+Iowa,IA,Howard,$3.796,2026-04-17
+Iowa,IA,Humboldt,$3.775,2026-04-17
+Iowa,IA,Ida,$3.492,2026-04-17
+Iowa,IA,Iowa,$3.630,2026-04-17
+Iowa,IA,Jackson,$3.730,2026-04-17
+Iowa,IA,Jasper,$3.497,2026-04-17
+Iowa,IA,Jefferson,$3.558,2026-04-17
+Iowa,IA,Johnson,$3.599,2026-04-17
+Iowa,IA,Jones,$3.617,2026-04-17
+Iowa,IA,Keokuk,$3.464,2026-04-17
+Iowa,IA,Kossuth,$3.686,2026-04-17
+Iowa,IA,Lee,$3.406,2026-04-17
+Iowa,IA,Linn,$3.592,2026-04-17
+Iowa,IA,Louisa,$3.599,2026-04-17
+Iowa,IA,Lucas,$3.499,2026-04-17
+Iowa,IA,Lyon,$3.693,2026-04-17
+Iowa,IA,Madison,$3.754,2026-04-17
+Iowa,IA,Mahaska,$3.333,2026-04-17
+Iowa,IA,Marion,$3.091,2026-04-17
+Iowa,IA,Marshall,$3.720,2026-04-17
+Iowa,IA,Mills,$3.458,2026-04-17
+Iowa,IA,Mitchell,$3.679,2026-04-17
+Iowa,IA,Monona,$3.730,2026-04-17
+Iowa,IA,Monroe,$3.456,2026-04-17
+Iowa,IA,Montgomery,$3.516,2026-04-17
+Iowa,IA,Muscatine,$3.612,2026-04-17
+Iowa,IA,O'Brien,,2026-04-17
+Iowa,IA,Osceola,$3.699,2026-04-17
+Iowa,IA,Page,$3.550,2026-04-17
+Iowa,IA,Palo Alto,$3.674,2026-04-17
+Iowa,IA,Plymouth,$3.849,2026-04-17
+Iowa,IA,Pocahontas,$3.557,2026-04-17
+Iowa,IA,Polk,$3.642,2026-04-17
+Iowa,IA,Pottawattamie,$3.498,2026-04-17
+Iowa,IA,Poweshiek,$3.635,2026-04-17
+Iowa,IA,Ringgold,$3.499,2026-04-17
+Iowa,IA,Sac,$3.547,2026-04-17
+Iowa,IA,Scott,$3.550,2026-04-17
+Iowa,IA,Shelby,$3.549,2026-04-17
+Iowa,IA,Sioux,$3.589,2026-04-17
+Iowa,IA,Story,$3.676,2026-04-17
+Iowa,IA,Tama,$3.807,2026-04-17
+Iowa,IA,Taylor,$3.436,2026-04-17
+Iowa,IA,Union,$3.490,2026-04-17
+Iowa,IA,Van Buren,$3.464,2026-04-17
+Iowa,IA,Wapello,$3.443,2026-04-17
+Iowa,IA,Warren,$3.687,2026-04-17
+Iowa,IA,Washington,$3.704,2026-04-17
+Iowa,IA,Wayne,$3.511,2026-04-17
+Iowa,IA,Webster,$3.526,2026-04-17
+Iowa,IA,Winnebago,$3.786,2026-04-17
+Iowa,IA,Winneshiek,$3.791,2026-04-17
+Iowa,IA,Woodbury,$3.510,2026-04-17
+Iowa,IA,Worth,$3.682,2026-04-17
+Iowa,IA,Wright,$3.762,2026-04-17
+Kansas,KS,Allen,$3.599,2026-04-17
+Kansas,KS,Anderson,$3.589,2026-04-17
+Kansas,KS,Atchison,$3.379,2026-04-17
+Kansas,KS,Barber,$3.676,2026-04-17
+Kansas,KS,Barton,$3.489,2026-04-17
+Kansas,KS,Bourbon,$3.597,2026-04-17
+Kansas,KS,Brown,$3.442,2026-04-17
+Kansas,KS,Butler,$3.520,2026-04-17
+Kansas,KS,Chase,$3.462,2026-04-17
+Kansas,KS,Chautauqua,$3.586,2026-04-17
+Kansas,KS,Cherokee,$3.462,2026-04-17
+Kansas,KS,Cheyenne,$3.537,2026-04-17
+Kansas,KS,Clark,$3.479,2026-04-17
+Kansas,KS,Clay,$3.511,2026-04-17
+Kansas,KS,Cloud,$3.599,2026-04-17
+Kansas,KS,Coffey,$3.543,2026-04-17
+Kansas,KS,Comanche,$3.389,2026-04-17
+Kansas,KS,Cowley,$3.424,2026-04-17
+Kansas,KS,Crawford,$3.529,2026-04-17
+Kansas,KS,Decatur,$3.409,2026-04-17
+Kansas,KS,Dickinson,$3.393,2026-04-17
+Kansas,KS,Doniphan,$3.473,2026-04-17
+Kansas,KS,Douglas,$3.570,2026-04-17
+Kansas,KS,Edwards,$3.413,2026-04-17
+Kansas,KS,Elk,$3.449,2026-04-17
+Kansas,KS,Ellis,$3.519,2026-04-17
+Kansas,KS,Ellsworth,$3.591,2026-04-17
+Kansas,KS,Finney,$3.393,2026-04-17
+Kansas,KS,Ford,$3.352,2026-04-17
+Kansas,KS,Franklin,$3.467,2026-04-17
+Kansas,KS,Geary,$3.579,2026-04-17
+Kansas,KS,Gove,$3.529,2026-04-17
+Kansas,KS,Graham,$3.494,2026-04-17
+Kansas,KS,Grant,$3.485,2026-04-17
+Kansas,KS,Gray,$3.445,2026-04-17
+Kansas,KS,Greeley,$3.599,2026-04-17
+Kansas,KS,Greenwood,$3.519,2026-04-17
+Kansas,KS,Hamilton,$3.502,2026-04-17
+Kansas,KS,Harper,$3.499,2026-04-17
+Kansas,KS,Harvey,$3.321,2026-04-17
+Kansas,KS,Haskell,$3.477,2026-04-17
+Kansas,KS,Hodgeman,$3.419,2026-04-17
+Kansas,KS,Jackson,$3.517,2026-04-17
+Kansas,KS,Jefferson,$3.607,2026-04-17
+Kansas,KS,Jewell,$3.699,2026-04-17
+Kansas,KS,Johnson,$3.550,2026-04-17
+Kansas,KS,Kearny,$3.471,2026-04-17
+Kansas,KS,Kingman,$3.527,2026-04-17
+Kansas,KS,Kiowa,$3.489,2026-04-17
+Kansas,KS,Labette,$3.591,2026-04-17
+Kansas,KS,Lane,$3.399,2026-04-17
+Kansas,KS,Leavenworth,$3.511,2026-04-17
+Kansas,KS,Lincoln,,2026-04-17
+Kansas,KS,Linn,$3.583,2026-04-17
+Kansas,KS,Logan,$3.447,2026-04-17
+Kansas,KS,Lyon,$3.341,2026-04-17
+Kansas,KS,Marion,$3.438,2026-04-17
+Kansas,KS,Marshall,$3.597,2026-04-17
+Kansas,KS,Mcpherson,$3.368,2026-04-17
+Kansas,KS,Meade,$3.431,2026-04-17
+Kansas,KS,Miami,$3.571,2026-04-17
+Kansas,KS,Mitchell,$3.574,2026-04-17
+Kansas,KS,Montgomery,$3.568,2026-04-17
+Kansas,KS,Morris,$3.415,2026-04-17
+Kansas,KS,Morton,$3.439,2026-04-17
+Kansas,KS,Nemaha,$3.630,2026-04-17
+Kansas,KS,Neosho,$3.599,2026-04-17
+Kansas,KS,Ness,$3.451,2026-04-17
+Kansas,KS,Norton,$3.479,2026-04-17
+Kansas,KS,Osage,$3.535,2026-04-17
+Kansas,KS,Osborne,$3.471,2026-04-17
+Kansas,KS,Ottawa,$3.499,2026-04-17
+Kansas,KS,Pawnee,$3.459,2026-04-17
+Kansas,KS,Phillips,$3.589,2026-04-17
+Kansas,KS,Pottawatomie,$3.537,2026-04-17
+Kansas,KS,Pratt,$3.503,2026-04-17
+Kansas,KS,Rawlins,$3.579,2026-04-17
+Kansas,KS,Reno,$3.417,2026-04-17
+Kansas,KS,Republic,$3.669,2026-04-17
+Kansas,KS,Rice,$3.506,2026-04-17
+Kansas,KS,Riley,$3.558,2026-04-17
+Kansas,KS,Rooks,$3.333,2026-04-17
+Kansas,KS,Rush,$3.384,2026-04-17
+Kansas,KS,Russell,$3.458,2026-04-17
+Kansas,KS,Saline,$3.460,2026-04-17
+Kansas,KS,Scott,$3.428,2026-04-17
+Kansas,KS,Sedgwick,$3.390,2026-04-17
+Kansas,KS,Seward,$3.565,2026-04-17
+Kansas,KS,Shawnee,$3.518,2026-04-17
+Kansas,KS,Sheridan,$3.389,2026-04-17
+Kansas,KS,Sherman,$3.466,2026-04-17
+Kansas,KS,Smith,$3.579,2026-04-17
+Kansas,KS,Stafford,$3.499,2026-04-17
+Kansas,KS,Stanton,$3.599,2026-04-17
+Kansas,KS,Stevens,$3.624,2026-04-17
+Kansas,KS,Sumner,$3.533,2026-04-17
+Kansas,KS,Thomas,$3.433,2026-04-17
+Kansas,KS,Trego,$3.319,2026-04-17
+Kansas,KS,Wabaunsee,$3.459,2026-04-17
+Kansas,KS,Wallace,$3.469,2026-04-17
+Kansas,KS,Washington,$3.482,2026-04-17
+Kansas,KS,Wichita,$3.466,2026-04-17
+Kansas,KS,Wilson,$3.573,2026-04-17
+Kansas,KS,Woodson,$3.566,2026-04-17
+Kansas,KS,Wyandotte,$3.535,2026-04-17
+Kentucky,KY,Adair,$4.021,2026-04-17
+Kentucky,KY,Allen,$3.927,2026-04-17
+Kentucky,KY,Anderson,$4.028,2026-04-17
+Kentucky,KY,Ballard,$3.796,2026-04-17
+Kentucky,KY,Barren,$4.012,2026-04-17
+Kentucky,KY,Bath,$3.999,2026-04-17
+Kentucky,KY,Bell,$3.795,2026-04-17
+Kentucky,KY,Boone,$3.650,2026-04-17
+Kentucky,KY,Bourbon,$3.992,2026-04-17
+Kentucky,KY,Boyd,$3.715,2026-04-17
+Kentucky,KY,Boyle,$3.959,2026-04-17
+Kentucky,KY,Bracken,$3.809,2026-04-17
+Kentucky,KY,Breathitt,$4.144,2026-04-17
+Kentucky,KY,Breckinridge,$3.964,2026-04-17
+Kentucky,KY,Bullitt,$3.892,2026-04-17
+Kentucky,KY,Butler,$3.864,2026-04-17
+Kentucky,KY,Caldwell,$3.959,2026-04-17
+Kentucky,KY,Calloway,$3.731,2026-04-17
+Kentucky,KY,Campbell,$3.800,2026-04-17
+Kentucky,KY,Carlisle,$3.684,2026-04-17
+Kentucky,KY,Carroll,$3.834,2026-04-17
+Kentucky,KY,Carter,$3.760,2026-04-17
+Kentucky,KY,Casey,$4.004,2026-04-17
+Kentucky,KY,Christian,$3.854,2026-04-17
+Kentucky,KY,Clark,$3.993,2026-04-17
+Kentucky,KY,Clay,$3.980,2026-04-17
+Kentucky,KY,Clinton,$3.949,2026-04-17
+Kentucky,KY,Crittenden,$3.899,2026-04-17
+Kentucky,KY,Cumberland,$4.022,2026-04-17
+Kentucky,KY,Daviess,$3.816,2026-04-17
+Kentucky,KY,Edmonson,$3.959,2026-04-17
+Kentucky,KY,Elliott,$3.859,2026-04-17
+Kentucky,KY,Estill,$4.029,2026-04-17
+Kentucky,KY,Fayette,$4.135,2026-04-17
+Kentucky,KY,Fleming,$3.942,2026-04-17
+Kentucky,KY,Floyd,$4.031,2026-04-17
+Kentucky,KY,Franklin,$4.002,2026-04-17
+Kentucky,KY,Fulton,$3.860,2026-04-17
+Kentucky,KY,Gallatin,$3.915,2026-04-17
+Kentucky,KY,Garrard,$3.989,2026-04-17
+Kentucky,KY,Grant,$3.861,2026-04-17
+Kentucky,KY,Graves,$3.781,2026-04-17
+Kentucky,KY,Grayson,$4.043,2026-04-17
+Kentucky,KY,Green,$3.961,2026-04-17
+Kentucky,KY,Greenup,$3.710,2026-04-17
+Kentucky,KY,Hancock,$3.884,2026-04-17
+Kentucky,KY,Hardin,$3.979,2026-04-17
+Kentucky,KY,Harlan,$3.982,2026-04-17
+Kentucky,KY,Harrison,$4.009,2026-04-17
+Kentucky,KY,Hart,$3.991,2026-04-17
+Kentucky,KY,Henderson,$3.631,2026-04-17
+Kentucky,KY,Henry,$3.975,2026-04-17
+Kentucky,KY,Hickman,$3.799,2026-04-17
+Kentucky,KY,Hopkins,$3.798,2026-04-17
+Kentucky,KY,Jackson,$3.984,2026-04-17
+Kentucky,KY,Jefferson,$4.073,2026-04-17
+Kentucky,KY,Jessamine,$3.929,2026-04-17
+Kentucky,KY,Johnson,$4.144,2026-04-17
+Kentucky,KY,Kenton,$3.778,2026-04-17
+Kentucky,KY,Knott,$4.032,2026-04-17
+Kentucky,KY,Knox,$3.915,2026-04-17
+Kentucky,KY,Larue,$3.820,2026-04-17
+Kentucky,KY,Laurel,$3.934,2026-04-17
+Kentucky,KY,Lawrence,$3.903,2026-04-17
+Kentucky,KY,Lee,$4.016,2026-04-17
+Kentucky,KY,Leslie,$3.974,2026-04-17
+Kentucky,KY,Letcher,$4.099,2026-04-17
+Kentucky,KY,Lewis,$3.892,2026-04-17
+Kentucky,KY,Lincoln,$3.948,2026-04-17
+Kentucky,KY,Livingston,$3.905,2026-04-17
+Kentucky,KY,Logan,$3.940,2026-04-17
+Kentucky,KY,Lyon,$3.997,2026-04-17
+Kentucky,KY,Madison,$4.098,2026-04-17
+Kentucky,KY,Magoffin,$4.199,2026-04-17
+Kentucky,KY,Marion,$3.820,2026-04-17
+Kentucky,KY,Marshall,$3.858,2026-04-17
+Kentucky,KY,Martin,$4.099,2026-04-17
+Kentucky,KY,Mason,$4.009,2026-04-17
+Kentucky,KY,McCracken,$3.799,2026-04-17
+Kentucky,KY,McCreary,$4.121,2026-04-17
+Kentucky,KY,McLean,$3.956,2026-04-17
+Kentucky,KY,Meade,$3.895,2026-04-17
+Kentucky,KY,Menifee,$3.926,2026-04-17
+Kentucky,KY,Mercer,$4.024,2026-04-17
+Kentucky,KY,Metcalfe,$4.013,2026-04-17
+Kentucky,KY,Monroe,$3.979,2026-04-17
+Kentucky,KY,Montgomery,$3.888,2026-04-17
+Kentucky,KY,Morgan,$3.932,2026-04-17
+Kentucky,KY,Muhlenberg,$3.787,2026-04-17
+Kentucky,KY,Nelson,$3.922,2026-04-17
+Kentucky,KY,Nicholas,$4.019,2026-04-17
+Kentucky,KY,Ohio,$3.864,2026-04-17
+Kentucky,KY,Oldham,$4.130,2026-04-17
+Kentucky,KY,Owen,$4.019,2026-04-17
+Kentucky,KY,Owsley,$4.159,2026-04-17
+Kentucky,KY,Pendleton,$3.786,2026-04-17
+Kentucky,KY,Perry,$3.973,2026-04-17
+Kentucky,KY,Pike,$4.042,2026-04-17
+Kentucky,KY,Powell,$4.017,2026-04-17
+Kentucky,KY,Pulaski,$4.059,2026-04-17
+Kentucky,KY,Robertson,$3.999,2026-04-17
+Kentucky,KY,Rockcastle,$3.969,2026-04-17
+Kentucky,KY,Rowan,$4.055,2026-04-17
+Kentucky,KY,Russell,$4.011,2026-04-17
+Kentucky,KY,Scott,$3.869,2026-04-17
+Kentucky,KY,Shelby,$4.037,2026-04-17
+Kentucky,KY,Simpson,$3.740,2026-04-17
+Kentucky,KY,Spencer,$3.834,2026-04-17
+Kentucky,KY,Taylor,$3.900,2026-04-17
+Kentucky,KY,Todd,$3.962,2026-04-17
+Kentucky,KY,Trigg,$4.010,2026-04-17
+Kentucky,KY,Trimble,$3.964,2026-04-17
+Kentucky,KY,Union,$3.891,2026-04-17
+Kentucky,KY,Warren,$3.943,2026-04-17
+Kentucky,KY,Washington,$3.881,2026-04-17
+Kentucky,KY,Wayne,$4.087,2026-04-17
+Kentucky,KY,Webster,$3.824,2026-04-17
+Kentucky,KY,Whitley,$3.916,2026-04-17
+Kentucky,KY,Wolfe,$4.135,2026-04-17
+Kentucky,KY,Woodford,$4.034,2026-04-17
+Louisiana,LA,Acadia,$3.727,2026-04-17
+Louisiana,LA,Allen,$3.937,2026-04-17
+Louisiana,LA,Ascension,$3.728,2026-04-17
+Louisiana,LA,Assumption,$3.811,2026-04-17
+Louisiana,LA,Avoyelles,$3.817,2026-04-17
+Louisiana,LA,Beauregard,$3.720,2026-04-17
+Louisiana,LA,Bienville,$3.840,2026-04-17
+Louisiana,LA,Bossier,$3.635,2026-04-17
+Louisiana,LA,Caddo,$3.711,2026-04-17
+Louisiana,LA,Calcasieu,$3.781,2026-04-17
+Louisiana,LA,Caldwell,$3.841,2026-04-17
+Louisiana,LA,Cameron,$3.949,2026-04-17
+Louisiana,LA,Catahoula,$3.828,2026-04-17
+Louisiana,LA,Claiborne,$3.999,2026-04-17
+Louisiana,LA,Concordia,$3.604,2026-04-17
+Louisiana,LA,De Soto,$3.784,2026-04-17
+Louisiana,LA,East Baton Rouge,$3.638,2026-04-17
+Louisiana,LA,East Carroll,$3.899,2026-04-17
+Louisiana,LA,East Feliciana,$3.869,2026-04-17
+Louisiana,LA,Evangeline,$3.793,2026-04-17
+Louisiana,LA,Franklin,$3.790,2026-04-17
+Louisiana,LA,Grant,$3.819,2026-04-17
+Louisiana,LA,Iberia,$3.690,2026-04-17
+Louisiana,LA,Iberville,$3.801,2026-04-17
+Louisiana,LA,Jackson,$3.815,2026-04-17
+Louisiana,LA,Jefferson,$3.741,2026-04-17
+Louisiana,LA,Jefferson Davis,$3.826,2026-04-17
+Louisiana,LA,La Salle,$3.941,2026-04-17
+Louisiana,LA,Lafayette,$3.706,2026-04-17
+Louisiana,LA,Lafourche,$3.776,2026-04-17
+Louisiana,LA,Lincoln,$3.714,2026-04-17
+Louisiana,LA,Livingston,$3.609,2026-04-17
+Louisiana,LA,Madison,$3.761,2026-04-17
+Louisiana,LA,Morehouse,$3.682,2026-04-17
+Louisiana,LA,Natchitoches,$3.742,2026-04-17
+Louisiana,LA,Orleans,$3.720,2026-04-17
+Louisiana,LA,Ouachita,$3.618,2026-04-17
+Louisiana,LA,Plaquemines,$3.892,2026-04-17
+Louisiana,LA,Pointe Coupee,$3.858,2026-04-17
+Louisiana,LA,Rapides,$3.711,2026-04-17
+Louisiana,LA,Red River,$3.769,2026-04-17
+Louisiana,LA,Richland,$3.659,2026-04-17
+Louisiana,LA,Sabine,$3.827,2026-04-17
+Louisiana,LA,Saint Bernard,$3.559,2026-04-17
+Louisiana,LA,Saint Charles,$3.690,2026-04-17
+Louisiana,LA,Saint Helena,$3.724,2026-04-17
+Louisiana,LA,Saint James,$3.889,2026-04-17
+Louisiana,LA,St John the Baptist,$3.735,2026-04-17
+Louisiana,LA,Saint Landry,$3.665,2026-04-17
+Louisiana,LA,Saint Martin,$3.659,2026-04-17
+Louisiana,LA,Saint Mary,$3.779,2026-04-17
+Louisiana,LA,Saint Tammany,$3.673,2026-04-17
+Louisiana,LA,Tangipahoa,$3.677,2026-04-17
+Louisiana,LA,Tensas,$3.849,2026-04-17
+Louisiana,LA,Terrebonne,$3.704,2026-04-17
+Louisiana,LA,Union,$3.828,2026-04-17
+Louisiana,LA,Vermilion,$3.811,2026-04-17
+Louisiana,LA,Vernon,$3.861,2026-04-17
+Louisiana,LA,Washington,$3.862,2026-04-17
+Louisiana,LA,Webster,$3.786,2026-04-17
+Louisiana,LA,West Baton Rouge,$3.632,2026-04-17
+Louisiana,LA,West Carroll,$3.586,2026-04-17
+Louisiana,LA,West Feliciana,$3.996,2026-04-17
+Louisiana,LA,Winn,$3.808,2026-04-17
+Maine,ME,Androscoggin,$3.955,2026-04-17
+Maine,ME,Aroostook,$4.052,2026-04-17
+Maine,ME,Cumberland,$3.992,2026-04-17
+Maine,ME,Franklin,$4.031,2026-04-17
+Maine,ME,Hancock,$4.015,2026-04-17
+Maine,ME,Kennebec,$3.982,2026-04-17
+Maine,ME,Knox,$4.052,2026-04-17
+Maine,ME,Lincoln,$3.948,2026-04-17
+Maine,ME,Oxford,$4.037,2026-04-17
+Maine,ME,Penobscot,$4.042,2026-04-17
+Maine,ME,Piscataquis,$3.975,2026-04-17
+Maine,ME,Sagadahoc,$4.033,2026-04-17
+Maine,ME,Somerset,$3.938,2026-04-17
+Maine,ME,Waldo,$4.002,2026-04-17
+Maine,ME,Washington,$4.072,2026-04-17
+Maine,ME,York,$3.953,2026-04-17
+Montana,MT,Beaverhead,$4.078,2026-04-17
+Montana,MT,Big Horn,$3.885,2026-04-17
+Montana,MT,Blaine,$3.935,2026-04-17
+Montana,MT,Broadwater,$3.894,2026-04-17
+Montana,MT,Carbon,$3.789,2026-04-17
+Montana,MT,Carter,$3.974,2026-04-17
+Montana,MT,Cascade,$3.833,2026-04-17
+Montana,MT,Chouteau,$3.906,2026-04-17
+Montana,MT,Custer,$3.685,2026-04-17
+Montana,MT,Daniels,$3.962,2026-04-17
+Montana,MT,Dawson,$3.632,2026-04-17
+Montana,MT,Deer Lodge,$3.916,2026-04-17
+Montana,MT,Fallon,$3.709,2026-04-17
+Montana,MT,Fergus,$3.907,2026-04-17
+Montana,MT,Flathead,$3.930,2026-04-17
+Montana,MT,Gallatin,$3.962,2026-04-17
+Montana,MT,Garfield,$3.909,2026-04-17
+Montana,MT,Glacier,$3.954,2026-04-17
+Montana,MT,Golden Valley,$4.124,2026-04-17
+Montana,MT,Granite,$3.974,2026-04-17
+Montana,MT,Hill,$3.936,2026-04-17
+Montana,MT,Jefferson,$3.897,2026-04-17
+Montana,MT,Judith Basin,$3.929,2026-04-17
+Montana,MT,Lake,$3.912,2026-04-17
+Montana,MT,Lewis and Clark,$3.903,2026-04-17
+Montana,MT,Liberty,$3.909,2026-04-17
+Montana,MT,Lincoln,$4.025,2026-04-17
+Montana,MT,Madison,$3.897,2026-04-17
+Montana,MT,McCone,$3.584,2026-04-17
+Montana,MT,Meagher,$3.979,2026-04-17
+Montana,MT,Mineral,$4.039,2026-04-17
+Montana,MT,Missoula,$3.964,2026-04-17
+Montana,MT,Musselshell,$3.999,2026-04-17
+Montana,MT,Park,$4.126,2026-04-17
+Montana,MT,Petroleum,,2026-04-17
+Montana,MT,Phillips,$3.899,2026-04-17
+Montana,MT,Pondera,$3.901,2026-04-17
+Montana,MT,Powder River,$3.989,2026-04-17
+Montana,MT,Powell,$3.912,2026-04-17
+Montana,MT,Prairie,$3.764,2026-04-17
+Montana,MT,Ravalli,$3.899,2026-04-17
+Montana,MT,Richland,$3.538,2026-04-17
+Montana,MT,Roosevelt,$3.707,2026-04-17
+Montana,MT,Rosebud,$3.847,2026-04-17
+Montana,MT,Sanders,$3.996,2026-04-17
+Montana,MT,Sheridan,$3.757,2026-04-17
+Montana,MT,Silver Bow,$3.897,2026-04-17
+Montana,MT,Stillwater,$3.832,2026-04-17
+Montana,MT,Sweet Grass,$3.786,2026-04-17
+Montana,MT,Teton,$3.859,2026-04-17
+Montana,MT,Toole,$3.895,2026-04-17
+Montana,MT,Treasure,$3.749,2026-04-17
+Montana,MT,Valley,$3.857,2026-04-17
+Montana,MT,Wheatland,$4.119,2026-04-17
+Montana,MT,Wibaux,$3.729,2026-04-17
+Montana,MT,Yellowstone,$3.820,2026-04-17
+Nebraska,NE,Adams,$3.426,2026-04-17
+Nebraska,NE,Antelope,$3.715,2026-04-17
+Nebraska,NE,Arthur,,2026-04-17
+Nebraska,NE,Banner,,2026-04-17
+Nebraska,NE,Blaine,,2026-04-17
+Nebraska,NE,Boone,$3.679,2026-04-17
+Nebraska,NE,Box Butte,$3.892,2026-04-17
+Nebraska,NE,Boyd,$3.509,2026-04-17
+Nebraska,NE,Brown,$3.649,2026-04-17
+Nebraska,NE,Buffalo,$3.641,2026-04-17
+Nebraska,NE,Burt,$3.549,2026-04-17
+Nebraska,NE,Butler,$3.604,2026-04-17
+Nebraska,NE,Cass,$3.585,2026-04-17
+Nebraska,NE,Cedar,$3.546,2026-04-17
+Nebraska,NE,Chase,$3.859,2026-04-17
+Nebraska,NE,Cherry,$3.790,2026-04-17
+Nebraska,NE,Cheyenne,$3.849,2026-04-17
+Nebraska,NE,Clay,$3.664,2026-04-17
+Nebraska,NE,Colfax,$3.712,2026-04-17
+Nebraska,NE,Cuming,$3.570,2026-04-17
+Nebraska,NE,Custer,$3.913,2026-04-17
+Nebraska,NE,Dakota,$3.542,2026-04-17
+Nebraska,NE,Dawes,$3.789,2026-04-17
+Nebraska,NE,Dawson,$3.566,2026-04-17
+Nebraska,NE,Deuel,$3.669,2026-04-17
+Nebraska,NE,Dixon,$3.819,2026-04-17
+Nebraska,NE,Dodge,$3.565,2026-04-17
+Nebraska,NE,Douglas,$3.515,2026-04-17
+Nebraska,NE,Dundy,$3.664,2026-04-17
+Nebraska,NE,Fillmore,$3.550,2026-04-17
+Nebraska,NE,Franklin,$3.594,2026-04-17
+Nebraska,NE,Frontier,$3.766,2026-04-17
+Nebraska,NE,Furnas,$3.813,2026-04-17
+Nebraska,NE,Gage,$3.718,2026-04-17
+Nebraska,NE,Garden,,2026-04-17
+Nebraska,NE,Garfield,$4.099,2026-04-17
+Nebraska,NE,Gosper,,2026-04-17
+Nebraska,NE,Grant,$3.669,2026-04-17
+Nebraska,NE,Greeley,$3.329,2026-04-17
+Nebraska,NE,Hall,$3.662,2026-04-17
+Nebraska,NE,Hamilton,$3.544,2026-04-17
+Nebraska,NE,Harlan,$3.549,2026-04-17
+Nebraska,NE,Hayes,,2026-04-17
+Nebraska,NE,Hitchcock,$4.029,2026-04-17
+Nebraska,NE,Holt,$3.614,2026-04-17
+Nebraska,NE,Hooker,$3.599,2026-04-17
+Nebraska,NE,Howard,$3.599,2026-04-17
+Nebraska,NE,Jefferson,$3.686,2026-04-17
+Nebraska,NE,Johnson,$3.579,2026-04-17
+Nebraska,NE,Kearney,$3.674,2026-04-17
+Nebraska,NE,Keith,$3.612,2026-04-17
+Nebraska,NE,Keya Paha,$4.199,2026-04-17
+Nebraska,NE,Kimball,$3.764,2026-04-17
+Nebraska,NE,Knox,$3.612,2026-04-17
+Nebraska,NE,Lancaster,$3.628,2026-04-17
+Nebraska,NE,Lincoln,$3.769,2026-04-17
+Nebraska,NE,Logan,$3.799,2026-04-17
+Nebraska,NE,Loup,$4.159,2026-04-17
+Nebraska,NE,Madison,$3.532,2026-04-17
+Nebraska,NE,McPherson,,2026-04-17
+Nebraska,NE,Merrick,$3.833,2026-04-17
+Nebraska,NE,Morrill,$3.622,2026-04-17
+Nebraska,NE,Nance,$3.459,2026-04-17
+Nebraska,NE,Nemaha,$3.559,2026-04-17
+Nebraska,NE,Nuckolls,$3.687,2026-04-17
+Nebraska,NE,Otoe,$3.535,2026-04-17
+Nebraska,NE,Pawnee,$3.549,2026-04-17
+Nebraska,NE,Perkins,$3.849,2026-04-17
+Nebraska,NE,Phelps,$3.699,2026-04-17
+Nebraska,NE,Pierce,$3.479,2026-04-17
+Nebraska,NE,Platte,$3.555,2026-04-17
+Nebraska,NE,Polk,$3.582,2026-04-17
+Nebraska,NE,Red Willow,$3.575,2026-04-17
+Nebraska,NE,Richardson,$3.519,2026-04-17
+Nebraska,NE,Rock,$3.699,2026-04-17
+Nebraska,NE,Saline,$3.509,2026-04-17
+Nebraska,NE,Sarpy,$3.537,2026-04-17
+Nebraska,NE,Saunders,$3.643,2026-04-17
+Nebraska,NE,Scotts Bluff,$3.536,2026-04-17
+Nebraska,NE,Seward,$3.613,2026-04-17
+Nebraska,NE,Sheridan,$3.899,2026-04-17
+Nebraska,NE,Sherman,$4.099,2026-04-17
+Nebraska,NE,Sioux,,2026-04-17
+Nebraska,NE,Stanton,$3.429,2026-04-17
+Nebraska,NE,Thayer,$3.589,2026-04-17
+Nebraska,NE,Thomas,$4.079,2026-04-17
+Nebraska,NE,Thurston,$3.709,2026-04-17
+Nebraska,NE,Valley,$3.974,2026-04-17
+Nebraska,NE,Washington,$3.557,2026-04-17
+Nebraska,NE,Wayne,$3.575,2026-04-17
+Nebraska,NE,Webster,$3.799,2026-04-17
+Nebraska,NE,Wheeler,$3.999,2026-04-17
+Nebraska,NE,York,$3.536,2026-04-17
+Nevada,NV,Carson City,$4.637,2026-04-17
+Nevada,NV,Churchill,$4.694,2026-04-17
+Nevada,NV,Clark,$4.996,2026-04-17
+Nevada,NV,Douglas,$4.843,2026-04-17
+Nevada,NV,Elko,$4.271,2026-04-17
+Nevada,NV,Esmeralda,$4.799,2026-04-17
+Nevada,NV,Eureka,$4.332,2026-04-17
+Nevada,NV,Humboldt,$4.460,2026-04-17
+Nevada,NV,Lander,$4.346,2026-04-17
+Nevada,NV,Lincoln,$4.617,2026-04-17
+Nevada,NV,Lyon,$4.546,2026-04-17
+Nevada,NV,Mineral,$5.202,2026-04-17
+Nevada,NV,Nye,$4.712,2026-04-17
+Nevada,NV,Pershing,$4.573,2026-04-17
+Nevada,NV,Storey,$4.649,2026-04-17
+Nevada,NV,Washoe,$5.260,2026-04-17
+Nevada,NV,White Pine,$4.407,2026-04-17
+New Hampshire,NH,Belknap,$3.928,2026-04-17
+New Hampshire,NH,Carroll,$3.973,2026-04-17
+New Hampshire,NH,Cheshire,$3.988,2026-04-17
+New Hampshire,NH,Coos,$3.962,2026-04-17
+New Hampshire,NH,Grafton,$3.984,2026-04-17
+New Hampshire,NH,Hillsborough,$3.944,2026-04-17
+New Hampshire,NH,Merrimack,$3.903,2026-04-17
+New Hampshire,NH,Rockingham,$3.923,2026-04-17
+New Hampshire,NH,Strafford,$3.896,2026-04-17
+New Hampshire,NH,Sullivan,$3.913,2026-04-17
+New Jersey,NJ,Atlantic,$3.998,2026-04-17
+New Jersey,NJ,Bergen,$3.971,2026-04-17
+New Jersey,NJ,Burlington,$3.930,2026-04-17
+New Jersey,NJ,Camden,$3.906,2026-04-17
+New Jersey,NJ,Cape May,$4.172,2026-04-17
+New Jersey,NJ,Cumberland,$4.021,2026-04-17
+New Jersey,NJ,Essex,$4.085,2026-04-17
+New Jersey,NJ,Gloucester,$3.969,2026-04-17
+New Jersey,NJ,Hudson,$4.004,2026-04-17
+New Jersey,NJ,Hunterdon,$3.998,2026-04-17
+New Jersey,NJ,Mercer,$3.954,2026-04-17
+New Jersey,NJ,Middlesex,$3.932,2026-04-17
+New Jersey,NJ,Monmouth,$3.986,2026-04-17
+New Jersey,NJ,Morris,$3.975,2026-04-17
+New Jersey,NJ,Ocean,$3.972,2026-04-17
+New Jersey,NJ,Passaic,$3.966,2026-04-17
+New Jersey,NJ,Salem,$3.986,2026-04-17
+New Jersey,NJ,Somerset,$3.984,2026-04-17
+New Jersey,NJ,Sussex,$3.907,2026-04-17
+New Jersey,NJ,Union,$3.950,2026-04-17
+New Jersey,NJ,Warren,$3.902,2026-04-17
+New Mexico,NM,Bernalillo,$3.944,2026-04-17
+New Mexico,NM,Catron,$4.224,2026-04-17
+New Mexico,NM,Chaves,$3.608,2026-04-17
+New Mexico,NM,Cibola,$3.955,2026-04-17
+New Mexico,NM,Colfax,$4.055,2026-04-17
+New Mexico,NM,Curry,$3.537,2026-04-17
+New Mexico,NM,De Baca,$3.799,2026-04-17
+New Mexico,NM,Dona Ana,$3.914,2026-04-17
+New Mexico,NM,Eddy,$3.819,2026-04-17
+New Mexico,NM,Grant,$4.108,2026-04-17
+New Mexico,NM,Guadalupe,$3.913,2026-04-17
+New Mexico,NM,Harding,$4.849,2026-04-17
+New Mexico,NM,Hidalgo,$4.029,2026-04-17
+New Mexico,NM,Lea,$3.763,2026-04-17
+New Mexico,NM,Lincoln,$3.955,2026-04-17
+New Mexico,NM,Los Alamos,$4.149,2026-04-17
+New Mexico,NM,Luna,$4.004,2026-04-17
+New Mexico,NM,McKinley,$3.906,2026-04-17
+New Mexico,NM,Mora,$3.912,2026-04-17
+New Mexico,NM,Otero,$3.785,2026-04-17
+New Mexico,NM,Quay,$3.708,2026-04-17
+New Mexico,NM,Rio Arriba,$3.743,2026-04-17
+New Mexico,NM,Roosevelt,$3.714,2026-04-17
+New Mexico,NM,San Juan,$4.142,2026-04-17
+New Mexico,NM,San Miguel,$4.007,2026-04-17
+New Mexico,NM,Sandoval,$3.870,2026-04-17
+New Mexico,NM,Santa Fe,$3.823,2026-04-17
+New Mexico,NM,Sierra,$4.072,2026-04-17
+New Mexico,NM,Socorro,$4.021,2026-04-17
+New Mexico,NM,Taos,$4.063,2026-04-17
+New Mexico,NM,Torrance,$3.937,2026-04-17
+New Mexico,NM,Union,$3.741,2026-04-17
+New Mexico,NM,Valencia,$3.895,2026-04-17
+New York,NY,Albany,$4.104,2026-04-17
+New York,NY,Allegany,$4.070,2026-04-17
+New York,NY,Bronx,$4.169,2026-04-17
+New York,NY,Broome,$4.130,2026-04-17
+New York,NY,Cattaraugus,$3.860,2026-04-17
+New York,NY,Cayuga,$4.121,2026-04-17
+New York,NY,Chautauqua,$4.116,2026-04-17
+New York,NY,Chemung,$4.048,2026-04-17
+New York,NY,Chenango,$4.100,2026-04-17
+New York,NY,Clinton,$4.128,2026-04-17
+New York,NY,Columbia,$4.080,2026-04-17
+New York,NY,Cortland,$4.144,2026-04-17
+New York,NY,Delaware,$4.194,2026-04-17
+New York,NY,Dutchess,$4.120,2026-04-17
+New York,NY,Erie,$4.172,2026-04-17
+New York,NY,Essex,$4.300,2026-04-17
+New York,NY,Franklin,$4.215,2026-04-17
+New York,NY,Fulton,$4.094,2026-04-17
+New York,NY,Genesee,$4.167,2026-04-17
+New York,NY,Greene,$4.062,2026-04-17
+New York,NY,Hamilton,$4.259,2026-04-17
+New York,NY,Herkimer,$4.081,2026-04-17
+New York,NY,Jefferson,$4.145,2026-04-17
+New York,NY,Kings,$4.116,2026-04-17
+New York,NY,Lewis,$4.157,2026-04-17
+New York,NY,Livingston,$4.180,2026-04-17
+New York,NY,Madison,$4.132,2026-04-17
+New York,NY,Monroe,$4.175,2026-04-17
+New York,NY,Montgomery,$4.089,2026-04-17
+New York,NY,Nassau,$4.045,2026-04-17
+New York,NY,New York,$4.394,2026-04-17
+New York,NY,Niagara,$4.069,2026-04-17
+New York,NY,Oneida,$4.112,2026-04-17
+New York,NY,Onondaga,$4.146,2026-04-17
+New York,NY,Ontario,$4.181,2026-04-17
+New York,NY,Orange,$4.033,2026-04-17
+New York,NY,Orleans,$4.167,2026-04-17
+New York,NY,Oswego,$4.123,2026-04-17
+New York,NY,Otsego,$4.094,2026-04-17
+New York,NY,Putnam,$4.133,2026-04-17
+New York,NY,Queens,$4.115,2026-04-17
+New York,NY,Rensselaer,$4.070,2026-04-17
+New York,NY,Richmond,$4.167,2026-04-17
+New York,NY,Rockland,$4.216,2026-04-17
+New York,NY,Saratoga,$4.079,2026-04-17
+New York,NY,Schenectady,$4.084,2026-04-17
+New York,NY,Schoharie,$4.043,2026-04-17
+New York,NY,Schuyler,$4.049,2026-04-17
+New York,NY,Seneca,$4.140,2026-04-17
+New York,NY,Saint Lawrence,$4.256,2026-04-17
+New York,NY,Steuben,$4.111,2026-04-17
+New York,NY,Suffolk,$4.009,2026-04-17
+New York,NY,Sullivan,$4.112,2026-04-17
+New York,NY,Tioga,$4.070,2026-04-17
+New York,NY,Tompkins,$4.120,2026-04-17
+New York,NY,Ulster,$4.024,2026-04-17
+New York,NY,Warren,$4.119,2026-04-17
+New York,NY,Washington,$4.077,2026-04-17
+New York,NY,Wayne,$4.182,2026-04-17
+New York,NY,Westchester,$4.256,2026-04-17
+New York,NY,Wyoming,$4.162,2026-04-17
+New York,NY,Yates,$4.149,2026-04-17
+North Carolina,NC,Alamance,$3.840,2026-04-17
+North Carolina,NC,Alexander,$3.791,2026-04-17
+North Carolina,NC,Alleghany,$3.779,2026-04-17
+North Carolina,NC,Anson,$3.849,2026-04-17
+North Carolina,NC,Ashe,$3.668,2026-04-17
+North Carolina,NC,Avery,$3.907,2026-04-17
+North Carolina,NC,Beaufort,$3.713,2026-04-17
+North Carolina,NC,Bertie,$3.811,2026-04-17
+North Carolina,NC,Bladen,$3.879,2026-04-17
+North Carolina,NC,Brunswick,$3.770,2026-04-17
+North Carolina,NC,Buncombe,$3.885,2026-04-17
+North Carolina,NC,Burke,$3.790,2026-04-17
+North Carolina,NC,Cabarrus,$3.826,2026-04-17
+North Carolina,NC,Caldwell,$3.763,2026-04-17
+North Carolina,NC,Camden,$3.909,2026-04-17
+North Carolina,NC,Carteret,$3.909,2026-04-17
+North Carolina,NC,Caswell,$3.982,2026-04-17
+North Carolina,NC,Catawba,$3.731,2026-04-17
+North Carolina,NC,Chatham,$3.888,2026-04-17
+North Carolina,NC,Cherokee,$3.865,2026-04-17
+North Carolina,NC,Chowan,$3.899,2026-04-17
+North Carolina,NC,Clay,$3.792,2026-04-17
+North Carolina,NC,Cleveland,$3.836,2026-04-17
+North Carolina,NC,Columbus,$3.870,2026-04-17
+North Carolina,NC,Craven,$3.804,2026-04-17
+North Carolina,NC,Cumberland,$3.718,2026-04-17
+North Carolina,NC,Currituck,$3.863,2026-04-17
+North Carolina,NC,Dare,$4.016,2026-04-17
+North Carolina,NC,Davidson,$3.705,2026-04-17
+North Carolina,NC,Davie,$3.809,2026-04-17
+North Carolina,NC,Duplin,$3.864,2026-04-17
+North Carolina,NC,Durham,$3.945,2026-04-17
+North Carolina,NC,Edgecombe,$3.806,2026-04-17
+North Carolina,NC,Forsyth,$3.852,2026-04-17
+North Carolina,NC,Franklin,$3.863,2026-04-17
+North Carolina,NC,Gaston,$3.876,2026-04-17
+North Carolina,NC,Gates,$3.999,2026-04-17
+North Carolina,NC,Graham,$3.999,2026-04-17
+North Carolina,NC,Granville,$3.916,2026-04-17
+North Carolina,NC,Greene,$3.894,2026-04-17
+North Carolina,NC,Guilford,$3.811,2026-04-17
+North Carolina,NC,Halifax,$3.939,2026-04-17
+North Carolina,NC,Harnett,$3.784,2026-04-17
+North Carolina,NC,Haywood,$3.957,2026-04-17
+North Carolina,NC,Henderson,$3.893,2026-04-17
+North Carolina,NC,Hertford,$3.870,2026-04-17
+North Carolina,NC,Hoke,$3.825,2026-04-17
+North Carolina,NC,Hyde,$4.216,2026-04-17
+North Carolina,NC,Iredell,$3.819,2026-04-17
+North Carolina,NC,Jackson,$3.969,2026-04-17
+North Carolina,NC,Johnston,$3.811,2026-04-17
+North Carolina,NC,Jones,$3.949,2026-04-17
+North Carolina,NC,Lee,$3.911,2026-04-17
+North Carolina,NC,Lenoir,$3.764,2026-04-17
+North Carolina,NC,Lincoln,$3.767,2026-04-17
+North Carolina,NC,Macon,$3.967,2026-04-17
+North Carolina,NC,Madison,$3.920,2026-04-17
+North Carolina,NC,Martin,$3.713,2026-04-17
+North Carolina,NC,McDowell,$3.774,2026-04-17
+North Carolina,NC,Mecklenburg,$3.782,2026-04-17
+North Carolina,NC,Mitchell,$3.799,2026-04-17
+North Carolina,NC,Montgomery,$3.934,2026-04-17
+North Carolina,NC,Moore,$3.867,2026-04-17
+North Carolina,NC,Nash,$3.697,2026-04-17
+North Carolina,NC,New Hanover,$3.820,2026-04-17
+North Carolina,NC,Northampton,$3.953,2026-04-17
+North Carolina,NC,Onslow,$3.757,2026-04-17
+North Carolina,NC,Orange,$3.914,2026-04-17
+North Carolina,NC,Pamlico,$3.907,2026-04-17
+North Carolina,NC,Pasquotank,$3.810,2026-04-17
+North Carolina,NC,Pender,$3.875,2026-04-17
+North Carolina,NC,Perquimans,$3.889,2026-04-17
+North Carolina,NC,Person,$3.925,2026-04-17
+North Carolina,NC,Pitt,$3.667,2026-04-17
+North Carolina,NC,Polk,$3.921,2026-04-17
+North Carolina,NC,Randolph,$3.818,2026-04-17
+North Carolina,NC,Richmond,$3.779,2026-04-17
+North Carolina,NC,Robeson,$3.860,2026-04-17
+North Carolina,NC,Rockingham,$3.867,2026-04-17
+North Carolina,NC,Rowan,$3.835,2026-04-17
+North Carolina,NC,Rutherford,$3.836,2026-04-17
+North Carolina,NC,Sampson,$3.816,2026-04-17
+North Carolina,NC,Scotland,$3.820,2026-04-17
+North Carolina,NC,Stanly,$3.809,2026-04-17
+North Carolina,NC,Stokes,$3.910,2026-04-17
+North Carolina,NC,Surry,$3.800,2026-04-17
+North Carolina,NC,Swain,$3.917,2026-04-17
+North Carolina,NC,Transylvania,$3.965,2026-04-17
+North Carolina,NC,Tyrrell,$3.759,2026-04-17
+North Carolina,NC,Union,$3.773,2026-04-17
+North Carolina,NC,Vance,$3.815,2026-04-17
+North Carolina,NC,Wake,$3.852,2026-04-17
+North Carolina,NC,Warren,$3.987,2026-04-17
+North Carolina,NC,Washington,$3.666,2026-04-17
+North Carolina,NC,Watauga,$3.844,2026-04-17
+North Carolina,NC,Wayne,$3.716,2026-04-17
+North Carolina,NC,Wilkes,$3.758,2026-04-17
+North Carolina,NC,Wilson,$3.749,2026-04-17
+North Carolina,NC,Yadkin,$3.832,2026-04-17
+North Carolina,NC,Yancey,$3.899,2026-04-17
+North Dakota,ND,Adams,$3.599,2026-04-17
+North Dakota,ND,Barnes,$3.448,2026-04-17
+North Dakota,ND,Benson,$3.814,2026-04-17
+North Dakota,ND,Billings,$2.759,2026-04-17
+North Dakota,ND,Bottineau,$3.655,2026-04-17
+North Dakota,ND,Bowman,$3.752,2026-04-17
+North Dakota,ND,Burke,$3.659,2026-04-17
+North Dakota,ND,Burleigh,$3.688,2026-04-17
+North Dakota,ND,Cass,$3.374,2026-04-17
+North Dakota,ND,Cavalier,$3.599,2026-04-17
+North Dakota,ND,Dickey,$3.519,2026-04-17
+North Dakota,ND,Divide,$3.549,2026-04-17
+North Dakota,ND,Dunn,$3.972,2026-04-17
+North Dakota,ND,Eddy,$3.649,2026-04-17
+North Dakota,ND,Emmons,$3.666,2026-04-17
+North Dakota,ND,Foster,$3.492,2026-04-17
+North Dakota,ND,Golden Valley,$3.806,2026-04-17
+North Dakota,ND,Grand Forks,$3.574,2026-04-17
+North Dakota,ND,Grant,$4.049,2026-04-17
+North Dakota,ND,Griggs,$3.524,2026-04-17
+North Dakota,ND,Hettinger,$3.749,2026-04-17
+North Dakota,ND,Kidder,$3.401,2026-04-17
+North Dakota,ND,LaMoure,$3.599,2026-04-17
+North Dakota,ND,Logan,$3.612,2026-04-17
+North Dakota,ND,McHenry,$3.686,2026-04-17
+North Dakota,ND,McIntosh,$3.699,2026-04-17
+North Dakota,ND,McKenzie,$3.799,2026-04-17
+North Dakota,ND,McLean,$3.631,2026-04-17
+North Dakota,ND,Mercer,$3.639,2026-04-17
+North Dakota,ND,Morton,$3.671,2026-04-17
+North Dakota,ND,Mountrail,$3.703,2026-04-17
+North Dakota,ND,Nelson,$3.747,2026-04-17
+North Dakota,ND,Oliver,$3.599,2026-04-17
+North Dakota,ND,Pembina,$3.684,2026-04-17
+North Dakota,ND,Pierce,$3.749,2026-04-17
+North Dakota,ND,Ramsey,$3.747,2026-04-17
+North Dakota,ND,Ransom,$3.506,2026-04-17
+North Dakota,ND,Renville,$3.699,2026-04-17
+North Dakota,ND,Richland,$3.529,2026-04-17
+North Dakota,ND,Rolette,$3.619,2026-04-17
+North Dakota,ND,Sargent,$3.526,2026-04-17
+North Dakota,ND,Sheridan,$3.499,2026-04-17
+North Dakota,ND,Sioux,$3.699,2026-04-17
+North Dakota,ND,Slope,,2026-04-17
+North Dakota,ND,Stark,$3.756,2026-04-17
+North Dakota,ND,Steele,$3.636,2026-04-17
+North Dakota,ND,Stutsman,$3.546,2026-04-17
+North Dakota,ND,Towner,$3.594,2026-04-17
+North Dakota,ND,Traill,$3.524,2026-04-17
+North Dakota,ND,Walsh,$3.624,2026-04-17
+North Dakota,ND,Ward,$3.674,2026-04-17
+North Dakota,ND,Wells,$3.674,2026-04-17
+North Dakota,ND,Williams,$3.712,2026-04-17
+Ohio,OH,Adams,$3.903,2026-04-17
+Ohio,OH,Allen,$3.594,2026-04-17
+Ohio,OH,Ashland,$3.794,2026-04-17
+Ohio,OH,Ashtabula,$3.789,2026-04-17
+Ohio,OH,Athens,$3.941,2026-04-17
+Ohio,OH,Auglaize,$3.579,2026-04-17
+Ohio,OH,Belmont,$3.778,2026-04-17
+Ohio,OH,Brown,$3.862,2026-04-17
+Ohio,OH,Butler,$3.698,2026-04-17
+Ohio,OH,Carroll,$3.823,2026-04-17
+Ohio,OH,Champaign,$3.774,2026-04-17
+Ohio,OH,Clark,$3.647,2026-04-17
+Ohio,OH,Clermont,$3.747,2026-04-17
+Ohio,OH,Clinton,$3.732,2026-04-17
+Ohio,OH,Columbiana,$3.732,2026-04-17
+Ohio,OH,Coshocton,$3.757,2026-04-17
+Ohio,OH,Crawford,$3.819,2026-04-17
+Ohio,OH,Cuyahoga,$3.792,2026-04-17
+Ohio,OH,Darke,$3.769,2026-04-17
+Ohio,OH,Defiance,$3.749,2026-04-17
+Ohio,OH,Delaware,$3.651,2026-04-17
+Ohio,OH,Erie,$3.818,2026-04-17
+Ohio,OH,Fairfield,$3.685,2026-04-17
+Ohio,OH,Fayette,$3.637,2026-04-17
+Ohio,OH,Franklin,$3.747,2026-04-17
+Ohio,OH,Fulton,$3.739,2026-04-17
+Ohio,OH,Gallia,$3.946,2026-04-17
+Ohio,OH,Geauga,$3.832,2026-04-17
+Ohio,OH,Greene,$3.682,2026-04-17
+Ohio,OH,Guernsey,$3.667,2026-04-17
+Ohio,OH,Hamilton,$3.750,2026-04-17
+Ohio,OH,Hancock,$3.673,2026-04-17
+Ohio,OH,Hardin,$3.648,2026-04-17
+Ohio,OH,Harrison,$3.897,2026-04-17
+Ohio,OH,Henry,$3.711,2026-04-17
+Ohio,OH,Highland,$3.762,2026-04-17
+Ohio,OH,Hocking,$3.718,2026-04-17
+Ohio,OH,Holmes,$3.858,2026-04-17
+Ohio,OH,Huron,$3.872,2026-04-17
+Ohio,OH,Jackson,$3.848,2026-04-17
+Ohio,OH,Jefferson,$3.865,2026-04-17
+Ohio,OH,Knox,$3.911,2026-04-17
+Ohio,OH,Lake,$3.730,2026-04-17
+Ohio,OH,Lawrence,$3.898,2026-04-17
+Ohio,OH,Licking,$3.758,2026-04-17
+Ohio,OH,Logan,$3.747,2026-04-17
+Ohio,OH,Lorain,$3.693,2026-04-17
+Ohio,OH,Lucas,$3.651,2026-04-17
+Ohio,OH,Madison,$3.794,2026-04-17
+Ohio,OH,Mahoning,$3.743,2026-04-17
+Ohio,OH,Marion,$3.797,2026-04-17
+Ohio,OH,Medina,$3.815,2026-04-17
+Ohio,OH,Meigs,$3.958,2026-04-17
+Ohio,OH,Mercer,$3.651,2026-04-17
+Ohio,OH,Miami,$3.746,2026-04-17
+Ohio,OH,Monroe,$3.798,2026-04-17
+Ohio,OH,Montgomery,$3.728,2026-04-17
+Ohio,OH,Morgan,$3.927,2026-04-17
+Ohio,OH,Morrow,$3.856,2026-04-17
+Ohio,OH,Muskingum,$3.727,2026-04-17
+Ohio,OH,Noble,$3.891,2026-04-17
+Ohio,OH,Ottawa,$3.895,2026-04-17
+Ohio,OH,Paulding,$3.838,2026-04-17
+Ohio,OH,Perry,$3.916,2026-04-17
+Ohio,OH,Pickaway,$3.821,2026-04-17
+Ohio,OH,Pike,$3.886,2026-04-17
+Ohio,OH,Portage,$3.693,2026-04-17
+Ohio,OH,Preble,$3.698,2026-04-17
+Ohio,OH,Putnam,$3.737,2026-04-17
+Ohio,OH,Richland,$3.761,2026-04-17
+Ohio,OH,Ross,$3.740,2026-04-17
+Ohio,OH,Sandusky,$3.745,2026-04-17
+Ohio,OH,Scioto,$3.784,2026-04-17
+Ohio,OH,Seneca,$3.700,2026-04-17
+Ohio,OH,Shelby,$3.607,2026-04-17
+Ohio,OH,Stark,$3.740,2026-04-17
+Ohio,OH,Summit,$3.719,2026-04-17
+Ohio,OH,Trumbull,$3.725,2026-04-17
+Ohio,OH,Tuscarawas,$3.765,2026-04-17
+Ohio,OH,Union,$3.637,2026-04-17
+Ohio,OH,Van Wert,$3.692,2026-04-17
+Ohio,OH,Vinton,$3.865,2026-04-17
+Ohio,OH,Warren,$3.596,2026-04-17
+Ohio,OH,Washington,$3.836,2026-04-17
+Ohio,OH,Wayne,$3.782,2026-04-17
+Ohio,OH,Williams,$3.703,2026-04-17
+Ohio,OH,Wood,$3.724,2026-04-17
+Ohio,OH,Wyandot,$3.754,2026-04-17
+Oklahoma,OK,Adair,$3.352,2026-04-17
+Oklahoma,OK,Alfalfa,$3.616,2026-04-17
+Oklahoma,OK,Atoka,$3.411,2026-04-17
+Oklahoma,OK,Beaver,$3.451,2026-04-17
+Oklahoma,OK,Beckham,$3.388,2026-04-17
+Oklahoma,OK,Blaine,$3.633,2026-04-17
+Oklahoma,OK,Bryan,$3.401,2026-04-17
+Oklahoma,OK,Caddo,$3.558,2026-04-17
+Oklahoma,OK,Canadian,$3.351,2026-04-17
+Oklahoma,OK,Carter,$3.366,2026-04-17
+Oklahoma,OK,Cherokee,$3.403,2026-04-17
+Oklahoma,OK,Choctaw,$3.466,2026-04-17
+Oklahoma,OK,Cimarron,$3.609,2026-04-17
+Oklahoma,OK,Cleveland,$3.392,2026-04-17
+Oklahoma,OK,Coal,$4.029,2026-04-17
+Oklahoma,OK,Comanche,$3.221,2026-04-17
+Oklahoma,OK,Cotton,$3.752,2026-04-17
+Oklahoma,OK,Craig,$3.389,2026-04-17
+Oklahoma,OK,Creek,$3.450,2026-04-17
+Oklahoma,OK,Custer,$3.642,2026-04-17
+Oklahoma,OK,Delaware,$3.417,2026-04-17
+Oklahoma,OK,Dewey,$3.727,2026-04-17
+Oklahoma,OK,Ellis,$3.732,2026-04-17
+Oklahoma,OK,Garfield,$3.465,2026-04-17
+Oklahoma,OK,Garvin,$3.401,2026-04-17
+Oklahoma,OK,Grady,$3.478,2026-04-17
+Oklahoma,OK,Grant,$3.399,2026-04-17
+Oklahoma,OK,Greer,$3.399,2026-04-17
+Oklahoma,OK,Harmon,$3.594,2026-04-17
+Oklahoma,OK,Harper,$3.459,2026-04-17
+Oklahoma,OK,Haskell,$3.350,2026-04-17
+Oklahoma,OK,Hughes,$3.504,2026-04-17
+Oklahoma,OK,Jackson,$3.390,2026-04-17
+Oklahoma,OK,Jefferson,$3.458,2026-04-17
+Oklahoma,OK,Johnston,$3.622,2026-04-17
+Oklahoma,OK,Kay,$3.423,2026-04-17
+Oklahoma,OK,Kingfisher,$3.453,2026-04-17
+Oklahoma,OK,Kiowa,$3.603,2026-04-17
+Oklahoma,OK,Latimer,$3.417,2026-04-17
+Oklahoma,OK,Le Flore,$3.386,2026-04-17
+Oklahoma,OK,Lincoln,$3.605,2026-04-17
+Oklahoma,OK,Logan,$3.651,2026-04-17
+Oklahoma,OK,Love,$3.566,2026-04-17
+Oklahoma,OK,Major,$3.356,2026-04-17
+Oklahoma,OK,Marshall,$3.551,2026-04-17
+Oklahoma,OK,Mayes,$3.407,2026-04-17
+Oklahoma,OK,McClain,$3.504,2026-04-17
+Oklahoma,OK,McCurtain,$3.444,2026-04-17
+Oklahoma,OK,McIntosh,$3.375,2026-04-17
+Oklahoma,OK,Murray,$3.395,2026-04-17
+Oklahoma,OK,Muskogee,$3.348,2026-04-17
+Oklahoma,OK,Noble,$3.355,2026-04-17
+Oklahoma,OK,Nowata,$3.420,2026-04-17
+Oklahoma,OK,Okfuskee,$3.537,2026-04-17
+Oklahoma,OK,Oklahoma,$3.382,2026-04-17
+Oklahoma,OK,Okmulgee,$3.321,2026-04-17
+Oklahoma,OK,Osage,$3.445,2026-04-17
+Oklahoma,OK,Ottawa,$3.363,2026-04-17
+Oklahoma,OK,Pawnee,$3.483,2026-04-17
+Oklahoma,OK,Payne,$3.329,2026-04-17
+Oklahoma,OK,Pittsburg,$3.395,2026-04-17
+Oklahoma,OK,Pontotoc,$3.390,2026-04-17
+Oklahoma,OK,Pottawatomie,$3.398,2026-04-17
+Oklahoma,OK,Pushmataha,$3.514,2026-04-17
+Oklahoma,OK,Roger Mills,$3.698,2026-04-17
+Oklahoma,OK,Rogers,$3.475,2026-04-17
+Oklahoma,OK,Seminole,$3.321,2026-04-17
+Oklahoma,OK,Sequoyah,$3.426,2026-04-17
+Oklahoma,OK,Stephens,$3.588,2026-04-17
+Oklahoma,OK,Texas,$3.404,2026-04-17
+Oklahoma,OK,Tillman,$3.464,2026-04-17
+Oklahoma,OK,Tulsa,$3.422,2026-04-17
+Oklahoma,OK,Wagoner,$3.406,2026-04-17
+Oklahoma,OK,Washington,$3.412,2026-04-17
+Oklahoma,OK,Washita,$3.420,2026-04-17
+Oklahoma,OK,Woods,$3.749,2026-04-17
+Oklahoma,OK,Woodward,$3.445,2026-04-17
+Oregon,OR,Baker,$4.496,2026-04-17
+Oregon,OR,Benton,$4.794,2026-04-17
+Oregon,OR,Clackamas,$5.033,2026-04-17
+Oregon,OR,Clatsop,$5.104,2026-04-17
+Oregon,OR,Columbia,$5.021,2026-04-17
+Oregon,OR,Coos,$5.240,2026-04-17
+Oregon,OR,Crook,$4.981,2026-04-17
+Oregon,OR,Curry,$5.321,2026-04-17
+Oregon,OR,Deschutes,$4.907,2026-04-17
+Oregon,OR,Douglas,$4.989,2026-04-17
+Oregon,OR,Gilliam,$4.899,2026-04-17
+Oregon,OR,Grant,$5.087,2026-04-17
+Oregon,OR,Harney,$5.079,2026-04-17
+Oregon,OR,Hood River,$4.955,2026-04-17
+Oregon,OR,Jackson,$5.098,2026-04-17
+Oregon,OR,Jefferson,$4.827,2026-04-17
+Oregon,OR,Josephine,$5.126,2026-04-17
+Oregon,OR,Klamath,$4.952,2026-04-17
+Oregon,OR,Lake,$4.977,2026-04-17
+Oregon,OR,Lane,$4.938,2026-04-17
+Oregon,OR,Lincoln,$4.940,2026-04-17
+Oregon,OR,Linn,$4.827,2026-04-17
+Oregon,OR,Malheur,$4.503,2026-04-17
+Oregon,OR,Marion,$4.908,2026-04-17
+Oregon,OR,Morrow,$4.938,2026-04-17
+Oregon,OR,Multnomah,$5.101,2026-04-17
+Oregon,OR,Polk,$4.899,2026-04-17
+Oregon,OR,Sherman,$4.727,2026-04-17
+Oregon,OR,Tillamook,$5.201,2026-04-17
+Oregon,OR,Umatilla,$4.728,2026-04-17
+Oregon,OR,Union,$4.859,2026-04-17
+Oregon,OR,Wallowa,$4.952,2026-04-17
+Oregon,OR,Wasco,$5.025,2026-04-17
+Oregon,OR,Washington,$5.022,2026-04-17
+Oregon,OR,Wheeler,,2026-04-17
+Oregon,OR,Yamhill,$4.993,2026-04-17
+Maryland,MD,Allegany,$4.186,2026-04-17
+Maryland,MD,Anne Arundel,$4.061,2026-04-17
+Maryland,MD,Baltimore City,$4.046,2026-04-17
+Maryland,MD,Baltimore,$4.023,2026-04-17
+Maryland,MD,Calvert,$4.030,2026-04-17
+Maryland,MD,Cecil,$4.002,2026-04-17
+Maryland,MD,Charles,$3.979,2026-04-17
+Maryland,MD,Carroll,$3.993,2026-04-17
+Maryland,MD,Caroline,$3.998,2026-04-17
+Maryland,MD,Dorchester,$3.976,2026-04-17
+Maryland,MD,Frederick,$4.056,2026-04-17
+Maryland,MD,Garrett,$4.137,2026-04-17
+Maryland,MD,Harford,$4.023,2026-04-17
+Maryland,MD,Howard,$4.118,2026-04-17
+Maryland,MD,Kent,$4.026,2026-04-17
+Maryland,MD,Montgomery,$4.213,2026-04-17
+Maryland,MD,Prince Georges,$4.097,2026-04-17
+Maryland,MD,Queen Annes,$3.996,2026-04-17
+Maryland,MD,Saint Marys,$4.004,2026-04-17
+Maryland,MD,Somerset,$4.050,2026-04-17
+Maryland,MD,Talbot,$4.010,2026-04-17
+Maryland,MD,Washington,$3.962,2026-04-17
+Maryland,MD,Wicomico,$3.987,2026-04-17
+Maryland,MD,Worcester,$4.020,2026-04-17
+Massachusetts,MA,Barnstable,$3.911,2026-04-17
+Massachusetts,MA,Berkshire,$3.978,2026-04-17
+Massachusetts,MA,Bristol,$3.826,2026-04-17
+Massachusetts,MA,Dukes,$4.987,2026-04-17
+Massachusetts,MA,Essex,$4.001,2026-04-17
+Massachusetts,MA,Franklin,$3.914,2026-04-17
+Massachusetts,MA,Hampden,$3.870,2026-04-17
+Massachusetts,MA,Hampshire,$3.919,2026-04-17
+Massachusetts,MA,Middlesex,$3.988,2026-04-17
+Massachusetts,MA,Nantucket,$5.164,2026-04-17
+Massachusetts,MA,Norfolk,$3.965,2026-04-17
+Massachusetts,MA,Plymouth,$3.890,2026-04-17
+Massachusetts,MA,Suffolk,$4.092,2026-04-17
+Massachusetts,MA,Worcester,$3.969,2026-04-17
+Michigan,MI,Alcona,$3.960,2026-04-17
+Michigan,MI,Alger,$3.993,2026-04-17
+Michigan,MI,Allegan,$3.928,2026-04-17
+Michigan,MI,Alpena,$3.816,2026-04-17
+Michigan,MI,Antrim,$3.977,2026-04-17
+Michigan,MI,Arenac,$4.027,2026-04-17
+Michigan,MI,Baraga,$3.976,2026-04-17
+Michigan,MI,Barry,$3.989,2026-04-17
+Michigan,MI,Bay,$3.870,2026-04-17
+Michigan,MI,Benzie,$4.103,2026-04-17
+Michigan,MI,Berrien,$3.959,2026-04-17
+Michigan,MI,Branch,$3.879,2026-04-17
+Michigan,MI,Calhoun,$3.852,2026-04-17
+Michigan,MI,Cass,$3.994,2026-04-17
+Michigan,MI,Charlevoix,$4.024,2026-04-17
+Michigan,MI,Cheboygan,$4.011,2026-04-17
+Michigan,MI,Chippewa,$4.001,2026-04-17
+Michigan,MI,Clare,$3.795,2026-04-17
+Michigan,MI,Clinton,$3.806,2026-04-17
+Michigan,MI,Crawford,$3.987,2026-04-17
+Michigan,MI,Delta,$3.905,2026-04-17
+Michigan,MI,Dickinson,$3.898,2026-04-17
+Michigan,MI,Eaton,$3.800,2026-04-17
+Michigan,MI,Emmet,$3.994,2026-04-17
+Michigan,MI,Genesee,$3.727,2026-04-17
+Michigan,MI,Gladwin,$3.882,2026-04-17
+Michigan,MI,Gogebic,$4.006,2026-04-17
+Michigan,MI,Grand Traverse,$3.872,2026-04-17
+Michigan,MI,Gratiot,$3.834,2026-04-17
+Michigan,MI,Hillsdale,$3.751,2026-04-17
+Michigan,MI,Houghton,$3.932,2026-04-17
+Michigan,MI,Huron,$3.917,2026-04-17
+Michigan,MI,Ingham,$3.815,2026-04-17
+Michigan,MI,Ionia,$3.857,2026-04-17
+Michigan,MI,Iosco,$4.002,2026-04-17
+Michigan,MI,Iron,$4.042,2026-04-17
+Michigan,MI,Isabella,$3.859,2026-04-17
+Michigan,MI,Jackson,$3.789,2026-04-17
+Michigan,MI,Kalamazoo,$3.958,2026-04-17
+Michigan,MI,Kalkaska,$3.948,2026-04-17
+Michigan,MI,Kent,$3.879,2026-04-17
+Michigan,MI,Keweenaw,$4.099,2026-04-17
+Michigan,MI,Lake,$4.000,2026-04-17
+Michigan,MI,Lapeer,$3.863,2026-04-17
+Michigan,MI,Leelanau,$3.965,2026-04-17
+Michigan,MI,Lenawee,$3.826,2026-04-17
+Michigan,MI,Livingston,$3.922,2026-04-17
+Michigan,MI,Luce,$4.064,2026-04-17
+Michigan,MI,Mackinac,$4.163,2026-04-17
+Michigan,MI,Macomb,$3.819,2026-04-17
+Michigan,MI,Manistee,$3.997,2026-04-17
+Michigan,MI,Marquette,$3.900,2026-04-17
+Michigan,MI,Mason,$3.940,2026-04-17
+Michigan,MI,Mecosta,$3.913,2026-04-17
+Michigan,MI,Menominee,$3.767,2026-04-17
+Michigan,MI,Midland,$3.782,2026-04-17
+Michigan,MI,Missaukee,$3.982,2026-04-17
+Michigan,MI,Monroe,$3.877,2026-04-17
+Michigan,MI,Montcalm,$3.842,2026-04-17
+Michigan,MI,Montmorency,$3.871,2026-04-17
+Michigan,MI,Muskegon,$3.902,2026-04-17
+Michigan,MI,Newaygo,$3.812,2026-04-17
+Michigan,MI,Oakland,$3.919,2026-04-17
+Michigan,MI,Oceana,$3.942,2026-04-17
+Michigan,MI,Ogemaw,$4.004,2026-04-17
+Michigan,MI,Ontonagon,$4.029,2026-04-17
+Michigan,MI,Osceola,$3.944,2026-04-17
+Michigan,MI,Oscoda,$4.049,2026-04-17
+Michigan,MI,Otsego,$3.971,2026-04-17
+Michigan,MI,Ottawa,$3.834,2026-04-17
+Michigan,MI,Presque Isle,$4.029,2026-04-17
+Michigan,MI,Roscommon,$3.982,2026-04-17
+Michigan,MI,Saginaw,$3.721,2026-04-17
+Michigan,MI,Sanilac,$3.962,2026-04-17
+Michigan,MI,Schoolcraft,$4.244,2026-04-17
+Michigan,MI,Shiawassee,$3.779,2026-04-17
+Michigan,MI,Saint Clair,$3.814,2026-04-17
+Michigan,MI,Saint Joseph,$3.915,2026-04-17
+Michigan,MI,Tuscola,$3.817,2026-04-17
+Michigan,MI,Van Buren,$3.946,2026-04-17
+Michigan,MI,Washtenaw,$3.913,2026-04-17
+Michigan,MI,Wayne,$3.849,2026-04-17
+Michigan,MI,Wexford,$3.841,2026-04-17
+Minnesota,MN,Aitkin,$3.563,2026-04-17
+Minnesota,MN,Anoka,$3.655,2026-04-17
+Minnesota,MN,Becker,$3.676,2026-04-17
+Minnesota,MN,Beltrami,$3.681,2026-04-17
+Minnesota,MN,Benton,$3.629,2026-04-17
+Minnesota,MN,Big Stone,$3.599,2026-04-17
+Minnesota,MN,Blue Earth,$3.707,2026-04-17
+Minnesota,MN,Brown,$3.629,2026-04-17
+Minnesota,MN,Carlton,$3.540,2026-04-17
+Minnesota,MN,Carver,$3.727,2026-04-17
+Minnesota,MN,Cass,$3.524,2026-04-17
+Minnesota,MN,Chippewa,$3.819,2026-04-17
+Minnesota,MN,Chisago,$3.695,2026-04-17
+Minnesota,MN,Clay,$3.522,2026-04-17
+Minnesota,MN,Clearwater,$3.610,2026-04-17
+Minnesota,MN,Cook,$3.829,2026-04-17
+Minnesota,MN,Cottonwood,$3.787,2026-04-17
+Minnesota,MN,Crow Wing,$3.434,2026-04-17
+Minnesota,MN,Dakota,$3.755,2026-04-17
+Minnesota,MN,Dodge,$3.899,2026-04-17
+Minnesota,MN,Douglas,$3.644,2026-04-17
+Minnesota,MN,Faribault,$3.889,2026-04-17
+Minnesota,MN,Fillmore,$3.774,2026-04-17
+Minnesota,MN,Freeborn,$3.763,2026-04-17
+Minnesota,MN,Goodhue,$3.780,2026-04-17
+Minnesota,MN,Grant,$3.560,2026-04-17
+Minnesota,MN,Hennepin,$3.772,2026-04-17
+Minnesota,MN,Houston,$3.649,2026-04-17
+Minnesota,MN,Hubbard,$3.688,2026-04-17
+Minnesota,MN,Isanti,$3.618,2026-04-17
+Minnesota,MN,Itasca,$3.651,2026-04-17
+Minnesota,MN,Jackson,$3.743,2026-04-17
+Minnesota,MN,Kanabec,$3.740,2026-04-17
+Minnesota,MN,Kandiyohi,$3.732,2026-04-17
+Minnesota,MN,Kittson,$3.610,2026-04-17
+Minnesota,MN,Koochiching,$3.578,2026-04-17
+Minnesota,MN,Lac Qui Parle,$3.779,2026-04-17
+Minnesota,MN,Lake,$3.790,2026-04-17
+Minnesota,MN,Lake of the Woods,$3.399,2026-04-17
+Minnesota,MN,Le Sueur,$3.788,2026-04-17
+Minnesota,MN,Lincoln,$3.682,2026-04-17
+Minnesota,MN,Lyon,$3.812,2026-04-17
+Minnesota,MN,Mahnomen,$3.649,2026-04-17
+Minnesota,MN,Marshall,$3.488,2026-04-17
+Minnesota,MN,Martin,$3.857,2026-04-17
+Minnesota,MN,McLeod,$3.564,2026-04-17
+Minnesota,MN,Meeker,$3.679,2026-04-17
+Minnesota,MN,Mille Lacs,$3.730,2026-04-17
+Minnesota,MN,Morrison,$3.606,2026-04-17
+Minnesota,MN,Mower,$3.719,2026-04-17
+Minnesota,MN,Murray,$3.619,2026-04-17
+Minnesota,MN,Nicollet,$3.678,2026-04-17
+Minnesota,MN,Nobles,$3.523,2026-04-17
+Minnesota,MN,Norman,$3.549,2026-04-17
+Minnesota,MN,Olmsted,$3.832,2026-04-17
+Minnesota,MN,Otter Tail,$3.619,2026-04-17
+Minnesota,MN,Pennington,$3.552,2026-04-17
+Minnesota,MN,Pine,$3.577,2026-04-17
+Minnesota,MN,Pipestone,$3.809,2026-04-17
+Minnesota,MN,Polk,$3.634,2026-04-17
+Minnesota,MN,Pope,$3.577,2026-04-17
+Minnesota,MN,Ramsey,$3.763,2026-04-17
+Minnesota,MN,Red Lake,$3.619,2026-04-17
+Minnesota,MN,Redwood,$3.683,2026-04-17
+Minnesota,MN,Renville,$3.710,2026-04-17
+Minnesota,MN,Rice,$3.709,2026-04-17
+Minnesota,MN,Rock,$3.719,2026-04-17
+Minnesota,MN,Roseau,$3.574,2026-04-17
+Minnesota,MN,Scott,$3.725,2026-04-17
+Minnesota,MN,Sherburne,$3.746,2026-04-17
+Minnesota,MN,Sibley,$3.641,2026-04-17
+Minnesota,MN,Saint Louis,$3.614,2026-04-17
+Minnesota,MN,Stearns,$3.559,2026-04-17
+Minnesota,MN,Steele,$3.651,2026-04-17
+Minnesota,MN,Stevens,$3.650,2026-04-17
+Minnesota,MN,Swift,$3.786,2026-04-17
+Minnesota,MN,Todd,$3.655,2026-04-17
+Minnesota,MN,Traverse,$3.582,2026-04-17
+Minnesota,MN,Wabasha,$3.571,2026-04-17
+Minnesota,MN,Wadena,$3.610,2026-04-17
+Minnesota,MN,Waseca,$3.698,2026-04-17
+Minnesota,MN,Washington,$3.701,2026-04-17
+Minnesota,MN,Watonwan,$3.773,2026-04-17
+Minnesota,MN,Wilkin,$3.506,2026-04-17
+Minnesota,MN,Winona,$3.670,2026-04-17
+Minnesota,MN,Wright,$3.718,2026-04-17
+Minnesota,MN,Yellow Medicine,$3.713,2026-04-17
+Mississippi,MS,Adams,$3.801,2026-04-17
+Mississippi,MS,Alcorn,$3.694,2026-04-17
+Mississippi,MS,Amite,$3.775,2026-04-17
+Mississippi,MS,Attala,$3.853,2026-04-17
+Mississippi,MS,Benton,$3.732,2026-04-17
+Mississippi,MS,Bolivar,$3.764,2026-04-17
+Mississippi,MS,Calhoun,$3.750,2026-04-17
+Mississippi,MS,Carroll,$3.879,2026-04-17
+Mississippi,MS,Chickasaw,$3.685,2026-04-17
+Mississippi,MS,Choctaw,$3.847,2026-04-17
+Mississippi,MS,Claiborne,$4.049,2026-04-17
+Mississippi,MS,Clarke,$3.710,2026-04-17
+Mississippi,MS,Clay,$3.739,2026-04-17
+Mississippi,MS,Coahoma,$3.807,2026-04-17
+Mississippi,MS,Copiah,$3.758,2026-04-17
+Mississippi,MS,Covington,$3.706,2026-04-17
+Mississippi,MS,De Soto,$3.693,2026-04-17
+Mississippi,MS,Forrest,$3.651,2026-04-17
+Mississippi,MS,Franklin,$3.809,2026-04-17
+Mississippi,MS,George,$3.665,2026-04-17
+Mississippi,MS,Greene,$3.741,2026-04-17
+Mississippi,MS,Grenada,$3.803,2026-04-17
+Mississippi,MS,Hancock,$3.588,2026-04-17
+Mississippi,MS,Harrison,$3.599,2026-04-17
+Mississippi,MS,Hinds,$3.803,2026-04-17
+Mississippi,MS,Holmes,$3.820,2026-04-17
+Mississippi,MS,Humphreys,$3.799,2026-04-17
+Mississippi,MS,Issaquena,,2026-04-17
+Mississippi,MS,Itawamba,$3.690,2026-04-17
+Mississippi,MS,Jackson,$3.636,2026-04-17
+Mississippi,MS,Jasper,$3.707,2026-04-17
+Mississippi,MS,Jefferson,$4.186,2026-04-17
+Mississippi,MS,Jefferson Davis,$3.807,2026-04-17
+Mississippi,MS,Jones,$3.646,2026-04-17
+Mississippi,MS,Kemper,$3.775,2026-04-17
+Mississippi,MS,Lafayette,$3.858,2026-04-17
+Mississippi,MS,Lamar,$3.636,2026-04-17
+Mississippi,MS,Lauderdale,$3.698,2026-04-17
+Mississippi,MS,Lawrence,$3.799,2026-04-17
+Mississippi,MS,Leake,$3.617,2026-04-17
+Mississippi,MS,Lee,$3.782,2026-04-17
+Mississippi,MS,Leflore,$3.750,2026-04-17
+Mississippi,MS,Lincoln,$3.854,2026-04-17
+Mississippi,MS,Lowndes,$3.680,2026-04-17
+Mississippi,MS,Madison,$3.823,2026-04-17
+Mississippi,MS,Marion,$3.730,2026-04-17
+Mississippi,MS,Marshall,$3.752,2026-04-17
+Mississippi,MS,Monroe,$3.761,2026-04-17
+Mississippi,MS,Montgomery,$3.701,2026-04-17
+Mississippi,MS,Neshoba,$3.693,2026-04-17
+Mississippi,MS,Newton,$3.797,2026-04-17
+Mississippi,MS,Noxubee,$3.966,2026-04-17
+Mississippi,MS,Oktibbeha,$3.689,2026-04-17
+Mississippi,MS,Panola,$3.688,2026-04-17
+Mississippi,MS,Pearl River,$3.551,2026-04-17
+Mississippi,MS,Perry,$3.763,2026-04-17
+Mississippi,MS,Pike,$3.733,2026-04-17
+Mississippi,MS,Pontotoc,$3.846,2026-04-17
+Mississippi,MS,Prentiss,$3.659,2026-04-17
+Mississippi,MS,Quitman,$3.899,2026-04-17
+Mississippi,MS,Rankin,$3.724,2026-04-17
+Mississippi,MS,Scott,$3.808,2026-04-17
+Mississippi,MS,Sharkey,$3.799,2026-04-17
+Mississippi,MS,Simpson,$3.680,2026-04-17
+Mississippi,MS,Smith,$3.759,2026-04-17
+Mississippi,MS,Stone,$3.694,2026-04-17
+Mississippi,MS,Sunflower,$3.656,2026-04-17
+Mississippi,MS,Tallahatchie,$3.819,2026-04-17
+Mississippi,MS,Tate,$3.742,2026-04-17
+Mississippi,MS,Tippah,$3.760,2026-04-17
+Mississippi,MS,Tishomingo,$3.724,2026-04-17
+Mississippi,MS,Tunica,$3.900,2026-04-17
+Mississippi,MS,Union,$3.731,2026-04-17
+Mississippi,MS,Walthall,$3.792,2026-04-17
+Mississippi,MS,Warren,$3.715,2026-04-17
+Mississippi,MS,Washington,$3.763,2026-04-17
+Mississippi,MS,Wayne,$3.711,2026-04-17
+Mississippi,MS,Webster,$3.836,2026-04-17
+Mississippi,MS,Wilkinson,$3.779,2026-04-17
+Mississippi,MS,Winston,$3.785,2026-04-17
+Mississippi,MS,Yalobusha,$3.815,2026-04-17
+Mississippi,MS,Yazoo,$3.723,2026-04-17
+Missouri,MO,Adair,$3.658,2026-04-17
+Missouri,MO,Andrew,$3.523,2026-04-17
+Missouri,MO,Atchison,$3.533,2026-04-17
+Missouri,MO,Audrain,$3.640,2026-04-17
+Missouri,MO,Barry,$3.405,2026-04-17
+Missouri,MO,Barton,$3.485,2026-04-17
+Missouri,MO,Bates,$3.598,2026-04-17
+Missouri,MO,Benton,$3.579,2026-04-17
+Missouri,MO,Bollinger,$3.942,2026-04-17
+Missouri,MO,Boone,$3.674,2026-04-17
+Missouri,MO,Buchanan,$3.530,2026-04-17
+Missouri,MO,Butler,$3.779,2026-04-17
+Missouri,MO,Caldwell,$3.555,2026-04-17
+Missouri,MO,Callaway,$3.628,2026-04-17
+Missouri,MO,Camden,$3.575,2026-04-17
+Missouri,MO,Cape Girardeau,$3.854,2026-04-17
+Missouri,MO,Carroll,$3.597,2026-04-17
+Missouri,MO,Carter,$3.809,2026-04-17
+Missouri,MO,Cass,$3.529,2026-04-17
+Missouri,MO,Cedar,$3.532,2026-04-17
+Missouri,MO,Chariton,$3.641,2026-04-17
+Missouri,MO,Christian,$3.408,2026-04-17
+Missouri,MO,Clark,$3.591,2026-04-17
+Missouri,MO,Clay,$3.525,2026-04-17
+Missouri,MO,Clinton,$3.521,2026-04-17
+Missouri,MO,Cole,$3.613,2026-04-17
+Missouri,MO,Cooper,$3.565,2026-04-17
+Missouri,MO,Crawford,$3.708,2026-04-17
+Missouri,MO,Dade,$3.482,2026-04-17
+Missouri,MO,Dallas,$3.524,2026-04-17
+Missouri,MO,Daviess,$3.521,2026-04-17
+Missouri,MO,DeKalb,$3.541,2026-04-17
+Missouri,MO,Dent,$3.622,2026-04-17
+Missouri,MO,Douglas,$3.494,2026-04-17
+Missouri,MO,Dunklin,$3.789,2026-04-17
+Missouri,MO,Franklin,$3.851,2026-04-17
+Missouri,MO,Gasconade,$3.635,2026-04-17
+Missouri,MO,Gentry,$3.527,2026-04-17
+Missouri,MO,Greene,$3.386,2026-04-17
+Missouri,MO,Grundy,$3.536,2026-04-17
+Missouri,MO,Harrison,$3.482,2026-04-17
+Missouri,MO,Henry,$3.568,2026-04-17
+Missouri,MO,Hickory,$3.530,2026-04-17
+Missouri,MO,Holt,$3.608,2026-04-17
+Missouri,MO,Howard,$3.655,2026-04-17
+Missouri,MO,Howell,$3.675,2026-04-17
+Missouri,MO,Iron,$3.740,2026-04-17
+Missouri,MO,Jackson,$3.545,2026-04-17
+Missouri,MO,Jasper,$3.369,2026-04-17
+Missouri,MO,Jefferson,$3.940,2026-04-17
+Missouri,MO,Johnson,$3.541,2026-04-17
+Missouri,MO,Knox,$3.699,2026-04-17
+Missouri,MO,Laclede,$3.470,2026-04-17
+Missouri,MO,Lafayette,$3.531,2026-04-17
+Missouri,MO,Lawrence,$3.468,2026-04-17
+Missouri,MO,Lewis,$3.679,2026-04-17
+Missouri,MO,Lincoln,$3.823,2026-04-17
+Missouri,MO,Linn,$3.512,2026-04-17
+Missouri,MO,Livingston,$3.573,2026-04-17
+Missouri,MO,Macon,$3.651,2026-04-17
+Missouri,MO,Madison,$3.690,2026-04-17
+Missouri,MO,Maries,$3.639,2026-04-17
+Missouri,MO,Marion,$3.615,2026-04-17
+Missouri,MO,McDonald,$3.395,2026-04-17
+Missouri,MO,Mercer,$3.362,2026-04-17
+Missouri,MO,Miller,$3.653,2026-04-17
+Missouri,MO,Mississippi,$3.746,2026-04-17
+Missouri,MO,Moniteau,$3.630,2026-04-17
+Missouri,MO,Monroe,$3.699,2026-04-17
+Missouri,MO,Montgomery,$3.699,2026-04-17
+Missouri,MO,Morgan,$3.687,2026-04-17
+Missouri,MO,New Madrid,$3.743,2026-04-17
+Missouri,MO,Newton,$3.380,2026-04-17
+Missouri,MO,Nodaway,$3.593,2026-04-17
+Missouri,MO,Oregon,$3.685,2026-04-17
+Missouri,MO,Osage,$3.635,2026-04-17
+Missouri,MO,Ozark,$3.699,2026-04-17
+Missouri,MO,Pemiscot,$3.795,2026-04-17
+Missouri,MO,Perry,$3.774,2026-04-17
+Missouri,MO,Pettis,$3.574,2026-04-17
+Missouri,MO,Phelps,$3.662,2026-04-17
+Missouri,MO,Pike,$3.682,2026-04-17
+Missouri,MO,Platte,$3.556,2026-04-17
+Missouri,MO,Polk,$3.541,2026-04-17
+Missouri,MO,Pulaski,$3.516,2026-04-17
+Missouri,MO,Putnam,$3.489,2026-04-17
+Missouri,MO,Ralls,$3.655,2026-04-17
+Missouri,MO,Randolph,$3.692,2026-04-17
+Missouri,MO,Ray,$3.517,2026-04-17
+Missouri,MO,Reynolds,$3.774,2026-04-17
+Missouri,MO,Ripley,$3.812,2026-04-17
+Missouri,MO,Saline,$3.623,2026-04-17
+Missouri,MO,Schuyler,$3.691,2026-04-17
+Missouri,MO,Scotland,$3.686,2026-04-17
+Missouri,MO,Scott,$3.835,2026-04-17
+Missouri,MO,Shannon,$3.717,2026-04-17
+Missouri,MO,Shelby,$3.699,2026-04-17
+Missouri,MO,Saint Charles,$3.833,2026-04-17
+Missouri,MO,Saint Clair,$3.537,2026-04-17
+Missouri,MO,Saint Francois,$3.735,2026-04-17
+Missouri,MO,Saint Louis,$3.909,2026-04-17
+Missouri,MO,Saint Louis City,$3.958,2026-04-17
+Missouri,MO,Sainte Genevieve,$3.825,2026-04-17
+Missouri,MO,Stoddard,$3.865,2026-04-17
+Missouri,MO,Stone,$3.468,2026-04-17
+Missouri,MO,Sullivan,$3.549,2026-04-17
+Missouri,MO,Taney,$3.550,2026-04-17
+Missouri,MO,Texas,$3.616,2026-04-17
+Missouri,MO,Vernon,$3.446,2026-04-17
+Missouri,MO,Warren,$3.769,2026-04-17
+Missouri,MO,Washington,$3.662,2026-04-17
+Missouri,MO,Wayne,$3.810,2026-04-17
+Missouri,MO,Webster,$3.487,2026-04-17
+Missouri,MO,Worth,$3.609,2026-04-17
+Missouri,MO,Wright,$3.549,2026-04-17
+Pennsylvania,PA,Adams,$4.228,2026-04-17
+Pennsylvania,PA,Allegheny,$4.160,2026-04-17
+Pennsylvania,PA,Armstrong,$4.159,2026-04-17
+Pennsylvania,PA,Beaver,$4.182,2026-04-17
+Pennsylvania,PA,Bedford,$4.183,2026-04-17
+Pennsylvania,PA,Berks,$4.115,2026-04-17
+Pennsylvania,PA,Blair,$4.175,2026-04-17
+Pennsylvania,PA,Bradford,$4.201,2026-04-17
+Pennsylvania,PA,Bucks,$4.008,2026-04-17
+Pennsylvania,PA,Butler,$4.119,2026-04-17
+Pennsylvania,PA,Cambria,$4.137,2026-04-17
+Pennsylvania,PA,Cameron,$4.092,2026-04-17
+Pennsylvania,PA,Carbon,$4.033,2026-04-17
+Pennsylvania,PA,Centre,$4.133,2026-04-17
+Pennsylvania,PA,Chester,$4.043,2026-04-17
+Pennsylvania,PA,Clarion,$4.151,2026-04-17
+Pennsylvania,PA,Clearfield,$4.112,2026-04-17
+Pennsylvania,PA,Clinton,$4.057,2026-04-17
+Pennsylvania,PA,Columbia,$4.102,2026-04-17
+Pennsylvania,PA,Crawford,$4.307,2026-04-17
+Pennsylvania,PA,Cumberland,$4.149,2026-04-17
+Pennsylvania,PA,Dauphin,$4.115,2026-04-17
+Pennsylvania,PA,Delaware,$4.087,2026-04-17
+Pennsylvania,PA,Elk,$4.187,2026-04-17
+Pennsylvania,PA,Erie,$4.264,2026-04-17
+Pennsylvania,PA,Fayette,$4.139,2026-04-17
+Pennsylvania,PA,Forest,$4.239,2026-04-17
+Pennsylvania,PA,Franklin,$4.007,2026-04-17
+Pennsylvania,PA,Fulton,$4.179,2026-04-17
+Pennsylvania,PA,Greene,$4.207,2026-04-17
+Pennsylvania,PA,Huntingdon,$4.155,2026-04-17
+Pennsylvania,PA,Indiana,$4.137,2026-04-17
+Pennsylvania,PA,Jefferson,$4.055,2026-04-17
+Pennsylvania,PA,Juniata,$4.206,2026-04-17
+Pennsylvania,PA,Lackawanna,$4.188,2026-04-17
+Pennsylvania,PA,Lancaster,$4.111,2026-04-17
+Pennsylvania,PA,Lawrence,$4.109,2026-04-17
+Pennsylvania,PA,Lebanon,$4.126,2026-04-17
+Pennsylvania,PA,Lehigh,$3.968,2026-04-17
+Pennsylvania,PA,Luzerne,$4.113,2026-04-17
+Pennsylvania,PA,Lycoming,$3.990,2026-04-17
+Pennsylvania,PA,McKean,$4.135,2026-04-17
+Pennsylvania,PA,Mercer,$4.100,2026-04-17
+Pennsylvania,PA,Mifflin,$4.314,2026-04-17
+Pennsylvania,PA,Monroe,$4.026,2026-04-17
+Pennsylvania,PA,Montgomery,$4.051,2026-04-17
+Pennsylvania,PA,Montour,$3.814,2026-04-17
+Pennsylvania,PA,Northampton,$4.014,2026-04-17
+Pennsylvania,PA,Northumberland,$3.935,2026-04-17
+Pennsylvania,PA,Perry,$4.138,2026-04-17
+Pennsylvania,PA,Philadelphia,$4.135,2026-04-17
+Pennsylvania,PA,Pike,$4.199,2026-04-17
+Pennsylvania,PA,Potter,$4.188,2026-04-17
+Pennsylvania,PA,Schuylkill,$4.076,2026-04-17
+Pennsylvania,PA,Snyder,$4.125,2026-04-17
+Pennsylvania,PA,Somerset,$4.164,2026-04-17
+Pennsylvania,PA,Sullivan,$4.259,2026-04-17
+Pennsylvania,PA,Susquehanna,$4.156,2026-04-17
+Pennsylvania,PA,Tioga,$4.189,2026-04-17
+Pennsylvania,PA,Union,$3.979,2026-04-17
+Pennsylvania,PA,Venango,$4.153,2026-04-17
+Pennsylvania,PA,Warren,$4.303,2026-04-17
+Pennsylvania,PA,Washington,$4.148,2026-04-17
+Pennsylvania,PA,Wayne,$4.101,2026-04-17
+Pennsylvania,PA,Westmoreland,$4.153,2026-04-17
+Pennsylvania,PA,Wyoming,$4.104,2026-04-17
+Pennsylvania,PA,York,$4.095,2026-04-17
+Rhode Island,RI,Bristol,$3.957,2026-04-17
+Rhode Island,RI,Kent,$3.933,2026-04-17
+Rhode Island,RI,Newport,$3.965,2026-04-17
+Rhode Island,RI,Providence,$3.949,2026-04-17
+Rhode Island,RI,Washington,$4.024,2026-04-17
+South Carolina,SC,Abbeville,$3.609,2026-04-17
+South Carolina,SC,Aiken,$3.702,2026-04-17
+South Carolina,SC,Allendale,$3.919,2026-04-17
+South Carolina,SC,Anderson,$3.611,2026-04-17
+South Carolina,SC,Bamberg,$3.901,2026-04-17
+South Carolina,SC,Barnwell,$3.846,2026-04-17
+South Carolina,SC,Beaufort,$3.858,2026-04-17
+South Carolina,SC,Berkeley,$3.722,2026-04-17
+South Carolina,SC,Calhoun,$3.929,2026-04-17
+South Carolina,SC,Charleston,$3.762,2026-04-17
+South Carolina,SC,Cherokee,$3.749,2026-04-17
+South Carolina,SC,Chester,$3.836,2026-04-17
+South Carolina,SC,Chesterfield,$3.725,2026-04-17
+South Carolina,SC,Clarendon,$3.830,2026-04-17
+South Carolina,SC,Colleton,$3.800,2026-04-17
+South Carolina,SC,Darlington,$3.735,2026-04-17
+South Carolina,SC,Dillon,$3.713,2026-04-17
+South Carolina,SC,Dorchester,$3.739,2026-04-17
+South Carolina,SC,Edgefield,$3.843,2026-04-17
+South Carolina,SC,Fairfield,$3.899,2026-04-17
+South Carolina,SC,Florence,$3.752,2026-04-17
+South Carolina,SC,Georgetown,$3.768,2026-04-17
+South Carolina,SC,Greenville,$3.728,2026-04-17
+South Carolina,SC,Greenwood,$3.611,2026-04-17
+South Carolina,SC,Hampton,$3.915,2026-04-17
+South Carolina,SC,Horry,$3.690,2026-04-17
+South Carolina,SC,Jasper,$3.938,2026-04-17
+South Carolina,SC,Kershaw,$3.814,2026-04-17
+South Carolina,SC,Lancaster,$3.786,2026-04-17
+South Carolina,SC,Laurens,$3.776,2026-04-17
+South Carolina,SC,Lee,$3.855,2026-04-17
+South Carolina,SC,Lexington,$3.762,2026-04-17
+South Carolina,SC,Marion,$3.819,2026-04-17
+South Carolina,SC,Marlboro,$3.772,2026-04-17
+South Carolina,SC,McCormick,$3.716,2026-04-17
+South Carolina,SC,Newberry,$3.836,2026-04-17
+South Carolina,SC,Oconee,$3.524,2026-04-17
+South Carolina,SC,Orangeburg,$3.848,2026-04-17
+South Carolina,SC,Pickens,$3.682,2026-04-17
+South Carolina,SC,Richland,$3.760,2026-04-17
+South Carolina,SC,Saluda,$3.745,2026-04-17
+South Carolina,SC,Spartanburg,$3.734,2026-04-17
+South Carolina,SC,Sumter,$3.863,2026-04-17
+South Carolina,SC,Union,$3.834,2026-04-17
+South Carolina,SC,Williamsburg,$3.875,2026-04-17
+South Carolina,SC,York,$3.709,2026-04-17
+South Dakota,SD,Aurora,$3.589,2026-04-17
+South Dakota,SD,Beadle,$3.651,2026-04-17
+South Dakota,SD,Bennett,$3.819,2026-04-17
+South Dakota,SD,Bon Homme,$3.582,2026-04-17
+South Dakota,SD,Brookings,$3.539,2026-04-17
+South Dakota,SD,Brown,$3.752,2026-04-17
+South Dakota,SD,Brule,$3.791,2026-04-17
+South Dakota,SD,Buffalo,,2026-04-17
+South Dakota,SD,Butte,$4.029,2026-04-17
+South Dakota,SD,Campbell,$3.549,2026-04-17
+South Dakota,SD,Charles Mix,$3.728,2026-04-17
+South Dakota,SD,Clark,$3.899,2026-04-17
+South Dakota,SD,Clay,$3.609,2026-04-17
+South Dakota,SD,Codington,$3.691,2026-04-17
+South Dakota,SD,Corson,$3.169,2026-04-17
+South Dakota,SD,Custer,$3.889,2026-04-17
+South Dakota,SD,Davison,$3.593,2026-04-17
+South Dakota,SD,Day,$3.674,2026-04-17
+South Dakota,SD,Deuel,$3.499,2026-04-17
+South Dakota,SD,Dewey,$3.832,2026-04-17
+South Dakota,SD,Douglas,$3.899,2026-04-17
+South Dakota,SD,Edmunds,$3.666,2026-04-17
+South Dakota,SD,Fall River,$3.727,2026-04-17
+South Dakota,SD,Faulk,$3.914,2026-04-17
+South Dakota,SD,Grant,$3.579,2026-04-17
+South Dakota,SD,Gregory,$3.556,2026-04-17
+South Dakota,SD,Haakon,$3.692,2026-04-17
+South Dakota,SD,Hamlin,$3.532,2026-04-17
+South Dakota,SD,Hand,$3.792,2026-04-17
+South Dakota,SD,Hanson,$3.394,2026-04-17
+South Dakota,SD,Harding,$3.699,2026-04-17
+South Dakota,SD,Hughes,$3.754,2026-04-17
+South Dakota,SD,Hutchinson,$3.639,2026-04-17
+South Dakota,SD,Hyde,$3.549,2026-04-17
+South Dakota,SD,Jackson,$3.721,2026-04-17
+South Dakota,SD,Jerauld,$3.999,2026-04-17
+South Dakota,SD,Jones,$3.699,2026-04-17
+South Dakota,SD,Kingsbury,$3.769,2026-04-17
+South Dakota,SD,Lake,$3.299,2026-04-17
+South Dakota,SD,Lawrence,$3.891,2026-04-17
+South Dakota,SD,Lincoln,$3.625,2026-04-17
+South Dakota,SD,Lyman,$3.893,2026-04-17
+South Dakota,SD,Marshall,$3.739,2026-04-17
+South Dakota,SD,McCook,$3.399,2026-04-17
+South Dakota,SD,McPherson,$4.099,2026-04-17
+South Dakota,SD,Meade,$3.924,2026-04-17
+South Dakota,SD,Mellette,$3.904,2026-04-17
+South Dakota,SD,Miner,$3.614,2026-04-17
+South Dakota,SD,Minnehaha,$3.583,2026-04-17
+South Dakota,SD,Moody,$3.659,2026-04-17
+South Dakota,SD,Pennington,$3.761,2026-04-17
+South Dakota,SD,Perkins,$3.616,2026-04-17
+South Dakota,SD,Potter,$3.599,2026-04-17
+South Dakota,SD,Roberts,$3.689,2026-04-17
+South Dakota,SD,Sanborn,$3.699,2026-04-17
+South Dakota,SD,Shannon,$3.914,2026-04-17
+South Dakota,SD,Spink,$3.592,2026-04-17
+South Dakota,SD,Stanley,$3.774,2026-04-17
+South Dakota,SD,Sully,$3.669,2026-04-17
+South Dakota,SD,Todd,$3.724,2026-04-17
+South Dakota,SD,Tripp,$3.749,2026-04-17
+South Dakota,SD,Turner,$3.636,2026-04-17
+South Dakota,SD,Union,$3.562,2026-04-17
+South Dakota,SD,Walworth,$3.569,2026-04-17
+South Dakota,SD,Yankton,$3.571,2026-04-17
+South Dakota,SD,Ziebach,$3.879,2026-04-17
+Tennessee,TN,Anderson,$3.738,2026-04-17
+Tennessee,TN,Bedford,$3.737,2026-04-17
+Tennessee,TN,Benton,$3.743,2026-04-17
+Tennessee,TN,Bledsoe,$3.865,2026-04-17
+Tennessee,TN,Blount,$3.747,2026-04-17
+Tennessee,TN,Bradley,$3.772,2026-04-17
+Tennessee,TN,Campbell,$3.771,2026-04-17
+Tennessee,TN,Cannon,$3.935,2026-04-17
+Tennessee,TN,Carroll,$3.832,2026-04-17
+Tennessee,TN,Carter,$3.768,2026-04-17
+Tennessee,TN,Cheatham,$3.903,2026-04-17
+Tennessee,TN,Chester,$3.859,2026-04-17
+Tennessee,TN,Claiborne,$3.743,2026-04-17
+Tennessee,TN,Clay,$3.999,2026-04-17
+Tennessee,TN,Cocke,$3.768,2026-04-17
+Tennessee,TN,Coffee,$3.716,2026-04-17
+Tennessee,TN,Crockett,$3.943,2026-04-17
+Tennessee,TN,Cumberland,$3.816,2026-04-17
+Tennessee,TN,Davidson,$3.877,2026-04-17
+Tennessee,TN,Decatur,$3.775,2026-04-17
+Tennessee,TN,DeKalb,$3.986,2026-04-17
+Tennessee,TN,Dickson,$3.879,2026-04-17
+Tennessee,TN,Dyer,$3.751,2026-04-17
+Tennessee,TN,Fayette,$3.846,2026-04-17
+Tennessee,TN,Fentress,$3.858,2026-04-17
+Tennessee,TN,Franklin,$3.842,2026-04-17
+Tennessee,TN,Gibson,$3.883,2026-04-17
+Tennessee,TN,Giles,$3.886,2026-04-17
+Tennessee,TN,Grainger,$3.887,2026-04-17
+Tennessee,TN,Greene,$3.789,2026-04-17
+Tennessee,TN,Grundy,$3.728,2026-04-17
+Tennessee,TN,Hamblen,$3.740,2026-04-17
+Tennessee,TN,Hamilton,$3.714,2026-04-17
+Tennessee,TN,Hancock,$3.799,2026-04-17
+Tennessee,TN,Hardeman,$3.905,2026-04-17
+Tennessee,TN,Hardin,$3.807,2026-04-17
+Tennessee,TN,Hawkins,$3.791,2026-04-17
+Tennessee,TN,Haywood,$3.978,2026-04-17
+Tennessee,TN,Henderson,$3.774,2026-04-17
+Tennessee,TN,Henry,$3.718,2026-04-17
+Tennessee,TN,Hickman,$3.955,2026-04-17
+Tennessee,TN,Houston,$3.979,2026-04-17
+Tennessee,TN,Humphreys,$3.787,2026-04-17
+Tennessee,TN,Jackson,$3.811,2026-04-17
+Tennessee,TN,Jefferson,$3.832,2026-04-17
+Tennessee,TN,Johnson,$3.776,2026-04-17
+Tennessee,TN,Knox,$3.774,2026-04-17
+Tennessee,TN,Lake,$3.764,2026-04-17
+Tennessee,TN,Lauderdale,$3.894,2026-04-17
+Tennessee,TN,Lawrence,$3.806,2026-04-17
+Tennessee,TN,Lewis,$3.899,2026-04-17
+Tennessee,TN,Lincoln,$3.844,2026-04-17
+Tennessee,TN,Loudon,$3.860,2026-04-17
+Tennessee,TN,Macon,$3.859,2026-04-17
+Tennessee,TN,Madison,$3.866,2026-04-17
+Tennessee,TN,Marion,$3.680,2026-04-17
+Tennessee,TN,Marshall,$3.835,2026-04-17
+Tennessee,TN,Maury,$3.838,2026-04-17
+Tennessee,TN,McMinn,$3.848,2026-04-17
+Tennessee,TN,McNairy,$3.842,2026-04-17
+Tennessee,TN,Meigs,$3.912,2026-04-17
+Tennessee,TN,Monroe,$3.886,2026-04-17
+Tennessee,TN,Montgomery,$3.799,2026-04-17
+Tennessee,TN,Moore,$3.794,2026-04-17
+Tennessee,TN,Morgan,$3.868,2026-04-17
+Tennessee,TN,Obion,$3.872,2026-04-17
+Tennessee,TN,Overton,$3.968,2026-04-17
+Tennessee,TN,Perry,$3.899,2026-04-17
+Tennessee,TN,Pickett,$3.999,2026-04-17
+Tennessee,TN,Polk,$3.850,2026-04-17
+Tennessee,TN,Putnam,$3.752,2026-04-17
+Tennessee,TN,Rhea,$3.819,2026-04-17
+Tennessee,TN,Roane,$3.851,2026-04-17
+Tennessee,TN,Robertson,$3.868,2026-04-17
+Tennessee,TN,Rutherford,$3.770,2026-04-17
+Tennessee,TN,Scott,$3.790,2026-04-17
+Tennessee,TN,Sequatchie,$3.932,2026-04-17
+Tennessee,TN,Sevier,$3.793,2026-04-17
+Tennessee,TN,Shelby,$3.821,2026-04-17
+Tennessee,TN,Smith,$3.858,2026-04-17
+Tennessee,TN,Stewart,$3.916,2026-04-17
+Tennessee,TN,Sullivan,$3.839,2026-04-17
+Tennessee,TN,Sumner,$3.818,2026-04-17
+Tennessee,TN,Tipton,$3.884,2026-04-17
+Tennessee,TN,Trousdale,$3.886,2026-04-17
+Tennessee,TN,Unicoi,$3.691,2026-04-17
+Tennessee,TN,Union,$3.741,2026-04-17
+Tennessee,TN,Van Buren,$3.899,2026-04-17
+Tennessee,TN,Warren,$3.903,2026-04-17
+Tennessee,TN,Washington,$3.837,2026-04-17
+Tennessee,TN,Wayne,$3.851,2026-04-17
+Tennessee,TN,Weakley,$3.880,2026-04-17
+Tennessee,TN,White,$3.850,2026-04-17
+Tennessee,TN,Williamson,$4.085,2026-04-17
+Tennessee,TN,Wilson,$3.759,2026-04-17
+Texas,TX,Anderson,$3.709,2026-04-17
+Texas,TX,Andrews,$3.719,2026-04-17
+Texas,TX,Angelina,$3.747,2026-04-17
+Texas,TX,Aransas,$3.578,2026-04-17
+Texas,TX,Archer,$3.667,2026-04-17
+Texas,TX,Armstrong,$3.449,2026-04-17
+Texas,TX,Atascosa,$3.738,2026-04-17
+Texas,TX,Austin,$3.848,2026-04-17
+Texas,TX,Bailey,$3.497,2026-04-17
+Texas,TX,Bandera,$3.885,2026-04-17
+Texas,TX,Bastrop,$3.798,2026-04-17
+Texas,TX,Baylor,$3.899,2026-04-17
+Texas,TX,Bee,$3.702,2026-04-17
+Texas,TX,Bell,$3.768,2026-04-17
+Texas,TX,Bexar,$3.710,2026-04-17
+Texas,TX,Blanco,$3.791,2026-04-17
+Texas,TX,Borden,,2026-04-17
+Texas,TX,Bosque,$3.786,2026-04-17
+Texas,TX,Bowie,$3.731,2026-04-17
+Texas,TX,Brazoria,$3.771,2026-04-17
+Texas,TX,Brazos,$3.858,2026-04-17
+Texas,TX,Brewster,$4.329,2026-04-17
+Texas,TX,Briscoe,$3.484,2026-04-17
+Texas,TX,Brooks,$3.674,2026-04-17
+Texas,TX,Brown,$3.635,2026-04-17
+Texas,TX,Burleson,$3.841,2026-04-17
+Texas,TX,Burnet,$3.731,2026-04-17
+Texas,TX,Caldwell,$3.755,2026-04-17
+Texas,TX,Calhoun,$3.712,2026-04-17
+Texas,TX,Callahan,$3.766,2026-04-17
+Texas,TX,Cameron,$3.577,2026-04-17
+Texas,TX,Camp,$3.728,2026-04-17
+Texas,TX,Carson,$3.407,2026-04-17
+Texas,TX,Cass,$3.752,2026-04-17
+Texas,TX,Castro,$3.459,2026-04-17
+Texas,TX,Chambers,$3.842,2026-04-17
+Texas,TX,Cherokee,$3.758,2026-04-17
+Texas,TX,Childress,$3.247,2026-04-17
+Texas,TX,Clay,$3.596,2026-04-17
+Texas,TX,Cochran,$3.539,2026-04-17
+Texas,TX,Coke,$3.824,2026-04-17
+Texas,TX,Coleman,$3.715,2026-04-17
+Texas,TX,Collin,$3.539,2026-04-17
+Texas,TX,Collingsworth,$3.482,2026-04-17
+Texas,TX,Colorado,$3.787,2026-04-17
+Texas,TX,Comal,$3.722,2026-04-17
+Texas,TX,Comanche,$3.735,2026-04-17
+Texas,TX,Concho,$4.059,2026-04-17
+Texas,TX,Cooke,$3.647,2026-04-17
+Texas,TX,Coryell,$3.787,2026-04-17
+Texas,TX,Cottle,$3.599,2026-04-17
+Texas,TX,Crane,$4.119,2026-04-17
+Texas,TX,Crockett,$4.007,2026-04-17
+Texas,TX,Crosby,$3.375,2026-04-17
+Texas,TX,Culberson,$4.239,2026-04-17
+Texas,TX,Dallam,$3.402,2026-04-17
+Texas,TX,Dallas,$3.635,2026-04-17
+Texas,TX,Dawson,$3.534,2026-04-17
+Texas,TX,Deaf Smith,$3.273,2026-04-17
+Texas,TX,Delta,$3.832,2026-04-17
+Texas,TX,Denton,$3.565,2026-04-17
+Texas,TX,De Witt,$3.720,2026-04-17
+Texas,TX,Dickens,$3.359,2026-04-17
+Texas,TX,Dimmit,$3.789,2026-04-17
+Texas,TX,Donley,$3.476,2026-04-17
+Texas,TX,Duval,$3.785,2026-04-17
+Texas,TX,Eastland,$3.718,2026-04-17
+Texas,TX,Ector,$3.651,2026-04-17
+Texas,TX,Edwards,$4.199,2026-04-17
+Texas,TX,El Paso,$3.952,2026-04-17
+Texas,TX,Ellis,$3.624,2026-04-17
+Texas,TX,Erath,$3.815,2026-04-17
+Texas,TX,Falls,$3.872,2026-04-17
+Texas,TX,Fannin,$3.675,2026-04-17
+Texas,TX,Fayette,$3.826,2026-04-17
+Texas,TX,Fisher,$3.384,2026-04-17
+Texas,TX,Floyd,$3.427,2026-04-17
+Texas,TX,Foard,$3.699,2026-04-17
+Texas,TX,Fort Bend,$3.750,2026-04-17
+Texas,TX,Franklin,$3.799,2026-04-17
+Texas,TX,Freestone,$3.736,2026-04-17
+Texas,TX,Frio,$3.857,2026-04-17
+Texas,TX,Gaines,$3.520,2026-04-17
+Texas,TX,Galveston,$3.814,2026-04-17
+Texas,TX,Garza,$3.457,2026-04-17
+Texas,TX,Gillespie,$3.862,2026-04-17
+Texas,TX,Glasscock,$4.246,2026-04-17
+Texas,TX,Goliad,$3.759,2026-04-17
+Texas,TX,Gonzales,$3.746,2026-04-17
+Texas,TX,Gray,$3.325,2026-04-17
+Texas,TX,Grayson,$3.546,2026-04-17
+Texas,TX,Gregg,$3.691,2026-04-17
+Texas,TX,Grimes,$3.923,2026-04-17
+Texas,TX,Guadalupe,$3.705,2026-04-17
+Texas,TX,Hale,$3.255,2026-04-17
+Texas,TX,Hall,$3.497,2026-04-17
+Texas,TX,Hamilton,$3.789,2026-04-17
+Texas,TX,Hansford,$3.491,2026-04-17
+Texas,TX,Hardeman,$3.569,2026-04-17
+Texas,TX,Hardin,$3.761,2026-04-17
+Texas,TX,Harris,$3.784,2026-04-17
+Texas,TX,Harrison,$3.816,2026-04-17
+Texas,TX,Hartley,$3.399,2026-04-17
+Texas,TX,Haskell,$3.820,2026-04-17
+Texas,TX,Hays,$3.748,2026-04-17
+Texas,TX,Hemphill,$3.499,2026-04-17
+Texas,TX,Henderson,$3.799,2026-04-17
+Texas,TX,Hidalgo,$3.623,2026-04-17
+Texas,TX,Hill,$3.628,2026-04-17
+Texas,TX,Hockley,$3.526,2026-04-17
+Texas,TX,Hood,$3.775,2026-04-17
+Texas,TX,Hopkins,$3.851,2026-04-17
+Texas,TX,Houston,$3.993,2026-04-17
+Texas,TX,Howard,$3.624,2026-04-17
+Texas,TX,Hudspeth,$4.186,2026-04-17
+Texas,TX,Hunt,$3.638,2026-04-17
+Texas,TX,Hutchinson,$3.424,2026-04-17
+Texas,TX,Irion,$3.949,2026-04-17
+Texas,TX,Jack,$3.865,2026-04-17
+Texas,TX,Jackson,$3.889,2026-04-17
+Texas,TX,Jasper,$3.793,2026-04-17
+Texas,TX,Jeff Davis,$4.184,2026-04-17
+Texas,TX,Jefferson,$3.773,2026-04-17
+Texas,TX,Jim Hogg,$3.779,2026-04-17
+Texas,TX,Jim Wells,$3.692,2026-04-17
+Texas,TX,Johnson,$3.623,2026-04-17
+Texas,TX,Jones,$3.776,2026-04-17
+Texas,TX,Karnes,$3.715,2026-04-17
+Texas,TX,Kaufman,$3.685,2026-04-17
+Texas,TX,Kendall,$3.839,2026-04-17
+Texas,TX,Kenedy,,2026-04-17
+Texas,TX,Kent,,2026-04-17
+Texas,TX,Kerr,$3.798,2026-04-17
+Texas,TX,Kimble,$3.721,2026-04-17
+Texas,TX,King,$3.899,2026-04-17
+Texas,TX,Kinney,$3.699,2026-04-17
+Texas,TX,Kleberg,$3.701,2026-04-17
+Texas,TX,Knox,$3.899,2026-04-17
+Texas,TX,La Salle,$3.749,2026-04-17
+Texas,TX,Lamar,$3.798,2026-04-17
+Texas,TX,Lamb,$3.509,2026-04-17
+Texas,TX,Lampasas,$3.756,2026-04-17
+Texas,TX,Lavaca,$3.893,2026-04-17
+Texas,TX,Lee,$3.849,2026-04-17
+Texas,TX,Leon,$3.827,2026-04-17
+Texas,TX,Liberty,$3.785,2026-04-17
+Texas,TX,Limestone,$3.834,2026-04-17
+Texas,TX,Lipscomb,$3.499,2026-04-17
+Texas,TX,Live Oak,$3.795,2026-04-17
+Texas,TX,Llano,$3.732,2026-04-17
+Texas,TX,Loving,$3.944,2026-04-17
+Texas,TX,Lubbock,$3.353,2026-04-17
+Texas,TX,Lynn,$3.541,2026-04-17
+Texas,TX,Madison,$3.830,2026-04-17
+Texas,TX,Marion,$3.699,2026-04-17
+Texas,TX,Martin,$3.980,2026-04-17
+Texas,TX,Mason,$4.087,2026-04-17
+Texas,TX,Matagorda,$3.739,2026-04-17
+Texas,TX,Maverick,$3.757,2026-04-17
+Texas,TX,McCulloch,$4.220,2026-04-17
+Texas,TX,McLennan,$3.767,2026-04-17
+Texas,TX,McMullen,$3.769,2026-04-17
+Texas,TX,Medina,$3.809,2026-04-17
+Texas,TX,Menard,$3.639,2026-04-17
+Texas,TX,Midland,$3.598,2026-04-17
+Texas,TX,Milam,$3.900,2026-04-17
+Texas,TX,Mills,$3.852,2026-04-17
+Texas,TX,Mitchell,$3.703,2026-04-17
+Texas,TX,Montague,$3.652,2026-04-17
+Texas,TX,Montgomery,$3.788,2026-04-17
+Texas,TX,Moore,$3.380,2026-04-17
+Texas,TX,Morris,$3.857,2026-04-17
+Texas,TX,Motley,$3.699,2026-04-17
+Texas,TX,Nacogdoches,$3.743,2026-04-17
+Texas,TX,Navarro,$3.841,2026-04-17
+Texas,TX,Newton,$3.814,2026-04-17
+Texas,TX,Nolan,$3.662,2026-04-17
+Texas,TX,Nueces,$3.691,2026-04-17
+Texas,TX,Ochiltree,$3.469,2026-04-17
+Texas,TX,Oldham,$3.629,2026-04-17
+Texas,TX,Orange,$3.701,2026-04-17
+Texas,TX,Palo Pinto,$3.737,2026-04-17
+Texas,TX,Panola,$3.745,2026-04-17
+Texas,TX,Parker,$3.632,2026-04-17
+Texas,TX,Parmer,$3.478,2026-04-17
+Texas,TX,Pecos,$4.082,2026-04-17
+Texas,TX,Polk,$3.820,2026-04-17
+Texas,TX,Potter,$3.373,2026-04-17
+Texas,TX,Presidio,$4.293,2026-04-17
+Texas,TX,Rains,$3.745,2026-04-17
+Texas,TX,Randall,$3.345,2026-04-17
+Texas,TX,Reagan,$3.832,2026-04-17
+Texas,TX,Real,$3.806,2026-04-17
+Texas,TX,Red River,$3.868,2026-04-17
+Texas,TX,Reeves,$4.015,2026-04-17
+Texas,TX,Refugio,$3.769,2026-04-17
+Texas,TX,Roberts,$3.659,2026-04-17
+Texas,TX,Robertson,$3.845,2026-04-17
+Texas,TX,Rockwall,$3.599,2026-04-17
+Texas,TX,Runnels,$3.888,2026-04-17
+Texas,TX,Rusk,$3.809,2026-04-17
+Texas,TX,Sabine,$3.810,2026-04-17
+Texas,TX,San Augustine,$3.803,2026-04-17
+Texas,TX,San Jacinto,$3.721,2026-04-17
+Texas,TX,San Patricio,$3.714,2026-04-17
+Texas,TX,San Saba,$3.896,2026-04-17
+Texas,TX,Schleicher,$3.879,2026-04-17
+Texas,TX,Scurry,$3.675,2026-04-17
+Texas,TX,Shackelford,$3.774,2026-04-17
+Texas,TX,Shelby,$3.718,2026-04-17
+Texas,TX,Sherman,$3.466,2026-04-17
+Texas,TX,Smith,$3.636,2026-04-17
+Texas,TX,Somervell,$3.704,2026-04-17
+Texas,TX,Starr,$3.717,2026-04-17
+Texas,TX,Stephens,$3.716,2026-04-17
+Texas,TX,Sterling,$3.899,2026-04-17
+Texas,TX,Stonewall,$4.099,2026-04-17
+Texas,TX,Sutton,$3.871,2026-04-17
+Texas,TX,Swisher,$3.320,2026-04-17
+Texas,TX,Tarrant,$3.600,2026-04-17
+Texas,TX,Taylor,$3.658,2026-04-17
+Texas,TX,Terrell,$4.299,2026-04-17
+Texas,TX,Terry,$3.312,2026-04-17
+Texas,TX,Throckmorton,$3.899,2026-04-17
+Texas,TX,Titus,$3.830,2026-04-17
+Texas,TX,Tom Green,$3.879,2026-04-17
+Texas,TX,Travis,$3.769,2026-04-17
+Texas,TX,Trinity,$3.884,2026-04-17
+Texas,TX,Tyler,$3.776,2026-04-17
+Texas,TX,Upshur,$3.769,2026-04-17
+Texas,TX,Upton,$4.236,2026-04-17
+Texas,TX,Uvalde,$3.693,2026-04-17
+Texas,TX,Val Verde,$3.740,2026-04-17
+Texas,TX,Van Zandt,$3.726,2026-04-17
+Texas,TX,Victoria,$3.804,2026-04-17
+Texas,TX,Walker,$3.846,2026-04-17
+Texas,TX,Waller,$3.817,2026-04-17
+Texas,TX,Ward,$4.062,2026-04-17
+Texas,TX,Washington,$3.872,2026-04-17
+Texas,TX,Webb,$3.607,2026-04-17
+Texas,TX,Wharton,$3.732,2026-04-17
+Texas,TX,Wheeler,$3.392,2026-04-17
+Texas,TX,Wichita,$3.667,2026-04-17
+Texas,TX,Wilbarger,$3.466,2026-04-17
+Texas,TX,Willacy,$3.641,2026-04-17
+Texas,TX,Williamson,$3.740,2026-04-17
+Texas,TX,Wilson,$3.786,2026-04-17
+Texas,TX,Winkler,$3.997,2026-04-17
+Texas,TX,Wise,$3.616,2026-04-17
+Texas,TX,Wood,$3.747,2026-04-17
+Texas,TX,Yoakum,$3.532,2026-04-17
+Texas,TX,Young,$3.877,2026-04-17
+Texas,TX,Zapata,$3.782,2026-04-17
+Texas,TX,Zavala,$3.779,2026-04-17
+Utah,UT,Beaver,$4.469,2026-04-17
+Utah,UT,Box Elder,$4.165,2026-04-17
+Utah,UT,Cache,$4.125,2026-04-17
+Utah,UT,Carbon,$4.209,2026-04-17
+Utah,UT,Daggett,$4.299,2026-04-17
+Utah,UT,Davis,$4.184,2026-04-17
+Utah,UT,Duchesne,$4.227,2026-04-17
+Utah,UT,Emery,$4.164,2026-04-17
+Utah,UT,Garfield,$4.259,2026-04-17
+Utah,UT,Grand,$4.299,2026-04-17
+Utah,UT,Iron,$4.154,2026-04-17
+Utah,UT,Juab,$4.121,2026-04-17
+Utah,UT,Kane,$4.344,2026-04-17
+Utah,UT,Millard,$4.177,2026-04-17
+Utah,UT,Morgan,$4.301,2026-04-17
+Utah,UT,Piute,$4.389,2026-04-17
+Utah,UT,Rich,$4.482,2026-04-17
+Utah,UT,Salt Lake,$4.158,2026-04-17
+Utah,UT,San Juan,$4.295,2026-04-17
+Utah,UT,Sanpete,$4.226,2026-04-17
+Utah,UT,Sevier,$4.238,2026-04-17
+Utah,UT,Summit,$4.359,2026-04-17
+Utah,UT,Tooele,$4.149,2026-04-17
+Utah,UT,Uintah,$4.213,2026-04-17
+Utah,UT,Utah,$4.156,2026-04-17
+Utah,UT,Wasatch,$4.227,2026-04-17
+Utah,UT,Washington,$4.274,2026-04-17
+Utah,UT,Wayne,$4.335,2026-04-17
+Utah,UT,Weber,$4.164,2026-04-17
+Vermont,VT,Addison,$4.074,2026-04-17
+Vermont,VT,Bennington,$4.016,2026-04-17
+Vermont,VT,Caledonia,$4.038,2026-04-17
+Vermont,VT,Chittenden,$4.104,2026-04-17
+Vermont,VT,Essex,$4.202,2026-04-17
+Vermont,VT,Franklin,$4.089,2026-04-17
+Vermont,VT,Grand Isle,$4.103,2026-04-17
+Vermont,VT,Lamoille,$4.092,2026-04-17
+Vermont,VT,Orange,$4.079,2026-04-17
+Vermont,VT,Orleans,$4.094,2026-04-17
+Vermont,VT,Rutland,$4.042,2026-04-17
+Vermont,VT,Washington,$4.110,2026-04-17
+Vermont,VT,Windham,$4.024,2026-04-17
+Vermont,VT,Windsor,$4.057,2026-04-17
+Virginia,VA,Accomack,$4.005,2026-04-17
+Virginia,VA,Albemarle,$3.907,2026-04-17
+Virginia,VA,Alexandria City,$4.180,2026-04-17
+Virginia,VA,Alleghany,$3.909,2026-04-17
+Virginia,VA,Amelia,$3.995,2026-04-17
+Virginia,VA,Amherst,$3.941,2026-04-17
+Virginia,VA,Appomattox,$3.884,2026-04-17
+Virginia,VA,Arlington,$4.130,2026-04-17
+Virginia,VA,Augusta,$3.809,2026-04-17
+Virginia,VA,Bath,$4.049,2026-04-17
+Virginia,VA,Bedford,$3.861,2026-04-17
+Virginia,VA,Bedford City,$3.832,2026-04-17
+Virginia,VA,Bland,$3.879,2026-04-17
+Virginia,VA,Botetourt,$3.925,2026-04-17
+Virginia,VA,Bristol,$3.906,2026-04-17
+Virginia,VA,Brunswick,$3.810,2026-04-17
+Virginia,VA,Buchanan,$3.899,2026-04-17
+Virginia,VA,Buckingham,$3.993,2026-04-17
+Virginia,VA,Buena Vista City,$4.064,2026-04-17
+Virginia,VA,Campbell,$3.848,2026-04-17
+Virginia,VA,Caroline,$3.795,2026-04-17
+Virginia,VA,Carroll,$3.812,2026-04-17
+Virginia,VA,Charles City,$4.119,2026-04-17
+Virginia,VA,Charlotte,$3.969,2026-04-17
+Virginia,VA,Charlottesville City,$3.932,2026-04-17
+Virginia,VA,Chesapeake City,$3.955,2026-04-17
+Virginia,VA,Chesterfield,$3.892,2026-04-17
+Virginia,VA,Clarke,$3.826,2026-04-17
+Virginia,VA,Clifton Forge City,$4.005,2026-04-17
+Virginia,VA,Colonial Heights City,$3.883,2026-04-17
+Virginia,VA,Covington City,$3.950,2026-04-17
+Virginia,VA,Craig,$3.952,2026-04-17
+Virginia,VA,Culpeper,$3.894,2026-04-17
+Virginia,VA,Cumberland,$3.904,2026-04-17
+Virginia,VA,Danville City,$3.799,2026-04-17
+Virginia,VA,Dickenson,$4.007,2026-04-17
+Virginia,VA,Dinwiddie,$3.955,2026-04-17
+Virginia,VA,Emporia City,$3.968,2026-04-17
+Virginia,VA,Essex,$3.897,2026-04-17
+Virginia,VA,Fairfax,$4.161,2026-04-17
+Virginia,VA,Fairfax City,$4.088,2026-04-17
+Virginia,VA,Falls Church City,$4.127,2026-04-17
+Virginia,VA,Fauquier,$3.954,2026-04-17
+Virginia,VA,Floyd,$4.039,2026-04-17
+Virginia,VA,Fluvanna,$3.936,2026-04-17
+Virginia,VA,Franklin,$3.893,2026-04-17
+Virginia,VA,Franklin City,$3.994,2026-04-17
+Virginia,VA,Frederick,$3.756,2026-04-17
+Virginia,VA,Fredericksburg City,$3.809,2026-04-17
+Virginia,VA,Galax City,$3.859,2026-04-17
+Virginia,VA,Giles,$3.904,2026-04-17
+Virginia,VA,Gloucester,$3.815,2026-04-17
+Virginia,VA,Goochland,$4.026,2026-04-17
+Virginia,VA,Grayson,$3.817,2026-04-17
+Virginia,VA,Greene,$3.624,2026-04-17
+Virginia,VA,Greensville,$3.944,2026-04-17
+Virginia,VA,Halifax,$3.915,2026-04-17
+Virginia,VA,Hampton City,$3.922,2026-04-17
+Virginia,VA,Hanover,$3.906,2026-04-17
+Virginia,VA,Harrisonburg City,$3.834,2026-04-17
+Virginia,VA,Henrico,$3.978,2026-04-17
+Virginia,VA,Henry,$3.865,2026-04-17
+Virginia,VA,Highland,$3.999,2026-04-17
+Virginia,VA,Hopewell City,$3.900,2026-04-17
+Virginia,VA,Isle of Wight,$3.959,2026-04-17
+Virginia,VA,James City,$3.961,2026-04-17
+Virginia,VA,King and Queen,$3.889,2026-04-17
+Virginia,VA,King George,$3.869,2026-04-17
+Virginia,VA,King William,$3.951,2026-04-17
+Virginia,VA,Lancaster,$3.981,2026-04-17
+Virginia,VA,Lee,$3.980,2026-04-17
+Virginia,VA,Lexington City,$4.183,2026-04-17
+Virginia,VA,Loudoun,$3.918,2026-04-17
+Virginia,VA,Louisa,$3.983,2026-04-17
+Virginia,VA,Lunenburg,$4.019,2026-04-17
+Virginia,VA,Lynchburg City,$3.861,2026-04-17
+Virginia,VA,Madison,$3.975,2026-04-17
+Virginia,VA,Manassas City,$3.836,2026-04-17
+Virginia,VA,Manassas Park City,,2026-04-17
+Virginia,VA,Martinsville City,$3.834,2026-04-17
+Virginia,VA,Mathews,$3.907,2026-04-17
+Virginia,VA,Mecklenburg,$3.837,2026-04-17
+Virginia,VA,Middlesex,$3.946,2026-04-17
+Virginia,VA,Montgomery,$3.881,2026-04-17
+Virginia,VA,Nelson,$3.967,2026-04-17
+Virginia,VA,New Kent,$3.964,2026-04-17
+Virginia,VA,Newport News City,$3.929,2026-04-17
+Virginia,VA,Norfolk City,$3.942,2026-04-17
+Virginia,VA,Northampton,$4.066,2026-04-17
+Virginia,VA,Northumberland,$3.997,2026-04-17
+Virginia,VA,Norton City,$3.995,2026-04-17
+Virginia,VA,Nottoway,$4.019,2026-04-17
+Virginia,VA,Orange,$3.927,2026-04-17
+Virginia,VA,Page,$3.906,2026-04-17
+Virginia,VA,Patrick,$3.886,2026-04-17
+Virginia,VA,Petersburg City,$3.949,2026-04-17
+Virginia,VA,Pittsylvania,$3.950,2026-04-17
+Virginia,VA,Poquoson City,$4.029,2026-04-17
+Virginia,VA,Portsmouth City,$3.988,2026-04-17
+Virginia,VA,Powhatan,$3.962,2026-04-17
+Virginia,VA,Prince Edward,$3.844,2026-04-17
+Virginia,VA,Prince George,$3.897,2026-04-17
+Virginia,VA,Prince William,$3.969,2026-04-17
+Virginia,VA,Pulaski,$3.887,2026-04-17
+Virginia,VA,Radford City,$3.920,2026-04-17
+Virginia,VA,Rappahannock,$3.952,2026-04-17
+Virginia,VA,Richmond,$3.936,2026-04-17
+Virginia,VA,Richmond City,$4.022,2026-04-17
+Virginia,VA,Roanoke,$3.869,2026-04-17
+Virginia,VA,Roanoke City,$3.862,2026-04-17
+Virginia,VA,Rockbridge,$3.999,2026-04-17
+Virginia,VA,Rockingham,$3.850,2026-04-17
+Virginia,VA,Russell,$3.995,2026-04-17
+Virginia,VA,Salem,$3.916,2026-04-17
+Virginia,VA,Scott,$4.090,2026-04-17
+Virginia,VA,Shenandoah,$3.883,2026-04-17
+Virginia,VA,Smyth,$3.952,2026-04-17
+Virginia,VA,Southampton,$4.007,2026-04-17
+Virginia,VA,Spotsylvania,$3.728,2026-04-17
+Virginia,VA,Stafford,$3.876,2026-04-17
+Virginia,VA,Staunton City,$3.755,2026-04-17
+Virginia,VA,Suffolk City,$3.967,2026-04-17
+Virginia,VA,Surry,$3.982,2026-04-17
+Virginia,VA,Sussex,$4.040,2026-04-17
+Virginia,VA,Tazewell,$3.971,2026-04-17
+Virginia,VA,Virginia Beach City,$3.977,2026-04-17
+Virginia,VA,Warren,$3.874,2026-04-17
+Virginia,VA,Washington,$3.885,2026-04-17
+Virginia,VA,Waynesboro City,$3.802,2026-04-17
+Virginia,VA,Westmoreland,$3.955,2026-04-17
+Virginia,VA,Williamsburg City,,2026-04-17
+Virginia,VA,Winchester City,$3.674,2026-04-17
+Virginia,VA,Wise,$4.007,2026-04-17
+Virginia,VA,Wythe,$3.906,2026-04-17
+Virginia,VA,York,$3.903,2026-04-17
+Washington,WA,Adams,$5.094,2026-04-17
+Washington,WA,Asotin,$4.549,2026-04-17
+Washington,WA,Benton,$5.036,2026-04-17
+Washington,WA,Chelan,$5.173,2026-04-17
+Washington,WA,Clallam,$5.467,2026-04-17
+Washington,WA,Clark,$5.359,2026-04-17
+Washington,WA,Columbia,$5.174,2026-04-17
+Washington,WA,Cowlitz,$5.439,2026-04-17
+Washington,WA,Douglas,$5.082,2026-04-17
+Washington,WA,Ferry,$5.087,2026-04-17
+Washington,WA,Franklin,$5.047,2026-04-17
+Washington,WA,Garfield,$5.159,2026-04-17
+Washington,WA,Grant,$5.166,2026-04-17
+Washington,WA,Grays Harbor,$5.584,2026-04-17
+Washington,WA,Island,$5.423,2026-04-17
+Washington,WA,Jefferson,$5.692,2026-04-17
+Washington,WA,King,$5.682,2026-04-17
+Washington,WA,Kitsap,$5.468,2026-04-17
+Washington,WA,Kittitas,$5.235,2026-04-17
+Washington,WA,Klickitat,$5.338,2026-04-17
+Washington,WA,Lewis,$5.474,2026-04-17
+Washington,WA,Lincoln,$5.052,2026-04-17
+Washington,WA,Mason,$5.512,2026-04-17
+Washington,WA,Okanogan,$5.147,2026-04-17
+Washington,WA,Pacific,$5.817,2026-04-17
+Washington,WA,Pend Oreille,$4.989,2026-04-17
+Washington,WA,Pierce,$5.480,2026-04-17
+Washington,WA,San Juan,$6.174,2026-04-17
+Washington,WA,Skagit,$5.231,2026-04-17
+Washington,WA,Skamania,$5.649,2026-04-17
+Washington,WA,Snohomish,$5.469,2026-04-17
+Washington,WA,Spokane,$4.922,2026-04-17
+Washington,WA,Stevens,$4.926,2026-04-17
+Washington,WA,Thurston,$5.427,2026-04-17
+Washington,WA,Wahkiakum,$5.999,2026-04-17
+Washington,WA,Walla Walla,$5.160,2026-04-17
+Washington,WA,Whatcom,$5.305,2026-04-17
+Washington,WA,Whitman,$5.078,2026-04-17
+Washington,WA,Yakima,$5.053,2026-04-17
+West Virginia,WV,Barbour,$3.837,2026-04-17
+West Virginia,WV,Berkeley,$3.725,2026-04-17
+West Virginia,WV,Boone,$3.818,2026-04-17
+West Virginia,WV,Braxton,$3.796,2026-04-17
+West Virginia,WV,Brooke,$3.849,2026-04-17
+West Virginia,WV,Cabell,$3.797,2026-04-17
+West Virginia,WV,Calhoun,$3.939,2026-04-17
+West Virginia,WV,Clay,$3.962,2026-04-17
+West Virginia,WV,Doddridge,$3.727,2026-04-17
+West Virginia,WV,Fayette,$4.028,2026-04-17
+West Virginia,WV,Gilmer,$3.999,2026-04-17
+West Virginia,WV,Grant,$4.116,2026-04-17
+West Virginia,WV,Greenbrier,$3.856,2026-04-17
+West Virginia,WV,Hampshire,$4.137,2026-04-17
+West Virginia,WV,Hancock,$3.814,2026-04-17
+West Virginia,WV,Hardy,$4.128,2026-04-17
+West Virginia,WV,Harrison,$3.971,2026-04-17
+West Virginia,WV,Jackson,$3.911,2026-04-17
+West Virginia,WV,Jefferson,$3.866,2026-04-17
+West Virginia,WV,Kanawha,$3.861,2026-04-17
+West Virginia,WV,Lewis,$3.666,2026-04-17
+West Virginia,WV,Lincoln,$3.893,2026-04-17
+West Virginia,WV,Logan,$3.891,2026-04-17
+West Virginia,WV,Marion,$3.851,2026-04-17
+West Virginia,WV,Marshall,$3.813,2026-04-17
+West Virginia,WV,Mason,$3.959,2026-04-17
+West Virginia,WV,McDowell,$3.920,2026-04-17
+West Virginia,WV,Mercer,$4.126,2026-04-17
+West Virginia,WV,Mineral,$3.834,2026-04-17
+West Virginia,WV,Mingo,$3.994,2026-04-17
+West Virginia,WV,Monongalia,$4.073,2026-04-17
+West Virginia,WV,Monroe,$3.899,2026-04-17
+West Virginia,WV,Morgan,$4.129,2026-04-17
+West Virginia,WV,Nicholas,$4.161,2026-04-17
+West Virginia,WV,Ohio,$3.854,2026-04-17
+West Virginia,WV,Pendleton,$4.199,2026-04-17
+West Virginia,WV,Pleasants,$3.772,2026-04-17
+West Virginia,WV,Pocahontas,$3.992,2026-04-17
+West Virginia,WV,Preston,$4.132,2026-04-17
+West Virginia,WV,Putnam,$3.828,2026-04-17
+West Virginia,WV,Raleigh,$4.179,2026-04-17
+West Virginia,WV,Randolph,$3.665,2026-04-17
+West Virginia,WV,Ritchie,$3.771,2026-04-17
+West Virginia,WV,Roane,$3.911,2026-04-17
+West Virginia,WV,Summers,$3.976,2026-04-17
+West Virginia,WV,Taylor,$3.905,2026-04-17
+West Virginia,WV,Tucker,$4.159,2026-04-17
+West Virginia,WV,Tyler,$3.799,2026-04-17
+West Virginia,WV,Upshur,$3.996,2026-04-17
+West Virginia,WV,Wayne,$3.847,2026-04-17
+West Virginia,WV,Webster,$3.992,2026-04-17
+West Virginia,WV,Wetzel,$3.816,2026-04-17
+West Virginia,WV,Wirt,$3.799,2026-04-17
+West Virginia,WV,Wood,$3.684,2026-04-17
+West Virginia,WV,Wyoming,$3.957,2026-04-17
+Wisconsin,WI,Adams,$3.809,2026-04-17
+Wisconsin,WI,Ashland,$3.725,2026-04-17
+Wisconsin,WI,Barron,$3.805,2026-04-17
+Wisconsin,WI,Bayfield,$3.813,2026-04-17
+Wisconsin,WI,Brown,$3.781,2026-04-17
+Wisconsin,WI,Buffalo,$3.582,2026-04-17
+Wisconsin,WI,Burnett,$3.495,2026-04-17
+Wisconsin,WI,Calumet,$3.765,2026-04-17
+Wisconsin,WI,Chippewa,$3.588,2026-04-17
+Wisconsin,WI,Clark,$3.722,2026-04-17
+Wisconsin,WI,Columbia,$3.783,2026-04-17
+Wisconsin,WI,Crawford,$3.745,2026-04-17
+Wisconsin,WI,Dane,$3.845,2026-04-17
+Wisconsin,WI,Dodge,$3.759,2026-04-17
+Wisconsin,WI,Door,$3.732,2026-04-17
+Wisconsin,WI,Douglas,$3.648,2026-04-17
+Wisconsin,WI,Dunn,$3.610,2026-04-17
+Wisconsin,WI,Eau Claire,$3.545,2026-04-17
+Wisconsin,WI,Florence,$3.842,2026-04-17
+Wisconsin,WI,Fond du Lac,$3.758,2026-04-17
+Wisconsin,WI,Forest,$3.745,2026-04-17
+Wisconsin,WI,Grant,$3.776,2026-04-17
+Wisconsin,WI,Green,$3.891,2026-04-17
+Wisconsin,WI,Green Lake,$3.786,2026-04-17
+Wisconsin,WI,Iowa,$3.800,2026-04-17
+Wisconsin,WI,Iron,$3.893,2026-04-17
+Wisconsin,WI,Jackson,$3.694,2026-04-17
+Wisconsin,WI,Jefferson,$3.832,2026-04-17
+Wisconsin,WI,Juneau,$3.657,2026-04-17
+Wisconsin,WI,Kenosha,$3.823,2026-04-17
+Wisconsin,WI,Kewaunee,$3.773,2026-04-17
+Wisconsin,WI,La Crosse,$3.613,2026-04-17
+Wisconsin,WI,Lafayette,$3.829,2026-04-17
+Wisconsin,WI,Langlade,$3.751,2026-04-17
+Wisconsin,WI,Lincoln,$3.803,2026-04-17
+Wisconsin,WI,Manitowoc,$3.774,2026-04-17
+Wisconsin,WI,Marathon,$3.683,2026-04-17
+Wisconsin,WI,Marinette,$3.715,2026-04-17
+Wisconsin,WI,Marquette,$3.859,2026-04-17
+Wisconsin,WI,Menominee,$3.799,2026-04-17
+Wisconsin,WI,Milwaukee,$3.777,2026-04-17
+Wisconsin,WI,Monroe,$3.795,2026-04-17
+Wisconsin,WI,Oconto,$3.844,2026-04-17
+Wisconsin,WI,Oneida,$3.765,2026-04-17
+Wisconsin,WI,Outagamie,$3.763,2026-04-17
+Wisconsin,WI,Ozaukee,$3.830,2026-04-17
+Wisconsin,WI,Pepin,$3.574,2026-04-17
+Wisconsin,WI,Pierce,$3.699,2026-04-17
+Wisconsin,WI,Polk,$3.639,2026-04-17
+Wisconsin,WI,Portage,$3.688,2026-04-17
+Wisconsin,WI,Price,$3.629,2026-04-17
+Wisconsin,WI,Racine,$3.800,2026-04-17
+Wisconsin,WI,Richland,$3.809,2026-04-17
+Wisconsin,WI,Rock,$3.874,2026-04-17
+Wisconsin,WI,Rusk,$3.609,2026-04-17
+Wisconsin,WI,Sauk,$3.780,2026-04-17
+Wisconsin,WI,Sawyer,$3.769,2026-04-17
+Wisconsin,WI,Shawano,$3.696,2026-04-17
+Wisconsin,WI,Sheboygan,$3.701,2026-04-17
+Wisconsin,WI,Saint Croix,$3.646,2026-04-17
+Wisconsin,WI,Taylor,$3.510,2026-04-17
+Wisconsin,WI,Trempealeau,$3.572,2026-04-17
+Wisconsin,WI,Vernon,$3.685,2026-04-17
+Wisconsin,WI,Vilas,$3.781,2026-04-17
+Wisconsin,WI,Walworth,$3.818,2026-04-17
+Wisconsin,WI,Washburn,$3.699,2026-04-17
+Wisconsin,WI,Washington,$3.768,2026-04-17
+Wisconsin,WI,Waukesha,$3.727,2026-04-17
+Wisconsin,WI,Waupaca,$3.746,2026-04-17
+Wisconsin,WI,Waushara,$3.790,2026-04-17
+Wisconsin,WI,Winnebago,$3.745,2026-04-17
+Wisconsin,WI,Wood,$3.674,2026-04-17
+Wyoming,WY,Albany,$3.708,2026-04-17
+Wyoming,WY,Big Horn,$3.894,2026-04-17
+Wyoming,WY,Campbell,$3.797,2026-04-17
+Wyoming,WY,Carbon,$3.824,2026-04-17
+Wyoming,WY,Converse,$3.831,2026-04-17
+Wyoming,WY,Crook,$3.753,2026-04-17
+Wyoming,WY,Fremont,$3.963,2026-04-17
+Wyoming,WY,Goshen,$3.556,2026-04-17
+Wyoming,WY,Hot Springs,$3.992,2026-04-17
+Wyoming,WY,Johnson,$3.607,2026-04-17
+Wyoming,WY,Laramie,$3.748,2026-04-17
+Wyoming,WY,Lincoln,$4.206,2026-04-17
+Wyoming,WY,Natrona,$3.655,2026-04-17
+Wyoming,WY,Niobrara,$3.799,2026-04-17
+Wyoming,WY,Park,$3.972,2026-04-17
+Wyoming,WY,Platte,$4.148,2026-04-17
+Wyoming,WY,Sheridan,$4.027,2026-04-17
+Wyoming,WY,Sublette,$3.980,2026-04-17
+Wyoming,WY,Sweetwater,$3.802,2026-04-17
+Wyoming,WY,Teton,$4.371,2026-04-17
+Wyoming,WY,Uinta,$4.178,2026-04-17
+Wyoming,WY,Washakie,$3.837,2026-04-17
+Wyoming,WY,Weston,$3.755,2026-04-17
