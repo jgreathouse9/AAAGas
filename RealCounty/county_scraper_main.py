@@ -21,6 +21,8 @@ try:
 
     # Fetch gas price data
     df = process_gas_prices(get_state_abbreviations())
+    if df.empty:
+        raise RuntimeError("No gas price data was fetched for any state; not writing a CSV.")
     logging.info("Gas price data successfully fetched.")
 
     # Create directory if it doesn't exist
