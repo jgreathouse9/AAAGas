@@ -1,0 +1,30 @@
+name: Weekly mutation run
+
+# Plants each defect in tools/mutation/targets.toml and checks a test notices it. A diagnostic
+# to read, not a merge gate, so it runs weekly and on demand, never on pull requests.
+
+on:
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+
+jobs:
+  mutants:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: |
+        pip install requests pandas pytest hypothesis tomli
+
+    - name: Run the mutant catalogue
+      run: |
+        python tools/mutation/run_mutants.py

@@ -1,0 +1,153 @@
+# The mutant catalogue: specific defects someone could plausibly (re)introduce into the
+# county scraper, each planted at the one site where it would matter. run_mutants.py plants
+# them one at a time and checks that a test fails.
+#
+# A mutant belongs here when its `models` line can name the real mistake it stands for,
+# ideally one that has already happened. Generic operator swaps (`<` to `<=`, `+` to `-`)
+# do not belong: they say nothing about what would go wrong in the data.
+#
+# Every mutant is expected to be killed. A survivor is a question, not a verdict: the
+# assertion may be too weak, or the mutant may be equivalent to the original. Record the
+# answer either way. An accepted survivor gets `expected = "survived"` and an
+# `accepted-because` line, the way `# pragma: no cover` records an unreachable branch.
+
+[[target]]
+name = "countyutils"
+module-path = "RealCounty/countyutils.py"
+test-command = "python -m pytest tests/test_fetch.py tests/test_process_gas_prices.py tests/test_state_abbreviations.py -q -x -p no:cacheprovider"
+timeout = 300.0
+
+  [[target.mutant]]
+  id = "ignores-retry-after"
+  find = "wait = int(retry_after) if retry_after.isdigit() else backoff * 2 ** (attempt - 1)"
+  replace = "wait = backoff * 2 ** (attempt - 1)"
+  models = "AAA's Retry-After is ignored and the scraper retries on its own schedule, before the limiter has reset"
+
+  [[target.mutant]]
+  id = "backoff-does-not-grow"
+  find = "else backoff * 2 ** (attempt - 1)"
+  replace = "else backoff"
+  models = "a fixed retry interval that keeps hitting a limiter which needs longer and longer pauses"
+
+  [[target.mutant]]
+  id = "no-cap-on-waits"
+  find = """
+        wait = min(wait, max_wait)
+"""
+  replace = """
+"""
+  models = "an hour-long Retry-After honored on every retry, running the job past GitHub's 6-hour limit so no state is saved"
+
+  [[target.mutant]]
+  id = "retries-ip-blocks"
+  find = "RETRY_STATUSES = {429, 500, 502, 503, 504}"
+  replace = "RETRY_STATUSES = {403, 429, 500, 502, 503, 504}"
+  models = "a 403 IP block retried five times per state, as on 2026-10-13 when AAA refused every request, stretching a run that cannot get data"
+
+  [[target.mutant]]
+  id = "final-rate-limit-not-reported"
+  find = "if response.status_code not in RETRY_STATUSES or attempt == retries:"
+  replace = "if response.status_code not in RETRY_STATUSES:"
+  models = "after the last retry the 429 is not raised; fetch returns nothing and the scrape crashes far from the cause"
+
+  [[target.mutant]]
+  id = "no-request-timeout"
+  find = "session.get(url, params=params, timeout=30)"
+  replace = "session.get(url, params=params)"
+  models = "a request with no timeout, so one hung connection holds the job until GitHub kills it"
+
+  [[target.mutant]]
+  id = "no-pause-before-map-data"
+  find = """
+            # Pause between requests so AAA doesn't rate limit the run
+            time.sleep(delay)
+"""
+  replace = """
+"""
+  models = "a state's two requests go out back to back again, the burst pattern that got the scraper rate limited from May 2026"
+
+  [[target.mutant]]
+  id = "no-pause-between-states"
+  find = """
+                missing_states.append(state)
+            time.sleep(delay)
+"""
+  replace = """
+                missing_states.append(state)
+"""
+  models = "no pause between one state and the next, so the requests bunch up at state boundaries"
+
+  [[target.mutant]]
+  id = "skipped-states-not-reported"
+  find = """
+            if len(state_data) == rows_before:
+                missing_states.append(state)
+"""
+  replace = """
+"""
+  models = "the summary of states with no data disappears, so a partial scrape looks complete in the log; this is how the May-October 2026 outage went unnoticed"
+
+  [[target.mutant]]
+  id = "map-id-truncated"
+  find = "r'map_id=(\\d+)'"
+  replace = "r'map_id=(\\d)'"
+  models = "a two-digit map id is cut to its first digit, so a state is filled with another state's counties"
+
+  [[target.mutant]]
+  id = "price-read-from-the-wrong-field"
+  find = "'price': item.get('comment'),"
+  replace = "'price': item.get('name'),"
+  models = "AAA keeps the price in the map's 'comment' field; reading another field fills the price column with the wrong text"
+
+  [[target.mutant]]
+  id = "browser-headers-not-sent"
+  find = """
+    session.headers.update(headers)
+"""
+  replace = """
+"""
+  models = "requests go out with python-requests' own user agent, which bot filters block outright"
+
+  [[target.mutant]]
+  id = "na-names-read-as-missing"
+  find = "pd.read_csv(url, keep_default_na=False)"
+  replace = "pd.read_csv(url)"
+  models = "a state list entry spelled NA, NULL or None is read by pandas as a missing value"
+
+  [[target.mutant]]
+  id = "zero-retries-returns-nothing"
+  find = """
+    if retries < 1:
+        raise ValueError(f"retries must be at least 1, got {retries}")
+"""
+  replace = """
+"""
+  models = "fetch(retries=0) makes no request and returns None, so the caller fails far from the cause"
+
+[[target]]
+name = "county-scraper-main"
+module-path = "RealCounty/county_scraper_main.py"
+test-command = "python -m pytest tests/test_county_scraper_main.py -q -x -p no:cacheprovider"
+timeout = 120.0
+
+  [[target.mutant]]
+  id = "writes-an-empty-csv"
+  find = """
+    if df.empty:
+        raise RuntimeError("No gas price data was fetched for any state; not writing a CSV.")
+"""
+  replace = """
+"""
+  models = "an empty CSV is committed as the day's data, as happened on 2026-10-13"
+
+  [[target.mutant]]
+  id = "one-file-for-every-day"
+  find = 'filename = f"{directory}/CountyGas{today}.csv"'
+  replace = 'filename = f"{directory}/CountyGas.csv"'
+  models = "each day's scrape overwrites the previous one, so the archive keeps a single day"
+
+  [[target.mutant]]
+  id = "index-column-written"
+  find = "df.to_csv(filename, index=False)"
+  replace = "df.to_csv(filename)"
+  models = "every file gains an unnamed index column, which breaks anyone reading the archive by column position"
