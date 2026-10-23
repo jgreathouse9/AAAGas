@@ -34,6 +34,8 @@ jobs:
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add Prices/MasterGas.csv  # Only commit the master file
         git commit -m "Update MasterGas.csv with data for $(date +'%Y-%m-%d')"
+        # Other scrapers push to main too; pick up anything they pushed while this job was queued
+        git pull --rebase --autostash origin main
         git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

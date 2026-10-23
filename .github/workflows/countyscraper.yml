@@ -46,5 +46,8 @@ jobs:
         # Commit the changes
         git commit -m "Update gas prices data" || echo "No changes to commit"
 
+        # Other scrapers push to main too; if one did while this job was queued, a plain push is rejected
+        git pull --rebase --autostash
+
         # Push the changes to the repository
         git push
