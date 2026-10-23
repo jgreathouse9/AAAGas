@@ -1,0 +1,33 @@
+name: Tests
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+    paths:
+      - "RealCounty/*.py"
+      - "tests/**"
+      - ".github/workflows/tests.yml"
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v5  # Same version the scrapers run on
+      with:
+        python-version: 3.9
+
+    - name: Install dependencies
+      run: |
+        pip install requests pandas pytest
+
+    - name: Run unit tests
+      run: |
+        pytest -q
