@@ -8,6 +8,7 @@ on:
     paths:
       - "RealCounty/*.py"
       - "tests/**"
+      - "tools/mutation/**"
       - ".github/workflows/tests.yml"
   workflow_dispatch:
 
@@ -26,8 +27,10 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests pandas pytest
+        pip install requests pandas pytest pytest-cov hypothesis tomli
 
-    - name: Run unit tests
+    - name: Run unit tests with full coverage of the county scraper
+      env:
+        AAAGAS_HYPOTHESIS_PROFILE: ci
       run: |
-        pytest -q
+        pytest -q --cov=RealCounty --cov-branch --cov-report=term-missing --cov-fail-under=100
