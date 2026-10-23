@@ -1,3 +1,5 @@
 __pycache__/
 gas_prices.log
 .pytest_cache/
+.hypothesis/
+.coverage

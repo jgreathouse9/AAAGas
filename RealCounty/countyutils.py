@@ -23,21 +23,26 @@ RETRY_STATUSES = {429, 500, 502, 503, 504}
 def get_state_abbreviations(
         url="https://raw.githubusercontent.com/jasonong/List-of-US-States/refs/heads/master/states.csv"):
     logging.info("Fetching state abbreviations.")
-    states_df = pd.read_csv(url)
+    # keep_default_na=False: otherwise a name like "NA" or "NULL" is read as a missing value
+    states_df = pd.read_csv(url, keep_default_na=False)
     logging.info("State abbreviations successfully fetched.")
     return dict(zip(states_df['State'], states_df['Abbreviation']))
 
 # GET a URL, waiting and retrying when the server says to slow down
-def fetch(session, url, params=None, retries=5, backoff=10):
-    for attempt in range(1, retries + 1):
+def fetch(session, url, params=None, retries=5, backoff=10, max_wait=60):
+    if retries < 1:
+        raise ValueError(f"retries must be at least 1, got {retries}")
+    for attempt in range(1, retries + 1):  # pragma: no branch - the last attempt always returns or raises
         response = session.get(url, params=params, timeout=30)
         if response.status_code not in RETRY_STATUSES or attempt == retries:
             response.raise_for_status()
             return response
 
-        # Honor Retry-After when given in seconds, otherwise back off exponentially
+        # Honor Retry-After when given in seconds, otherwise back off exponentially. Each wait is
+        # capped so a long Retry-After can't push the run past GitHub's 6-hour job limit.
         retry_after = response.headers.get('Retry-After', '')
         wait = int(retry_after) if retry_after.isdigit() else backoff * 2 ** (attempt - 1)
+        wait = min(wait, max_wait)
         logging.warning(f"{response.status_code} for {response.url}; retrying in {wait}s (attempt {attempt}/{retries}).")
         time.sleep(wait)
 
